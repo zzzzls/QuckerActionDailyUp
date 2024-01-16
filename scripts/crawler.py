@@ -1,8 +1,10 @@
 import csv
+import gzip
 import httpx
 from lxml import etree
 from loguru import logger
 from datetime import datetime, timedelta
+
 
 logger.add("../data/log/quicker.log", rotation="10 MB", compression='tar.gz')
 
@@ -16,14 +18,23 @@ class QuickerAction:
         self.yesterday = (datetime.now()-timedelta(days=1)).strftime("%Y-%m-%d")
         self.csv_header = ['动作名', '动作URL', '动作简介', '适用于', '作者', '作者URL', '动作大小', '创建时间', '修订版本', '更新内容', 'inputtime']
     
+    @staticmethod
+    def gzencode(data):
+        if type(data) == str:
+            data = bytes(data, 'utf8') 
+        s_out = gzip.compress(data)
+        return s_out
+
     def _fetch(self):
         for _ in range(3):
             try:
                 resp = self.client.get("https://getquicker.net/Share/Recent")
                 assert resp.status_code == 200
-                return resp.content.decode("utf-8")
-            except:
+                return resp.content
+            except Exception as e:
+                print(e)
                 continue
+        raise ValueError("fetch url err")
     
     def _extract(self, response):
         response = etree.HTML(response)
@@ -55,11 +66,12 @@ class QuickerAction:
 
     def run_task(self):
         try:
-            response = self._fetch()              
-            with open(f"../data/html/quicker_actions_{self.yesterday}.html", 'w', encoding='utf-8') as f:
-                f.write(response)
+            response = self._fetch()  
+            print(response[:100])            
+            with open(f"../data/html/quicker_actions_{self.yesterday}.html.gz", 'wb') as f:
+                f.write(self.gzencode(response))
                                            
-            ret = self._extract(response)
+            ret = self._extract(response.decode("utf-8"))
             with open(f"../data/csv/quicker_actions_{self.yesterday}.csv", "w", encoding="utf-8", newline="") as f:
                 csv_writer = csv.DictWriter(f, fieldnames=self.csv_header)
                 csv_writer.writeheader()
