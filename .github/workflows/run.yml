@@ -25,4 +25,4 @@ jobs:
       uses: EndBug/add-and-commit@v9
       with:
         default_author: github_actions
-        message: "$(tail -n 1 data/log/quicker.log | cut -d ' ' -f 12-)"
+        message: ${{ tail -n 1 data/log/quicker.log | cut -d ' ' -f 12- }}
