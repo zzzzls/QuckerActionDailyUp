@@ -25,7 +25,7 @@ jobs:
       id: commit-msg
       run: |
         result=$(tail -n 1 data/log/quicker.log | cut -d ' ' -f 12-)
-        echo "::set-output name=message::$result"
+        echo "message=$result" >> $GITHUB_OUTPUT
 
     - name: Commit changes
       uses: EndBug/add-and-commit@v9
