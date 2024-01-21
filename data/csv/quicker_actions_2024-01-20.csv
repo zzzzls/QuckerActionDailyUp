@@ -1,15 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,85.6 KB,2023-12-16 20:13,23,"~ 紧急修复for循环导致无法流式输出的bug
 + 在输入框支持自定义高度（输入框上方可以拖动）",2024-01-21
-AI 170脚本插件合集,https://getquicker.net/Sharedaction?code=4da77492-d495-4598-48a8-08dae169cea9,支持CS5-CC2024,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,13.6 KB,2022-12-19 20:01,10,修改启动方式,2024-01-21
-AI脚本插件合集3.0,https://getquicker.net/Sharedaction?code=1d651fe6-92bd-42f8-48a7-08dae169cea9,支持CS6 CC2020,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,5.5 KB,2022-12-19 19:50,5,修改启动方式,2024-01-21
-随机填充图案,https://getquicker.net/Sharedaction?code=7bcb3133-68c2-4f6e-0de7-08db9d470fb9,fillinger,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,62.8 KB,2023-08-16 14:45,2,修改启动方式,2024-01-21
-填充圆,https://getquicker.net/Sharedaction?code=8dfc4895-fdf3-4f7a-7541-08da953e0cb1,在形状中填充圆形,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,64.1 KB,2022-09-13 19:31,4,更新启动方式,2024-01-21
-选择的组分别保存到桌面,https://getquicker.net/Sharedaction?code=ecca6bf7-4594-4f31-057e-08dc0558572f,"选择的组分别保存到桌面,超过5个文件自动提示是否继续,防止没群组",Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,9.1 KB,2023-12-26 18:52,9,修改启动方式,2024-01-21
-选择导出JPG&PDF,https://getquicker.net/Sharedaction?code=56f412d0-4ad5-48f2-e643-08dc141284c3,AI选择的图案导出JPG&PDF,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,26.6 KB,2024-01-13 16:34,6,修改启动方式,2024-01-21
-AI转PSD,https://getquicker.net/Sharedaction?code=ef080846-46e3-4d88-100b-08dc0460f3d4,Ai2Psd4.0汉化版，转PS后仍然为形状,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,67.9 KB,2023-12-25 12:11,1,修改启动方式,2024-01-21
-选择的对象创建新文件并打开,https://getquicker.net/Sharedaction?code=8bec798e-ea95-4149-b5c8-08dc06761152,选择的对象创建新文件（会保存自动到桌面）,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,6.4 KB,2023-12-27 19:27,6,修改启动方式,2024-01-21
-保存选择的区域为到桌面,https://getquicker.net/Sharedaction?code=1619d992-62af-459d-1027-08dc0460f3d4,保存选择的区域为到桌面，AI格式,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,14.3 KB,2023-12-25 20:25,14,修改启动方式,2024-01-21
 统一图片大小,https://getquicker.net/Sharedaction?code=e7d30987-39a9-4d70-dcae-08dbd4c004af,将选中范围内的图片，参考第一张图片统一大小,Microsoft Word,CL,https://getquicker.net/User/3/CL,5.9 KB,2023-10-25 16:10,1,支持PowerPoint,2024-01-21
 OpenL,https://getquicker.net/Sharedaction?code=df2721b8-a300-4ce0-7a09-08d911cd3977,翻译首选 & 聚合翻译,通用,Poto,https://getquicker.net/User/137838/Poto,164.1 KB,2021-05-09 03:28,72,优化输入框翻译,2024-01-21
 DeepL,https://getquicker.net/Sharedaction?code=1c392b42-ca4c-433a-8110-08d913b316dd,Quicker 最好用的 DeepL 动作,通用,Poto,https://getquicker.net/User/137838/Poto,130.4 KB,2021-05-11 14:55,87,优化输入框翻译,2024-01-21
