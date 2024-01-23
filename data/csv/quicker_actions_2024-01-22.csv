@@ -1,5 +1,4 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-表格导出图片,https://getquicker.net/Sharedaction?code=2c1ce856-aa0d-4d09-feeb-08dc1ae7b49f,从EXCEL、WPS表格中导出图片，需要用到VBA模块,WPS Spreadsheets,薄酒不堪饮,https://getquicker.net/User/703081/%E8%96%84%E9%85%92%E4%B8%8D%E5%A0%AA%E9%A5%AE,6.2 KB,2024-01-22 22:58,0,,2024-01-23
 自动概念链接,https://getquicker.net/Sharedaction?code=2c5eb3dd-7695-497f-cdfa-08dc19b6971f,根据Concept.txt匹配概念后自动链接，可将链接好的概念高亮,sm19,研究sm19中,https://getquicker.net/User/680860/%E7%A0%94%E7%A9%B6sm19%E4%B8%AD,72.8 KB,2024-01-21 23:12,2,修复概念高亮引用,2024-01-23
 规范打开,https://getquicker.net/Sharedaction?code=ae3d5cf1-57be-4704-4e16-08dc0e606679,对选中的文件：1.备份，2.规范命名，3.打开,Windows 资源管理器,iDenny,https://getquicker.net/User/459511/iDenny,103 KB,2024-01-06 19:17,2,增加原文件名的标签不在标签库时的处理,2024-01-23
 搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,386.3 KB,2023-10-22 15:24,172,"选中为网址时,支持选择Edge或者谷歌打开",2024-01-23
@@ -56,9 +55,8 @@ mvn仓库搜索,https://getquicker.net/Sharedaction?code=21874b8f-6f49-4db6-fed7
 - 修复：部分分组方式无法组内排序的问题
 - 新增：按钮右键菜单「排序」
 - 其他：按钮菜单增加分隔线",2024-01-23
-翻译,https://getquicker.net/Sharedaction?code=f7e169aa-e700-4dbb-fed1-08dc1ae7b49f,配合沙拉查词翻译,通用,Biuli,https://getquicker.net/User/231176/Biuli,8.8 KB,2024-01-22 11:20,0,,2024-01-23
+翻译,https://getquicker.net/Sharedaction?code=f7e169aa-e700-4dbb-fed1-08dc1ae7b49f,配合沙拉查词悬浮该按钮，实现PDF或者任意可复制文字的翻译,通用,Biuli,https://getquicker.net/User/231176/Biuli,8.8 KB,2024-01-22 11:20,0,,2024-01-23
 你以为我没锁屏,https://getquicker.net/Sharedaction?code=ac109da2-27b7-4cbe-7ea7-08d967d489d7,简化锁屏和解锁方式。如果别人乱动我鼠标或键盘就锁屏。如果没人乱动就能一键解锁。,通用,EC10010,https://getquicker.net/User/2997/EC10010,154.9 KB,2021-08-26 20:29,22,被触发锁屏后的提示方式改为在屏幕顶部显示消息。,2024-01-23
-实时收发微信消息，防撤回,https://getquicker.net/Sharedaction?code=c27f81f3-7ed5-47a5-535d-08dc15e737a9,wxwxwx,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,10.3 KB,2024-01-16 12:56,3,  ,2024-01-23
 图层置顶,https://getquicker.net/Sharedaction?code=531c1bf9-7088-4ef7-fecb-08dc1ae7b49f,将所选内容置于最顶层,WPS Presentation,用户JuS9JgZUAwA,https://getquicker.net/User/720207/%E7%94%A8%E6%88%B7JuS9JgZUAwA,32 B,2024-01-22 09:28,0,,2024-01-23
 图层置底,https://getquicker.net/Sharedaction?code=5387e3ff-bfea-495b-feca-08dc1ae7b49f,将所选内容置于最底层,WPS Presentation,用户JuS9JgZUAwA,https://getquicker.net/User/720207/%E7%94%A8%E6%88%B7JuS9JgZUAwA,31 B,2024-01-22 09:28,0,,2024-01-23
 纵向分布,https://getquicker.net/Sharedaction?code=59812cfd-3120-4d4d-fec6-08dc1ae7b49f,纵向分布,WPS Presentation,用户JuS9JgZUAwA,https://getquicker.net/User/720207/%E7%94%A8%E6%88%B7JuS9JgZUAwA,35 B,2024-01-22 09:19,0,,2024-01-23
