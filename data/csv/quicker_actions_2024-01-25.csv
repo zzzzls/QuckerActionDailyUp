@@ -1,0 +1,22 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+文件夹标记备注,https://getquicker.net/Sharedaction?code=e8567089-db7b-463c-db38-08dc1d7b23f0,对文件夹标记栏和备注栏进行定义，默认每栏可定义四项,Windows 资源管理器,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,192.4 KB,2024-01-25 22:16,0,,2024-01-26
+窗口神器,https://getquicker.net/Sharedaction?code=d0ef47fd-be70-4b19-3f87-08dbc2d4852c,也许是最好用的窗口调节神器,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,260.3 KB,2023-10-02 23:09,44,"新增外部命令
+如果$={quicker_in_param}==""ZSF""(左三分之一)
+如果$={quicker_in_param}==""ZSFE""(左三分之二)
+如果$={quicker_in_param}==""YSF""(右三分之一)
+如果$={quicker_in_param}==""YSFE""(右三分之二)",2024-01-26
+Zotero批注,https://getquicker.net/Sharedaction?code=f1cc5785-c68f-4bee-4729-08da2019a39f,支持Word、Onenote、SiYuan等多种笔记软件,Microsoft OneNote,ttChen,https://getquicker.net/User/395924/ttChen,16.3 KB,2022-04-18 12:40,18,"1. 自动识别Zotero版本，不同zotero版本获取批注方式不同；
+2. 兼容在Zotero 7",2024-01-26
+预估销量,https://getquicker.net/Sharedaction?code=bb1b6290-510a-4307-ebd6-08dc1c8bc2af,亚马逊 - 卖家精灵的销量预估,通用,公众号-酷玩安卓,https://getquicker.net/User/81137/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%85%B7%E7%8E%A9%E5%AE%89%E5%8D%93,70.6 KB,2024-01-24 17:31,2,"通过动作分享页面进行授权
+每20次运行授权1次",2024-01-26
+实践157：遍历有深度的文件夹中的每一层,https://getquicker.net/Sharedaction?code=52fe2092-06c9-44ec-db2c-08dc1d7b23f0, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,7.4 KB,2024-01-25 17:12,0,,2024-01-26
+超级操作窗,https://getquicker.net/Sharedaction?code=1671d505-abeb-45df-a274-08dc0740f11f,【打造属于自己的万能工具箱】网址/搜索/程序/文件(夹)/动作/命令/VBA宏/脚本/键鼠操作/文本替换/常用语/颜色收藏……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,359.9 KB,2023-12-29 09:54,13,"v2.1.1 (2024-01-25)
+- 【优化】搜索按钮适配部分特殊网站
+- 【其他】回改命令按钮的实现方式",2024-01-26
+搜索,https://getquicker.net/Sharedaction?code=7ec95694-29e4-4739-8355-08d94406436b,简单好用的搜索引擎聚合,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,154 KB,2021-07-12 02:31,12,"【优化】适配淘宝天猫站内搜索
+【其他】更新搜索引擎参考",2024-01-26
+PS另存为,https://getquicker.net/Sharedaction?code=0fac595c-f12c-46b7-72d7-08d9aa624e96,Photoshop另存为JPG/PNG/PSD/TIF/TGA等，兼容多版本保存,Adobe Photoshop,ZTOA10,https://getquicker.net/User/234516/ZTOA10,38.9 KB,2021-11-18 18:11,7,新增tga格式,2024-01-26
+PSCoke,https://getquicker.net/Sharedaction?code=333365f5-7d51-407d-f36d-08dbdac4c3da,多平台图片导入PS,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,113.3 KB,2023-11-02 12:40,27,2024年1月25日11:16:09,2024-01-26
+网易云听歌打卡,https://getquicker.net/Sharedaction?code=e78425cd-458f-4d6e-ebbb-08dc1c8bc2af,网易云听歌打卡任务，自动完成听歌300首任务，自动完成手机签到，云贝签到，音乐人签到，自动完成云贝任务，音乐人任务(需要有音乐人身份),通用,huanggc66,https://getquicker.net/User/9010/huanggc66,32.6 KB,2024-01-24 12:25,1,网易云听歌打卡任务，自动完成听歌300首任务，自动完成手机签到，云贝签到，音乐人签到，自动完成云贝任务，音乐人任务(需要有音乐人身份),2024-01-26
+右键菜单CMD,https://getquicker.net/Sharedaction?code=32e67388-bb5a-41b7-ebd5-08dc1c8bc2af,为右键菜单添加一个在此处打开CMD窗口的选项,通用,公众号-酷玩安卓,https://getquicker.net/User/81137/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%85%B7%E7%8E%A9%E5%AE%89%E5%8D%93,8.2 KB,2024-01-24 17:18,1,新增2种方式,2024-01-26
+键盘模拟鼠标中键长按,https://getquicker.net/Sharedaction?code=99d399ea-2e1a-47df-ebe6-08dc1c8bc2af,此功能利用键盘按键代替鼠标中键长按,通用,扎了个心,https://getquicker.net/User/500456/%E6%89%8E%E4%BA%86%E4%B8%AA%E5%BF%83,1.4 KB,2024-01-25 03:54,0,,2024-01-26
