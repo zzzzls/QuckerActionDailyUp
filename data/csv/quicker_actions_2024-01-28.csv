@@ -1,0 +1,11 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+老旧的诗琴[须弥自动弹琴],https://getquicker.net/Sharedaction?code=2c170ac1-9eda-4ee5-1e08-08dba1189b3c,原神须弥自动弹琴，可以绑定快捷键使用[我是Alt + E]。,yuanshen.exe,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,20 KB,2023-08-21 09:52,3,"+ 新增“苏生的曲调”（终于让我碰到了）
++ 新增重设识别区域（原本只针对1920x1080的全屏识别固定区域，现在可以自己设定自动识别的区域了）",2024-01-29
+仿CapsLockPlus-master,https://getquicker.net/Sharedaction?code=43bc5a0c-0899-49db-8f5d-08db4e50cd96,"需要与quicker的""热键扩展""功能搭配使用",通用,Cold_Air,https://getquicker.net/User/577696/Cold_Air,197.9 KB,2023-05-07 22:06,5,"·增加动作节流(防止某些动作短时间内多次触发)
+·优化窗口激活逻辑",2024-01-29
+鱼鱼得库,https://getquicker.net/Sharedaction?code=5db05eaf-10ca-44c7-7e70-08dc1f70b83a,充满智慧的鱼鱼の库,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,50 KB,2024-01-28 17:16,2,2024年1月28日17:56:58,2024-01-29
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,323 KB,2023-12-05 00:57,26,~修复终止键为空时，提示键值为空的报错问题。,2024-01-29
+超级操作窗,https://getquicker.net/Sharedaction?code=1671d505-abeb-45df-a274-08dc0740f11f,【打造属于自己的万能工具箱】网址/搜索/程序/文件(夹)/动作/命令/VBA宏/脚本/键鼠操作/文本替换/常用语/颜色收藏……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,363.7 KB,2023-12-29 09:54,14,"v2.1.2 (2024-01-28)
+- 【优化】命令按钮支持隐藏窗口",2024-01-29
+文件蜈蚣激活,https://getquicker.net/Sharedaction?code=b317aae3-04f0-454e-dddc-08da996e4bc6,文件蜈蚣免费激活码快速获取,fileu.exe,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,19.8 KB,2022-09-19 11:11,10,降低获取激活码频率，优化网络不佳的激活速度。,2024-01-29
+替换文字,https://getquicker.net/Sharedaction?code=7b29eea5-2914-4826-3113-08dc1e816747,快捷替换文字,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,55 KB,2024-01-27 22:45,1,修复bug,2024-01-29
