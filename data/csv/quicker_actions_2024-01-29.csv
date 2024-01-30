@@ -1,0 +1,26 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+思源超链接正则替换,https://getquicker.net/Sharedaction?code=ca509dc0-9e9f-4a3e-5d99-08dc207356cf,1,SiYuan,102420Dinner,https://getquicker.net/User/919759/102420Dinner,4.5 KB,2024-01-29 22:58,0,,2024-01-30
+数字小键盘,https://getquicker.net/Sharedaction?code=892dc0c8-366a-4e27-9f17-08d9a0cf68e4,不想用键盘的时候用,通用,CL,https://getquicker.net/User/3/CL,8.1 KB,2021-11-06 11:58,3,增加.符号,2024-01-30
+仿CapsLockPlus-master,https://getquicker.net/Sharedaction?code=43bc5a0c-0899-49db-8f5d-08db4e50cd96,"需要与quicker的""热键扩展""功能搭配使用",通用,Cold_Air,https://getquicker.net/User/577696/Cold_Air,226.5 KB,2023-05-07 22:06,7,bug修复,2024-01-30
+渐变蒙版,https://getquicker.net/Sharedaction?code=3c1d4691-a376-40f6-5d95-08dc207356cf,选中形状，启动动作；线性渐变，角度90度，第一个渐变光圈主题色，透明度0%，第二个渐变光圈同样的主题色，透明度100%。,Microsoft PowerPoint,拉布拉多警长,https://getquicker.net/User/973373/%E6%8B%89%E5%B8%83%E6%8B%89%E5%A4%9A%E8%AD%A6%E9%95%BF,10.9 KB,2024-01-29 19:31,0,,2024-01-30
+扫端口杀进程,https://getquicker.net/Sharedaction?code=90a74cb9-f609-4d69-5d8b-08dc207356cf,扫描本机开放的端口，列出相关进程信息，并可以选择结束进程,通用,jsir.hsu,https://getquicker.net/User/998028/jsir.hsu,22.9 KB,2024-01-29 15:08,3,修复生成多个临时文件的bug,2024-01-30
+label manager,https://getquicker.net/Sharedaction?code=152c97b6-a822-4f75-cd46-08dbf3670a31,快来给你的文件贴标签吧！,Directory Opus,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,32.8 KB,2023-12-03 09:45,2,"1、增加获取label时的可靠性
+2、传入的动作参数包含未定义的label时，将这些label写入colorgroups.oxc文件，do重启可识别到新增label。",2024-01-30
+桌面便签,https://getquicker.net/Sharedaction?code=8235d8c9-7eee-46b4-5d8f-08dc207356cf,可在动作右键菜单中把常用功能加入桌面鼠标右键,通用,kioor,https://getquicker.net/User/585180/kioor,122.9 KB,2024-01-29 16:18,5,做了一些显示上的优化,2024-01-30
+收藏窗口路径,https://getquicker.net/Sharedaction?code=b230a87d-4034-4462-a599-08dbd1e78f40,收藏你想点击打开的路径.文件夹，网页，exe文件都可以,通用,y_n,https://getquicker.net/User/333799/y_n,215.8 KB,2023-10-21 16:00,45,1：修复bug“批量编辑”无法更改网络图标信息,2024-01-30
+DNS和HOST切换,https://getquicker.net/Sharedaction?code=f45dc8e7-7c1d-4655-5633-08d9eec3922c,修改当前网络的DNS,通用,公众号-酷玩安卓,https://getquicker.net/User/81137/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%85%B7%E7%8E%A9%E5%AE%89%E5%8D%93,41.5 KB,2022-02-14 16:44,7,添加步骤注释,2024-01-30
+表格识别,https://getquicker.net/Sharedaction?code=7e5ec32a-301a-48df-5460-08dba3efc2bb,"选中图片文件运行识别表格,未选中这用户截图",通用,公众号-酷玩安卓,https://getquicker.net/User/81137/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%85%B7%E7%8E%A9%E5%AE%89%E5%8D%93,11.6 KB,2023-08-24 15:07,2,增加提醒,2024-01-30
+常用语（新版）,https://getquicker.net/Sharedaction?code=1a8e7553-76e9-4527-66d7-08dbaa91cef1,快捷短语的极致操作，兼容原版数据。,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,354.9 KB,2023-09-02 08:18,12,"v1.4.1(2024-01-29)
+- 新增：窗口右键菜单「帮助文档」",2024-01-30
+文字钉,https://getquicker.net/Sharedaction?code=156fa292-3ae1-43f6-ec1e-08db89846054,选中文本或者获取剪贴板，钉在屏幕上。,通用,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,5 KB,2023-07-21 16:54,1,改成，可以钉 多个窗口，,2024-01-30
+表格行删除,https://getquicker.net/Sharedaction?code=2ea2a6d3-81d6-4661-5d87-08dc207356cf,表格行删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,12.8 KB,2024-01-29 12:47,0,,2024-01-30
+规范文件名,https://getquicker.net/Sharedaction?code=75b39075-9410-4e4e-019d-08dbe4ac96d7,批量将文件名中的指定的名称添加到文件名的前、中、后，使其统一美观，查找方便。,Windows 资源管理器,沧海叫一声,https://getquicker.net/User/741988/%E6%B2%A7%E6%B5%B7%E5%8F%AB%E4%B8%80%E5%A3%B0,18.8 KB,2023-11-14 09:46,8,修改了2处文字表述。,2024-01-30
+鱼鱼得库,https://getquicker.net/Sharedaction?code=5db05eaf-10ca-44c7-7e70-08dc1f70b83a,充满智慧的鱼鱼の库,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,50 KB,2024-01-28 17:16,5,2024年1月29日10:48:09,2024-01-30
+图片翻译保格式,https://getquicker.net/Sharedaction?code=99b614ab-d8dd-407e-c3cb-08daf510bd0c,"翻译图片并且保留原图格式, 支持自定义显示图片+文本, 仅支持中英互译",通用,公众号-酷玩安卓,https://getquicker.net/User/81137/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%85%B7%E7%8E%A9%E5%AE%89%E5%8D%93,44.4 KB,2023-01-14 10:03,14,小修一下,2024-01-30
+实用分享,https://getquicker.net/Sharedaction?code=a18e156e-043d-41ad-1f95-08daed7bfc56,分享一些觉得好用的软件与技巧,通用,KBC,https://getquicker.net/User/5221/KBC,7.9 KB,2023-01-04 13:51,18,"24年更新：
+1、更换手机号的福音，REG007用来你查询手机或邮箱所注册的网站",2024-01-30
+公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.3 MB,2022-12-06 16:37,203,"1.""实验室""增加""插入版记""(兼容WORD/WPS)
+2.修改公函页面设置
+3.改进""填写表格记录""删除多余行方法，修正BUG
+4.修订其他细节",2024-01-30
+复制文件名,https://getquicker.net/Sharedaction?code=3a5405f8-43d0-43a7-9943-08dba5d3aaf5,批量获取文件的名字+文件路径,Windows 资源管理器,HAFEN,https://getquicker.net/User/72505/HAFEN,14.3 KB,2023-08-27 11:01,5,更新徽标提示：提示当前工作模式,2024-01-30
