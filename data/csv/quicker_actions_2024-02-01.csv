@@ -1,13 +1,26 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+查看浏览器密码,https://getquicker.net/Sharedaction?code=8d1c1b40-48e8-4ba0-3114-08dc1e816747,支持Edge、Chrome浏览器,Google Chrome,Runos,https://getquicker.net/User/250742/Runos,5.8 KB,2024-01-27 22:47,1,更换图标,2024-02-02
+扇贝背词小督工,https://getquicker.net/Sharedaction?code=6d650970-3cbf-4224-9f40-08dc2158e5b3,用户仅需输入释义即可自动点击扇贝背单词,雷电模拟器,OriginBo,https://getquicker.net/User/373587/OriginBo,67.7 KB,2024-01-31 13:59,1,"增加了adj和adv的检测
+增加了动作参数，方便快速背词
+增大间隔时间，防止ocr出错",2024-02-02
+星火翻译接口,https://getquicker.net/Sharedaction?code=e4b8fd0c-eb2c-482b-3b77-08dba051db5b,使用开放接口使用讯飞星火大模型3.0,通用,chj888123,https://getquicker.net/User/538858/chj888123,61.4 KB,2023-08-19 13:09,9,修复错误,2024-02-02
 图表助手,https://getquicker.net/Sharedaction?code=a10bd04f-2ea7-4ed0-e54c-08dbbca28132,使用VBA处理WORD文档表格中的图片,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,306.1 KB,2023-09-24 10:07,29,"1.增加""统一图片样式""
 2.增加嵌入型和非嵌入型图片互转
 3.恢复选中所有嵌入式图片和非嵌入式图片
 4.改进程序结构",2024-02-02
 中文数字转换,https://getquicker.net/Sharedaction?code=d230b3ec-22ea-45f3-3f1f-08db997d30d2,一个更强大、更准确的中文数字转换工具,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,15.3 KB,2023-08-11 07:48,3,"- 数字0转换为“零元整”
 - 修改预置正则列表",2024-02-02
+欧路查词+截图OCR,https://getquicker.net/Sharedaction?code=7b268114-5c92-4f39-de80-08dc223fd30b,未选择文字则使用OCR获取，然后直接调用程序，不经listary更快,通用,流风回萤,https://getquicker.net/User/388757/%E6%B5%81%E9%A3%8E%E5%9B%9E%E8%90%A4,10.7 KB,2024-02-01 17:49,0,,2024-02-02
+一键蒙版20%,https://getquicker.net/Sharedaction?code=c6ba21c1-b47b-4996-de76-08dc223fd30b,选中形状后执行该动作,Microsoft PowerPoint,微尘PPT,https://getquicker.net/User/695883/%E5%BE%AE%E5%B0%98PPT,3.8 KB,2024-02-01 15:41,0,,2024-02-02
+批量mapgis转dxf,https://getquicker.net/Sharedaction?code=3d458e6f-e6be-423e-de74-08dc223fd30b,将选中文件夹的mapgis利用section批量转换为dxf文件,通用,vicwjb,https://getquicker.net/User/822650/vicwjb,5.7 KB,2024-02-01 15:31,0,,2024-02-02
+调整图片透明度,https://getquicker.net/Sharedaction?code=b0e37feb-f83c-46a4-de73-08dc223fd30b,调整图片都名都,Microsoft PowerPoint,微尘PPT,https://getquicker.net/User/695883/%E5%BE%AE%E5%B0%98PPT,2 KB,2024-02-01 15:26,0,,2024-02-02
+创建文件,https://getquicker.net/Sharedaction?code=db16da17-3490-4e7c-de61-08dc223fd30b,快速创建文件到桌面并打开文件,通用,wyzzx,https://getquicker.net/User/882008/wyzzx,1.3 KB,2024-02-01 11:34,1,增加打开文件,2024-02-02
+三线表,https://getquicker.net/Sharedaction?code=59d9a19e-3e05-44b2-de6d-08dc223fd30b,将表格调整为三线表,Microsoft PowerPoint,微尘PPT,https://getquicker.net/User/695883/%E5%BE%AE%E5%B0%98PPT,6.9 KB,2024-02-01 14:43,1,增加了稳定性,2024-02-02
+ChatGLM翻译接口,https://getquicker.net/Sharedaction?code=d2b81a7f-c61f-4424-3b78-08dba051db5b,调用ChatGLM在动作Translator中进行翻译,通用,chj888123,https://getquicker.net/User/538858/chj888123,57.9 KB,2023-08-19 13:09,7,默认模型glm-4,2024-02-02
 超级操作窗,https://getquicker.net/Sharedaction?code=1671d505-abeb-45df-a274-08dc0740f11f,【打造属于自己的万能工具箱】网址/搜索/程序/文件(夹)/动作/命令/VBA宏/脚本/键鼠操作/文本替换/常用语/颜色收藏……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,371 KB,2023-12-29 09:54,15,"v2.2.0 (2024-02-01)
 - 【功能】新增按钮类型「执行PowerShell脚本」
 - 【其他】新增窗口右键菜单「帮助文档」",2024-02-02
+实时收发微信消息，防撤回,https://getquicker.net/Sharedaction?code=c27f81f3-7ed5-47a5-535d-08dc15e737a9,wxwxwx,WeChat,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,16.3 KB,2024-01-16 12:56,7,链接: https://pan.baidu.com/s/19UbdE9ej9_Luu8ooxcsjmw 提取码: fxma 复制这段内容后打开百度网盘手机App，操作更方便哦,2024-02-02
 示例：状态操作/切换执行,https://getquicker.net/Sharedaction?code=80dae94c-de3c-4a50-dbe6-08d7053e26bb,首次输入两个软件的路径或命令，然后每次会执行其中一个，下次执行另一个,通用,CL,https://getquicker.net/User/3/CL,3.1 KB,2019-07-10 21:54,2,增加重置计数菜单,2024-02-02
+亮仔截图朗读,https://getquicker.net/Sharedaction?code=379904ef-cd39-45c3-de4c-08dc223fd30b,调用Win自带的离线语音包朗读，不好听，但效率高；可以在任意场景下截图听，比较方便。,通用,无敌亮仔,https://getquicker.net/User/645283/%E6%97%A0%E6%95%8C%E4%BA%AE%E4%BB%94,12.9 KB,2024-01-31 18:15,1,1.1 解决了多段文字朗读报错的问题。,2024-02-02
 B站稍后再看筛选,https://getquicker.net/Sharedaction?code=7b03880a-7bdb-4f8f-de5b-08dc223fd30b,在稍后再看中，只保留已观看的视频,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,3.5 KB,2024-02-01 02:55,0,,2024-02-02
-添加到滴答清单,https://getquicker.net/Sharedaction?code=f49f5b02-1595-466b-de5a-08dc223fd30b,不需要启动客户端，通过邮件在后台添加任务。,通用,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,15.2 KB,2024-02-01 02:05,0,,2024-02-02
