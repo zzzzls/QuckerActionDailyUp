@@ -1,0 +1,12 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,100.2 KB,2023-12-16 20:13,33,"~ 修复【重新生成】时不会自动移除相同信息的bug
+~ 当代码块被标记为QuickerExpression（qk表达式）时，显示【将表达式转为“赋值”模块，并写入剪贴板】按钮（角色商店中添加了【QK表达式助手】角色，可以在一定程度上帮助书写表达式）
+~ UI细节优化",2024-02-06
+智能备份,https://getquicker.net/Sharedaction?code=8dfe1e68-33f0-4329-14ae-08da4a84097c,笔记的最好伴侣，从此数据无忧,sm18,风未知,https://getquicker.net/User/59944/%E9%A3%8E%E6%9C%AA%E7%9F%A5,574.9 KB,2022-06-11 12:26,171,"修复了 kopia 下载报错的 bug
+由于动作下载的 kopia 版本过旧，手动更新到 0.15.0，会提醒通过动作下载 kopia 的用户进行更新，也可以通过 https://fwzuw.lanpv.com/b03d2ibha 密码:2333 手动下载
+优化了部分文字描述",2024-02-06
+批量mapgis转dxf,https://getquicker.net/Sharedaction?code=3d458e6f-e6be-423e-de74-08dc223fd30b,将选中文件夹的mapgis利用section批量转换为dxf文件,通用,vicwjb,https://getquicker.net/User/822650/vicwjb,5.5 KB,2024-02-01 15:31,1,修复路径带空格导致打不开mapgis的问题,2024-02-06
+检查形缺,https://getquicker.net/Sharedaction?code=7bd56bd2-d7aa-44c4-0db7-08db9d470fb9,检查权要,通用,清澈如许,https://getquicker.net/User/891193/%E6%B8%85%E6%BE%88%E5%A6%82%E8%AE%B8,14.9 KB,2023-08-15 16:02,7,222,2024-02-06
+电脑倒计时关机,https://getquicker.net/Sharedaction?code=641fe1ad-a5c7-40ac-7ea4-08dc251ced29,运动动作并输入参数后进行倒计时，倒计时结束前没有操作就执行关机,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,132.3 KB,2024-02-05 10:00,0,,2024-02-06
+托盘番茄钟,https://getquicker.net/Sharedaction?code=aeb50a64-c8eb-4e9d-7e8e-08dc251ced29,借助H-D-G大佬的托盘动作做一个番茄钟,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),135.2 KB,2024-02-04 09:23,5,更新许可,2024-02-06
+规范文件名,https://getquicker.net/Sharedaction?code=75b39075-9410-4e4e-019d-08dbe4ac96d7,批量将文件名中的指定名称添加到文件名的前、中、后，使文件名美观统一，易查找,Windows 资源管理器,沧海叫一声,https://getquicker.net/User/741988/%E6%B2%A7%E6%B5%B7%E5%8F%AB%E4%B8%80%E5%A3%B0,21.8 KB,2023-11-14 09:46,10,丢了一处“跳出循环”语句，导致无用循环，已修复，提高了程序效率。,2024-02-06
