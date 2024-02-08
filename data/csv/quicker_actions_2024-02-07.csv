@@ -3,5 +3,8 @@ Editor,https://getquicker.net/Sharedaction?code=19e2675d-b691-49bf-17ad-08db1305
 外部命令,支持临时调出编辑栏窗口",2024-02-08
 复制网页文本,https://getquicker.net/Sharedaction?code=6b492ca0-5e77-41c6-03d6-08dc26fd3644,复制选中元素上面的文本。,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,2.8 KB,2024-02-07 20:29,2,更换图标,2024-02-08
 视频旋转,https://getquicker.net/Sharedaction?code=66cabb06-337b-42c4-03d4-08dc26fd3644,旋转当前网页的视频，拯救你的颈椎。,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,10.6 KB,2024-02-07 17:35,0,,2024-02-08
-ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,100.3 KB,2023-12-16 20:13,35,~ 在Qk外观变化时，窗口样式自动跟随变化（代码块的高亮需要切换话会刷新一下才会变化）,2024-02-08
-托盘番茄钟,https://getquicker.net/Sharedaction?code=aeb50a64-c8eb-4e9d-7e8e-08dc251ced29,借助H-D-G大佬的托盘动作做一个番茄钟,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),178.6 KB,2024-02-04 09:23,8,新增划词悬浮模式，在托盘右键打开运行，需要配合Translator进行使用,2024-02-08
+原神连点,https://getquicker.net/Sharedaction?code=c85bcb5f-4bc3-4ae9-53f7-08db7fc04758,智能连点器，快速过剧情,yuanshen.exe,小豪l,https://getquicker.net/User/448566/%E5%B0%8F%E8%B1%AAl,137 KB,2023-07-10 00:00,34,修复个别电脑首次安装动作后，无法连点的bug,2024-02-08
+编辑材质图,https://getquicker.net/Sharedaction?code=09bd3b67-1291-4d95-03d1-08dc26fd3644,模拟右键，鼠标必须在模型上，建议设置快捷键使用,KeyShot 8,不想玩啦,https://getquicker.net/User/238960/%E4%B8%8D%E6%83%B3%E7%8E%A9%E5%95%A6,655 B,2024-02-07 16:09,0,,2024-02-08
+无痕打开,https://getquicker.net/Sharedaction?code=d9afd831-8136-4dd4-e64e-08dc141284c3,无快捷键自动获取当前网址，并打开,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,22.3 KB,2024-01-13 19:07,7,fix bug,2024-02-08
+微软在线语音朗读,https://getquicker.net/Sharedaction?code=6d7bb7e4-bd8a-412f-03c4-08dc26fd3644,无限免费使用微软语音朗读,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,4.4 KB,2024-02-06 18:20,1,"修复部分用户无法使用edge打开的问题,这个版本使用自带的模块打开小窗,提高了兼容性
+可以指定窗口打开的位置大小了,可以在动作里面根据自己电脑运行速度,设置窗口打开后改变窗口位置大小的时间",2024-02-08
