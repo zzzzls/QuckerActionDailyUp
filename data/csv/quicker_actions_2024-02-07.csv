@@ -1,0 +1,7 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Editor,https://getquicker.net/Sharedaction?code=19e2675d-b691-49bf-17ad-08db13055cfd,Markdown编辑器/表格/图文/标题/颜色/表情/功能集成神器,Obsidian,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,354.2 KB,2023-02-21 15:14,122,"$= {quicker_in_param} == ""LS""
+外部命令,支持临时调出编辑栏窗口",2024-02-08
+复制网页文本,https://getquicker.net/Sharedaction?code=6b492ca0-5e77-41c6-03d6-08dc26fd3644,复制选中元素上面的文本。,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,2.8 KB,2024-02-07 20:29,2,更换图标,2024-02-08
+视频旋转,https://getquicker.net/Sharedaction?code=66cabb06-337b-42c4-03d4-08dc26fd3644,旋转当前网页的视频，拯救你的颈椎。,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,10.6 KB,2024-02-07 17:35,0,,2024-02-08
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,100.3 KB,2023-12-16 20:13,35,~ 在Qk外观变化时，窗口样式自动跟随变化（代码块的高亮需要切换话会刷新一下才会变化）,2024-02-08
+托盘番茄钟,https://getquicker.net/Sharedaction?code=aeb50a64-c8eb-4e9d-7e8e-08dc251ced29,借助H-D-G大佬的托盘动作做一个番茄钟,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),178.6 KB,2024-02-04 09:23,8,新增划词悬浮模式，在托盘右键打开运行，需要配合Translator进行使用,2024-02-08
