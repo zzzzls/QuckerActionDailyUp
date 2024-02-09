@@ -1,0 +1,8 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,104.9 KB,2023-12-16 20:13,36,+ 新增【历史记录】功能，用于快速跳转历史信息（跳转到选择记录的AI回复部分）另：因控件限制该功能不支持搜索,2024-02-09
+手机PC剪贴板互传,https://getquicker.net/Sharedaction?code=d275a766-3048-410b-2740-08dc27ff0e36,从手机主动 推送or拉取 PC剪贴板（仅利用quicker长连接推送服务，无需其他推送平台）,通用,jsir.hsu,https://getquicker.net/User/998028/jsir.hsu,1.9 KB,2024-02-08 16:28,0,,2024-02-09
+规范打开,https://getquicker.net/Sharedaction?code=ae3d5cf1-57be-4704-4e16-08dc0e606679,对选中的文件：1.备份，2.规范命名，3.打开,Windows 资源管理器,iDenny,https://getquicker.net/User/459511/iDenny,128.6 KB,2024-01-06 19:17,6,"1、多个文件批量处理，显示完成进度
+2、增加文件预览并排显示，便于查看和核对",2024-02-09
+托盘番茄钟,https://getquicker.net/Sharedaction?code=aeb50a64-c8eb-4e9d-7e8e-08dc251ced29,借助H-D-G大佬的托盘动作做一个番茄钟,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),189.6 KB,2024-02-04 09:23,9,更新了划词选取的逻辑，更加敏锐，感谢HDG大佬提供的思路,2024-02-09
+快速发送,https://getquicker.net/Sharedaction?code=456fd756-2f08-42bd-7e99-08dc251ced29,快速将文件发送至收藏的文件夹中,Windows 资源管理器,Evelynal,https://getquicker.net/User/340469/Evelynal,33.6 KB,2024-02-04 16:35,1,更新显示当前打开的所有文件夹路径，无需收藏即可快速发送,2024-02-09
+Everything Pro,https://getquicker.net/Sharedaction?code=6e1bf4d3-d7cc-4820-7e5e-08dc260ac806,1.选中文本，打开Everything搜索当前文件夹（有正常路径）；2.选中文本，打开Everything搜索全局；3.打开Everything搜索当前文件夹（无文本但有正常路径）；4.仅打开空白Everything（桌面/无文本/无正常路径等）。,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,20.6 KB,2024-02-06 00:30,5,优化运行逻辑,2024-02-09
