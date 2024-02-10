@@ -1,4 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+右键菜单（原版更新）,https://getquicker.net/Sharedaction?code=b750da7b-88e9-4fcb-dd3b-08dc29251b7a,添加动作和本机EXE程序到右键菜单,通用,Jackson Cam,https://getquicker.net/User/123164/Jackson%20Cam,21.2 KB,2024-02-09 22:53,0,,2024-02-10
+微信截图plus,https://getquicker.net/Sharedaction?code=7dc708c9-a455-4ce5-5371-08dc15e737a9,如果登录了微信，则微信截图。否则是系统自带的截图,通用,show-er,https://getquicker.net/User/412766/show-er,79.9 KB,2024-01-16 22:25,7,优化：截图在原位置贴图,2024-02-10
 公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.4 MB,2022-12-06 16:37,206,"1.调整标题级别（文章标题设为大纲一级，其他级别标题的大纲级别顺延）
 2.调整替换字体方法，增加检测结束条件，防止死循环
 3.修正在WPS下涉及页面设置的一处不兼容问题
