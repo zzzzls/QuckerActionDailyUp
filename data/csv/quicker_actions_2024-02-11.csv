@@ -7,6 +7,7 @@
 3.浏览器和标签页ID会在开始高亮前确定保持不变直到运行结束，运行过程中可以切到别的标签、窗口。",2024-02-12
 划词悬浮,https://getquicker.net/Sharedaction?code=9527870b-9478-4c00-144a-08dc2acf84b1,如卡尔一般全能的划词悬浮动作，可以和Quicker榜单中诸多划词动作互动，支持自定义,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),27.6 KB,2024-02-11 20:44,1,从番茄托盘中独立出的一个动作。和Translator联动的划词悬浮，后续会加入更多动作,2024-02-12
 表格操作,https://getquicker.net/Sharedaction?code=18bff04e-4127-4de7-1445-08dc2acf84b1,简单的表格(csv/tsv)操作，支持翻转、去重、选取列、排序列、连接等,通用,FaniX,https://getquicker.net/User/52603/FaniX,77.3 KB,2024-02-11 15:03,3,修复窗口编号逻辑,2024-02-12
+飞卢小说,https://getquicker.net/Sharedaction?code=fc53f18a-cb9e-4421-1447-08dc2acf84b1,批量查看飞卢各类小说大全！,Google Chrome,尤格泡泡,https://getquicker.net/User/635813/%E5%B0%A4%E6%A0%BC%E6%B3%A1%E6%B3%A1,77.8 KB,2024-02-11 18:08,0,,2024-02-12
 Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,552.7 KB,2023-03-16 00:45,31,"1. 新增：临时切换源语言功能（点击“识别为xx”进行切换）
 2. 新增：折叠/展开界面、关闭界面的动作参数
 3. 新增：支持自定义背景图片，添加“🐲龙年新春”皮肤（在设置中切换）
