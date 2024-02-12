@@ -1,0 +1,16 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+滴答清单划词添加任务,https://getquicker.net/Sharedaction?code=7cd8d0e1-49f5-40d4-9d32-08dbb6a8337d,通过快捷键(Alt+Shift+A)唤起滴答清单，如选中文本可自动输入,通用,JeffreyChen,https://getquicker.net/User/915255/JeffreyChen,2.5 KB,2023-09-17 15:40,3,更正动作说明,2024-02-12
+转为Markdown链接（使用思源笔记获得加强体验）,https://getquicker.net/Sharedaction?code=d591e45a-ec0b-4485-73ac-08dbb7994b31,将选中的文本或剪贴板中的文本加上当前网页的网址，组成 Markdown 链接,通用,JeffreyChen,https://getquicker.net/User/915255/JeffreyChen,114.8 KB,2023-09-18 11:14,16,修改了配置表单中的表述，表达更清晰了,2024-02-12
+托盘番茄钟,https://getquicker.net/Sharedaction?code=aeb50a64-c8eb-4e9d-7e8e-08dc251ced29,借助H-D-G大佬的托盘动作做一个番茄钟,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),209.7 KB,2024-02-04 09:23,16,设置增加是否随着启动托盘自动启动划词翻译,2024-02-12
+彩虹高亮,https://getquicker.net/Sharedaction?code=0870d175-e0ad-47c9-aec3-08dc2a0d6588,高亮指定网页文字，支持普通关键词和正则表达式，可以自定义🌈颜色。,Google Chrome,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,80.3 KB,2024-02-10 15:53,1,"1.修复正则匹配大小写指令颜色错误。
+2.现在结束时可以完整输出统计数量。传参运行默认不弹出提示消息，如果需要弹出提示消息将【🌈提示】放在参数第一行。
+3.浏览器和标签页ID会在开始高亮前确定保持不变直到运行结束，运行过程中可以切到别的标签、窗口。",2024-02-12
+划词悬浮,https://getquicker.net/Sharedaction?code=9527870b-9478-4c00-144a-08dc2acf84b1,如卡尔一般全能的划词悬浮动作，可以和Quicker榜单中诸多划词动作互动，支持自定义,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),27.6 KB,2024-02-11 20:44,1,从番茄托盘中独立出的一个动作。和Translator联动的划词悬浮，后续会加入更多动作,2024-02-12
+表格操作,https://getquicker.net/Sharedaction?code=18bff04e-4127-4de7-1445-08dc2acf84b1,简单的表格(csv/tsv)操作，支持翻转、去重、选取列、排序列、连接等,通用,FaniX,https://getquicker.net/User/52603/FaniX,77.3 KB,2024-02-11 15:03,3,修复窗口编号逻辑,2024-02-12
+Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,552.7 KB,2023-03-16 00:45,31,"1. 新增：临时切换源语言功能（点击“识别为xx”进行切换）
+2. 新增：折叠/展开界面、关闭界面的动作参数
+3. 新增：支持自定义背景图片，添加“🐲龙年新春”皮肤（在设置中切换）
+4. 优化：自定义界面颜色更加全面
+5. 优化：语言选择列表颜色异常
+6. 优化：删除AI翻译中的AnyGPT（已冗余）
+最后，新春快乐！",2024-02-12
