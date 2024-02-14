@@ -1,0 +1,3 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+百度百科,https://getquicker.net/Sharedaction?code=2467e2da-871a-4dae-992d-08dba5d3aaf5,支持搜索词联想,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,7.5 KB,2023-08-26 18:46,2,在没有联想返回的情况下，直接百度百科搜索文本,2024-02-14
+获取标签页,https://getquicker.net/Sharedaction?code=cad4688c-ec09-4aa5-0613-08d838181f56,浏览器扩展 | 选中多个标签页后，执行该动作，即可批量获取页面标题及链接（MD格式）,Google Chrome,Moy,https://getquicker.net/User/771/Moy,95.6 KB,2020-08-05 01:09,16,好多特殊网站的单独适配,2024-02-14
