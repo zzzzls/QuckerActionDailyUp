@@ -1,0 +1,25 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+[...]：[...],https://getquicker.net/Sharedaction?code=11121b1a-7e3b-44c2-b56d-08dc3911fbe9,另一种挖空变体,sm18,1shero,https://getquicker.net/User/656269/1shero,13 KB,2024-02-29 23:44,0,,2024-03-01
+倒计时,https://getquicker.net/Sharedaction?code=8c284ed1-d475-4da4-7f52-08db1d744d14,输入目标时间，实时倒计时,通用,尤格泡泡,https://getquicker.net/User/635813/%E5%B0%A4%E6%A0%BC%E6%B3%A1%E6%B3%A1,8.8 KB,2023-03-06 16:13,8,！,2024-03-01
+影响因子,https://getquicker.net/Sharedaction?code=9bfa0c4e-1e63-4cd1-b56a-08dc3911fbe9,根据用户提供的secretKey，在easyScholar上获取期刊影响因子和分区,通用,Lafin_yu,https://getquicker.net/User/233519/Lafin_yu,6.9 KB,2024-02-29 21:35,1,API Key更名为SecretKey,2024-03-01
+数字变日期,https://getquicker.net/Sharedaction?code=190725ba-a8a1-4387-b568-08dc3911fbe9,Anytxt搜索预览中，Excel文件中日期显示为数字，选中数字运行后显示日期格式,通用,cnbubble,https://getquicker.net/User/701235/cnbubble,2.5 KB,2024-02-29 21:13,0,,2024-03-01
+文件夹标记备注,https://getquicker.net/Sharedaction?code=e8567089-db7b-463c-db38-08dc1d7b23f0,对文件夹标记栏和备注栏进行定义，默认每栏可定义四项；对文件夹图标进行颜色修改,Windows 资源管理器,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,276.9 KB,2024-01-25 22:16,4,修复更改本地文件夹名称（https://getquicker.net/Sharedaction?code=17a5331b-24d1-49ac-3394-08dc372d2e73）后，对文件夹标记，本地名称消失,2024-03-01
+工位摸鱼聚合,https://getquicker.net/Sharedaction?code=b83bc49a-4c13-48a3-334e-08dc372d2e73,祝各位万事兴龙，否极泰来！,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,47.8 KB,2024-02-27 14:24,1,"1、增加：切换窗口应用功能（悬浮动作上滚轮，可设置 某些应用保留滚轮翻页功能）移出悬浮动作：确认切换，左键：关闭后台应用
+2、增加：锁屏时自动关闭某些应用（需配合quicker事件触发设置）
+3、增加：开启多个摸鱼软件时，可设置某个软件为前台
+4、适配QQ，贴边隐藏时，自动唤出（CTRL开启摸鱼功能内）
+
+
+
+",2024-03-01
+输出多引物对扩增长度,https://getquicker.net/Sharedaction?code=ae44fb6a-8344-4873-eb91-08db754ee2c2,从sanpgene中复制引物对，返回前引物名称-后引物名称-扩增长度,SnapGene,西山鹤城,https://getquicker.net/User/673922/%E8%A5%BF%E5%B1%B1%E9%B9%A4%E5%9F%8E,12.7 KB,2023-06-26 11:25,6,-,2024-03-01
+当前文档另存jpg,https://getquicker.net/Sharedaction?code=62b61774-3a3c-4d12-ec7a-08dc3811d02e,在打开文件的文件夹内另存一个当前打开文件的带后缀的jpg,Adobe Photoshop,之乎者也吧,https://getquicker.net/User/789041/%E4%B9%8B%E4%B9%8E%E8%80%85%E4%B9%9F%E5%90%A7,1.3 KB,2024-02-29 14:43,0,,2024-03-01
+选择元素转成图片,https://getquicker.net/Sharedaction?code=17e60e09-f952-4a00-ec72-08dc3811d02e,将ppt元素复制成图片,Microsoft PowerPoint,epodak,https://getquicker.net/User/695509/epodak,4 KB,2024-02-29 12:24,0,,2024-03-01
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的搜索神器(本地),Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,310.6 KB,2023-03-25 00:27,155,_,2024-03-01
+启动影刀应用,https://getquicker.net/Sharedaction?code=d37f5ca3-8d5a-4fb7-ec68-08dc3811d02e,通过影刀的文件触发器来启动影刀应用,通用,ii6uu992,https://getquicker.net/User/997056/ii6uu992,29.8 KB,2024-02-29 10:29,0,,2024-03-01
+Clever 全自动,https://getquicker.net/Sharedaction?code=15ba7374-5786-483f-ec5b-08dc3811d02e,为 Obsidian 中的 Clever 插件后台服务提供自动开启关闭服务。,Obsidian,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,10.4 KB,2024-02-28 20:05,2,更新提示。,2024-03-01
+Obsidian 库,https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4,搜索并打开 Obsidian 的库。,Obsidian,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,30 KB,2022-10-01 20:44,6,[=] 修改显示文本,2024-03-01
+带圈数字,https://getquicker.net/Sharedaction?code=85b31ec0-289e-4ac3-ec4c-08dc3811d02e,插入带圈数字序号1-50,Microsoft Word,朱朝成,https://getquicker.net/User/1007428/%E6%9C%B1%E6%9C%9D%E6%88%90,3.2 KB,2024-02-28 15:44,2,可以长时间停留，以便多次使用。,2024-03-01
+动作坞,https://getquicker.net/Sharedaction?code=f4ec8fd6-a1d5-45a9-92cc-08d9a6ab0e9a,　,不吞不灭魔君の瓜皮之牙,瓜皮之牙,https://getquicker.net/User/202824/%E7%93%9C%E7%9A%AE%E4%B9%8B%E7%89%99,115.1 KB,2021-11-14 11:59,49,　,2024-03-01
+jpg出图,https://getquicker.net/Sharedaction?code=25e80c1e-1071-4b87-33a7-08dc372d2e73,Section快速出图,地质辅助软件,朱朝成,https://getquicker.net/User/1007428/%E6%9C%B1%E6%9C%9D%E6%88%90,7.8 KB,2024-02-28 10:31,1,鼠标移动位置改为窗口句柄操作，避免电脑分辨率差异造成操作不成功。,2024-03-01
+正负号转换,https://getquicker.net/Sharedaction?code=319998c7-8a7d-44bf-ec5f-08dc3811d02e,将Excel的所选单元格数值的正负号进行互换,Microsoft Excel,阐幽探赜,https://getquicker.net/User/541422/%E9%98%90%E5%B9%BD%E6%8E%A2%E8%B5%9C,1.7 KB,2024-02-29 01:44,0,,2024-03-01
