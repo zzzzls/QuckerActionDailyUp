@@ -1,0 +1,18 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+全文搜索,https://getquicker.net/Sharedaction?code=d0f442c9-b3f7-408f-b58b-08dc3911fbe9,打开FileLocator软件，并设置查找位置。,Windows 资源管理器,H添饰,https://getquicker.net/User/474883/H%E6%B7%BB%E9%A5%B0,8.3 KB,2024-03-01 20:59,1,加双引号避免路径中有空格无法完整识别。,2024-03-04
+无名路径,https://getquicker.net/Sharedaction?code=354aece8-167c-40df-ed1c-08dc3b28186f,获取当前文件路径-带文件名,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,2 KB,2024-03-03 22:03,1,修复,2024-03-04
+带名路径,https://getquicker.net/Sharedaction?code=d8f037c2-13a7-4cef-ed1b-08dc3b28186f,获取当前标签路径-不带文件名,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,2 KB,2024-03-03 22:02,0,,2024-03-04
+AI智炼,https://getquicker.net/Sharedaction?code=9d0493a4-75bc-4b49-a26f-08dc0740f11f,功能：1.选中文字，快速根据设置的模型角色获得提炼结果。2.可管理多角色。3.当前模型支持：星火/ChatGPT,通用,YCHH,https://getquicker.net/User/738826/YCHH,96.2 KB,2023-12-28 22:50,12,"1.【更新】重新设计了角色信息维护逻辑
+2.【修改】修改了角色选择功能
+3.【新增】角色信息维护功能增加了优先级设置，增加了标签功能（目前想法是方便角色多的情况下分组展示）",2024-03-04
+鼠标微调,https://getquicker.net/Sharedaction?code=b63a7d65-a892-41aa-24d0-08db19695d73,操作鼠标进行微调,通用,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,8 KB,2023-02-28 21:10,4,重设移动像素时默认值为当前像素,2024-03-04
+手动+时间,https://getquicker.net/Sharedaction?code=e8f318ca-8371-41d3-ed1a-08dc3b28186f,取消分组，并按时间排序（开启手动排序时，相当于手动排序+时间排序）；手动排序要在文件夹格式设置中勾选,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,2 KB,2024-03-03 19:58,0,,2024-03-04
+类型+时间,https://getquicker.net/Sharedaction?code=daa9c479-b746-4889-ed19-08dc3b28186f,按类型分组，时间倒序排序,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,2 KB,2024-03-03 19:56,0,,2024-03-04
+添加到微软待办,https://getquicker.net/Sharedaction?code=d57e7643-bf91-4850-d1ed-08dc2ded8ab2,通过 Microsoft Graph API 添加任务到微软待办,通用,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,34.8 KB,2024-02-15 14:15,3,提供默认应用配置,2024-03-04
+选择浏览器打开B站,https://getquicker.net/Sharedaction?code=5ed14276-afaf-4036-ed13-08dc3b28186f,需要电脑已经下载对应的浏览器 可以选择浏览器打开B站WEB,通用,用户wX9EKXb0AgA,https://getquicker.net/User/636322/%E7%94%A8%E6%88%B7wX9EKXb0AgA,3.7 KB,2024-03-03 19:06,0,,2024-03-04
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,324.8 KB,2023-12-05 00:57,30,~修改录制完成后提示内容。,2024-03-04
+Xmind缩放平移改中键,https://getquicker.net/Sharedaction?code=acf1b1f8-9c6d-492a-ed0f-08dc3b28186f,鼠标滚轮缩放视图，鼠标中键平移视图。利用了AHK子程序，原本自带的操作习惯不喜欢,xmind.exe,阿诺德战士阿灵,https://getquicker.net/User/320360/%E9%98%BF%E8%AF%BA%E5%BE%B7%E6%88%98%E5%A3%AB%E9%98%BF%E7%81%B5,921 B,2024-03-03 17:46,0,,2024-03-04
+Gotify 消息詳情,https://getquicker.net/Sharedaction?code=95564636-4ccf-46cd-ed05-08dc3b28186f,『Gotify 監聽』的額外服務。,通用,EmilyBrooks,https://getquicker.net/User/17836/EmilyBrooks,4.9 KB,2024-03-03 15:02,0,,2024-03-04
+Gotify 監聽 / 消息推送,https://getquicker.net/Sharedaction?code=24554e2b-3e3f-43f2-ed04-08dc3b28186f,監聽 Gotify 服務器，服務器收到新消息時，將會給你發送通知。,通用,EmilyBrooks,https://getquicker.net/User/17836/EmilyBrooks,32.4 KB,2024-03-03 14:59,0,,2024-03-04
+搜狗拼音静默同步,https://getquicker.net/Sharedaction?code=76c37bb2-ee2c-4f71-c918-08db5d470d24,搜狗拼音输入法检测是否未同步，静默同步。可配合事件触发定时检测。,搜狗输入法 我的输入法,EC10010,https://getquicker.net/User/2997/EC10010,65.6 KB,2023-05-27 00:18,12,优化程序路径获取方式。,2024-03-04
+搜狗自定义短语备份,https://getquicker.net/Sharedaction?code=1b0afa57-421b-4aca-3bd6-08db630187a9,快速添加、备份搜狗拼音输入法自定义短语。,搜狗输入法 我的输入法,EC10010,https://getquicker.net/User/2997/EC10010,118.7 KB,2023-06-02 18:26,51,优化程序路径获取方式。,2024-03-04
