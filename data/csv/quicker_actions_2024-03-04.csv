@@ -1,0 +1,20 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+白描OCR,https://getquicker.net/Sharedaction?code=997f3812-8928-4c6c-a98a-08dab0af50de,选择单张图片文件、或直接截图，调用白描OCR进行文字识别,通用,用户KGvfuMisAgA,https://getquicker.net/User/583272/%E7%94%A8%E6%88%B7KGvfuMisAgA,177.9 KB,2022-10-18 22:51,24,1. 上线仅保留文本功能。,2024-03-05
+添加到待复习队列,https://getquicker.net/Sharedaction?code=dfb44ac7-6253-49dc-65c3-08dc3bf00da0,在卡片浏览器中打开该分支后使用这个动作,sm18,vivitrx_sssk,https://getquicker.net/User/824924/vivitrx_sssk,772 B,2024-03-04 22:57,0,,2024-03-05
+无名路径,https://getquicker.net/Sharedaction?code=354aece8-167c-40df-ed1c-08dc3b28186f,获取当前标签的路径-不带文件名,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,2 KB,2024-03-03 22:03,2,修正描述,2024-03-05
+带名路径,https://getquicker.net/Sharedaction?code=d8f037c2-13a7-4cef-ed1b-08dc3b28186f,获取当前标签路径-带文件名,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,2 KB,2024-03-03 22:02,1,修正描述,2024-03-05
+按标记分组,https://getquicker.net/Sharedaction?code=79613f23-b352-4560-65c1-08dc3bf00da0,将文件按照标记分组，再次运行取消分组,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,3.3 KB,2024-03-04 22:15,0,,2024-03-05
+选中引号内容,https://getquicker.net/Sharedaction?code=b3d67169-a7a7-49a8-b2e0-08dc39f7d1f3,如果有多个引号则框选引号内部分，前后引号可自行修改，格式为（|“|《,通用,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,13.2 KB,2024-03-02 18:02,4,修复一些Bug,2024-03-05
+关灯,https://getquicker.net/Sharedaction?code=abc95110-dfb5-4e33-1dfd-08dba1189b3c,专注于前台窗口、指定窗口或固定区域，可选后台运行，绑定前台进程，除选中区域外变暗，可自定义背景颜色、透明度，支持扩展屏。,通用,hustrjh,https://getquicker.net/User/449681/hustrjh,77.1 KB,2023-08-20 21:44,8,"【新增】：
+1、大更新：新增后台运行模式，该模式下动作将自动绑定前台进程，按下Esc键退出。请在设置中启用。
+感谢网友 Homjie 的建议。",2024-03-05
+静音控,https://getquicker.net/Sharedaction?code=b6c3959b-91ad-498c-65bd-08dc3bf00da0,悬浮动作(页)鼠标滚轮控制音量↑↓，点击切换静音模式后，显示音量控制台控制声音状态,通用,Foolworld,https://getquicker.net/User/911852/Foolworld,30.5 KB,2024-03-04 20:07,1,完善设置,2024-03-05
+Terminal,https://getquicker.net/Sharedaction?code=438ca597-5723-4c91-3183-08d8f583aa78,打开Windows Terminal。如果在资源管理器中则进入到当前路径，否则进入到桌面路径；默认以当前用户身份运行，按下Ctrl打开则以管理员身份运行,通用,木心493,https://getquicker.net/User/26050/%E6%9C%A8%E5%BF%83493,4.7 KB,2021-04-02 21:39,1,1. 感谢 @Thunder404 的反馈，修复路径中有空格时存在的异常,2024-03-05
+属性To表格,https://getquicker.net/Sharedaction?code=eaf15b81-eab9-4692-fac6-08d9f7308243,将格式为【XXX: AA】的属性集合转换为html表代码,通用,郭鹏真PattenKuo,https://getquicker.net/User/323713/%E9%83%AD%E9%B9%8F%E7%9C%9FPattenKuo,40.5 KB,2022-02-24 18:35,14,添加遗漏子程序,2024-03-05
+资管开DO,https://getquicker.net/Sharedaction?code=32e8b904-a1e6-4ce3-65b0-08dc3bf00da0,用默认资管打开do的当前路径,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,7.5 KB,2024-03-04 14:15,0,,2024-03-05
+公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.4 MB,2022-12-06 16:37,209,"1.""实验室""增加""人员名单格式化""（兼容WORD/WPS）
+2.改进运行VBA代码子程序，支持VBE的""要求变量声明""（至此，公文排版动作已完全适应WORD关于宏安全和VBE的所有设置）",2024-03-05
+Word输入英文变希腊字母,https://getquicker.net/Sharedaction?code=a1d41ea3-4287-46c9-65a3-08dc3bf00da0,(仅限word)输入单个英文字母后，自动转为希腊字母，字体为新罗马。带有简略英文-希腊对照表。魔改自Lenny11111的动作word希腊字母,通用,成长中的小白,https://getquicker.net/User/957797/%E6%88%90%E9%95%BF%E4%B8%AD%E7%9A%84%E5%B0%8F%E7%99%BD,3.7 KB,2024-03-04 10:39,0,,2024-03-05
+效率办公助手,https://getquicker.net/Sharedaction?code=4c3fe8ba-c5e0-4158-7ea6-08dc251ced29,免费实用智能，财审、券商、投行打工人必备的效率办公助手！,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,388.8 KB,2024-02-05 11:54,21,【修复】修复为具体按钮设快捷键的功能,2024-03-05
+托盘番茄钟,https://getquicker.net/Sharedaction?code=aeb50a64-c8eb-4e9d-7e8e-08dc251ced29,会AI、音乐、清单的超级番茄钟,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),278.3 KB,2024-02-04 09:23,29,功能预告：Copilot Quicker版正在开发！,2024-03-05
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),645.2 KB,2023-06-26 19:07,157,功能预告：Copilot Quicker版正在开发ing,2024-03-05
