@@ -1,0 +1,15 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+超级操作窗,https://getquicker.net/Sharedaction?code=1671d505-abeb-45df-a274-08dc0740f11f,【打造属于自己的万能工具箱】网址/搜索/程序/文件(夹)/动作/命令/面板/VBA宏/脚本/键鼠操作/文本替换/常用语/颜色收藏……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,356.9 KB,2023-12-29 09:54,18,"v2.4.0 (2024-03-07)
+- 【功能】按钮新增“缩写词”属性",2024-03-08
+Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,597.4 KB,2023-03-16 00:45,35,"1. 修复：重构AI服务中OpenAI的请求代码，修复长文本输出失败的问题
+2. 修复：缺少组件导致动作无法运行的问题
+3. 修复：继续修复打开面板时闪烁的bug
+4. 新增：面板固定模式下，增加剪贴板改变自动翻译功能按钮
+5. 新增：添加将译文发送到原窗口的功能按钮
+6. 新增：自定义接口图标留空时直接使用该动作的图标
+7. 优化：译文结果展开动画时长",2024-03-08
+小白,https://getquicker.net/Sharedaction?code=f2857e3c-9afd-482c-7f54-08d8fe1fe745,努力领会主人意图,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,130.9 KB,2021-04-14 09:07,29,修复：从文本中自动提取网址的bug,2024-03-08
+巴德Windows运维,https://getquicker.net/Sharedaction?code=eaf32a42-4c5b-4b6a-c6f4-08dc1baf171d,通过命令行打开Windows各种功能。,通用,Bader,https://getquicker.net/User/135289/Bader,7.4 KB,2024-01-23 17:14,2,调整自定义命令到最前,2024-03-08
+Copilot,https://getquicker.net/Sharedaction?code=794c000e-3a63-4ef7-c171-08dc3cd0cba5,Quicker版本Copilot测试,Microsoft Edge,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),61 KB,2024-03-06 10:23,1,"1. 参数配置增加模型选择功能
+2. 注册托盘程序，即在右下角会出现一个图标，左键点击即可隐藏和召唤copilot，右键点击可退出 (感谢HDG)",2024-03-08
+静音控,https://getquicker.net/Sharedaction?code=b6c3959b-91ad-498c-65bd-08dc3bf00da0,鼠标滚轮控制音量↑↓，点击切换静音模式后，显示音量控制台控制声音状态,通用,Foolworld,https://getquicker.net/User/911852/Foolworld,83.1 KB,2024-03-04 20:07,3,优化滚轮控制音量的实时状态通知和自定义音量选择的表单页面，右键添加音量合成器功能,2024-03-08
