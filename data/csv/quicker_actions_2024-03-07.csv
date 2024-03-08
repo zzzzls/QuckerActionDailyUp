@@ -1,4 +1,9 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+白描OCR,https://getquicker.net/Sharedaction?code=997f3812-8928-4c6c-a98a-08dab0af50de,选择单张图片文件、或直接截图，调用白描OCR进行文字识别,通用,用户KGvfuMisAgA,https://getquicker.net/User/583272/%E7%94%A8%E6%88%B7KGvfuMisAgA,180 KB,2022-10-18 22:51,25,1. 解决了停止动作报错的问题。,2024-03-08
+Ollama,https://getquicker.net/Sharedaction?code=51a95806-74ca-4c8f-b2e2-08dc39f7d1f3,用羊驼Ollama玩AI模型，如gemma,通用,ii6uu992,https://getquicker.net/User/997056/ii6uu992,39.9 KB,2024-03-02 18:58,2,添加了上传配置和下载配置,2024-03-08
+窗口排列,https://getquicker.net/Sharedaction?code=2c4d4732-e2ad-4ba0-f3f0-08dc3dc9f8c9,根据选定窗口，获取相似窗口进行自动排列,通用,huanggc66,https://getquicker.net/User/9010/huanggc66,21.6 KB,2024-03-07 20:40,0,,2024-03-08
+60秒读懂世界,https://getquicker.net/Sharedaction?code=e7ececb8-f57e-4a11-f3b2-08dc3dc9f8c9,精选每天15条新闻,通用,一身是月,https://getquicker.net/User/266541/%E4%B8%80%E8%BA%AB%E6%98%AF%E6%9C%88,10.8 KB,2024-03-06 18:48,1,修复错误,2024-03-08
+网页翻译,https://getquicker.net/Sharedaction?code=3dd49d7a-de6f-4ca4-f3e5-08dc3dc9f8c9,把当前访问的网站发给有道网页翻译[原文+译文],Google Chrome,德高886,https://getquicker.net/User/751771/%E5%BE%B7%E9%AB%98886,1.5 KB,2024-03-07 15:10,0,,2024-03-08
 超级操作窗,https://getquicker.net/Sharedaction?code=1671d505-abeb-45df-a274-08dc0740f11f,【打造属于自己的万能工具箱】网址/搜索/程序/文件(夹)/动作/命令/面板/VBA宏/脚本/键鼠操作/文本替换/常用语/颜色收藏……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,356.9 KB,2023-12-29 09:54,18,"v2.4.0 (2024-03-07)
 - 【功能】按钮新增“缩写词”属性",2024-03-08
 Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,597.4 KB,2023-03-16 00:45,35,"1. 修复：重构AI服务中OpenAI的请求代码，修复长文本输出失败的问题
@@ -8,7 +13,13 @@ Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db
 5. 新增：添加将译文发送到原窗口的功能按钮
 6. 新增：自定义接口图标留空时直接使用该动作的图标
 7. 优化：译文结果展开动画时长",2024-03-08
+粘贴（增强型图元文件）,https://getquicker.net/Sharedaction?code=5af6818d-077d-410f-f3dd-08dc3dc9f8c9,Word以图元形式粘贴矢量图（PPT/EXCEL 绘制的图）以提升转换为PDF后的放大清晰性,Microsoft Word,用户6162721732...,https://getquicker.net/User/477366/%E7%94%A8%E6%88%B7616272173240267,54 B,2024-03-07 11:51,0,,2024-03-08
+选择颜色,https://getquicker.net/Sharedaction?code=e96344f1-016c-44d2-f3dc-08dc3dc9f8c9,选择批注工具的颜色，传入对应颜色所在的行和列,BookxNote Pro,ilcpm,https://getquicker.net/User/328745/ilcpm,9.7 KB,2024-03-07 11:48,0,,2024-03-08
+sci文献,https://getquicker.net/Sharedaction?code=caaae8f3-6c1b-4bea-f3da-08dc3dc9f8c9,使用DOI在SCI-hub中搜索文献,通用,用户GBV9Qd7NAwA,https://getquicker.net/User/838364/%E7%94%A8%E6%88%B7GBV9Qd7NAwA,1.6 KB,2024-03-07 11:31,0,,2024-03-08
+日期时间展台,https://getquicker.net/Sharedaction?code=59e1669b-6341-490d-45e8-08dc2caf52de,实时展示本地日期和时间的看板展台App,通用,Foolworld,https://getquicker.net/User/911852/Foolworld,19.6 KB,2024-02-14 10:07,2,"更新缓存地址,修复右键菜单bug",2024-03-08
+悬浮多用,https://getquicker.net/Sharedaction?code=1053ca1b-d989-4e6c-f3d6-08dc3dc9f8c9,在窗口外：召唤，窗口内：驱回,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,209.3 KB,2024-03-07 10:18,1,bug,2024-03-08
 小白,https://getquicker.net/Sharedaction?code=f2857e3c-9afd-482c-7f54-08d8fe1fe745,努力领会主人意图,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,130.9 KB,2021-04-14 09:07,29,修复：从文本中自动提取网址的bug,2024-03-08
+svg path提取,https://getquicker.net/Sharedaction?code=c4cb0c06-3215-4556-c187-08dc3cd0cba5,从svg中提取path路径，可自定义合成输出,通用,SoloShine,https://getquicker.net/User/402701/SoloShine,21.7 KB,2024-03-06 17:01,3,右键菜单添加自定义提取路径及属性，以解决某些html包装不规范或特殊包装的情况；,2024-03-08
 巴德Windows运维,https://getquicker.net/Sharedaction?code=eaf32a42-4c5b-4b6a-c6f4-08dc1baf171d,通过命令行打开Windows各种功能。,通用,Bader,https://getquicker.net/User/135289/Bader,7.4 KB,2024-01-23 17:14,2,调整自定义命令到最前,2024-03-08
 Copilot,https://getquicker.net/Sharedaction?code=794c000e-3a63-4ef7-c171-08dc3cd0cba5,Quicker版本Copilot测试,Microsoft Edge,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),61 KB,2024-03-06 10:23,1,"1. 参数配置增加模型选择功能
 2. 注册托盘程序，即在右下角会出现一个图标，左键点击即可隐藏和召唤copilot，右键点击可退出 (感谢HDG)",2024-03-08
