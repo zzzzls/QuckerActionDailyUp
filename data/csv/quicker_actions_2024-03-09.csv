@@ -1,0 +1,7 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+BgSub抠图,https://getquicker.net/Sharedaction?code=4e43e556-4135-4536-1767-08da89d86f6b,免费支持批量一键抠图，本地处理无需上传图像，高清原图保存,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,11.4 KB,2022-08-30 09:48,5,修bug,2024-03-10
+Obsidian 库,https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4,搜索并打开 Obsidian 的库。,Obsidian,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,32.3 KB,2022-10-01 20:44,7,[=] 如果只有一个库，则直接打开那个库,2024-03-10
+智能备份,https://getquicker.net/Sharedaction?code=8dfe1e68-33f0-4329-14ae-08da4a84097c,笔记的最好伴侣，从此数据无忧,sm18,风未知,https://getquicker.net/User/59944/%E9%A3%8E%E6%9C%AA%E7%9F%A5,576.2 KB,2022-06-11 12:26,173,"为快照列表与提交列表窗口添加标题
+（顺便把刚刚那个更新中打错的 form 修正回 from，这个真的不是主要目的！）",2024-03-10
+示例：同时运行,https://getquicker.net/Sharedaction?code=994a8b9c-c6b1-4ed2-131f-08dc3fd1c03b,在步骤组中开启多线程，同时运行2个子程序,通用,CL,https://getquicker.net/User/3/CL,3.9 KB,2024-03-09 14:04,1,更改名称,2024-03-10
+唤出Directory Opus,https://getquicker.net/Sharedaction?code=07dccb31-afc5-4501-57d9-08dc3eb8f95b,若已启动则唤出窗口，若未启动则启动唤出；,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,6.7 KB,2024-03-09 01:33,0,,2024-03-10
