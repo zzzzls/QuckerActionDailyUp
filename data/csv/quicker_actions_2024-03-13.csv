@@ -1,0 +1,13 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+ZoteroToEagle,https://getquicker.net/Sharedaction?code=85b92307-2003-47bd-afea-08dc426a44c3,ZoteroToEagle,Zotero,熊猫别熬夜,https://getquicker.net/User/634327/%E7%86%8A%E7%8C%AB%E5%88%AB%E7%86%AC%E5%A4%9C,18.1 KB,2024-03-12 17:02,5,最终复制Zotero链接,2024-03-14
+滴答清单-唤出,https://getquicker.net/Sharedaction?code=0fd60895-812b-4815-a428-08dc435c8f91,未启动则启动；已启动则唤出；支持输入解锁密码、以及最小化到任务栏的情况；,通用,W.JAN,https://getquicker.net/User/56701/W.JAN,9.2 KB,2024-03-13 21:49,0,,2024-03-14
+文本分词合并,https://getquicker.net/Sharedaction?code=fa0289d1-c2e0-4286-44e4-08dba7ba3b5d,对指定文本进行分词后选择特定词合并。ctrl+C可以快速复制选中内容。Enter可快速发送内容到窗口。,通用,flyskyz,https://getquicker.net/User/220509/flyskyz,64.2 KB,2023-08-29 16:38,8,"本次更新增加功能，修复bug（你需要清空旧的动作数据，才可以使用新的功能）
+1. 新增ctrl+C快速复制内容，Enter快速将内容发送到窗口；
+2. 新增【复制后不关闭页面】选项，默认关闭，开启后，当点击发送到剪切板时不会退出界面；
+3. 修复了保留发送文本的bug；",2024-03-14
+打开 WT,https://getquicker.net/Sharedaction?code=7a44e160-d6b1-425d-b017-08dc426a44c3,在当前文件夹打开windows terminal,WindowsTerminal.exe,zjp2job,https://getquicker.net/User/903982/zjp2job,12.6 KB,2024-03-13 18:55,0,,2024-03-14
+预估销量,https://getquicker.net/Sharedaction?code=bb1b6290-510a-4307-ebd6-08dc1c8bc2af,亚马逊 - 卖家精灵的销量预估,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,90.7 KB,2024-01-24 17:31,6,弹窗尽可能保持预估前位置,2024-03-14
+备注+-,https://getquicker.net/Sharedaction?code=aed15524-2c1e-46ab-f3ce-08dc3dc9f8c9,为文件加备注，简易版,Directory Opus,W.JAN,https://getquicker.net/User/56701/W.JAN,5.4 KB,2024-03-06 23:46,1,调整,2024-03-14
+时间,https://getquicker.net/Sharedaction?code=cca1c807-19bb-49b5-623a-08d9a4c9f420,时间,通用,Cea,https://getquicker.net/User/113342/Cea,35.2 KB,2021-11-11 18:00,20,修复可能出现的UI刷新之后的问题,2024-03-14
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,388.8 KB,2023-10-22 15:24,175,AI网站优化,2024-03-14
+8方滑行（鼠标闪现）改,https://getquicker.net/Sharedaction?code=fa394132-a9f5-47e5-4049-08dc41766143,拓展按下并立刻移动触发方式。,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,71.3 KB,2024-03-12 15:48,1,0,2024-03-14
