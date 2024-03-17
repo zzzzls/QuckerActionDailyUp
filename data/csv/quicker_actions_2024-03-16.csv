@@ -1,22 +1,17 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,385 KB,2023-10-22 15:24,182,"参数全部集中
-C:\Users\用户名\Documents\Quicker\搜神_LKF
-
-Biao情栏
-历史记录
-是否筛选
-搜全部分类
-搜神实时搜索词
-搜神选项记忆
-搜神自定义网站参数路径
-
-",2024-03-17
 Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,609.6 KB,2023-03-16 00:45,36,"1. 新增：折叠的翻译服务不翻译，待用户展开后再触发翻译
 2. 新增：DeepL支持Free和Pro的个人申请接口
 3. 新增：支持自定义 OCR 接口动作（在设置里配置）
 4. 修复：Bing词典、360词典等失效服务
 5. 优化：翻译服务展开动画",2024-03-17
-键盘增量Pro,https://getquicker.net/Sharedaction?code=106f52a3-cd3f-4e3c-20a3-08dbc3b90ceb,illustrator 设置增量以及复制对象,Adobe Illustrator,Illustrator_...,https://getquicker.net/User/456480/Illustrator_QK%E6%8F%92%E4%BB%B6,186.8 KB,2023-10-03 20:39,20,1,2024-03-17
+文本分词合并,https://getquicker.net/Sharedaction?code=fa0289d1-c2e0-4286-44e4-08dba7ba3b5d,对指定文本进行分词后选择特定词合并。ctrl+C可以快速复制选中内容。Enter可快速发送内容到窗口。,通用,flyskyz,https://getquicker.net/User/220509/flyskyz,65 KB,2023-08-29 16:38,10,"本次更新，优化了一些逻辑。
+1. 优化了在选中文本优先情况下，在选中文本失败可能导致意外复制文本，使得原剪切板文本内容被顶替问题；
+2. 优化了保留发送文本逻辑（现在为保留原始剪切板文本）",2024-03-17
 Demo：注册托盘图标,https://getquicker.net/Sharedaction?code=04398014-b544-4a16-818a-08dc0de050dc,注册一个托盘图标，并设置右键菜单,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,49.4 KB,2024-01-06 07:22,4,+ 【点击时运行子程序】、【子程序输入】,2024-03-17
-颜色工具,https://getquicker.net/Sharedaction?code=f6bfd471-36ea-4caa-e16d-08dc455790aa,illustrator 颜色增强工具,通用,Illustrator_...,https://getquicker.net/User/456480/Illustrator_QK%E6%8F%92%E4%BB%B6,658 KB,2024-03-16 17:04,4,1,2024-03-17
+选中引号内容,https://getquicker.net/Sharedaction?code=b3d67169-a7a7-49a8-b2e0-08dc39f7d1f3,如有多个引号则框选引号内部分内容，否则仅框选行中第一个引号内，前后引号可自行修改。,通用,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,23.6 KB,2024-03-02 18:02,9,解决剪贴板被覆盖。,2024-03-17
+复制上层名,https://getquicker.net/Sharedaction?code=1396f8b9-3114-4435-e171-08dc455790aa,资源管理器要获取上一级的文件夹名称非常不方便，此动作解决这点。,Windows 资源管理器,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,2.1 KB,2024-03-16 19:36,1,复制成功提示文件夹名,2024-03-17
+XLS转换,https://getquicker.net/Sharedaction?code=868ca83f-e3c0-455e-e16f-08dc455790aa,一键转换Excel格式（将XLS转换XLSX格式），大幅减小文件体积。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,8.2 KB,2024-03-16 17:43,0,,2024-03-17
+白描OCR,https://getquicker.net/Sharedaction?code=997f3812-8928-4c6c-a98a-08dab0af50de,选择单张图片文件、或直接截图，调用白描OCR进行文字识别,通用,用户KGvfuMisAgA,https://getquicker.net/User/583272/%E7%94%A8%E6%88%B7KGvfuMisAgA,190.8 KB,2022-10-18 22:51,28,"1. pdf识别增加了提示，以免pdf过多时，不知道是正在运行识别还是卡住了。
+2. 默认识别类型可以设置为pdf识别了。",2024-03-17
+填统计局报表助手,https://getquicker.net/Sharedaction?code=a15415c9-636e-485d-d2bb-08dc4451c63c,查询会计科目并获取其金额,Microsoft Excel,Maxwell2077,https://getquicker.net/User/811588/Maxwell2077,31.7 KB,2024-03-15 18:46,2,增加了自动填网页报表的功能,2024-03-17
 滴答清单-唤出,https://getquicker.net/Sharedaction?code=0fd60895-812b-4815-a428-08dc435c8f91,未启动则启动；已启动则唤出；支持输入解锁密码、以及最小化到任务栏的情况；,通用,W.JAN,https://getquicker.net/User/56701/W.JAN,6.8 KB,2024-03-13 21:49,2,调整,2024-03-17
