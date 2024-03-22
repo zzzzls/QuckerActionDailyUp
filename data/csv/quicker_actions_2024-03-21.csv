@@ -1,14 +1,10 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 影视库,https://getquicker.net/Sharedaction?code=910e7f51-1466-4e03-a43f-08dc435c8f91,喜欢用网站看电视的快捷启动器，也可以当作电视库存,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,41.9 KB,2024-03-14 14:56,7,修复BUG,2024-03-22
 文件标记,https://getquicker.net/Sharedaction?code=32466da4-424b-4ea5-eb61-08daf8e2d2bd,文件名中快速添加标记,Windows 资源管理器,pinbo,https://getquicker.net/User/549488/pinbo,117.9 KB,2023-01-18 21:15,9,修复标记个数多于9个时的bug,2024-03-22
-规范打开,https://getquicker.net/Sharedaction?code=ae3d5cf1-57be-4704-4e16-08dc0e606679,对选中的文件：1.备份，2.规范命名，3.打开,Windows 资源管理器,iDenny,https://getquicker.net/User/459511/iDenny,178.4 KB,2024-01-06 19:17,14,"1、增加文件打开模式，徽标文字展示；
-2、徽标图标，显示是否预览",2024-03-22
 图层智能,https://getquicker.net/Sharedaction?code=a20bb7af-c353-407c-9671-08db2e83fcea,图层解锁/智能格栅交互转换/多格栅图层合并,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,21.2 KB,2023-03-27 23:00,15,优化错误,2024-03-22
-添加到dailynote,https://getquicker.net/Sharedaction?code=b95fe952-54f9-434a-f2a9-08dc4938cae7,选中文本后自动添加→思源dailynote,SiYuan,四分图,https://getquicker.net/User/245111/%E5%9B%9B%E5%88%86%E5%9B%BE,6.6 KB,2024-03-21 15:00,1,优化多行文本,2024-03-22
 禁止浏览器恢复页面,https://getquicker.net/Sharedaction?code=49177f35-ff7a-4666-f2a8-08dc4938cae7,浏览器被强制退出后再次启动，会有“要恢复页面吗？”的弹窗。运行此动作可禁止，按住Ctrl键运行可恢复。,通用,EC10010,https://getquicker.net/User/2997/EC10010,39.2 KB,2024-03-21 14:56,1,修改动作名。,2024-03-22
 远程控制简易版,https://getquicker.net/Sharedaction?code=4e31c817-5217-40ca-f29a-08dc4938cae7,"简介有演示视频, 动作请勿改名, 被控端也需要安装, 可用本机远程控制本机进行测试",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,64.3 KB,2024-03-21 10:53,2,完善注释和优化流程,2024-03-22
 公式识别,https://getquicker.net/Sharedaction?code=1bdedee6-4774-42d3-7697-08d950c2afd2,截图后识别公式,通用,CL,https://getquicker.net/User/3/CL,7.1 KB,2021-07-28 14:56,1,限制选择框大小,2024-03-22
 文档链接批注（有换行）,https://getquicker.net/Sharedaction?code=71f5c2e8-f71c-4be3-f297-08dc4938cae7,（有换行）在Flowus（edge）/word中输出文献标题和跳转链接,Zotero,北大待霄草的生活书房,https://getquicker.net/User/621941/%E5%8C%97%E5%A4%A7%E5%BE%85%E9%9C%84%E8%8D%89%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B9%A6%E6%88%BF,17.5 KB,2024-03-21 10:15,0,,2024-03-22
 窗口恢复,https://getquicker.net/Sharedaction?code=56769d4f-ee81-4b2e-8a48-08dc47297450,恢复所有隐藏窗口,通用,dalou,https://getquicker.net/User/76824/dalou,18.5 KB,2024-03-19 15:07,2,-,2024-03-22
 声笔一键,https://getquicker.net/Sharedaction?code=a570c0c0-1a11-409b-24e3-08dc481c770b,全自动化搞定声笔打字在电脑上的安装部署,通用,Poto,https://getquicker.net/User/137838/Poto,20.8 KB,2024-03-20 13:00,4,优化,2024-03-22
-批下网图,https://getquicker.net/Sharedaction?code=e2803c0a-d040-4eec-a437-08dc435c8f91,批量下载网图，并存到以网页为标题的文件夹里,通用,笑屁孩,https://getquicker.net/User/475444/%E7%AC%91%E5%B1%81%E5%AD%A9,19.5 KB,2024-03-14 13:04,2,标题替换特殊字符和空格,2024-03-22
