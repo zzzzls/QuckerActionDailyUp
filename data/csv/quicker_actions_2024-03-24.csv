@@ -1,0 +1,17 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+粉笔错题\n制Anki卡,https://getquicker.net/Sharedaction?code=de20f7eb-516d-4d4f-60bb-08db8d6f0068,全自动,anki.exe,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,100.9 KB,2023-07-26 23:28,21,修复正则提取来源题号,2024-03-25
+论文检索,https://getquicker.net/Sharedaction?code=ba44a4a9-e2f6-4cac-5a72-08dbfdbb1fb8,谷歌，知网快捷论文搜索,通用,1xwx1,https://getquicker.net/User/966592/1xwx1,6.9 KB,2023-12-16 08:57,1,更新知网链接,2024-03-25
+移动重命名,https://getquicker.net/Sharedaction?code=13cb2d09-9cfb-4503-1e11-08dba1189b3c,预设规则，文件〔移动/复制/更名〕，只需一步操作。,Windows 资源管理器,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,233.1 KB,2023-08-21 13:04,7,"- 支持排序获取的文件
+- 更名规则支持编号标签 
+  <#> 代表 1, 2, 3 ....
+  <#:D3> 代表 001, 002, 003 ...",2024-03-25
+浏览器记录备份,https://getquicker.net/Sharedaction?code=aeec48b2-540c-4ba6-fe04-08db64cacbdf,浏览器早期的历史记录总是莫名消失，想再查就很麻烦，于是做了这个，随时记录和查找，每日一次云备份防止记录丢失,Google Chrome,blanka,https://getquicker.net/User/667540/blanka,312.4 KB,2023-06-05 17:32,6,~实时关闭掉之前的旧窗口,2024-03-25
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,328.9 KB,2023-12-05 00:57,32,"-取消帧率设置，动作自动计算帧率。
+~修复区域录制时文件为空或无法打开的问题。",2024-03-25
+长连接传文件,https://getquicker.net/Sharedaction?code=cf002ba3-8e1d-4f1b-e891-08dc4af4df6f,利用quicker长连接，通过【http快捷方式】软件和webdav账户，将手机文件发给电脑。设置并导出json后放置在后台即可,通用,blanka,https://getquicker.net/User/667540/blanka,36.6 KB,2024-03-24 02:04,1,~修复409报错，感谢Sunsh反馈,2024-03-25
+取消隐藏列,https://getquicker.net/Sharedaction?code=00d0e325-2381-4b86-4430-08db2cd0cad4,解决了Ctrl+Shift+0快捷键无法使用的问题,Microsoft Excel,石头亚历山大,https://getquicker.net/User/201303/%E7%9F%B3%E5%A4%B4%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7,660 B,2023-03-25 12:57,1,更新图标,2024-03-25
+无水印解析,https://getquicker.net/Sharedaction?code=caaf75e4-9ce2-43d3-53d4-08dbf9f189d3,抖音、小红书无水印解析，视频图集一键下载,通用,昔枫沐杰,https://getquicker.net/User/496278/%E6%98%94%E6%9E%AB%E6%B2%90%E6%9D%B0,39.5 KB,2023-12-11 18:30,2,更新抖音接口,2024-03-25
+BgSub抠图,https://getquicker.net/Sharedaction?code=42a0aeed-28e3-4366-e89a-08dc4af4df6f,上传至BgSub抠图,Adobe Photoshop,七月丶,https://getquicker.net/User/962080/%E4%B8%83%E6%9C%88%E4%B8%B6,21.6 KB,2024-03-24 13:59,1, ,2024-03-25
+日期时间展台,https://getquicker.net/Sharedaction?code=59e1669b-6341-490d-45e8-08dc2caf52de,实时展示本地日期时间的简易展台/App模式,通用,Foolworld,https://getquicker.net/User/911852/Foolworld,22.4 KB,2024-02-14 10:07,4,修改信息,2024-03-25
+普通话_命题说话,https://getquicker.net/Sharedaction?code=16c960cc-8a8f-4e8f-e895-08dc4af4df6f,2024最新大纲，命题说话（50题），限时3分钟，共40分。完全模拟。,通用,喵喵香子兰~,https://getquicker.net/User/489444/%E5%96%B5%E5%96%B5%E9%A6%99%E5%AD%90%E5%85%B0~,31.2 KB,2024-03-24 11:10,0,,2024-03-25
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),692.2 KB,2023-06-26 19:07,168,新增一键白嫖“通义千问”，快去右键参数配置中选择 “白嫖qwen”吧,2024-03-25
