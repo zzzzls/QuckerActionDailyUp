@@ -1,0 +1,20 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,395.5 KB,2023-10-22 15:24,197,"删除大写，新增[知识类网站]
+哒哒文库-更好用的公文写作网站",2024-03-27
+存图,https://getquicker.net/Sharedaction?code=eefe16c3-c197-4374-a4c2-08dbb4bd66e6,储存/收藏图片、一键打开、云端储存、多端同步、随时查看、极简操作。,通用,M-cc,https://getquicker.net/User/521120/M-cc,154.8 KB,2023-09-15 13:25,8,+增加图库为空时云端存取的判断，避免未知错误。,2024-03-27
+MC百科导出,https://getquicker.net/Sharedaction?code=cee559c3-7635-48d5-1334-08dc3fd1c03b,快速填写MC百科资料导出贴所需数据,Google Chrome,会空中劈叉的荧,https://getquicker.net/User/767338/%E4%BC%9A%E7%A9%BA%E4%B8%AD%E5%8A%88%E5%8F%89%E7%9A%84%E8%8D%A7,37.7 KB,2024-03-09 20:14,1,可选自动打开和填充批量导入帖,2024-03-27
+bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,7 KB,2024-03-19 21:01,3,更名为'bydown'，新增油管（YouTube）下载,2024-03-27
+运行指定宏,https://getquicker.net/Sharedaction?code=21c26a62-a40a-4ce6-57a5-08dc4cdeca3f,运行特定的宏,SOLIDWORKS 2018,用户eyxaoge3BAA,https://getquicker.net/User/1023617/%E7%94%A8%E6%88%B7eyxaoge3BAA,2.4 KB,2024-03-26 21:37,0,,2024-03-27
+公众号点赞,https://getquicker.net/Sharedaction?code=0f6fdd12-ba49-4131-5797-08dc4cdeca3f,给你喜欢的公众号文章点赞,WeChat,笑屁孩,https://getquicker.net/User/475444/%E7%AC%91%E5%B1%81%E5%AD%A9,66.4 KB,2024-03-26 19:04,0,,2024-03-27
+直译,https://getquicker.net/Sharedaction?code=4f7100ff-14b6-4d14-782f-08d99fa081d4,翻译选中文本，若无选中则翻译整行。,通用,Anlv,https://getquicker.net/User/392637/Anlv,35.4 KB,2021-11-05 09:15,3,优化右键设置，可直接设置首选翻译引擎和备用翻译引擎。,2024-03-27
+文本编辑器,https://getquicker.net/Sharedaction?code=7b41583d-0ca0-4d1c-d997-08d925610577,轻便记事本 or 文本处理工具,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,469.2 KB,2021-06-02 12:50,29,"- 功能：“对符”新增六角括号和尖括号
+- 修复：“合并多个空行”的代码typo
+- 修复：“清除特定字符”的代码typo
+- 优化：“按字数拆分”支持非BMP汉字
+- 优化：“生成字符列表”支持多字一行
+- 优化：检测并修正不统一的换行符
+- 优化：超级文本替换以LF处理文本",2024-03-27
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,340.6 KB,2023-12-05 00:57,34,+增加右上角提示样式二【可手动点击停止录制】,2024-03-27
+万能口袋,https://getquicker.net/Sharedaction?code=749f75da-6762-4fe7-da7b-08da54002c0e,搜索框样式快捷存取口袋,通用,dalou,https://getquicker.net/User/76824/dalou,227.3 KB,2022-06-22 11:45,8,-,2024-03-27
+置入,https://getquicker.net/Sharedaction?code=5afa51f4-7f05-4952-b7e4-08dbfeacfcf3,将剪贴板中的路径文件，置入到PS中。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,7.3 KB,2023-12-18 09:21,2,支持直接对文件执行,2024-03-27
+WIFI密码3.0,https://getquicker.net/Sharedaction?code=5684ca46-b740-4298-bc65-08d6ff5fa1f2,快速查看wifi密码,通用,KBC,https://getquicker.net/User/5221/KBC,61.3 KB,2019-07-04 12:59,34,脚本优化,2024-03-27
