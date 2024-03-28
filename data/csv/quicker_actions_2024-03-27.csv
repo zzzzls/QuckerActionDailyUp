@@ -1,6 +1,5 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 论文检索,https://getquicker.net/Sharedaction?code=ba44a4a9-e2f6-4cac-5a72-08dbfdbb1fb8,自定义常用学术文献搜索网站,通用,1xwx1,https://getquicker.net/User/966592/1xwx1,19.6 KB,2023-12-16 08:57,8,新增识图搜文献功能，未选中文本则转为截图识别文献,2024-03-28
-bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,7.6 KB,2024-03-19 21:01,4,pref: 添加注释、提升健壮性,2024-03-28
 定位文件位置,https://getquicker.net/Sharedaction?code=72836ebe-2cc4-4683-aff3-08dc426a44c3,CDR定位当前文件位置，2022测试没问题 低版本可能不行,CorelDRAW 2018 (64-Bit),zdf153,https://getquicker.net/User/20184/zdf153,1.4 KB,2024-03-12 21:20,1,修复bug,2024-03-28
 编制目录,https://getquicker.net/Sharedaction?code=8dac1506-9854-4af5-5738-08dc4dd1cd4e,源泉设计 编制图纸目录，生成表格，将表格文字居中，导出到wps，连续步骤,AutoCAD Application,ashanche,https://getquicker.net/User/321024/ashanche,713 B,2024-03-27 20:22,0,,2024-03-28
 排列图纸,https://getquicker.net/Sharedaction?code=0c949e11-6254-49f0-5737-08dc4dd1cd4e,源泉设计 排列图纸,AutoCAD Application,ashanche,https://getquicker.net/User/321024/ashanche,717 B,2024-03-27 20:20,0,,2024-03-28
@@ -16,10 +15,8 @@ Copilot!,https://getquicker.net/Sharedaction?code=aeb50a64-c8eb-4e9d-7e8e-08dc25
 - 新增：条目右键菜单「移至分组」",2024-03-28
 导出OBJ,https://getquicker.net/Sharedaction?code=3cd3b975-6153-430f-572d-08dc4dd1cd4e,快速将场景导出为obj格式,3ds Max application,落日画梁,https://getquicker.net/User/575190/%E8%90%BD%E6%97%A5%E7%94%BB%E6%A2%81,4.7 KB,2024-03-27 18:48,0,,2024-03-28
 sql文本替换,https://getquicker.net/Sharedaction?code=68863dbf-4df9-4171-d5b7-08d82dd7cfe2,文本替换,通用,7788jay,https://getquicker.net/User/24857/7788jay,4.8 KB,2020-07-22 13:43,1,去除空行,2024-03-28
-Kimi Assistant,https://getquicker.net/Sharedaction?code=1d51f1aa-4ec2-458a-5729-08dc4dd1cd4e,使用 Kimi.ai 帮助快速阅读网页，支持 API 和 网页自动化（需要Quicker插件） 访问！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,17.2 KB,2024-03-27 17:47,1,prompt保存问题修复,2024-03-28
 下拉式终端,https://getquicker.net/Sharedaction?code=8e2bc5c9-d4c8-423f-571f-08dc4dd1cd4e,下拉上滑式的CMD控制台，请自行绑定快捷键,Windows 命令处理程序,阿尔卑斯の白,https://getquicker.net/User/518622/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E3%81%AE%E7%99%BD,19.7 KB,2024-03-27 14:33,4,解决最小化时，窗口大小被缩放的问题,2024-03-28
 效率办公助手,https://getquicker.net/Sharedaction?code=4c3fe8ba-c5e0-4158-7ea6-08dc251ced29,免费实用智能，财审、券商、投行打工人必备的效率办公助手！,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,387.5 KB,2024-02-05 11:54,25,【新增】新增增加两位小数功能，即为整数数值补充 .00,2024-03-28
 拾录记事本,https://getquicker.net/Sharedaction?code=c686b17d-b40d-4631-ee74-08d9ffe2991a,替代电脑记事本的文本处理工具，可获取选中文本并进行删除、替换、排序等操作。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,398.7 KB,2022-03-07 13:59,39,新增时间隔断，可在模式设置下开启 @千隐盟,2024-03-28
 Cinema 4D,https://getquicker.net/Sharedaction?code=dadc20dd-627f-43b4-2f90-08dbecaddff5,通过 Everything 搜索本机 Cinema 4D 并运行。,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,45.3 KB,2023-11-24 17:33,1,右键菜单添加常用网址(Cinema 4D/ Octane).,2024-03-28
 选中引号内容,https://getquicker.net/Sharedaction?code=b3d67169-a7a7-49a8-b2e0-08dc39f7d1f3,如有多个引号则框选引号内部分内容，否则仅框选行中第一个引号内，前后引号可自行修改。,通用,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,25.3 KB,2024-03-02 18:02,14,还原弹出面板前位置,2024-03-28
-显示托盘,https://getquicker.net/Sharedaction?code=8e075cd4-6f7a-4c26-5639-08d9eec3922c,显示并移动系统托盘至光标处,通用,dalou,https://getquicker.net/User/76824/dalou,45.7 KB,2022-02-14 19:03,9,修复Quicker1.42.22版本无法获取控件信息的问题,2024-03-28
