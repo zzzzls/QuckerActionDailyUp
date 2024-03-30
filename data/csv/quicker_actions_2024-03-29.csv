@@ -1,5 +1,12 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-灵搜,https://getquicker.net/Sharedaction?code=dd2fa2b4-46dc-48f8-b6da-08db782fe3a2,高效搜索，网站、浏览器书签、浏览器历史记录、安装应用、本地文件、图片等等；提供选中文件处理；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,304.7 KB,2023-06-29 11:12,246,解决初运行问题,2024-03-30
+便捷截图,https://getquicker.net/Sharedaction?code=c83195eb-ce62-4b7f-b980-08dbe7797a52,按应用将截图保存到对应的目录，并可自定义保存名称、时间戳、前后缀等。,通用,ataa,https://getquicker.net/User/818193/ataa,124 KB,2023-11-18 23:11,16,"优化：
+1. 打开目录，可打开任意保存目录
+2. 截图成功的提示条的显示
+1. 保存默认名称的一个判断方式
+
+修复：一个传入参数缺失的错误",2024-03-30
+直链转换,https://getquicker.net/Sharedaction?code=211a1ef7-62ce-4349-d561-08dc4fba22b5,OneDrive直链 转换 需要python环境,通用,ASUNNY,https://getquicker.net/User/579075/ASUNNY,2.5 KB,2024-03-29 22:13,0,,2024-03-30
+调整 Warudo 窗口尺寸,https://getquicker.net/Sharedaction?code=07d20d2e-97a9-482f-357b-08dc102fde90,选择需要的尺寸后，调整 Warudo 窗口。,warudo.exe,星雨透,https://getquicker.net/User/455817/%E6%98%9F%E9%9B%A8%E9%80%8F,7.2 KB,2024-01-08 21:58,2,增加选项,2024-03-30
 论文检索,https://getquicker.net/Sharedaction?code=ba44a4a9-e2f6-4cac-5a72-08dbfdbb1fb8,学术文献快捷搜索,通用,1xwx1,https://getquicker.net/User/966592/1xwx1,20.5 KB,2023-12-16 08:57,9,新增自定义排序功能,2024-03-30
 操作选中文本,https://getquicker.net/Sharedaction?code=d9dff62d-4918-4458-d54d-08dc4fba22b5,搭配扩展热键使用，实现对文本的复制，粘贴，剪切，删除。传入参数：选中整行、选中至文档末尾、选中至文档开头,通用,原++,https://getquicker.net/User/189784/%E5%8E%9F__,5.6 KB,2024-03-29 15:06,1,更新,2024-03-30
 自动遍历解压缩,https://getquicker.net/Sharedaction?code=3877d9c2-be24-4325-be96-08dc4ec30b16,用于压缩包一层一层的解压缩,Windows 资源管理器,用户9-sjN3WjAwA,https://getquicker.net/User/787946/%E7%94%A8%E6%88%B79-sjN3WjAwA,32.8 KB,2024-03-28 15:52,1,优化配置,2024-03-30
