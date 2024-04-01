@@ -1,0 +1,15 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+yt-dlp,https://getquicker.net/Sharedaction?code=80878eae-5441-489c-f9e3-08dc50b4b80a,目前只测试YouTube视频，需要提前适配好ffmpeg环境,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,22 KB,2024-03-31 22:41,1,优化代码,2024-04-01
+视频小工具,https://getquicker.net/Sharedaction?code=c571c9f3-989a-4aa8-adb6-08da6e569e28,批量去片头片尾，裁剪视频，视频转码，音频提取，合并视频等；自动配置FFmpeg,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,154.7 KB,2022-07-26 10:47,21,更新依赖下载源,2024-04-01
+图片转压,https://getquicker.net/Sharedaction?code=b02b6993-578d-4cc5-c37e-08dbdbb6e0f3,支持图片转格式，图片压缩，缩放大小,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,74.7 KB,2023-11-03 14:21,5,更新依赖下载源,2024-04-01
+AI提示词,https://getquicker.net/Sharedaction?code=6030a945-86c4-4a68-d29f-08dc4451c63c,快捷输入常用提示词,通用,#ABC,https://getquicker.net/User/208928/%23ABC,1.9 KB,2024-03-15 13:45,3, ,2024-04-01
+暂停进程,https://getquicker.net/Sharedaction?code=72a56680-59c0-4ab3-f9de-08dc50b4b80a,暂停任意进程。思路来自于CE修改器。,通用,M-cc,https://getquicker.net/User/521120/M-cc,14 KB,2024-03-31 19:22,1,发布,2024-04-01
+表格行删除,https://getquicker.net/Sharedaction?code=2ea2a6d3-81d6-4661-5d87-08dc207356cf,表格行删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,13.3 KB,2024-01-29 12:47,1,增加删除所有行,2024-04-01
+科研通签到,https://getquicker.net/Sharedaction?code=9170ae97-70eb-4db9-f9d3-08dc50b4b80a,打开科研通网站并自动签到,通用,大怪兽芙珑,https://getquicker.net/User/716549/%E5%A4%A7%E6%80%AA%E5%85%BD%E8%8A%99%E7%8F%91,3.7 KB,2024-03-31 13:04,0,,2024-04-01
+通达信输入,https://getquicker.net/Sharedaction?code=f22b16a5-caf4-4b75-f9d0-08dc50b4b80a,选中获取文本后跳转通达信输入,通达信应用程序,#ABC,https://getquicker.net/User/208928/%23ABC,3.2 KB,2024-03-31 11:55,0,,2024-04-01
+QQ好友搜索,https://getquicker.net/Sharedaction?code=f44279f3-1896-442f-f9cc-08dc50b4b80a,1.调起QQ面板2.激活搜索框3.加了判断条件，现在可以直接按快捷键搜索了,通用,用广名,https://getquicker.net/User/29536/%E7%94%A8%E5%B9%BF%E5%90%8D,4.7 KB,2024-03-31 09:37,1,本次更新新增了无参数模式。即点击该动作后直接拉起QQ主界面，并且激活搜索框。,2024-04-01
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),698.6 KB,2023-06-26 19:07,170,新增step(跃问) ai大模型白嫖方式，更多AI时代白嫖方案欢迎加入《AI时代共生法则》一起学习,2024-04-01
+Kimi Assistant,https://getquicker.net/Sharedaction?code=1d51f1aa-4ec2-458a-5729-08dc4dd1cd4e,使用 Kimi.ai 帮助快速阅读网页，支持 API 和 网页自动化（需要Quicker插件） 访问！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,24.8 KB,2024-03-27 17:47,5,"pref: 优化选中文字的逻辑
+
+【强化逻辑】现在如果正则提取失败就会重新获取当前网址的prompt再进行提取",2024-04-01
+浏览器记录备份,https://getquicker.net/Sharedaction?code=aeec48b2-540c-4ba6-fe04-08db64cacbdf,浏览器早期的历史记录总是莫名消失，想再查就很麻烦，于是做了这个，随时记录和查找，每日一次云备份防止记录丢失,Google Chrome,blanka,https://getquicker.net/User/667540/blanka,356.1 KB,2023-06-05 17:32,9,~修复搜索后闪退,2024-04-01
