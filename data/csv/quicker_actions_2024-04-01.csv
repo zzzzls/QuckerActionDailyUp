@@ -1,0 +1,33 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Daily Note,https://getquicker.net/Sharedaction?code=e23888c1-80c7-41fd-e88b-08dc4af4df6f,添加选中的或剪贴板中的文本到思源笔记 dailynote 中,SiYuan,JeffreyChen,https://getquicker.net/User/915255/JeffreyChen,34.9 KB,2024-03-23 22:06,1,剪贴板不含有文本时也能打开文本框输入,2024-04-02
+Kimi Assistant,https://getquicker.net/Sharedaction?code=1d51f1aa-4ec2-458a-5729-08dc4dd1cd4e,使用 Kimi.ai 帮助快速阅读网页，支持 API 和 网页自动化（需要Quicker插件） 访问！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,26.4 KB,2024-03-27 17:47,6,"pref: 更新API接口返回的内容为文本窗口 & 增加 API 地址 
+
+1. 为了查看方便将API模式的返回结果更改文文本窗口
+2. 可以自定义API地址发送，这个主要是GitHub有一个项目可以无限请求Kimi 这个大大节省跳转时间（https://github.com/LLM-Red-Team/kimi-free-api），具体可以看主页教程",2024-04-02
+本地AI抠图,https://getquicker.net/Sharedaction?code=8628b9bd-dd9c-4d16-86ca-08dc51d79bc5,调用本地AI 一键抠图。商用级效果，没有比这更快的一键抠图方法！ ,通用,我的梦想捐钱修路建学校,https://getquicker.net/User/175959/%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E6%8D%90%E9%92%B1%E4%BF%AE%E8%B7%AF%E5%BB%BA%E5%AD%A6%E6%A0%A1,12.4 KB,2024-04-01 22:08,0,,2024-04-02
+转换为数字格式,https://getquicker.net/Sharedaction?code=bb54b266-5286-430c-86c7-08dc51d79bc5,将选中的单元格转为数字格式,Microsoft Excel,CL,https://getquicker.net/User/3/CL,1 KB,2024-04-01 21:11,0,,2024-04-02
+bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频以及小红书图片视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,35.6 KB,2024-03-19 21:01,11,fix: 修复使用稍后再看功能的是无法下载视频的bug,2024-04-02
+安装离线OCR,https://getquicker.net/Sharedaction?code=d8af44f5-1cf5-4726-d8a3-08db8336c661,一键运行全自动安装离线OCR。（自动下载/安装到指定位置）,通用,M-cc,https://getquicker.net/User/521120/M-cc,356 KB,2023-07-13 09:31,6,~更新离线OCR下载直连地址。,2024-04-02
+快截,https://getquicker.net/Sharedaction?code=b133bc96-502f-41bd-fccc-08dc31aa8621,快速简单截个图,通用,夏凉浮生,https://getquicker.net/User/766295/%E5%A4%8F%E5%87%89%E6%B5%AE%E7%94%9F,3.2 KB,2024-02-20 21:43,2,操作和标题————快（速）截（图）准（确）O（CR）,2024-04-02
+提取美金金额,https://getquicker.net/Sharedaction?code=6627bc8f-8041-4005-86c0-08dc51d79bc5,取数,Microsoft Excel,Maxwell2077,https://getquicker.net/User/811588/Maxwell2077,7.8 KB,2024-04-01 19:35,1,1.0,2024-04-02
+galgame 自动录制,https://getquicker.net/Sharedaction?code=e61a6c2f-6495-4954-78ef-08dba8aeb64e,使用此动作可一次性录制 galgame 至下一个选项分支后自动停止并提醒,通用,篠佳酱,https://getquicker.net/User/818286/%E7%AF%A0%E4%BD%B3%E9%85%B1,39 KB,2023-08-30 21:51,1,修复休眠提示看不见的问题,2024-04-02
+一键单括号,https://getquicker.net/Sharedaction?code=8bd3c77a-ad99-4e40-86b8-08dc51d79bc5,对选中的文本一键添加（）（单括号）,WPS Office,limin640,https://getquicker.net/User/983750/limin640,1.3 KB,2024-04-01 17:27,0,,2024-04-02
+单一对象缩放,https://getquicker.net/Sharedaction?code=3bc85507-0410-4d8e-86b7-08dc51d79bc5,对选中图层执行单一对象缩放.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,12.2 KB,2024-04-01 17:04,0,,2024-04-02
+公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.5 MB,2022-12-06 16:37,213,"1.进一步优化""二级三级连续列表编号""
+2.优化""运行VBA代码""子程序（WORD/WPS未打开文档时提示，不运行代码）",2024-04-02
+巴德倒计时,https://getquicker.net/Sharedaction?code=013f244e-a987-4930-86ac-08dc51d79bc5,调用网络资源做倒计时,通用,Bader,https://getquicker.net/User/135289/Bader,3.1 KB,2024-04-01 15:00,1,去除自定义功能,2024-04-02
+AI文献阅读,https://getquicker.net/Sharedaction?code=b1afea76-7c24-4b8c-86a6-08dc51d79bc5,上传zotero文献到kimi，让AI帮你读文献,Zotero,大怪兽芙珑,https://getquicker.net/User/716549/%E5%A4%A7%E6%80%AA%E5%85%BD%E8%8A%99%E7%8F%91,10.3 KB,2024-04-01 13:41,0,,2024-04-02
+输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,获取输入法在当前窗口的中/英状态，重复点击切换为小写的中/英文,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,46 KB,2024-04-01 13:20,0,,2024-04-02
+图表助手,https://getquicker.net/Sharedaction?code=a10bd04f-2ea7-4ed0-e54c-08dbbca28132,使用VBA处理WORD文档表格中的图片,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,333.5 KB,2023-09-24 10:07,31,"1.增加""反向选择""（注意：文档不能含有隐藏文本，选区中不能含有表格）
+2.改进表前表后添加空段落（添加空段落如是列表自动取消）
+3.改进运行VBA代码子程序
+4.调整动作右键菜单项",2024-04-02
+WPS自动保存,https://getquicker.net/Sharedaction?code=5736274a-82eb-4466-8698-08dc51d79bc5,每隔一段时间，自动触发ctrl+s保存文件,WPS Office,Runos,https://getquicker.net/User/250742/Runos,7.7 KB,2024-04-01 10:44,2,修复wps进程导致的报错提示,2024-04-02
+摘录笔记到Obsidian,https://getquicker.net/Sharedaction?code=5e465875-699e-4f4f-a251-08dc0740f11f,使用bookxnote、谷歌edge浏览器时摘录笔记到OB,BookxNote Pro,大怪兽芙珑,https://getquicker.net/User/716549/%E5%A4%A7%E6%80%AA%E5%85%BD%E8%8A%99%E7%8F%91,14.6 KB,2023-12-28 13:32,9,延长一点等待时间，提高容错,2024-04-02
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),698.6 KB,2023-06-26 19:07,171,目前KIMI，GLM，Step均支持免费截图OCR，请更新Quicker版本后使用，否则会说看不到我们给的图片链接,2024-04-02
+Json转表格,https://getquicker.net/Sharedaction?code=05e70fb4-cc16-4254-8699-08dc51d79bc5,Json转表格，直接粘贴,通用,7788jay,https://getquicker.net/User/24857/7788jay,2.8 KB,2024-04-01 10:45,0,,2024-04-02
+ExcelToJSON,https://getquicker.net/Sharedaction?code=c752e50d-3e05-47f0-1c52-08d95d50ce36,ExcelToJSON,通用,7788jay,https://getquicker.net/User/24857/7788jay,2.8 KB,2021-08-12 14:20,2,改用python脚本,2024-04-02
+巴德日记,https://getquicker.net/Sharedaction?code=fe09a606-2987-4b8e-52b4-08dc0cee7e1f,一键打开当天日记进行编写。,通用,Bader,https://getquicker.net/User/135289/Bader,12.2 KB,2024-01-05 10:36,3,日志文件增加周信息配置,2024-04-02
+材料核算,https://getquicker.net/Sharedaction?code=d231bced-903f-4640-8695-08dc51d79bc5,辅助计算板材、棒材体积与价格,通用,轻风拂柳,https://getquicker.net/User/308927/%E8%BD%BB%E9%A3%8E%E6%8B%82%E6%9F%B3,53.8 KB,2024-04-01 07:09,0,,2024-04-02
+声笔一键,https://getquicker.net/Sharedaction?code=a570c0c0-1a11-409b-24e3-08dc481c770b,全自动化搞定声笔打字在电脑上的安装部署,通用,Poto,https://getquicker.net/User/137838/Poto,65.6 KB,2024-03-20 13:00,7,"支持 声笔 20240331 版本
+人性化体验优化",2024-04-02
