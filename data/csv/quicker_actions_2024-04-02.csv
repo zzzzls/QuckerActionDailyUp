@@ -1,0 +1,13 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+取色者,https://getquicker.net/Sharedaction?code=ae0ca48d-8e39-4bd1-5ab0-08d7a77a2d92,屏幕取色与颜色收藏工具,通用,coucou,https://getquicker.net/User/79403/coucou,319.8 KB,2020-02-02 16:23,14,修复：无法更改配色方案名称,2024-04-03
+双屏互换,https://getquicker.net/Sharedaction?code=00d3dc58-c309-4638-fb03-08dbe58ac7d6,交换两个显示器中心窗口的位置,通用,coucou,https://getquicker.net/User/79403/coucou,147.2 KB,2023-11-15 16:15,2,1、更换云文件位置,2024-04-03
+暂停进程,https://getquicker.net/Sharedaction?code=72a56680-59c0-4ab3-f9de-08dc50b4b80a,暂停任意进程。思路来自于CE修改器。,通用,M-cc,https://getquicker.net/User/521120/M-cc,14.2 KB,2024-03-31 19:22,2,~修复免责提示窗口重复弹出的问题【仅首次运行弹出】,2024-04-03
+这动作安装过没,https://getquicker.net/Sharedaction?code=83779484-e44d-49eb-4a20-08d9c10181e6,不知道某个分享动作是否已安装？这个动作能帮到你。在动作主页运行动作。,通用,EC10010,https://getquicker.net/User/2997/EC10010,242.8 KB,2021-12-17 19:02,47,更换中间的消息提示图标。感谢@Sunsh,2024-04-03
+文件选择操作,https://getquicker.net/Sharedaction?code=e2b164d7-d60f-4574-44e8-08dabeef2cf5,在当前资源管理器选择指定文件（夹）进行操作。例如显隐、反选、筛选、设置默认方式等。,通用,EC10010,https://getquicker.net/User/2997/EC10010,234.5 KB,2022-11-05 19:55,9,修复了一些已知问题。,2024-04-03
+记事本,https://getquicker.net/Sharedaction?code=45b597c2-9db3-4cb5-a65a-08db363ab19b,即时笔记本，支持分组，标签页切换,通用,dalou,https://getquicker.net/User/76824/dalou,86.4 KB,2023-04-06 13:09,21,新增最大化/还原笔记窗口功能，防止切换笔记后窗口自动复原,2024-04-03
+超级重命名,https://getquicker.net/Sharedaction?code=bcf33eda-9427-45cc-f6c5-08dae2ffb129,文件(夹)批量重命名工具，强大、灵活、且易用。支持保存重命名规则，支持获取文件元数据，支持批量正则替换、C#表达式处理 . . .,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,427 KB,2022-12-21 18:23,16,"更新：
+- 功能：所有日期时间标签均支持自定义格式，如 <图像拍摄日期:yyyy年M月>
+- 其他：优化元标签解析、增加帮助文档",2024-04-03
+吾爱自动签到,https://getquicker.net/Sharedaction?code=968899c5-7a0d-426b-a98f-08dab0af50de,基于WebView2,通用,zdf153,https://getquicker.net/User/20184/zdf153,11.7 KB,2022-10-19 01:06,8,"修复有几率获取cb失败的问题,更新获取方式 ",2024-04-03
+任务栏,https://getquicker.net/Sharedaction?code=99bdaeff-b85d-4ea7-0221-08da53222fd1,显隐任务栏,通用,dalou,https://getquicker.net/User/76824/dalou,12.4 KB,2022-06-22 11:29,6,-,2024-04-03
+博客定位本地,https://getquicker.net/Sharedaction?code=7cd28948-74cb-433c-53de-08dbf9f189d3,将LearnData博客链接转换为本地路径，便于修改本地文件。该脚本适用于Vuepress网站及大多数基于Markdown的静态网站。,通用,rockben,https://getquicker.net/User/674/rockben,11.7 KB,2023-12-11 20:59,4,修复localpath常量设置,2024-04-03
