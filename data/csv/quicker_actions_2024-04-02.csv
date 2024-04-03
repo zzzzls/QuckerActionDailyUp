@@ -1,13 +1,35 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+获取鼠标坐标,https://getquicker.net/Sharedaction?code=662245a7-7779-43d4-6d52-08dc52ac49e4,获取的坐标是面板调出前的鼠标坐标，获取后自动写入剪切板,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,15.1 KB,2024-04-02 17:36,1,优化设置,2024-04-03
 取色者,https://getquicker.net/Sharedaction?code=ae0ca48d-8e39-4bd1-5ab0-08d7a77a2d92,屏幕取色与颜色收藏工具,通用,coucou,https://getquicker.net/User/79403/coucou,319.8 KB,2020-02-02 16:23,14,修复：无法更改配色方案名称,2024-04-03
+白描OCR,https://getquicker.net/Sharedaction?code=997f3812-8928-4c6c-a98a-08dab0af50de,选择单张图片文件、或直接截图，调用白描OCR进行文字识别,通用,用户KGvfuMisAgA,https://getquicker.net/User/583272/%E7%94%A8%E6%88%B7KGvfuMisAgA,202.1 KB,2022-10-18 22:51,30,1. 识别结果弹窗增加了简繁转换功能,2024-04-03
+Send2AxMath,https://getquicker.net/Sharedaction?code=28d13f70-7a74-4a39-6d63-08dc52ac49e4,将文本发送给AxMath进行处理,通用,iFly,https://getquicker.net/User/1035793/iFly,2.9 KB,2024-04-02 22:41,0,,2024-04-03
 双屏互换,https://getquicker.net/Sharedaction?code=00d3dc58-c309-4638-fb03-08dbe58ac7d6,交换两个显示器中心窗口的位置,通用,coucou,https://getquicker.net/User/79403/coucou,147.2 KB,2023-11-15 16:15,2,1、更换云文件位置,2024-04-03
+登录校园网,https://getquicker.net/Sharedaction?code=911d8472-e012-4114-6d49-08dc52ac49e4,华东交通大学自动登录上网登录窗，原创：@Star7，在其“修订版本1”的基础之上采用多字段表单改进了用户输入账号密码和运营商,Google Chrome,TheSE,https://getquicker.net/User/951668/TheSE,16 KB,2024-04-02 14:00,1,修复了关于选择运营商的bug,2024-04-03
+登录学习通,https://getquicker.net/Sharedaction?code=87b6a842-af27-443f-6d5d-08dc52ac49e4,学习通自动登录,Google Chrome,TheSE,https://getquicker.net/User/951668/TheSE,14.8 KB,2024-04-02 21:34,1,"1.更新之后，是否修改信息窗口将在3秒内自动关闭
+2.代码美化",2024-04-03
 暂停进程,https://getquicker.net/Sharedaction?code=72a56680-59c0-4ab3-f9de-08dc50b4b80a,暂停任意进程。思路来自于CE修改器。,通用,M-cc,https://getquicker.net/User/521120/M-cc,14.2 KB,2024-03-31 19:22,2,~修复免责提示窗口重复弹出的问题【仅首次运行弹出】,2024-04-03
 这动作安装过没,https://getquicker.net/Sharedaction?code=83779484-e44d-49eb-4a20-08d9c10181e6,不知道某个分享动作是否已安装？这个动作能帮到你。在动作主页运行动作。,通用,EC10010,https://getquicker.net/User/2997/EC10010,242.8 KB,2021-12-17 19:02,47,更换中间的消息提示图标。感谢@Sunsh,2024-04-03
+AI智炼,https://getquicker.net/Sharedaction?code=9d0493a4-75bc-4b49-a26f-08dc0740f11f,功能：1.选中文字，快速根据设置的模型角色获得提炼结果。2.可管理多角色。3.当前模型支持：星火/ChatGPT,通用,YCHH,https://getquicker.net/User/738826/YCHH,140.2 KB,2023-12-28 22:50,18,"【修复】CS脚本执行BUG
+【新增】角色信息导入导出功能",2024-04-03
+当前应用静音,https://getquicker.net/Sharedaction?code=7881616b-c37a-4b4f-3358-08dc372d2e73,切换当前应用的静音，需要 SoundVolumeView 支持,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,10 KB,2024-02-27 18:17,3,增加自动下载SoundVolumeview流程，无需打开网页下载,2024-04-03
+统一表格行高到12,https://getquicker.net/Sharedaction?code=ea99e5cd-9103-4130-6d57-08dc52ac49e4,wps表格调整行高到12,WPS Office,limin640,https://getquicker.net/User/983750/limin640,65 B,2024-04-02 19:06,0,,2024-04-03
+快速保存剪贴板图片,https://getquicker.net/Sharedaction?code=618e0403-6ce8-451b-6d56-08dc52ac49e4,"将剪贴板当中的图片快速保存到 ""~\clipboard.jpg"" 中",通用,Frostime,https://getquicker.net/User/790512/Frostime,4.1 KB,2024-04-02 18:49,0,,2024-04-03
+刷新PQ&VBA,https://getquicker.net/Sharedaction?code=6946f561-f1bc-43ab-6d4b-08dc52ac49e4,在Excel工作表中创建一个按钮，完全刷新指定的PQ查询表后，再运行指定的宏,Microsoft Excel,Joker_D,https://getquicker.net/User/891699/Joker_D,51.6 KB,2024-04-02 15:16,1,获取宏名称改为通用模式,2024-04-03
+自动STL,https://getquicker.net/Sharedaction?code=6238fe0a-48cd-41ca-f9c6-08dc50b4b80a,自动导出-STL,Rhino 6,用户bU6Y95LkAwA,https://getquicker.net/User/860860/%E7%94%A8%E6%88%B7bU6Y95LkAwA,11.4 KB,2024-03-30 23:51,2,增加了一点小功能，请自己安装之后，编辑功能查看,2024-04-03
+WPS自动保存,https://getquicker.net/Sharedaction?code=5736274a-82eb-4466-8698-08dc51d79bc5,每隔一段时间，自动触发ctrl+s保存文件,WPS Office,Runos,https://getquicker.net/User/250742/Runos,13.5 KB,2024-04-01 10:44,4,增加通过找图获取编辑状态实现在excel中自动保存,2024-04-03
+输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,获取输入法在当前窗口的中/英状态，重复点击切换为小写的中/英文,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,49.9 KB,2024-04-01 13:20,1,增加自定义选项,2024-04-03
+单元格批量右移,https://getquicker.net/Sharedaction?code=1f920450-162a-4c3f-6d4e-08dc52ac49e4,批量右移1格 可输入按需输入移动个数,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,4.8 KB,2024-04-02 16:24,0,,2024-04-03
 文件选择操作,https://getquicker.net/Sharedaction?code=e2b164d7-d60f-4574-44e8-08dabeef2cf5,在当前资源管理器选择指定文件（夹）进行操作。例如显隐、反选、筛选、设置默认方式等。,通用,EC10010,https://getquicker.net/User/2997/EC10010,234.5 KB,2022-11-05 19:55,9,修复了一些已知问题。,2024-04-03
 记事本,https://getquicker.net/Sharedaction?code=45b597c2-9db3-4cb5-a65a-08db363ab19b,即时笔记本，支持分组，标签页切换,通用,dalou,https://getquicker.net/User/76824/dalou,86.4 KB,2023-04-06 13:09,21,新增最大化/还原笔记窗口功能，防止切换笔记后窗口自动复原,2024-04-03
+快速记录,https://getquicker.net/Sharedaction?code=9eacd87a-b763-456a-b742-08dc335594d4,选中文本 记录来源与时间戳并保存到指定文件。,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,11.4 KB,2024-02-23 09:19,5,更新获取逻辑：优先获取html，失败后获取纯文本,2024-04-03
+Kimi Assistant,https://getquicker.net/Sharedaction?code=1d51f1aa-4ec2-458a-5729-08dc4dd1cd4e,使用 Kimi.ai 帮助快速阅读网页，支持 API 和 网页自动化（需要Quicker插件） 访问！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,34.8 KB,2024-03-27 17:47,8,"fix: 更改如果使用文件不用使用prompt的逻辑
+
+暂时先这样，总结文件 Kimi 自带了prompt，后续再增加一系列逻辑",2024-04-03
+插入空白行,https://getquicker.net/Sharedaction?code=9e4fc165-9202-4f97-6d45-08dc52ac49e4,可输入每行间插入几行空白行,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,7.3 KB,2024-04-02 13:05,0,,2024-04-03
 超级重命名,https://getquicker.net/Sharedaction?code=bcf33eda-9427-45cc-f6c5-08dae2ffb129,文件(夹)批量重命名工具，强大、灵活、且易用。支持保存重命名规则，支持获取文件元数据，支持批量正则替换、C#表达式处理 . . .,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,427 KB,2022-12-21 18:23,16,"更新：
 - 功能：所有日期时间标签均支持自定义格式，如 <图像拍摄日期:yyyy年M月>
 - 其他：优化元标签解析、增加帮助文档",2024-04-03
 吾爱自动签到,https://getquicker.net/Sharedaction?code=968899c5-7a0d-426b-a98f-08dab0af50de,基于WebView2,通用,zdf153,https://getquicker.net/User/20184/zdf153,11.7 KB,2022-10-19 01:06,8,"修复有几率获取cb失败的问题,更新获取方式 ",2024-04-03
 任务栏,https://getquicker.net/Sharedaction?code=99bdaeff-b85d-4ea7-0221-08da53222fd1,显隐任务栏,通用,dalou,https://getquicker.net/User/76824/dalou,12.4 KB,2022-06-22 11:29,6,-,2024-04-03
+提取美金金额,https://getquicker.net/Sharedaction?code=281ff1c6-401c-445d-6d30-08dc52ac49e4,提取,Microsoft Excel,Maxwell2077,https://getquicker.net/User/811588/Maxwell2077,13.3 KB,2024-04-02 09:07,0,,2024-04-03
 博客定位本地,https://getquicker.net/Sharedaction?code=7cd28948-74cb-433c-53de-08dbf9f189d3,将LearnData博客链接转换为本地路径，便于修改本地文件。该脚本适用于Vuepress网站及大多数基于Markdown的静态网站。,通用,rockben,https://getquicker.net/User/674/rockben,11.7 KB,2023-12-11 20:59,4,修复localpath常量设置,2024-04-03
