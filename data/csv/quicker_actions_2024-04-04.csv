@@ -1,0 +1,8 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Obsidian 库,https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4,搜索并打开 Obsidian 的库。,Obsidian,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,40.6 KB,2022-10-01 20:44,12,[~] 修复窗口数为空时的 bug,2024-04-05
+手势贴图,https://getquicker.net/Sharedaction?code=af227aad-f8f5-4770-0571-08dc0558572f,搭配鼠标手势，实现滑动贴图。,通用,M-cc,https://getquicker.net/User/521120/M-cc,9.5 KB,2023-12-26 14:13,3,+支持设置是否显示任务栏图标。,2024-04-05
+修改标题,https://getquicker.net/Sharedaction?code=fce3f609-6f6a-469a-89cb-08dc547a3ff5,修改当前笔记的标题（同时针对文件名和主标题以及属性）,Obsidian,Moy,https://getquicker.net/User/771/Moy,31.7 KB,2024-04-04 17:56,0,,2024-04-05
+Umi-OCR,https://getquicker.net/Sharedaction?code=6f57e16c-e153-42d3-b581-08dc3911fbe9,调用 Umi-OCR 识别。,umi-ocr.exe,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,45 KB,2024-03-01 15:23,10,[~] 修复识别中文乱码的问题,2024-04-05
+ChatGPT,https://getquicker.net/Sharedaction?code=7b7abcef-781e-428f-48a7-08db1a66d873,一键调用 ChatGPT，支持多次问答、复制答案、导出文档，超厉害的！ by Moy,通用,Moy,https://getquicker.net/User/771/Moy,251.7 KB,2023-03-02 19:01,33,更新导入逻辑的处理，Excel 会全量导入；修复 csv 导入的判断,2024-04-05
+Copilot,https://getquicker.net/Sharedaction?code=90bb4b67-a8c1-43ae-39da-08dc538292ef,按键调用出系统的 Copilot,通用,Petercode,https://getquicker.net/User/400506/Petercode,1.3 KB,2024-04-04 12:20,0,,2024-04-05
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,102.8 KB,2023-12-16 20:13,43,~ 去除Debug步骤,2024-04-05
