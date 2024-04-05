@@ -1,8 +1,14 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Kimi Assistant,https://getquicker.net/Sharedaction?code=1d51f1aa-4ec2-458a-5729-08dc4dd1cd4e,使用 Kimi.ai 帮助快速阅读网页，支持 API 和 网页自动化（需要Quicker插件） 访问！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,37.6 KB,2024-03-27 17:47,10,fix: 修复非API模式下网页无法总结问题,2024-04-05
+下拉窗口,https://getquicker.net/Sharedaction?code=8e2bc5c9-d4c8-423f-571f-08dc4dd1cd4e,默认是下拉上滑式的CMD控制台，请自行绑定快捷键,通用,阿尔卑斯の白,https://getquicker.net/User/518622/%E9%98%BF%E5%B0%94%E5%8D%91%E6%96%AF%E3%81%AE%E7%99%BD,75.4 KB,2024-03-27 14:33,13,优化：不改变逻辑，优化执行顺序和用户提示,2024-04-05
 Obsidian 库,https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4,搜索并打开 Obsidian 的库。,Obsidian,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,40.6 KB,2022-10-01 20:44,12,[~] 修复窗口数为空时的 bug,2024-04-05
 手势贴图,https://getquicker.net/Sharedaction?code=af227aad-f8f5-4770-0571-08dc0558572f,搭配鼠标手势，实现滑动贴图。,通用,M-cc,https://getquicker.net/User/521120/M-cc,9.5 KB,2023-12-26 14:13,3,+支持设置是否显示任务栏图标。,2024-04-05
+当前应用静音,https://getquicker.net/Sharedaction?code=7881616b-c37a-4b4f-3358-08dc372d2e73,切换当前应用的静音，需要 SoundVolumeView 支持,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,10.2 KB,2024-02-27 18:17,4,fix 修复由于自动下载引发的bug,2024-04-05
 修改标题,https://getquicker.net/Sharedaction?code=fce3f609-6f6a-469a-89cb-08dc547a3ff5,修改当前笔记的标题（同时针对文件名和主标题以及属性）,Obsidian,Moy,https://getquicker.net/User/771/Moy,31.7 KB,2024-04-04 17:56,0,,2024-04-05
 Umi-OCR,https://getquicker.net/Sharedaction?code=6f57e16c-e153-42d3-b581-08dc3911fbe9,调用 Umi-OCR 识别。,umi-ocr.exe,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,45 KB,2024-03-01 15:23,10,[~] 修复识别中文乱码的问题,2024-04-05
+划词并翻译至剪切板,https://getquicker.net/Sharedaction?code=26c0be02-e3e9-44f2-77a1-08dc364712d0,鼠标划词并后台自动翻译复制到剪切板，粘贴即可，再次点击即关闭,通用,幽客youke,https://getquicker.net/User/875029/%E5%B9%BD%E5%AE%A2youke,15.5 KB,2024-02-26 11:58,2,修复了每次只翻译第一句的问题,2024-04-05
+颜色收藏,https://getquicker.net/Sharedaction?code=ae3da261-36f8-4e11-39db-08dc538292ef,该动作用于收藏颜色值，目前只以十六进制储存,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,32.7 KB,2024-04-04 12:21,1,"添加自定义色值添加
+更改屏幕取色图标",2024-04-05
 ChatGPT,https://getquicker.net/Sharedaction?code=7b7abcef-781e-428f-48a7-08db1a66d873,一键调用 ChatGPT，支持多次问答、复制答案、导出文档，超厉害的！ by Moy,通用,Moy,https://getquicker.net/User/771/Moy,251.7 KB,2023-03-02 19:01,33,更新导入逻辑的处理，Excel 会全量导入；修复 csv 导入的判断,2024-04-05
 Copilot,https://getquicker.net/Sharedaction?code=90bb4b67-a8c1-43ae-39da-08dc538292ef,按键调用出系统的 Copilot,通用,Petercode,https://getquicker.net/User/400506/Petercode,1.3 KB,2024-04-04 12:20,0,,2024-04-05
 ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,102.8 KB,2023-12-16 20:13,43,~ 去除Debug步骤,2024-04-05
