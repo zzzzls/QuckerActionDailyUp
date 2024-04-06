@@ -1,0 +1,21 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频以及小红书图片视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,39.1 KB,2024-03-19 21:01,12,"pref: 整理代码到函数里面 & 提高稳定性
+
+1. 整理了代码
+2. 把运行打开文件夹更换为C#代码运行打开文件夹",2024-04-06
+换行后粘贴,https://getquicker.net/Sharedaction?code=f9156042-1347-4b9b-5f56-08dc556d3508,印象笔记，快速换行后粘贴所复制的内容,Evernote,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,23 B,2024-04-05 20:37,0,,2024-04-06
+查拼音,https://getquicker.net/Sharedaction?code=efa18657-ffb7-4e6f-7975-08d903bee990,查拼音、听发音、查字词,通用,Poto,https://getquicker.net/User/137838/Poto,61 KB,2021-04-21 08:38,14,优化,2024-04-06
+效率办公助手,https://getquicker.net/Sharedaction?code=4c3fe8ba-c5e0-4158-7ea6-08dc251ced29,免费实用智能，财审、券商、投行打工人必备的效率办公助手！,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,390.5 KB,2024-02-05 11:54,26,"【优化】没有选中文件时会弹出文件选择框，可以手动多选文件
+【优化】其他优化",2024-04-06
+论文工具箱,https://getquicker.net/Sharedaction?code=35fc5b1f-7199-4069-89d8-08dc547a3ff5,快速调整选中文本的格式,WPS Office,Runos,https://getquicker.net/User/250742/Runos,38.2 KB,2024-04-05 11:15,2,11,2024-04-06
+置顶 Warudo 窗口,https://getquicker.net/Sharedaction?code=2eeee37a-da47-48b5-89e1-08dc547a3ff5,切换 Warudo 窗口置顶状态,warudo.exe,星雨透,https://getquicker.net/User/455817/%E6%98%9F%E9%9B%A8%E9%80%8F,1.5 KB,2024-04-05 15:43,0,,2024-04-06
+删除矩阵行,https://getquicker.net/Sharedaction?code=208d666b-f718-4d01-89df-08dc547a3ff5,删除矩阵行,MathType,weirdor,https://getquicker.net/User/925942/weirdor,986 B,2024-04-05 15:31,0,,2024-04-06
+矩阵=对齐,https://getquicker.net/Sharedaction?code=ac429a5c-d3a0-4fa1-89de-08dc547a3ff5,矩阵在=处对齐,MathType,weirdor,https://getquicker.net/User/925942/weirdor,1.9 KB,2024-04-05 15:30,0,,2024-04-06
+大小改为xxpt,https://getquicker.net/Sharedaction?code=7875cbab-e1b1-4312-89dd-08dc547a3ff5,公式字体大小更改，默认为14,MathType,weirdor,https://getquicker.net/User/925942/weirdor,3.1 KB,2024-04-05 15:28,0,,2024-04-06
+星火大模型,https://getquicker.net/Sharedaction?code=8e54cb15-133f-4760-be89-08dbdcf87739,迅飞星火大模型Quicker版（选中任何文字，运行本动作，大模型会直接回复。省去了复制粘贴到输入框的麻烦~）,通用,Balrog,https://getquicker.net/User/235565/Balrog,30.5 KB,2023-11-05 11:52,4,右键→接口配置→勾选is_close，这样每次回答完毕会自动复制结果并关闭窗口,2024-04-06
+威科Markdown,https://getquicker.net/Sharedaction?code=5b5ccbc2-cfe9-4e56-9e0f-08db1b743bf2,将威科法律法规转为Markdown格式,Google Chrome,Ranfou,https://getquicker.net/User/108076/Ranfou,44.8 KB,2023-03-04 08:08,7,修复属性和正文区域的分隔,2024-04-06
+常用语,https://getquicker.net/Sharedaction?code=8ee560fc-913d-4c98-39bb-08dc538292ef,电脑上的常用语,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,29.7 KB,2024-04-03 18:11,3,修复编辑内容后提示无法编辑的bug,2024-04-06
+RMusic,https://getquicker.net/Sharedaction?code=2cb4dd9c-6ad8-4705-89d7-08dc547a3ff5,古希腊掌管下载音乐的神，免费下载母带级、无损级的音乐~！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,8.3 KB,2024-04-05 10:51,0,,2024-04-06
+博客定位本地,https://getquicker.net/Sharedaction?code=7cd28948-74cb-433c-53de-08dbf9f189d3,将Vuepress、docsify以及基于Markdown的静态网站的网页链接转换为本地路径，便于本地文件的修改。,通用,rockben,https://getquicker.net/User/674/rockben,12.9 KB,2023-12-11 20:59,5,"- 支持 docsify 网站
+- 支持多域名匹配
+- 修复 LearnData 中的 .html 后缀错误",2024-04-06
