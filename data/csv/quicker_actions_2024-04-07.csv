@@ -1,5 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 论文检索,https://getquicker.net/Sharedaction?code=ba44a4a9-e2f6-4cac-5a72-08dbfdbb1fb8,学术文献快捷搜索,通用,1xwx1,https://getquicker.net/User/966592/1xwx1,26.1 KB,2023-12-16 08:57,10,新增智能识别模式，智能识别中英文，并打开中英文初始设置的搜索引擎,2024-04-08
+灵搜,https://getquicker.net/Sharedaction?code=dd2fa2b4-46dc-48f8-b6da-08db782fe3a2,高效搜索，网站、浏览器书签、浏览器历史记录、安装应用、本地文件、图片等等；提供选中文件处理；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,297.7 KB,2023-06-29 11:12,254,修复参数搜索,2024-04-08
 批量运行检查,https://getquicker.net/Sharedaction?code=dcfbe645-b8dd-439d-6ad2-08db4c6b3ac9,检查程序列表是否运行中，并选择性启动或终止,通用,Sisyphe42,https://getquicker.net/User/396431/Sisyphe42,37.8 KB,2023-05-05 03:03,13,优化逻辑,2024-04-08
 WPS自动保存,https://getquicker.net/Sharedaction?code=5736274a-82eb-4466-8698-08dc51d79bc5,每隔一段时间，自动触发ctrl+s保存文件,WPS Office,Runos,https://getquicker.net/User/250742/Runos,13.5 KB,2024-04-01 10:44,5,excel自动保存还是影响日常体验，删除,2024-04-08
 bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频以及小红书图片视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,38.8 KB,2024-03-19 21:01,13,"feat: xhs下载速度提升50%
