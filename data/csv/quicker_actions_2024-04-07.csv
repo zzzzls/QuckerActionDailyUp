@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+论文检索,https://getquicker.net/Sharedaction?code=ba44a4a9-e2f6-4cac-5a72-08dbfdbb1fb8,学术文献快捷搜索,通用,1xwx1,https://getquicker.net/User/966592/1xwx1,26.1 KB,2023-12-16 08:57,10,新增智能识别模式，智能识别中英文，并打开中英文初始设置的搜索引擎,2024-04-08
+批量运行检查,https://getquicker.net/Sharedaction?code=dcfbe645-b8dd-439d-6ad2-08db4c6b3ac9,检查程序列表是否运行中，并选择性启动或终止,通用,Sisyphe42,https://getquicker.net/User/396431/Sisyphe42,37.8 KB,2023-05-05 03:03,13,优化逻辑,2024-04-08
+WPS自动保存,https://getquicker.net/Sharedaction?code=5736274a-82eb-4466-8698-08dc51d79bc5,每隔一段时间，自动触发ctrl+s保存文件,WPS Office,Runos,https://getquicker.net/User/250742/Runos,13.5 KB,2024-04-01 10:44,5,excel自动保存还是影响日常体验，删除,2024-04-08
+bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频以及小红书图片视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,38.8 KB,2024-03-19 21:01,13,"feat: xhs下载速度提升50%
+
+学到官方API的新知识了，现在xhs下载不用关闭再打开了",2024-04-08
+曲线提亮,https://getquicker.net/Sharedaction?code=df64d407-013b-4835-0814-08dc5698d506,曲线提亮,Adobe Photoshop,ahzc0552,https://getquicker.net/User/932471/ahzc0552,48 B,2024-04-07 16:35,0,,2024-04-08
+辣鸡教务评分,https://getquicker.net/Sharedaction?code=3106ad40-fd03-4d1f-080f-08dc5698d506,详见gif,通用,Aimony,https://getquicker.net/User/507794/Aimony,59 B,2024-04-07 15:38,0,,2024-04-08
+新建当日空文件夹,https://getquicker.net/Sharedaction?code=5883e08d-b22a-4e60-334f-08dc372d2e73,创建文件夹，以“今日”日期命名；日期格式：M-d,通用,JamesWgi,https://getquicker.net/User/275753/JamesWgi,3.2 KB,2024-02-27 14:45,4, ,2024-04-08
+定距拉伸,https://getquicker.net/Sharedaction?code=e9995095-37df-4a3c-0808-08dc5698d506,可以指定最终数值的拉伸,GstarCAD Application,苑少坡,https://getquicker.net/User/582411/%E8%8B%91%E5%B0%91%E5%9D%A1,2.1 KB,2024-04-07 13:32,0,,2024-04-08
+选中引号内容,https://getquicker.net/Sharedaction?code=b3d67169-a7a7-49a8-b2e0-08dc39f7d1f3,如有多个引号则框选引号内部分内容，否则仅框选行中第一个引号内，前后引号可自行修改。,通用,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,24.7 KB,2024-03-02 18:02,15,删除不应该的点击。,2024-04-08
+搜索,https://getquicker.net/Sharedaction?code=7ec95694-29e4-4739-8355-08d94406436b,简单好用的搜索引擎聚合,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,156.4 KB,2021-07-12 02:31,13,"【功能】支持记住上次筛选词
+【其他】更新搜索引擎参考",2024-04-08
+中文转英文搜索,https://getquicker.net/Sharedaction?code=bdb4cde6-d0e5-470f-5f6e-08dc556d3508,海外搜索引擎好帮手，将中文转换英文再搜索，有效进行 Google 和 AI 内容检索，如海外友人搜索一样丝滑！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,13.4 KB,2024-04-06 17:10,1,feat: 添加google镜像,2024-04-08
+切换单位为厘米,https://getquicker.net/Sharedaction?code=d04f5f78-26c8-4935-eb50-08dc028b8346,将文档单位切换为厘米,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,3.9 KB,2023-12-22 17:51,1,优化,2024-04-08
+切换单位为毫米,https://getquicker.net/Sharedaction?code=4b5ccf22-67f1-4dc8-eb51-08dc028b8346,将文档单位切换为毫米,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,3.9 KB,2023-12-22 17:59,1,优化,2024-04-08
+换行后粘贴,https://getquicker.net/Sharedaction?code=f9156042-1347-4b9b-5f56-08dc556d3508,执行动作：换行后粘贴所复制的内容,Evernote,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,23 B,2024-04-05 20:37,1,更新图标,2024-04-08
+转为Markdown链接（使用思源笔记获得加强体验）,https://getquicker.net/Sharedaction?code=d591e45a-ec0b-4485-73ac-08dbb7994b31,将选中的文本或剪贴板中的文本加上当前网页的网址，组成 Markdown 链接,通用,JeffreyChen,https://getquicker.net/User/915255/JeffreyChen,114.8 KB,2023-09-18 11:14,18,增加延时，提高获取网址稳定性,2024-04-08
