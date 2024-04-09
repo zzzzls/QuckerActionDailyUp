@@ -2,11 +2,10 @@
 刷屏N次,https://getquicker.net/Sharedaction?code=10365e68-7caa-4577-082b-08dc5698d506,作者：白鲸；优化：ii6uu992,通用,瓜皮之牙,https://getquicker.net/User/202824/%E7%93%9C%E7%9A%AE%E4%B9%8B%E7%89%99,20.6 KB,2024-04-07 22:48,1,新增9999次,2024-04-09
 翻译替换,https://getquicker.net/Sharedaction?code=5a035d1a-44d9-4b21-c6a9-08dc5758db9d,选中文本，然后用翻译替换。,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,5.1 KB,2024-04-08 20:44,1,优化,2024-04-09
 截图翻译,https://getquicker.net/Sharedaction?code=58ed7622-7235-4fe2-c6a8-08dc5758db9d,使用百度API和离线OCR，只适用于英语,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,6.3 KB,2024-04-08 20:34,1,图标,2024-04-09
-记事本,https://getquicker.net/Sharedaction?code=45b597c2-9db3-4cb5-a65a-08db363ab19b,即时笔记本，支持分组，标签页切换,通用,dalou,https://getquicker.net/User/76824/dalou,105.5 KB,2023-04-06 13:09,22,新增检索功能，可根据输入的关键词，实时检索全部笔记,2024-04-09
 截图排列,https://getquicker.net/Sharedaction?code=ef7c59b2-e381-49b8-c64e-08dc5758db9d,截图后在屏幕上排列贴图,通用,FaniX,https://getquicker.net/User/52603/FaniX,34.1 KB,2024-04-08 14:19,1,更新子程序,2024-04-09
 Windows11深色/浅色模式切换,https://getquicker.net/Sharedaction?code=150dbc85-2c83-4a7c-c665-08dc5758db9d,设置-个性化-主题色-选择模式：深色/浅色一键切换，仅用于Windows11。,通用,zasar,https://getquicker.net/User/19489/zasar,831 B,2024-04-08 15:44,0,,2024-04-09
 加减括号,https://getquicker.net/Sharedaction?code=bc0020b2-c2c9-423f-c655-08dc5758db9d,选中文字，如有括号则删去，若无，则中文输入法下加全角括号，非中文输入法下加半角括号,通用,likang1225,https://getquicker.net/User/50611/likang1225,5.9 KB,2024-04-08 15:10,0,,2024-04-09
-安装离线OCR,https://getquicker.net/Sharedaction?code=d8af44f5-1cf5-4726-d8a3-08db8336c661,一键运行全自动安装离线OCR。（自动下载/安装到指定位置）,通用,M-cc,https://getquicker.net/User/521120/M-cc,362.5 KB,2023-07-13 09:31,9,~修复右键菜单结束后动作不停止的问题。,2024-04-09
+安装离线OCR,https://getquicker.net/Sharedaction?code=d8af44f5-1cf5-4726-d8a3-08db8336c661,全自动安装Quicker离线OCR识别引擎包。（自动下载/安装到指定位置）,通用,M-cc,https://getquicker.net/User/521120/M-cc,362.5 KB,2023-07-13 09:31,9,~修复右键菜单结束后动作不停止的问题。,2024-04-09
 快速Journal,https://getquicker.net/Sharedaction?code=f6145ad8-fe74-404b-a9c5-08db5f197f60,快速添加到今日journal,logseq,Sisyphe42,https://getquicker.net/User/396431/Sisyphe42,15.5 KB,2023-05-28 20:39,6,bug fixed,2024-04-09
 实时字幕翻译,https://getquicker.net/Sharedaction?code=0012a7cd-7c48-419f-c398-08dbdbb6e0f3,实时翻译视频、音频字幕！Win11系统支持无字幕翻译！,通用,M-cc,https://getquicker.net/User/521120/M-cc,107.9 KB,2023-11-03 20:50,18,"+增加判断离线ocr是否缺少组件，缺少时弹出安装教程窗口。
 ~解决因离线ocr未正确安装或缺少组件而导致的翻译无响应问题。",2024-04-09
