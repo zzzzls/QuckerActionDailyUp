@@ -1,0 +1,26 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+OnTopReplica,https://getquicker.net/Sharedaction?code=8910341c-0b8e-40cd-f3e3-08dc5c202872,快速选取并调用OnTopReplica置顶窗口局部,OnTopReplica,Leoyour,https://getquicker.net/User/156350/Leoyour,12 KB,2024-04-14 09:58,1,"1、将OnTopReplica路径的设置方式改为右键菜单的形式
+2、在选取区域前需先手动选择要截取的软件
+3、选择区域后自动将软件置底",2024-04-17
+bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频以及抖音、小红书图片视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,64.8 KB,2024-03-19 21:01,24,fix: 修复dy-patch-1,2024-04-17
+快速访问,https://getquicker.net/Sharedaction?code=b9adfd12-fe48-4e15-76dd-08dc5df52912,以复制文本访问/搜索各网站对应用户,通用,薛宋官,https://getquicker.net/User/1034982/%E8%96%9B%E5%AE%8B%E5%AE%98,7.4 KB,2024-04-16 18:45,0,,2024-04-17
+输入法状态提示 ²,https://getquicker.net/Sharedaction?code=317f73b0-ffe2-4df3-88ed-08dc5a32504a,"截图版,适用于所有系统和输入法,就是比较丑",通用,用户pWxzXV4dBAA,https://getquicker.net/User/906843/%E7%94%A8%E6%88%B7pWxzXV4dBAA,50.5 KB,2024-04-12 12:31,2,"去除选取文字判断,以解决误复制的bug",2024-04-17
+日期计算器,https://getquicker.net/Sharedaction?code=5fd42dac-c3f1-4cc8-76dc-08dc5df52912,计算两个日期之间间隔的天数或推算日期,通用,吃八方,https://getquicker.net/User/702760/%E5%90%83%E5%85%AB%E6%96%B9,11 KB,2024-04-16 18:25,0,,2024-04-17
+右键风格修改,https://getquicker.net/Sharedaction?code=ea5e27c1-d48d-42c1-ca8d-08dc5d069310,修改windows11右键风格,通用,我姓陈,https://getquicker.net/User/52958/%E6%88%91%E5%A7%93%E9%99%88,1.3 KB,2024-04-16 15:47,0,,2024-04-17
+自动生图,https://getquicker.net/Sharedaction?code=af374dab-d30c-4504-ca28-08dc5d069310,无限持续生图，使用放松模式不再消耗快速流量。,Discord,山巳_,https://getquicker.net/User/775448/%E5%B1%B1%E5%B7%B3_,15.4 KB,2024-04-15 13:09,1,添加右键菜单：自定义是否使用放松模式、生图时间间隔和次数,2024-04-17
+ComfyUI环境,https://getquicker.net/Sharedaction?code=4c7ab390-3bfc-4d6a-ca89-08dc5d069310,"ComfyUI环境,手动安装comfyui，环境设置",通用,ii6uu992,https://getquicker.net/User/997056/ii6uu992,80.6 KB,2024-04-16 14:32,0,,2024-04-17
+智能备份,https://getquicker.net/Sharedaction?code=8dfe1e68-33f0-4329-14ae-08da4a84097c,笔记的最好伴侣，从此数据无忧,sm18,风未知,https://getquicker.net/User/59944/%E9%A3%8E%E6%9C%AA%E7%9F%A5,583.4 KB,2022-06-11 12:26,174,"为所有的提示消息增加了动作名作为主体，方便辨认消息来源。
+可以右键编辑动作修改动作名并在选项中勾选“更新时保留名称和图标”以区分多个动作",2024-04-17
+极简待办,https://getquicker.net/Sharedaction?code=ddeb8109-f17b-43e1-8912-08dc5a32504a,左Ctrl新增；左Alt管理。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,117.4 KB,2024-04-12 23:22,3,修复：修改待办图标颜色后，新增待办项图标仍然显示为老颜色的bug。,2024-04-17
+搜索,https://getquicker.net/Sharedaction?code=7ec95694-29e4-4739-8355-08d94406436b,简单好用的搜索引擎聚合,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,167.2 KB,2021-07-12 02:31,15,"- 支持多重搜索（示例见「引擎大全」）
+- 优化选中文本、剪贴板文本的判断",2024-04-17
+LocalSend传输,https://getquicker.net/Sharedaction?code=6201523f-90ee-4135-b118-08dc5b1ee596,支持多选文件传输（图片，文件夹，文件），支持多行文件传输。,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,173.9 KB,2024-04-13 21:44,2,添加了右键偏移量修改功能,2024-04-17
+链接工具,https://getquicker.net/Sharedaction?code=0e39470f-00fc-4e63-ca38-08dc5d069310,"illustrator 链接增强 置入文件,裁切图像,压缩图像,栅格化,图像巡边等等",Adobe Illustrator,Illustrator_...,https://getquicker.net/User/456480/Illustrator_QK%E6%8F%92%E4%BB%B6,730.9 KB,2024-04-15 15:17,1,"1.改图标
+2.修复偏移时斜接时的限制",2024-04-17
+重置音量合成器,https://getquicker.net/Sharedaction?code=e1fea3e5-2b55-4da9-ca69-08dc5d069310,重置音量合成器,通用,Really,https://getquicker.net/User/77454/Really,457 B,2024-04-16 10:56,0,,2024-04-17
+发给手机,https://getquicker.net/Sharedaction?code=9e543364-9061-4e3a-ca64-08dc5d069310,运用adb命令将选中文件发送到手机，电脑需要安装对应驱动手机打开开发者选项和usb调试,Windows 资源管理器,罗名扬的quicker,https://getquicker.net/User/325415/%E7%BD%97%E5%90%8D%E6%89%AC%E7%9A%84quicker,3 KB,2024-04-16 10:13,0,,2024-04-17
+RMusic,https://getquicker.net/Sharedaction?code=2cb4dd9c-6ad8-4705-89d7-08dc547a3ff5,古希腊掌管下载音乐的神，免费下载母带级、无损级的音乐~！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,9.6 KB,2024-04-05 10:51,1,feat: 增加讨论区讨论的：下载的名字乱码，更换为歌曲-歌手格式,2024-04-17
+日夜模式,https://getquicker.net/Sharedaction?code=2b4950fd-4d41-4464-9b28-08d852fc39cc,全局深色浅色模式切换,通用,七七7777,https://getquicker.net/User/70017/%E4%B8%83%E4%B8%837777,3.6 KB,2020-09-07 15:04,7,名称变更,2024-04-17
+新建文件夹样式【yyyy-MM-dd】,https://getquicker.net/Sharedaction?code=956ade5a-64bd-49c7-ca5d-08dc5d069310,新建当前日期文件夹，样式为【yyyy-MM-dd】,Windows 资源管理器,svip052,https://getquicker.net/User/777954/svip052,215 B,2024-04-16 08:45,0,,2024-04-17
+PDF小工具,https://getquicker.net/Sharedaction?code=e0872ced-fa64-425a-57b5-08dac0d38e97,批量PDF分割、合并、转图片、转HTML，删除、提取PDF页码；文档、图片转PDF,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,135 KB,2022-11-08 14:33,22,"~文档转PDF改用c#方式，更具兼容性
+~尝试证件部分支持文件夹操作",2024-04-17
