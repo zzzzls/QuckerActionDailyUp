@@ -1,0 +1,9 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+读书笔记,https://getquicker.net/Sharedaction?code=c9154e53-d422-43de-4832-08dc59347e50,从豆瓣自动获取书籍信息，并在Obsidian中生成读书笔记,Obsidian,Glaube_TY,https://getquicker.net/User/1040420/Glaube_TY,87.6 KB,2024-04-10 21:21,2,进行了较大版本更新，能获取书籍的完整信息，并支持更多的自定义功能。,2024-04-22
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,112 KB,2023-12-16 20:13,49,~ 修复请求数据【历史信息】出现空白的Bug,2024-04-22
+复制粘贴CN,https://getquicker.net/Sharedaction?code=f1d52290-cc74-403a-ba8d-08dc61bfef39,规范复制粘贴纯中文版,通用,mulei,https://getquicker.net/User/782103/mulei,12 KB,2024-04-21 20:06,0,,2024-04-22
+bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频以及抖音、小红书图片视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,87.6 KB,2024-03-19 21:01,26,feat: 油管支持yt-dlp,2024-04-22
+一级解散,https://getquicker.net/Sharedaction?code=51a94146-f9db-41a9-0c7e-08d7249f7b58,解散文件夹，一级解散，将当前选中的文件夹下所有文件（夹）移动到各自父目录，并删除原目录,通用,Ever,https://getquicker.net/User/2774/Ever,29.1 KB,2019-08-20 12:17,6,解散后模拟F2刷新,2024-04-22
+EVER智识,https://getquicker.net/Sharedaction?code=4f8b0df2-d031-4309-173c-08d7079ea819,智能根据识别（选中、输入、OCR）的文字（网址、运算、QQ号等）提供相关服务,通用,Ever,https://getquicker.net/User/2774/Ever,362.3 KB,2019-07-13 22:30,87,修复部分蓝奏云网盘无法识别填写密码的问题。,2024-04-22
+数字加圈,https://getquicker.net/Sharedaction?code=73993fdf-b2f9-470d-ba75-08dc61bfef39,给数字加上圈,Microsoft Word,魔术师K,https://getquicker.net/User/1048798/%E9%AD%94%E6%9C%AF%E5%B8%88K,31 B,2024-04-21 16:15,0,,2024-04-22
+下一集,https://getquicker.net/Sharedaction?code=4ac1f516-c3d2-4be0-ba70-08dc61bfef39,实现部分网站的下一集/页功能,Google Chrome,sugeo,https://getquicker.net/User/1046714/sugeo,5.3 KB,2024-04-21 14:06,0,,2024-04-22
