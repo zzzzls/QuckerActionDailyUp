@@ -1,0 +1,55 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+AMZ UK,https://getquicker.net/Sharedaction?code=ca17277a-e254-4f62-f265-08dc63a5522a,Search Amazon,通用,用户vITPiJDEBAA,https://getquicker.net/User/1035448/%E7%94%A8%E6%88%B7vITPiJDEBAA,3.7 KB,2024-04-23 23:32,0,,2024-04-24
+一键隐藏操作&悬浮窗,https://getquicker.net/Sharedaction?code=5b85263b-b424-457d-e17c-08dc455790aa,"一键隐藏或显示自定义操作窗口,用于设置快捷键用",通用,Illustrator_...,https://getquicker.net/User/456480/Illustrator_QK%E6%8F%92%E4%BB%B6,11.2 KB,2024-03-17 10:52,5,参考POTO动作，关联进程的悬浮图标不显示出来 ,2024-04-24
+居中对齐,https://getquicker.net/Sharedaction?code=3e7b2dc1-6161-4d63-9ff9-08dc63761303,居中对齐,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,953 B,2024-04-23 22:40,1,换图标,2024-04-24
+垂直居中对齐,https://getquicker.net/Sharedaction?code=447c099d-6b05-450f-f264-08dc63a5522a,垂直居中对齐,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,900 B,2024-04-23 22:55,0,,2024-04-24
+水平居中对齐,https://getquicker.net/Sharedaction?code=1594c557-0c2e-42bf-f263-08dc63a5522a,水平居中对齐,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,906 B,2024-04-23 22:54,0,,2024-04-24
+> Plugins,https://getquicker.net/Sharedaction?code=57ceabf1-b75f-435c-3514-08daadd6a765,打开 Cinema 4D 常用目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,94.6 KB,2022-10-15 17:51,15,"添加菜单模式
+使用方法，传入动作参数""菜单模式""",2024-04-24
+Everything Pro,https://getquicker.net/Sharedaction?code=b651041a-4ec5-4d8f-bed0-08dc4ec30b16,1.在当前文件夹里搜索选中的文字（有路径且选中文字）；2.全局搜索选中的文字；3.在选中文件夹里搜索；4.在当前文件夹里搜索（有路径无文字）；5.仅打开空白Everything（桌面/无文字/无路径等）。,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,43 KB,2024-03-29 12:28,3,增加在英文/数字-中文、中文-数字/英文、英文-数字、数字-英文之间加空格的辅助选项,2024-04-24
+Doc2X图片识别,https://getquicker.net/Sharedaction?code=e48b2345-6376-4394-9ff3-08dc63761303,公式识别,通用,用户eHYH0zbVBAA,https://getquicker.net/User/1053837/%E7%94%A8%E6%88%B7eHYH0zbVBAA,18.9 KB,2024-04-23 20:40,0,,2024-04-24
+删除空行并格式化,https://getquicker.net/Sharedaction?code=cc4988f8-6ad2-4a01-6ef4-08dc62828b67,删除空行并格式化,Visual Studio Code,smilencezq,https://getquicker.net/User/4194/smilencezq,3.1 KB,2024-04-23 07:26,1,11,2024-04-24
+全选表格,https://getquicker.net/Sharedaction?code=7e9e4aec-f4fe-4da1-9fef-08dc63761303,全选word文档中的表格,Microsoft Word,lijuan,https://getquicker.net/User/483988/lijuan,1.4 KB,2024-04-23 18:24,0,,2024-04-24
+去编号,https://getquicker.net/Sharedaction?code=d98c7095-9b59-4e80-9fed-08dc63761303,word文档中自动编号转换为文本,Microsoft Word,lijuan,https://getquicker.net/User/483988/lijuan,919 B,2024-04-23 17:56,0,,2024-04-24
+文件名词频,https://getquicker.net/Sharedaction?code=abdfee8d-7fcd-44e0-9fe9-08dc63761303,选中文件运行提取文件名,Windows 资源管理器,jellzone,https://getquicker.net/User/328985/jellzone,8.4 KB,2024-04-23 17:16,0,,2024-04-24
+字幕识别,https://getquicker.net/Sharedaction?code=db0b3c54-e934-4ebf-6f3a-08dc62828b67,ocr识别字幕，保存到txt文件,通用,磐石,https://getquicker.net/User/12017/%E7%A3%90%E7%9F%B3,7.3 KB,2024-04-23 16:55,2,字幕识别,2024-04-24
+呼出AxMath（新版）,https://getquicker.net/Sharedaction?code=7661d7ab-6270-42b6-6f39-08dc62828b67,快速呼出AxMath，并粘贴为latex,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,11 KB,2024-04-23 16:43,0,,2024-04-24
+当前文档路径,https://getquicker.net/Sharedaction?code=ccb19de5-2fdd-42d5-e26a-08daf70dc81e,——定位当前文件位置。如果找到多个同名文件，打开everything。可识别软件：Office、Word、Excel、PPT、WPS、Photoshop、Illustrator（Ai）、Notepad2、记事本、XMind、Axure、Typora、Visual Studio、网易云音乐、360浏览器、2345看图王、PDF阅读器、画图等常用软件。,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,89.6 KB,2023-01-16 15:48,8,"功能：
+1、增加支持Lunacy、Figma、AutoCAD、铁塔放样设计系统、照片（系统）、Pixcall、Acrobat。
+2、支持剪映，通过截图标题的方式，匹配文件夹。
+3、Obsidian支持更多格式的文件。
+4、标题OCR搜索，支持指定扩展名。
+5、针对软件对文件名做了处理，诸如增加“（已转换）”，进行特殊处理。软件：Illustrator、AE、WPS。（增加了时长）
+
+优化：
+1、优化智能获取路径范围更广。
+2、优化搜索语法：有准确的扩展名，带“wfn”，没有不带。
+3、优化搜索语法：当搜索内容为路径时，关闭“不匹配路径”。
+4、截图提示，气泡模式改为信息。
+5、优化内部字段。",2024-04-24
+搜狗截图命名,https://getquicker.net/Sharedaction?code=80482b4f-1e19-4021-6f36-08dc62828b67,——搜狗截图后，文件名附加信息。,搜狗输入法 工具,level1,https://getquicker.net/User/102977/level1,15.3 KB,2024-04-23 16:39,0,,2024-04-24
+智能识别二维码,https://getquicker.net/Sharedaction?code=864b9a31-ea13-4d87-d196-08da56481141,——一键智能识别二维码，右键生成二维码。文本、URL转二维码。,通用,level1,https://getquicker.net/User/102977/level1,50.8 KB,2022-06-25 18:08,4,"功能：
+1、支持识别选中图片文件。
+2、支持自动识别屏幕。
+3、支持识别剪贴板图片。
+4、去掉截图功能。
+5、增加设置。
+6、设置增加开关：识别后运行内容。",2024-04-24
+文件流标签,https://getquicker.net/Sharedaction?code=5e965e3a-1d60-42fb-6f33-08dc62828b67,对NTFS 文件系统特性之一的交换数据流（ADS：Alternate Data Stream）进行读写操作，用于制作文件标签系统,通用,总在前行的蜗牛,https://getquicker.net/User/54220/%E6%80%BB%E5%9C%A8%E5%89%8D%E8%A1%8C%E7%9A%84%E8%9C%97%E7%89%9B,104.4 KB,2024-04-23 16:33,0,,2024-04-24
+批量改图片尺寸,https://getquicker.net/Sharedaction?code=13afcce0-ba1e-44b6-6ef5-08dc62828b67,统一批量改所有图片尺寸,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,10.4 KB,2024-04-23 09:15,1, ,2024-04-24
+创建工作表副本,https://getquicker.net/Sharedaction?code=e01d6cad-06de-4dee-e87f-08dc4af4df6f,可按需输入创建副本个数,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,28.2 KB,2024-03-23 17:25,3,美化,2024-04-24
+文本替换规则大全,https://getquicker.net/Sharedaction?code=0835ca3d-dfbc-489e-e56f-08dbbca28132,最全的文本替换规则参考,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,22.4 KB,2023-09-25 07:41,2,- 添加一系列「单元格文本处理」及「中文数字转换」规则,2024-04-24
+超级文本替换,https://getquicker.net/Sharedaction?code=55e35225-3818-487c-b5a2-08da2a8a4d14,可能是最丝滑的文本替换动作,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,229.5 KB,2022-04-30 21:28,19,- 添加一系列「单元格文本处理」及「中文数字转换」规则,2024-04-24
+SoloBeauty,https://getquicker.net/Sharedaction?code=ee80bb00-835e-459f-6f16-08dc62828b67,独显 Octane 复合文件的 Beauty 通道。有 Denoisedbeauty 时优先独显 Denoisedbeauty ,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,2 KB,2024-04-23 11:56,0,,2024-04-24
+辅助窗,https://getquicker.net/Sharedaction?code=910c9ede-81fe-474c-f5ed-08dba6ce1eab,辅助完成一个便利的自定义操作窗，添加网址、应用、文本、快捷键等,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,281 KB,2023-08-28 14:14,166,图标方面,2024-04-24
+Mat Pin,https://getquicker.net/Sharedaction?code=e4606df7-490a-4162-6f10-08dc62828b67,切换到材质通道进行材质选择。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,13.3 KB,2024-04-23 10:50,0,,2024-04-24
+文件夹标签,https://getquicker.net/Sharedaction?code=2b42d055-7413-47cc-6f0f-08dc62828b67,优雅的给文件夹打标签,通用,Mola,https://getquicker.net/User/322777/Mola,283.1 KB,2024-04-23 10:39,0,,2024-04-24
+网站收藏2.0,https://getquicker.net/Sharedaction?code=a653a1d1-6c52-4089-ba99-08dc61bfef39,按住Ctrl启动动作可以添加网站,通用,zdf153,https://getquicker.net/User/20184/zdf153,284.9 KB,2024-04-22 01:35,5,关闭等待按键,2024-04-24
+万能口袋,https://getquicker.net/Sharedaction?code=749f75da-6762-4fe7-da7b-08da54002c0e,搜索框样式快捷存取口袋,通用,dalou,https://getquicker.net/User/76824/dalou,269.1 KB,2022-06-22 11:45,9,右键菜单展示更新，可获取所有数据列表,2024-04-24
+快速打印,https://getquicker.net/Sharedaction?code=d5f76ae9-3387-411c-76e3-08dc5df52912,A4大小打印文件设定好的份数,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,4.2 KB,2024-04-17 08:11,2,在动作图标右上角添加显示已保存份数,2024-04-24
+OB双向摘录,https://getquicker.net/Sharedaction?code=e56272cc-4b78-4d74-39a1-08dc538292ef,从bxn中摘录内容到OB,BookxNote Pro,赵子璇,https://getquicker.net/User/863887/%E8%B5%B5%E5%AD%90%E7%92%87,114.2 KB,2024-04-03 12:52,3,"进一步完善了流程,菜单栏进一步完善,运行速度提升",2024-04-24
+示例：输入框自定义选择图标,https://getquicker.net/Sharedaction?code=71342ece-4876-40c7-6ef0-08dc62828b67,字段表输入框自定义选择图标,通用,zdf153,https://getquicker.net/User/20184/zdf153,22.9 KB,2024-04-23 00:24,3,关闭失败停止,2024-04-24
+时间戳增量保存,https://getquicker.net/Sharedaction?code=bd927898-8d92-482f-6ef1-08dc62828b67,能够获取当前到分钟的时间戳，增量保存maya文件,Maya,fantasma2019,https://getquicker.net/User/1053031/fantasma2019,2.2 KB,2024-04-23 00:32,0,,2024-04-24
+极简待办,https://getquicker.net/Sharedaction?code=ddeb8109-f17b-43e1-8912-08dc5a32504a,左Ctrl新增；左Alt管理。一个极简的待办清单。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,144.7 KB,2024-04-12 23:22,7,"【新增】牡丹粉、琉璃紫、烟雨青、伽罗褐、藤萝橡、古城驼、枣红金、荷绾红、百草霜、玄黑金、春水绿、檀香棕12个主题。
+【修复】切换主题和修改界面设置时部分元素不能立即更新的问题。",2024-04-24
+MayaSocket,https://getquicker.net/Sharedaction?code=5a73a922-ccbc-41d9-6eef-08dc62828b67,能够向maya发送脚本代码（替换Code中的代码即可）,Maya,fantasma2019,https://getquicker.net/User/1053031/fantasma2019,1.3 KB,2024-04-23 00:16,0,,2024-04-24
