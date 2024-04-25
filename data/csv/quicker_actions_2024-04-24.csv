@@ -3,9 +3,6 @@
 wox.Need trigger,https://getquicker.net/Sharedaction?code=f34c74e7-ed34-465f-f2b3-08dc63a5522a,"wox的Need插件是一个键值对存储工具，你可以用它存储一些常用的信息。该动作可以帮你快速唤醒wox并输入need, 执行该动作后你只需要输入key就可以查询键值对了",通用,busterian,https://getquicker.net/User/831832/busterian,3 KB,2024-04-24 22:22,0,更新示例视频,2024-04-25
 FTP图床上传,https://getquicker.net/Sharedaction?code=1e97e13e-9ed7-4c9c-5351-08dc15e737a9,以FTP协议上传图床，并返回链接,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,20.4 KB,2024-01-16 09:57,2,支持上传路径与返回路径不相同,2024-04-25
 快速记录,https://getquicker.net/Sharedaction?code=9eacd87a-b763-456a-b742-08dc335594d4,复制选中文本并记录来源与时间戳,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,66.3 KB,2024-02-23 09:19,8,支持输入框添加内容,2024-04-25
-读书笔记,https://getquicker.net/Sharedaction?code=c9154e53-d422-43de-4832-08dc59347e50,从豆瓣自动获取书籍信息，并在Obsidian中生成读书笔记,Obsidian,Glaube_TY,https://getquicker.net/User/1040420/Glaube_TY,98 KB,2024-04-10 21:21,4,解决搜索添加模式下没有ISBN的问题,2024-04-25
-R.S.O.C,https://getquicker.net/Sharedaction?code=fab60ffe-2539-452d-a1b7-08db9e3a5ebf,Repace Smart Object Contents.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,16.3 KB,2023-08-17 15:59,3,"1、右键设置中支持自定义其他替换文件格式，默认为 .psd
-2、增加进度条",2024-04-25
 搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,388.9 KB,2023-10-22 15:24,205,优化,2024-04-25
 AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,也许是最好用的AI工具导航,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,37.7 KB,2024-04-22 15:16,12,新增,2024-04-25
 PDF小工具,https://getquicker.net/Sharedaction?code=e0872ced-fa64-425a-57b5-08dac0d38e97,批量PDF分割、合并、转图片、转HTML，删除、提取PDF页码；文档、图片转PDF,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,152 KB,2022-11-08 14:33,23,修改多图转PDF为页面自适应宽度高度,2024-04-25
