@@ -1,0 +1,92 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+2FA,https://getquicker.net/Sharedaction?code=ed263339-4554-4d60-8e67-08dc6685e603,根据密钥生成验证码，支持配置多个,通用,失落无意义,https://getquicker.net/User/102998/%E5%A4%B1%E8%90%BD%E6%97%A0%E6%84%8F%E4%B9%89,87.1 KB,2024-04-28 03:03,1,支持配置多个，保存在本地状态中,2024-04-29
+网页收藏,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,也许是最好用的网页收藏,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,69.8 KB,2023-07-04 13:05,2,-,2024-04-29
+EasyImage,https://getquicker.net/Sharedaction?code=705df725-6ebe-4cfb-007c-08dc658bec70,EasyImage 上传图片,通用,lllei,https://getquicker.net/User/782476/lllei,13.9 KB,2024-04-26 20:34,1,"增加资源管理器中选中文件上传（可多选），默认关闭，如有需要，可在设置中开启。
+
+增加结果转化，可以选择 markdown, html, url 三种转化模式。",2024-04-29
+规范打开,https://getquicker.net/Sharedaction?code=ae3d5cf1-57be-4704-4e16-08dc0e606679,对选中的文件：1.备份，2.规范命名，3.打开,Windows 资源管理器,iDenny,https://getquicker.net/User/459511/iDenny,155.7 KB,2024-01-06 19:17,17,修正一个无法获得文件列表的BUG,2024-04-29
+打开PDF,https://getquicker.net/Sharedaction?code=75facef7-7ce5-4745-8e8c-08dc6685e603,使用Adobe打开Zotero PDF附件,Zotero,KenyonLv,https://getquicker.net/User/701443/KenyonLv,3.8 KB,2024-04-28 17:23,0,,2024-04-29
+照片转文档,https://getquicker.net/Sharedaction?code=934caad5-03a4-4aba-006c-08dc658bec70,将照片调整合并成适合打印的PDF文档,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,29.6 KB,2024-04-26 15:51,2,- 转换前弹出选项窗口,2024-04-29
+智能识别二维码,https://getquicker.net/Sharedaction?code=864b9a31-ea13-4d87-d196-08da56481141,——一键智能识别二维码，右键生成二维码。文本、URL转二维码。,通用,level1,https://getquicker.net/User/102977/level1,128.6 KB,2022-06-25 18:08,6,"识别二维码：
+1、增加识别：剪贴板图片。
+2、增加识别：选中网络图片。
+3、增加识别：剪贴板多图片文件。
+4、增加功能，识别后写入剪贴板。
+5、增加展示模式：提示文本。
+6、增加展示模式：无操作。
+
+生成二维码：
+1、智能捕获当前窗口内容，生成二维码。捕获内容：选中文本、选中文件、资源管理器、软件。
+2、生成二维码的命名更加优化。
+3、生成二维码，中间带示意图标。
+
+设置：
+1、“设置”增加开关：识别剪贴板。
+2、“设置”增加开关：生成二维码带示意图标。
+3、“设置”增加开关：识别展示模式。
+4、“设置”增加开关：识别后写入剪贴板。
+
+其他：
+1、运行动作允许多实例。
+
+BUG：
+1、去掉反馈“非常规二维码”的情况。避免识别1个二维码错误时，（提示文字模式）显示3条提示的问题。
+2、修复文本窗口会被新实例更新的问题。
+3、修复当网页选空时，生成二维码报错的问题。
+4、针对输出图片列表的识别模块，双重判断，解决总是报错的问题。
+5、修复识别剪贴板二维码，报错的问题。
+
+优化：
+1、优化内部代码。",2024-04-29
+另存窗口快速切换,https://getquicker.net/Sharedaction?code=dfccca6b-9432-4c2a-8da1-08dc64c8b533,——仿Listary,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,22.9 KB,2024-04-25 16:12,1,"功能：
+1、由后台运行动作，改为“事件触发”来激活动作，降低了系统占用。
+2、优化内部代码。
+
+BUG：
+2、解决“事件触发”模式，运行后不结束的循环问题。
+
+-------------------------------------
+版本0：
+
+功能：
+1、激活“文件名”输入框，记录XPath到词典，获取资源管理器路径，更新“另存”窗口路径。
+2、将XPath更新（“另存”窗口）路径的方式，改为使用Quicker空间更新路径。
+3、由于WPS的特殊性，改为XPath来获取输入框。
+4、适配WPS的文件选择窗。
+5、试探XPath可激活，改为固定几个XPath。
+6、将“另存跳转”模块，改为激活XPath控件。因为Windows所有设置窗口的类名都是#32770，甚至触发了“属性”窗口的文件名的编辑。
+
+优化：
+1、增加提示：当捕获到文件选择窗时。",2024-04-29
+当前窗口定位文件,https://getquicker.net/Sharedaction?code=24cd95d1-2485-4ade-8da0-08dc64c8b533,——仿Listary,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,24.7 KB,2024-04-25 16:12,1,"功能：
+1、支持Directory Oups软件。
+2、增加资源管理器白名单。
+3、默认打开内容，改为全手动填写列表。
+4、通过传递参数调用功能：搜索指定文件夹。
+
+BUG：
+1、处理了遇到回收站、我的电脑时，不报错而是进行提醒。
+2、处理了遇到虚拟文件夹时，不额外打开新窗口的问题。
+3、实时搜索，修复多关键词，但结果是或者并不是并且的问题。
+
+优化：
+1、文件增加按照名称排序，按扩展名分类。
+2、如果运行默认路径，则用定位的方式打开窗口。
+3、提示文字路径，改为父目录。
+
+-------------------------------------
+版本0：
+1、当前文件夹实时搜索，定位文件。
+2、不是资源管理器，在默认文件夹搜索。
+3、可修改默认文件夹。
+4、区分初次运行时获取路径。",2024-04-29
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,343.5 KB,2023-12-05 00:57,37,"+增加更丰富的设置选项。可以自由选择录制完成后的操作方式。
++设置中增加录制完成后将文件写入剪贴板的选项。
+~修改一些设置的提示内容。",2024-04-29
+输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,提示当前窗口的大写/小写/中文/英文状态；自动切换输入状态；重复点击切换小写中文/小写英文,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,150 KB,2024-04-01 13:20,15,优化动作,2024-04-29
+简易图片浏览器,https://getquicker.net/Sharedaction?code=64e182b6-05b9-421d-8e75-08dc6685e603,一个简单的图片浏览/查看窗口,通用,zryan,https://getquicker.net/User/539621/zryan,6.5 KB,2024-04-28 12:11,1,1. 优化,2024-04-29
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,390.2 KB,2023-10-22 15:24,209,优化计算器,2024-04-29
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,借助Simpletex实现公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,96.6 KB,2023-06-12 00:47,9,API模式的svg格式支持中文,2024-04-29
+巴德文件版本号,https://getquicker.net/Sharedaction?code=71742f10-471c-4625-8e6c-08dc6685e603,经常需要给文件添加版本；从当前版本复制出新的版本等操作，因此写了这个动作,通用,Bader,https://getquicker.net/User/135289/Bader,4.3 KB,2024-04-28 10:29,1,1. 更新图标,2024-04-29
+BY倍速,https://getquicker.net/Sharedaction?code=2eb435eb-6629-4d1f-0083-08dc658bec70,网页版哔哩哔哩或youtube倍速播放视频,通用,ii6uu992,https://getquicker.net/User/997056/ii6uu992,9.2 KB,2024-04-26 22:14,1,.,2024-04-29
+快速记录,https://getquicker.net/Sharedaction?code=9eacd87a-b763-456a-b742-08dc335594d4,复制选中文本并记录来源与时间戳,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,71.5 KB,2024-02-23 09:19,10,fix,2024-04-29
