@@ -207,3 +207,19 @@
 2024-04-29 00:33:29.398 | INFO     | __main__:run_task:79 - 2024-04-28 更新了 17 个动作
 2024-04-29 13:07:56.535 | INFO     | __main__:run_task:79 - 2024-04-28 更新了 14 个动作
 2024-04-30 00:31:46.343 | INFO     | __main__:run_task:79 - 2024-04-29 更新了 10 个动作
+2024-04-30 13:07:39.583 | ERROR    | __main__:run_task:81 - fetch url err
+Traceback (most recent call last):
+
+  File "/home/runner/work/QuckerActionDailyUp/QuckerActionDailyUp/scripts/crawler.py", line 84, in <module>
+    QuickerAction().run_task()
+    └ <class '__main__.QuickerAction'>
+
+> File "/home/runner/work/QuckerActionDailyUp/QuckerActionDailyUp/scripts/crawler.py", line 69, in run_task
+    response = self._fetch()
+               │    └ <function QuickerAction._fetch at 0x7faeb0842f70>
+               └ <__main__.QuickerAction object at 0x7faeb0893400>
+
+  File "/home/runner/work/QuckerActionDailyUp/QuckerActionDailyUp/scripts/crawler.py", line 37, in _fetch
+    raise ValueError("fetch url err")
+
+ValueError: fetch url err
