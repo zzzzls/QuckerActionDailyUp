@@ -1,0 +1,29 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+CAD自动切换中英文,https://getquicker.net/Sharedaction?code=24c69532-40a3-4845-96fa-08dc686ff279,根据光标类型自动切换输入法中英文状态,AutoCAD Application,Laurant,https://getquicker.net/User/254022/Laurant,9.8 KB,2024-04-30 18:56,1,优化判断逻辑,2024-05-01
+双向摘录,https://getquicker.net/Sharedaction?code=e56272cc-4b78-4d74-39a1-08dc538292ef,从浏览器和Bookxnote中摘录内容到OB,Obsidian,赵子璇,https://getquicker.net/User/863887/%E8%B5%B5%E5%AD%90%E7%92%87,211 KB,2024-04-03 12:52,4,大改,2024-05-01
+读书笔记,https://getquicker.net/Sharedaction?code=c9154e53-d422-43de-4832-08dc59347e50,从豆瓣自动获取书籍信息，并在Obsidian、Notion中生成读书笔记,通用,Glaube_TY,https://getquicker.net/User/1040420/Glaube_TY,134.4 KB,2024-04-10 21:21,7,"增加添加书籍到Notion数据库功能；
+增加“出品方”信息的获取。",2024-05-01
+摘录到RN,https://getquicker.net/Sharedaction?code=bb64ec7b-0c50-4ae3-96f9-08dc686ff279,说明：选中思源块中的部分文本（或整个块），高亮选中部分、复制选中部分的内容、复制所属块的链接，封装链接和内容，在RemNote中创建一个Rem。,SiYuan,JamesJJ,https://getquicker.net/User/1035161/JamesJJ,14.2 KB,2024-04-30 18:26,0,,2024-05-01
+筛选文件,https://getquicker.net/Sharedaction?code=68835203-1d1a-4663-7abc-08d942e32f46,筛选当前资源管理器窗口文件,Windows 资源管理器,FaniX,https://getquicker.net/User/52603/FaniX,72.1 KB,2021-07-10 23:12,4,"修改了触发方式，可以通过传入参数""search""触发实时搜索。直接启动会打开多选模式
+更新了多选筛选，支持手动输入要选择的文件列表，和筛选在另一个文件夹内有同名文件的文件",2024-05-01
+批量修改日期,https://getquicker.net/Sharedaction?code=3127a9cd-225a-42fd-96e5-08dc686ff279,用于批量更换文件的修改日期,Windows 资源管理器,GZKSU,https://getquicker.net/User/454447/GZKSU,6.9 KB,2024-04-30 11:55,2,增加完成提示音,2024-05-01
+公英制长度单位转换,https://getquicker.net/Sharedaction?code=ba733e4f-ba77-40d2-1e94-08dbbf546dec,提供公英制互相转换,通用,SCT-D,https://getquicker.net/User/675682/SCT-D,10.7 KB,2023-09-28 16:08,6,"增加小数位数选择
+修改窗口大小和位置",2024-05-01
+AnyTXT Searcher 快搜,https://getquicker.net/Sharedaction?code=368d1c00-e532-4d9d-96f2-08dc686ff279,选中关键字使用AnyTXT全局文件内文本搜索,通用,lonquanzj,https://getquicker.net/User/276904/lonquanzj,2 KB,2024-04-30 16:47,0,,2024-05-01
+EXCEL/WPS自动填充颜色,https://getquicker.net/Sharedaction?code=2e2746d7-f344-4933-96ec-08dc686ff279,选择颜色填充，可以自己添加;通过VBA脚本实现，不可撤销，要无填充需要重新选定,Microsoft Excel,SCT-D,https://getquicker.net/User/675682/SCT-D,3.7 KB,2024-04-30 15:18,0,,2024-05-01
+GNC,https://getquicker.net/Sharedaction?code=0ce8c730-d2e3-4b35-96eb-08dc686ff279,实现自动出单个零件的GNC文件,cncKad Application,uinkong,https://getquicker.net/User/1049732/uinkong,3.9 KB,2024-04-30 15:08,0,,2024-05-01
+MJ自动生图,https://getquicker.net/Sharedaction?code=af374dab-d30c-4504-ca28-08dc5d069310,无限持续生图，使用放松模式不再消耗快速流量。,Discord,山巳_,https://getquicker.net/User/775448/%E5%B1%B1%E5%B7%B3_,14.9 KB,2024-04-15 13:09,3,BUG修复,2024-05-01
+字幕识别,https://getquicker.net/Sharedaction?code=db0b3c54-e934-4ebf-6f3a-08dc62828b67,ocr识别字幕，保存到txt文件,通用,磐石,https://getquicker.net/User/12017/%E7%A3%90%E7%9F%B3,9.3 KB,2024-04-23 16:55,4,字幕无更新后，5秒自动停止,2024-05-01
+AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,也许是最好用的AI工具导航,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,37.9 KB,2024-04-22 15:16,13,-,2024-05-01
+移动对象,https://getquicker.net/Sharedaction?code=bfa7dd0f-ed1f-486d-96e0-08dc686ff279,根据设置的像素上下左右移动对象.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,15 KB,2024-04-30 11:05,2,现在可以在操作面板打开或关闭提示消息。,2024-05-01
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,379.8 KB,2023-10-22 15:24,212,_,2024-05-01
+搜神收藏夹,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,也许是最好用的网页收藏工具,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,127 KB,2023-07-04 13:05,25,_,2024-05-01
+右击链接,https://getquicker.net/Sharedaction?code=4bfddaf9-3fc2-49ce-47f0-08da210a63ca,右键点击链接，在前台打开新标签页,通用,白起1996,https://getquicker.net/User/305953/%E7%99%BD%E8%B5%B71996,8.9 KB,2022-04-19 11:28,2,重构代码,2024-05-01
+文件备注,https://getquicker.net/Sharedaction?code=eadd67b8-1105-4de6-2390-08d8ac5e1ca5,为选中文件创建一份同名文本，并将随后的输入写入or追加到该文本,Windows 资源管理器,唐家二少,https://getquicker.net/User/104162/%E5%94%90%E5%AE%B6%E4%BA%8C%E5%B0%91,14.6 KB,2020-12-30 18:11,6,"1.增加查看备注功能
+2.选中文件夹时在对应文件夹内创建备注，未选中文件夹时对当前所在文件夹添加备注",2024-05-01
+搜索,https://getquicker.net/Sharedaction?code=7ec95694-29e4-4739-8355-08d94406436b,简单好用的搜索引擎聚合,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,168.2 KB,2021-07-12 02:31,16,"- 支持置顶搜索引擎
+- 支持自定义筛选引导符",2024-05-01
+文件名标签管理,https://getquicker.net/Sharedaction?code=fe975ccd-27dc-4f39-8d0a-08da1e38749d,文件名内添加关键字，便于搜索以及通过关键字分类文件，同时集成一些其他常用文件操作,Windows 资源管理器,唐家二少,https://getquicker.net/User/104162/%E5%94%90%E5%AE%B6%E4%BA%8C%E5%B0%91,445.4 KB,2022-04-15 14:09,33,增加运行动作后还原鼠标位置，菜单出现的位置更加合理,2024-05-01
+SoloBeauty,https://getquicker.net/Sharedaction?code=ee80bb00-835e-459f-6f16-08dc62828b67,Solo beauty layer.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,44.8 KB,2024-04-23 11:56,2,支持在资源管理器、桌面运行，对选中的文件导入ps，并执行独显beauty图层。,2024-05-01
+随机诗词,https://getquicker.net/Sharedaction?code=edf01a25-da92-4c19-96cf-08dc686ff279,随机诗词+AI翻译,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,39.9 KB,2024-04-30 02:19,5,fixbug,2024-05-01
+示例:好看的进度条,https://getquicker.net/Sharedaction?code=a6e432de-3f5b-4208-96ce-08dc686ff279,示例:好看的进度条,通用,zdf153,https://getquicker.net/User/20184/zdf153,19.7 KB,2024-04-30 01:20,1,1,2024-05-01

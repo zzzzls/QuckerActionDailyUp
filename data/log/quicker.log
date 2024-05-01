@@ -223,3 +223,4 @@ Traceback (most recent call last):
     raise ValueError("fetch url err")
 
 ValueError: fetch url err
+2024-05-01 00:35:25.635 | INFO     | __main__:run_task:79 - 2024-04-30 更新了 23 个动作
