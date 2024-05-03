@@ -1,0 +1,7 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,147.2 KB,2023-12-16 20:13,56,"~ 修复未""后台""运行时，使用实时搜索会报错的情况",2024-05-03
+公式识别3,https://getquicker.net/Sharedaction?code=9666d404-be36-45de-438c-08d7f4f4652e,可以试一下的公式识别,通用,Cesar,https://getquicker.net/User/18359/Cesar,500.9 KB,2020-05-11 14:10,94,"1. 更改默认simpletex端口
+2. 修复mathjax中文渲染bug",2024-05-03
+旋转图片,https://getquicker.net/Sharedaction?code=0680f666-cfd9-4366-e19a-08dc6a5e1660,"对图片或相片进行向右旋转,包含向左旋转",Windows 资源管理器,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,9.8 KB,2024-05-02 15:57,1,1,2024-05-03
+AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,也许是最好用的AI工具导航,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,38.8 KB,2024-04-22 15:16,16,_,2024-05-03
+文字助手,https://getquicker.net/Sharedaction?code=cc6d099b-b764-48d9-ad48-08dbb89e3001,适用于大部分文本编辑软件，功能：增加、编辑、提取、删除、查询、排序。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,126 KB,2023-09-19 19:08,9,已支持@天下樯橹 建议的转盘里直接调用动作的某个功能,2024-05-03
