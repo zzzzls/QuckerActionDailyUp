@@ -1,0 +1,15 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+实时搜索示例(右键菜单数据传输方法),https://getquicker.net/Sharedaction?code=8bdfeac2-e888-44ba-bade-08dc6c306e08,实时搜索示例,通用,zdf153,https://getquicker.net/User/20184/zdf153,9.9 KB,2024-05-04 23:42,0,,2024-05-05
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,344.5 KB,2023-12-05 00:57,38,+设置中可以自由选择生成的视频格式。,2024-05-05
+示例：表单自动计算字段值,https://getquicker.net/Sharedaction?code=d1043f3e-7c99-4677-cdf7-08dc19b6971f,演示表单中对个别字段自动计算结果,通用,CL,https://getquicker.net/User/3/CL,7.5 KB,2024-01-21 21:45,1,增加通过depd限制依赖字段的示例。,2024-05-05
+视频笔记,https://getquicker.net/Sharedaction?code=375863dd-6665-4ef3-bad7-08dc6c306e08,快速截取当前浏览器的视频画面、时间码等信息。,Obsidian,Moy,https://getquicker.net/User/771/Moy,14.3 KB,2024-05-04 21:54,1,更新，方便修改默认行为,2024-05-05
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的搜索神器(本地),Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,390.4 KB,2023-03-25 00:27,172,_,2024-05-05
+简·笔记,https://getquicker.net/Sharedaction?code=81354cf5-35ee-48f2-e884-08dc4af4df6f,一个笔记壳子，需第三方markdown软件，建议typora。,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,129.7 KB,2024-03-23 19:25,2,添加了，右键窗口顶置,2024-05-05
+钉钉自动发送,https://getquicker.net/Sharedaction?code=2aaee8c2-3b6c-4a59-bad5-08dc6c306e08,将鼠标所选发送给钉钉好友。,DingTalk,努力的金子,https://getquicker.net/User/718736/%E5%8A%AA%E5%8A%9B%E7%9A%84%E9%87%91%E5%AD%90,9.6 KB,2024-05-04 21:01,0,,2024-05-05
+存图,https://getquicker.net/Sharedaction?code=eefe16c3-c197-4374-a4c2-08dbb4bd66e6,储存/收藏图片、一键打开、云端储存、多端同步、随时查看、极简操作。,通用,M-cc,https://getquicker.net/User/521120/M-cc,169.3 KB,2023-09-15 13:25,11,-暂时移除云端上传的功能。因实现的方法不合适，目前仍然只支持本地查看。,2024-05-05
+IDM下载链接,https://getquicker.net/Sharedaction?code=2251da6c-7b97-47b1-bad3-08dc6c306e08,调用IDM下载，获取顺序为 剪贴板--> 选中文本--> 输入,通用,Ruxsyun,https://getquicker.net/User/686001/Ruxsyun,11.5 KB,2024-05-04 20:17,1,fix bug,2024-05-05
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,383.3 KB,2023-10-22 15:24,222,新增_,2024-05-05
+搜神收藏夹,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,也许是最好用的网页收藏工具,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,133 KB,2023-07-04 13:05,31,_优化,2024-05-05
+AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,也许是最好用的AI工具导航,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,43.9 KB,2024-04-22 15:16,19,新增,2024-05-05
+关闭左侧标签页,https://getquicker.net/Sharedaction?code=315a8235-e00a-4b89-8236-08d8246a94ad,浏览器扩展示例：使用后台脚本关闭左侧标签页,Google Chrome,CL,https://getquicker.net/User/3/CL,1.4 KB,2020-07-10 10:00,1,不关闭pinned,2024-05-05
+油管主RSS订阅,https://getquicker.net/Sharedaction?code=30df3bd6-2a68-41a0-b7a9-08dc6b3fcf6e,在油管主的一个视频播放页面执行本动作，获得这个油管主的RSS订阅链接。,Google Chrome,卍,https://getquicker.net/User/11180/%E5%8D%8D,2.9 KB,2024-05-04 15:11,1,更新图标颜色,2024-05-05
