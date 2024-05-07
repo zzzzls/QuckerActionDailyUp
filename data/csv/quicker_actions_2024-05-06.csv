@@ -1,26 +1,16 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 效率办公助手,https://getquicker.net/Sharedaction?code=4c3fe8ba-c5e0-4158-7ea6-08dc251ced29,免费实用智能，财审、券商、投行打工人必备的效率办公助手！,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,390.5 KB,2024-02-05 11:54,28,【优化】新增yyyy.MM.dd的日期格式,2024-05-07
-> Plugins,https://getquicker.net/Sharedaction?code=7fd2652c-5a5e-4417-fb1f-08db512831c2,打开 Photoshop Plugins 插件目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,88 KB,2023-05-11 11:03,8,修复无法备份工作区的问题（与 Settings 一致）,2024-05-07
 > Plugins,https://getquicker.net/Sharedaction?code=57ceabf1-b75f-435c-3514-08daadd6a765,打开 Cinema 4D 常用目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,94.7 KB,2022-10-15 17:51,17,修复zip压缩后无法定位的问题,2024-05-07
-图译,https://getquicker.net/Sharedaction?code=76cbf193-893d-461e-114b-08dc6d6d23e1,无需API，安装即用。支持截图翻译、批量翻译图片。,通用,M-cc,https://getquicker.net/User/521120/M-cc,41.8 KB,2024-05-06 15:18,3,发布,2024-05-07
 承影,https://getquicker.net/Sharedaction?code=56b4a3a5-d24f-4039-44a2-08da37d44e37,快捷调取常用图片、路径、文本,通用,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,374.6 KB,2022-05-18 17:34,5,V5 根据祥睿御免-海西的反馈，尝试适配Directory Opus资源管理器（进程名dopus）获取选择的文件。,2024-05-07
 链接工具,https://getquicker.net/Sharedaction?code=0e39470f-00fc-4e63-ca38-08dc5d069310,illustrator 链接增强工具,Adobe Illustrator,Illustrator_...,https://getquicker.net/User/456480/Illustrator_QK%E6%8F%92%E4%BB%B6,932.1 KB,2024-04-15 15:17,2,"1。刀线排列不再仅限链接，如果画板外无对象，将以最上层对象为排版对象.
 2。置入文件，增加添加页码选项,页码可以手动输入多个
 3。增加手动标记页码称移除页码
 4。图案巡边加上一直视为非透明图像
 ",2024-05-07
-宫格切图,https://getquicker.net/Sharedaction?code=6a4a8982-2032-4e9a-78e0-08dba8aeb64e,"等比分割图片, 常用于制作九宫格",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,17.5 KB,2023-08-30 16:41,1,"新增批量分割图片
-完善注释
-新增处理进度进度条
-新增是否图片拉伸选项
-新增判断文件类型",2024-05-07
-智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),722.5 KB,2023-06-26 19:07,180,新增白嫖国产大模型——海螺，大家可体验网页原版，和AI打电话蛮有意思,2024-05-07
 常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,可能是最好用的文本常用语/实时搜索,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,117.6 KB,2023-10-18 22:55,14,_-,2024-05-07
+Illustrator 脚本 统一分辨率,https://getquicker.net/Sharedaction?code=6188d037-1746-4e72-113f-08dc6d6d23e1,统一分辨率,Adobe Illustrator,jialan75home,https://getquicker.net/User/631091/jialan75home,8.8 KB,2024-05-06 12:20,0,,2024-05-07
 excel导入cad,https://getquicker.net/Sharedaction?code=1c3aaff6-2233-4ff1-a095-08dc60e24918,excel多列表格文本导入cad,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,28.4 KB,2024-04-20 20:49,1,修改wps判定程序为et,2024-05-07
-禁用系统更新,https://getquicker.net/Sharedaction?code=31d6b082-436f-4357-e9e6-08db92f9f222,"禁用/恢复 系统更新, 自定义禁用时间",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,21.6 KB,2023-08-02 10:50,4,"完善注释
-完成后打开Windows更新页面由用户选择",2024-05-07
 识文,https://getquicker.net/Sharedaction?code=b3b9764b-7303-42e7-b102-08d99dc328c2,框选识别无法复制的文字（OCR），并写入剪贴板,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,43.9 KB,2021-11-03 09:10,9,优先使用识别效果媲美某服务商高精度接口的Quicker OCR引擎，提升识别速度与精度,2024-05-07
-极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,极速预览图片(gif)音频视频文档等,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,125.8 KB,2023-07-28 23:43,42,支持查阅.vcf手机联系人文件,2024-05-07
 WIFI密码,https://getquicker.net/Sharedaction?code=5f05af06-486c-4c5b-85a6-08da41f39182,获取已连接过的WiFi密码,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,52.2 KB,2022-05-31 16:52,14,完善注释和变量名,2024-05-07
 DNS和HOST切换,https://getquicker.net/Sharedaction?code=f45dc8e7-7c1d-4655-5633-08d9eec3922c,修改当前网络的DNS,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,39.6 KB,2022-02-14 16:44,9,"优化子程序输入输出
 增加DNS断网提醒",2024-05-07
