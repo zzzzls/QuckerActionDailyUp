@@ -1,0 +1,64 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+获取选择的数量,https://getquicker.net/Sharedaction?code=4df06bc2-5919-46a5-94ef-08dc6f0c8aa6,获取选择的群组或者单个的形状的数量,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,1.3 KB,2024-05-08 22:16,0,,2024-05-09
+渲染路径,https://getquicker.net/Sharedaction?code=a71ef76c-7f04-4ded-d88f-08dad7a05c05,生成相对渲染路径。（令牌）,CINEMA 4D,Anlv,https://getquicker.net/User/392637/Anlv,16.8 KB,2022-12-07 10:57,4,"1、当前版本在后台调用python脚本配置渲染路径，所以可不在渲染设置界面激活本动作。
+2、经测试，支持设置默认渲染器、redshift渲染器、octane渲染器（激活多通道并填写渲染路径）
+
+tips：旧版本依旧保留，如需旧版本，请自行编辑动作，禁用V2，启用V1。",2024-05-09
+假装更新,https://getquicker.net/Sharedaction?code=5ff8d8ec-febb-4f61-94ed-08dc6f0c8aa6,假装在更新然后开始正大光明的摸鱼,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,6.8 KB,2024-05-08 21:24,0,,2024-05-09
+连续编辑,https://getquicker.net/Sharedaction?code=a75803a8-e4d9-4d4f-3331-08dc6e3171e5,对某个动作高频编辑/开发动作使用,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,18.5 KB,2024-05-07 18:22,5,.,2024-05-09
+突出显示（高亮）,https://getquicker.net/Sharedaction?code=a00de169-fc49-42fb-9652-08db2e83fcea,高亮将选中的文字，默认为黄色，支持传入参数指定颜色,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,11 KB,2023-03-27 14:38,4,颜色选择列表补全所有可用颜色，并显示颜色供参考。需要使用 1.42.33 及以上版本的quicker,2024-05-09
+Prompt,https://getquicker.net/Sharedaction?code=669e6986-5929-4ed5-94e6-08dc6f0c8aa6,发送 Prompt 到 ChatGPT对话窗。,通用,Anlv,https://getquicker.net/User/392637/Anlv,15.5 KB,2024-05-08 17:09,1,解决首次运行未能读取云状态的问题。,2024-05-09
+移动对象,https://getquicker.net/Sharedaction?code=bfa7dd0f-ed1f-486d-96e0-08dc686ff279,根据设置的像素上下左右移动对象.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,14.1 KB,2024-04-30 11:05,3,删除多余的模块,2024-05-09
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,385.8 KB,2023-10-22 15:24,230,优化,2024-05-09
+搜招投标,https://getquicker.net/Sharedaction?code=9c387030-800c-4660-94e3-08dc6f0c8aa6,选词极速搜索招投标相关信息,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,6.8 KB,2024-05-08 16:09,4,支持空格符生效,2024-05-09
+微信待办,https://getquicker.net/Sharedaction?code=e60c9fbb-b905-4796-7cda-08dab3982e47,——为每个微信聊天窗创建待办。微信群待办、好友待办，支持导出待办、摘录聊天记录。由于工作项目繁多，导致记不住任务。“微信待办”根据聊天窗来记录待办，随记随关。,WeChat,level1,https://getquicker.net/User/102977/level1,337.5 KB,2022-10-22 10:19,38,"功能：
+1、文本窗增加插入“创建时间”、“当前时间”，并改成折叠菜单。
+2、支持获取企业微信标题。
+
+BUG：
+1、修复删除头像时，报错的问题。
+
+优化：
+1、优化全局菜单顺序。",2024-05-09
+编辑最近动作,https://getquicker.net/Sharedaction?code=c24f9bb8-876a-458b-94dd-08dc6f0c8aa6,——展示最近运行的动作，点击编辑，右键悬浮。,Quicker,level1,https://getquicker.net/User/102977/level1,16.5 KB,2024-05-08 15:32,0,,2024-05-09
+搜狗截图命名,https://getquicker.net/Sharedaction?code=80482b4f-1e19-4021-6f36-08dc62828b67,——搜狗截图后，文件名附加信息。,搜狗输入法 工具,level1,https://getquicker.net/User/102977/level1,16.4 KB,2024-04-23 16:39,1,"功能：
+1、由后台运行动作，改为“事件触发”来激活动作，降低了系统占用。
+
+BUG：
+1、修复事件触发重命名失败的问题。
+
+-------------------------------------
+版本0 
+
+功能：
+1、修改搜狗截图的文件名，增加进程名。
+2、增加进程黑名单功能。
+
+BUG：
+1、Everything搜索失败后不停止动作。
+
+优化：
+1、如果获取到的路径数量为0，跳出循环，避免提取时间报错。
+2、从文件名转义创建时间，改为获取文件信息中的创建时间。",2024-05-09
+声笔一键,https://getquicker.net/Sharedaction?code=a570c0c0-1a11-409b-24e3-08dc481c770b,全自动化搞定声笔打字在电脑上的安装部署,通用,Poto,https://getquicker.net/User/137838/Poto,39.2 KB,2024-03-20 13:00,11,更新至 20240508 声笔输入法版本,2024-05-09
+搜神收藏夹,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,也许是最好用的网页收藏工具,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,133.1 KB,2023-07-04 13:05,32,.,2024-05-09
+色神,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,色盘/字上色/取颜色/色填充/JavaScript脚本(JS)/色轮/拾色/Color/,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,100.1 KB,2023-04-10 17:25,26,.,2024-05-09
+CC简搜,https://getquicker.net/Sharedaction?code=e2055fd3-5946-4458-064c-08d792aa692b,随时随地，调用各搜索引擎（指令），以关键词直达目标（网页、本地程序和Quicker动作）。,通用,coucou,https://getquicker.net/User/79403/coucou,247.4 KB,2020-01-07 20:11,16,"1.1、采用全新搜索界面。
+1.2、根据所输入的内容匹配指令时，不再区分大小写。
+1.3、丰富“动作设置”中的内容，提高可自定义程度。
+1.4、数据同步方式，采用Quicker自带的状态“备份到云端”的功能。
+1.5、支持在启动时获取所选中的文字。
+1.6、提高对多种快捷键的支持。
+········································
+2.1、取消“前置指令”和“独立指令”的区分。
+2.2、去除“高级搜索”等内置指令。现所有指令均已支持自定义。
+2.3、不再支持直接从历史记录面板中直接加载以往所输入内容。",2024-05-09
+快速导出,https://getquicker.net/Sharedaction?code=6c777361-10c2-49fd-6b83-08da4f3f8574,Tips:默认导出选中图层，按住ctrl执行文件导出。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,14.4 KB,2022-06-17 11:04,2,不知道优化了啥,2024-05-09
+智能复制,https://getquicker.net/Sharedaction?code=f88b6021-4ffd-4919-09b0-08dab667ae52,智能判断情景，复制纯文本、文件路径或窗口路径。,通用,Anlv,https://getquicker.net/User/392637/Anlv,21.7 KB,2022-10-26 11:43,6,"右键菜单可设置URL复制模式
+- 弹出菜单选择：每次复制URL时提示复制方式
+- 标题和连接：同时标签页标题和URL
+- 仅链接：仅复制URL链接",2024-05-09
+居中,https://getquicker.net/Sharedaction?code=2be4ccf6-91bd-4099-3344-08dc6e3171e5,社畜专用,Microsoft Excel,一二三也无,https://getquicker.net/User/1058456/%E4%B8%80%E4%BA%8C%E4%B8%89%E4%B9%9F%E6%97%A0,41 B,2024-05-08 09:41,0,,2024-05-09
+AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,也许是最好用的AI工具导航(125个/管够),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,44.6 KB,2024-04-22 15:16,22,.,2024-05-09
+移动工具,https://getquicker.net/Sharedaction?code=a34a6c87-5ddb-4670-586d-08db38e9bfaa,在Photoshop界面JavaScript脚本切换移动工具/无需快捷键,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,1.3 KB,2023-04-10 16:48,3,.,2024-05-09
+网站收藏2.0,https://getquicker.net/Sharedaction?code=a653a1d1-6c52-4089-ba99-08dc61bfef39,"按住Ctrl启动动作可以添加网站,长按Esc会关闭窗口",通用,zdf153,https://getquicker.net/User/20184/zdf153,325.3 KB,2024-04-22 01:35,21,1,2024-05-09
