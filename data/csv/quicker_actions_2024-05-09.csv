@@ -4,14 +4,13 @@
 规范打开,https://getquicker.net/Sharedaction?code=ae3d5cf1-57be-4704-4e16-08dc0e606679,对选中的文件：1.备份，2.规范命名，3.打开,Windows 资源管理器,iDenny,https://getquicker.net/User/459511/iDenny,155.8 KB,2024-01-06 19:17,18,获取文件列表的小bug,2024-05-10
 AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,也许是最好用的AI工具导航(125个/管够),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,45.4 KB,2024-04-22 15:16,24,.,2024-05-10
 缩放至参考线,https://getquicker.net/Sharedaction?code=ec6188e9-a3f2-4b52-a138-08dc6ffecc18,将选中图层缩放至参考线内,Adobe Photoshop,YOBro,https://getquicker.net/User/1027111/YOBro,11.1 KB,2024-05-09 21:41,0,,2024-05-10
-常用网址,https://getquicker.net/Sharedaction?code=4e3b3161-04c9-4177-a137-08dc6ffecc18,Chrome App 模式打开选中网址,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,2.7 KB,2024-05-09 21:30,0,,2024-05-10
 截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,生态联动Everything/搜神/常用语等,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,85 KB,2024-05-09 20:07,4,/,2024-05-10
 galgame 自动录制,https://getquicker.net/Sharedaction?code=e61a6c2f-6495-4954-78ef-08dba8aeb64e,使用此动作可录制 galgame 至画面停止（弹选项）后自动停止并提醒，方便倍速和在移动设备上观看,通用,篠佳酱,https://getquicker.net/User/818286/%E7%AF%A0%E4%BD%B3%E9%85%B1,72.7 KB,2023-08-30 21:51,12,FIX: 录像备注会错误备注到上一次录制的录像上,2024-05-10
 关闭 Chrome,https://getquicker.net/Sharedaction?code=ea901bf7-7049-4bc4-a134-08dc6ffecc18,关闭所有标签页，清除浏览数据，关闭 Chrome,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,3.9 KB,2024-05-09 21:00,0,,2024-05-10
 美团操作提取,https://getquicker.net/Sharedaction?code=c207c740-e381-41ff-a131-08dc6ffecc18,用于提取美团商家后台的数据,Microsoft Edge,努力的金子,https://getquicker.net/User/718736/%E5%8A%AA%E5%8A%9B%E7%9A%84%E9%87%91%E5%AD%90,15.2 KB,2024-05-09 19:33,0,,2024-05-10
 字体颜色,https://getquicker.net/Sharedaction?code=57802dc1-8ae7-4a62-a12d-08dc6ffecc18,将word选中文字设置为预设颜色，可自定义颜色,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,10.9 KB,2024-05-09 18:40,1,V1,2024-05-10
 星球搜索,https://getquicker.net/Sharedaction?code=ec9797c2-55f5-459a-48a5-08d7c64d911e,星球导航智能搜索，支持多引擎搜索快速切换,通用,momo5013,https://getquicker.net/User/63253/momo5013,1.2 KB,2020-03-13 11:20,1,更新域名,2024-05-10
-填充单元格颜色,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,10.1 KB,2024-05-08 14:47,4,更新选择菜单，并开启循环。中断动作须点击× 或者右键关闭,2024-05-10
+填充单元格颜色,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.经过版本更新，已经实现颜色填充常驻，不需要重复呼出菜单,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,10.1 KB,2024-05-08 14:47,4,更新选择菜单，并开启循环。中断动作须点击× 或者右键关闭,2024-05-10
 软件笔记,https://getquicker.net/Sharedaction?code=c623a570-e9ef-4e45-ec45-08db9b9dff03,——任意软件创建笔记。网页笔记、学习笔记、视频笔记、软件笔记、快捷键、备忘录。,通用,level1,https://getquicker.net/User/102977/level1,415.2 KB,2023-08-13 16:04,5,"BUG：
 1、修复不能自动云同步的问题。",2024-05-10
 项目关联文件,https://getquicker.net/Sharedaction?code=7255946a-6f9a-4047-7b1e-08dba207b0f4,——在任何窗口打开关联文件。文件夹、文档、URL。,通用,level1,https://getquicker.net/User/102977/level1,284.5 KB,2023-08-21 17:36,4,"快捷键：
@@ -45,8 +44,6 @@ BUG：
 搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,也许是最好用的搜索神器(Ultra网络版本),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,386.6 KB,2023-10-22 15:24,231,"收藏夹变为直接启动动作
 双空格依然支持搜索收藏夹路径下的网址",2024-05-10
 计算器,https://getquicker.net/Sharedaction?code=4e6ff5a9-f1f3-4742-d671-08d8d34a0efa,一个集成了各种单位/汇率转换的随手计算器,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,315.9 KB,2021-02-19 01:10,18,- 修复下拉历史记录的显示问题,2024-05-10
-字幕识别,https://getquicker.net/Sharedaction?code=db0b3c54-e934-4ebf-6f3a-08dc62828b67,ocr识别字幕，保存到txt文件,通用,磐石,https://getquicker.net/User/12017/%E7%A3%90%E7%9F%B3,11.1 KB,2024-04-23 16:55,5,"1.增加识别间隔菜单
-2.优化重复性文字的判断",2024-05-10
 结束固定进程,https://getquicker.net/Sharedaction?code=f25d562b-e65a-46ac-9501-08dc6f0c8aa6,结束固定进程,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,5.1 KB,2024-05-09 13:56,0,,2024-05-10
 下载图片,https://getquicker.net/Sharedaction?code=91ee706f-062c-46af-2f78-08db9f2f876f,下载网页图片,Google Chrome,HAFEN,https://getquicker.net/User/72505/HAFEN,16.9 KB,2023-08-18 23:27,5,更新了bug,2024-05-10
 倒圆角增强,https://getquicker.net/Sharedaction?code=e2e9f46f-2a07-44a5-94fd-08dc6f0c8aa6,倒圆角/对线段倒角/动态倒角,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,83.9 KB,2024-05-09 13:11,1,1,2024-05-10
@@ -54,6 +51,4 @@ ps置入图层,https://getquicker.net/Sharedaction?code=072facd0-bfcc-40e9-d2b1-
 对符,https://getquicker.net/Sharedaction?code=40714534-424f-4ebc-0e1a-08d6e4b2b9de,发送成对符号,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,268.2 KB,2019-05-30 15:30,49,- 新添加的条目放在最前面,2024-05-10
 文模,https://getquicker.net/Sharedaction?code=9bdf907a-e5db-4869-eb4a-08db18860216,文本模板（可以预设空位，使用时填表即可）,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,193.1 KB,2023-02-28 14:55,6,- 新添加的条目放在最前面,2024-05-10
 Wpic图床,https://getquicker.net/Sharedaction?code=6322db0a-9876-48f9-94fa-08dc6f0c8aa6,上传图片文件、剪贴板或截图到图床,通用,Nice2Cu,https://getquicker.net/User/828432/Nice2Cu,12.9 KB,2024-05-09 10:35,0,,2024-05-10
-SoloBeauty,https://getquicker.net/Sharedaction?code=ee80bb00-835e-459f-6f16-08dc62828b67,Solo beauty layer.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,45.8 KB,2024-04-23 11:56,3,"增加文件选择的前置判断，避免快捷键冲突。
-增加前置判断，执行效率提升。",2024-05-10
 域名IP,https://getquicker.net/Sharedaction?code=19ab8688-f83f-4f72-b407-08dac86e9b3c,查询域名ip,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,20.3 KB,2022-11-18 15:27,8,更新正则修复部分ipv6无法提取的问题,2024-05-10
