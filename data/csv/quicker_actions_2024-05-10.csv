@@ -5,6 +5,7 @@
 Zotero笔记,https://getquicker.net/Sharedaction?code=64aaa0c8-596d-4e65-ed8a-08db0dcace5d,启动HTTP服务，实现语雀与Zotero的互联,Zotero,ttChen,https://getquicker.net/User/395924/ttChen,23.6 KB,2023-02-14 11:35,10,修复Zotero 7更新导致页码不对的问题。,2024-05-11
 获取标签页,https://getquicker.net/Sharedaction?code=cad4688c-ec09-4aa5-0613-08d838181f56,浏览器扩展 | 选中多个标签页后，执行该动作，即可批量获取页面标题及链接（MD格式）,Google Chrome,Moy,https://getquicker.net/User/771/Moy,97.4 KB,2020-08-05 01:09,17,饱和式更新匹配规则,2024-05-11
 graphviz,https://getquicker.net/Sharedaction?code=da8c69b2-adee-4470-a161-08dc6ffecc18,输入graphviz代码，并快速编码出图,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,9.3 KB,2024-05-10 15:52,0,,2024-05-11
+秒懂百科,https://getquicker.net/Sharedaction?code=383a0343-1acc-428d-a15d-08dc6ffecc18,定制,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,2.1 KB,2024-05-10 15:06,3,1,2024-05-11
 自动关机,https://getquicker.net/Sharedaction?code=65ba12e4-4d5c-459a-4ada-08db9203d26b,等待一定时间后自动关机,通用,JupiterOdyssey,https://getquicker.net/User/47771/JupiterOdyssey,11.1 KB,2023-08-02 07:31,1,"功能
 1. 自定义时间
 2. 中止关机
