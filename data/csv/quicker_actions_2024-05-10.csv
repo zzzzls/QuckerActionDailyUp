@@ -1,0 +1,32 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+显示托盘,https://getquicker.net/Sharedaction?code=8e075cd4-6f7a-4c26-5639-08d9eec3922c,显示并移动系统托盘至光标处,通用,dalou,https://getquicker.net/User/76824/dalou,46.1 KB,2022-02-14 19:03,12,-,2024-05-11
+判存表情,https://getquicker.net/Sharedaction?code=0d7039be-392d-4a00-4d6c-08dc70f3e23a,判断存在emoji,通用,Ranaxis,https://getquicker.net/User/791764/Ranaxis,2.7 KB,2024-05-10 22:17,0,,2024-05-11
+常用网址,https://getquicker.net/Sharedaction?code=4e3b3161-04c9-4177-a137-08dc6ffecc18,App 模式打开常用网址,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,2.4 KB,2024-05-09 21:30,1,优化,2024-05-11
+Zotero笔记,https://getquicker.net/Sharedaction?code=64aaa0c8-596d-4e65-ed8a-08db0dcace5d,启动HTTP服务，实现语雀与Zotero的互联,Zotero,ttChen,https://getquicker.net/User/395924/ttChen,23.6 KB,2023-02-14 11:35,10,修复Zotero 7更新导致页码不对的问题。,2024-05-11
+获取标签页,https://getquicker.net/Sharedaction?code=cad4688c-ec09-4aa5-0613-08d838181f56,浏览器扩展 | 选中多个标签页后，执行该动作，即可批量获取页面标题及链接（MD格式）,Google Chrome,Moy,https://getquicker.net/User/771/Moy,97.4 KB,2020-08-05 01:09,17,饱和式更新匹配规则,2024-05-11
+graphviz,https://getquicker.net/Sharedaction?code=da8c69b2-adee-4470-a161-08dc6ffecc18,输入graphviz代码，并快速编码出图,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,9.3 KB,2024-05-10 15:52,0,,2024-05-11
+自动关机,https://getquicker.net/Sharedaction?code=65ba12e4-4d5c-459a-4ada-08db9203d26b,等待一定时间后自动关机,通用,JupiterOdyssey,https://getquicker.net/User/47771/JupiterOdyssey,11.1 KB,2023-08-02 07:31,1,"功能
+1. 自定义时间
+2. 中止关机
+3. 进度条
+
+调整
+1. 默认关机时间设为 10 分钟
+2. 增加图标",2024-05-11
+生成Quicker图标代码,https://getquicker.net/Sharedaction?code=b1a80885-aabd-4d5e-a15a-08dc6ffecc18,基于 Fontawesome 图标的 HTML 代码，生成对应 Quicker 图标代码,通用,JupiterOdyssey,https://getquicker.net/User/47771/JupiterOdyssey,5 KB,2024-05-10 14:45,0,,2024-05-11
+视频速度调整,https://getquicker.net/Sharedaction?code=991355a3-e202-4820-a159-08dc6ffecc18,滚轮上下滑动，调整当前网页视频播放速度。单击后速度恢复1.0,Windows 资源管理器,林青雀,https://getquicker.net/User/181402/%E6%9E%97%E9%9D%92%E9%9B%80,14.8 KB,2024-05-10 14:40,0,,2024-05-11
+自动播放视频,https://getquicker.net/Sharedaction?code=0def250a-3177-4396-d358-08dbb2de7865,原理：音量小于等于0，并持续一定时间后，自动按空格,通用,林青雀,https://getquicker.net/User/181402/%E6%9E%97%E9%9D%92%E9%9B%80,14.8 KB,2023-09-12 16:11,2,图标更新,2024-05-11
+网页编辑开关,https://getquicker.net/Sharedaction?code=13c279f8-c332-4a62-a156-08dc6ffecc18,自动识别编辑状态并切换,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,998 B,2024-05-10 14:10,0,,2024-05-11
+SoloBeauty,https://getquicker.net/Sharedaction?code=ee80bb00-835e-459f-6f16-08dc62828b67,Solo beauty layer.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,49.6 KB,2024-04-23 11:56,5,对文件执行时，增加首次运行提示。,2024-05-11
+假装更新,https://getquicker.net/Sharedaction?code=5ff8d8ec-febb-4f61-94ed-08dc6f0c8aa6,假装在更新然后开始正大光明的摸鱼,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,7.2 KB,2024-05-08 21:24,1,修复周围有白边的问题,2024-05-11
+复制网页信息,https://getquicker.net/Sharedaction?code=098e72f0-2760-4e19-cbab-08d8dde466af,复制网页标题、图标等信息。,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,23.1 KB,2021-03-03 23:52,9,修复因为标题中的竖线而复制失败的问题,2024-05-11
+全屏卡片,https://getquicker.net/Sharedaction?code=2d0a7e7e-09b7-48f9-a14f-08dc6ffecc18,通过快捷键使卡片全屏,Mefo,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,704 B,2024-05-10 10:56,0,,2024-05-11
+快速录入,https://getquicker.net/Sharedaction?code=8cec26c0-e80f-4b7b-88fe-08dc5a32504a,只需录入1234就可以转换成性别/是否/打钩打叉/优良中差,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,12.1 KB,2024-04-12 17:10,1,"已解决单元格里有“1212“多个数字时会转换成“男女男女”的问题
+（非宏动作）",2024-05-11
+FBA配送费,https://getquicker.net/Sharedaction?code=d7a0d237-c663-4daa-b322-08daf823c549,美国站FBA费用计算,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,124 KB,2023-01-17 10:37,8,更新费用表和公式,2024-05-11
+创建工作表副本,https://getquicker.net/Sharedaction?code=e01d6cad-06de-4dee-e87f-08dc4af4df6f,可按需输入创建副本个数,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,28.2 KB,2024-03-23 17:25,4,更改提示信息位置，以免挡住工作表名称,2024-05-11
+字幕识别,https://getquicker.net/Sharedaction?code=db0b3c54-e934-4ebf-6f3a-08dc62828b67,ocr识别字幕，保存到txt文件,通用,磐石,https://getquicker.net/User/12017/%E7%A3%90%E7%9F%B3,11.5 KB,2024-04-23 16:55,6,默认自动停止时间为10秒，防止出现自动关闭的情况,2024-05-11
+Emoji神器,https://getquicker.net/Sharedaction?code=6e5d58cf-f36a-4abc-3636-08db12123b2f,也许是最好用的Emoji表情工具/内置500Emoji/选词实时搜Emoji,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,36.7 KB,2023-02-19 14:34,32,适配最新版,2024-05-11
+搜神收藏夹,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,也许是最好用的网页收藏工具A,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,137.2 KB,2023-07-04 13:05,33,"会隐藏标题，减少留白,可以收藏更多网址
+需要将quicker__软件，更新至最新版",2024-05-11
+图层数字命名,https://getquicker.net/Sharedaction?code=16af52d4-1a5e-47b9-a136-08dc6ffecc18,图层按数字命名,Adobe Photoshop,YOBro,https://getquicker.net/User/1027111/YOBro,2 KB,2024-05-09 21:27,1,修改运行后点取消还是会命名bug,2024-05-11
