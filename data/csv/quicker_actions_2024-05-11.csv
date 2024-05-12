@@ -1,7 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 显示托盘,https://getquicker.net/Sharedaction?code=8e075cd4-6f7a-4c26-5639-08d9eec3922c,显示并移动系统托盘至光标处,通用,dalou,https://getquicker.net/User/76824/dalou,46.8 KB,2022-02-14 19:03,13,-,2024-05-12
 表格初始化,https://getquicker.net/Sharedaction?code=fccb2627-c421-41d1-4d93-08dc70f3e23a,水平垂直居中；实线边框；宋体；字号10；行高23；列宽10；自动保存；,Microsoft Excel,QinHeart,https://getquicker.net/User/219239/QinHeart,233 B,2024-05-11 20:54,0,,2024-05-12
-PXai抠图,https://getquicker.net/Sharedaction?code=8f8546a3-ea8d-4fe8-4d8c-08dc70f3e23a,pixian抠图，支持本地抠图+多选图片抠图，以及PS图层抠图。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,32.3 KB,2024-05-11 17:47,2,2024年05月11日 20:22:18,2024-05-12
 直播源2.0,https://getquicker.net/Sharedaction?code=6315a2f6-a727-4efc-300a-08da0492bb96,根据需要看喜欢的节目，定时更新直播源,通用,KBC,https://getquicker.net/User/5221/KBC,236.1 KB,2022-03-14 09:41,262,去除失效源,2024-05-12
 快速填充选定单元格背景色,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,10.7 KB,2024-05-08 14:47,6,更新适用软件,2024-05-12
 快速填充选定单元格背景色,https://getquicker.net/Sharedaction?code=ea5aa89f-a53c-4a4d-4d89-08dc70f3e23a,适用于WPS或EXCEL,Microsoft Excel,SCT-D,https://getquicker.net/User/675682/SCT-D,10.5 KB,2024-05-11 17:32,0,,2024-05-12
@@ -14,7 +13,6 @@ Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db
 删除前/后缀字符,https://getquicker.net/Sharedaction?code=8d09e8a0-47f0-407b-4d7a-08dc70f3e23a,删除单行/多行文本的第一个/最后一个字符,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,2.3 KB,2024-05-11 11:09,1,单选删除更改为循环点选删除,2024-05-12
 关闭重复资管,https://getquicker.net/Sharedaction?code=99d2ffdf-7bad-4652-66ca-08dbaa91cef1,win10测试，win11请谨慎使用。（使用C#模块）,通用,Anlv,https://getquicker.net/User/392637/Anlv,5.6 KB,2023-09-01 18:26,3,"1.移除多余的变量；
 2.缓存程序集以提高运行速度。",2024-05-12
-截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,生态联动Everything/搜神/常用语等,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,85.6 KB,2024-05-09 20:07,5,.,2024-05-12
 示例：等待左键按下和抬起,https://getquicker.net/Sharedaction?code=3932aa18-ea9c-457d-f860-08db3f199c8c,等待按下左键后跳出循环,TIM,CL,https://getquicker.net/User/3/CL,3.2 KB,2023-04-18 09:31,1,增加判断左键抬起的示例。,2024-05-12
 常用公式集合,https://getquicker.net/Sharedaction?code=a9200fb4-6cfc-49aa-4d79-08dc70f3e23a,常用的Excel公式,Microsoft Excel,℃,https://getquicker.net/User/35158/%E2%84%83,3.6 KB,2024-05-11 10:47,0,,2024-05-12
 连续处理文本,https://getquicker.net/Sharedaction?code=99d4adb5-9c27-4f91-4d76-08dc70f3e23a,复制多个文本后选择粘贴或者按顺序粘贴文本,通用,℃,https://getquicker.net/User/35158/%E2%84%83,30.1 KB,2024-05-11 10:35,1,注释,2024-05-12
