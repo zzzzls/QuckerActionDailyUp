@@ -1,0 +1,131 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+不弹窗极速另存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,不弹窗直接保存/PNG/JPG/PSD等格式,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,52.1 KB,2023-03-19 16:39,20,.,2024-05-14
+AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,也许是最好用的AI工具导航(126个/管够),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,45.4 KB,2024-04-22 15:16,25,.,2024-05-14
+编辑助手,https://getquicker.net/Sharedaction?code=a75803a8-e4d9-4d4f-3331-08dc6e3171e5,动作高频编辑/收藏ID/近期运行动作,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,72.2 KB,2024-05-07 18:22,33,__,2024-05-14
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,可能是最好用的文本常用语/实时搜索,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,126.4 KB,2023-10-18 22:55,16,点击标签支持右键编辑和连续发送,2024-05-14
+多屏最小化窗口,https://getquicker.net/Sharedaction?code=a1daf7a9-e3ab-43e4-9a3d-08dc72f0e55e,多个显示器时，最小化所有可见窗口（只对鼠标所在屏幕的窗口有效）。,通用,EC10010,https://getquicker.net/User/2997/EC10010,12.7 KB,2024-05-13 21:36,1,完善说明。,2024-05-14
+效率办公助手,https://getquicker.net/Sharedaction?code=4c3fe8ba-c5e0-4158-7ea6-08dc251ced29,免费实用智能，财审、券商、投行打工人必备的效率办公助手！,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,399.4 KB,2024-02-05 11:54,30,【优化】优化配置自动保存机制,2024-05-14
+规范文件名,https://getquicker.net/Sharedaction?code=75b39075-9410-4e4e-019d-08dbe4ac96d7,批量将文件名中的指定名称添加到文件名的前、中、后，使文件名统一美观，方便查看,Windows 资源管理器,沧海叫一声,https://getquicker.net/User/741988/%E6%B2%A7%E6%B5%B7%E5%8F%AB%E4%B8%80%E5%A3%B0,32.2 KB,2023-11-14 09:46,12,"增加了 文件名中有多个“名称”时提醒功能，防止改错文件。
+增加了 对文件名中含有某些文字时跳过更改此类文件名的功能。",2024-05-14
+去重复计数,https://getquicker.net/Sharedaction?code=154e78c7-84b1-4289-8499-08daf13f5a77,去重复计数，点击提示消息复制去重列表,Microsoft Excel,原++,https://getquicker.net/User/189784/%E5%8E%9F__,4.6 KB,2023-01-08 21:43,2,点击提示消息，复制去重列表,2024-05-14
+最近运行动作,https://getquicker.net/Sharedaction?code=c24f9bb8-876a-458b-94dd-08dc6f0c8aa6,——展示最近运行的动作。支持运行、编辑、悬浮等便利功能，是Quicker开发者的好帮手。,Quicker,level1,https://getquicker.net/User/102977/level1,173.6 KB,2024-05-08 15:32,1,"右键：
+1、增加右键菜单。
+2、右键增加：导入动作CSV功能。
+3、右键增加：动作帮助链接。
+4、右键增加：设置。
+5、设置支持快捷键：Ctrl。
+6、右键增加：管理动作。
+
+设置：
+1、设置增加：用户昵称。
+2、设置增加开关：仅展示自己动作。
+3、支持仅显示我的动作。目前仅筛选网络动作中我的动作。
+4、设置增加：展示数量。
+5、设置增加：黑名单。
+6、设置增加：运行模式。
+7、设置增加：每行个数。
+8、设置窗口优化样式。
+
+
+自定义操作窗：
+1、运行模式支持：运行动作、编辑步骤。
+2、悬停信息，增加备注名、动作描述。
+3、如果已导入过CSV，显示导入的信息。反之，显示基础信息。
+4、支持在没有导入CSV时，正常显示，并创建附加信息。
+5、运行窗口，增加刷新功能。
+6、窗口面板高度自动调整。
+7、增加右键菜单。
+8、右键支持：运行动作、编辑步骤。
+9、右键支持：打开发布网页。
+10、根据有无发布网页，显示菜单。
+11、右键支持：备注。
+12、右键增加：网页笔记。
+13、网页笔记，支持拉取动作名称。
+14、增加全局菜单。
+15、全局菜单支持：设置。
+16、全局菜单支持：导入CSV。
+17、支持右键替换为动作右键菜单。
+18、优化右键样式。
+19、悬浮动作支持向右偏移。
+
+
+管理动作：
+1、列表展示为附加信息。
+2、提示文字增加：动作本地名称、发布状态、发布ID。方便筛选。
+3、提示文字增加：黑名单状态。
+4、按照动作名称+实际作者排序。
+5、多选运行，批量打开来源/发布动作网页。
+6、增加右键菜单。
+7、右键支持：拉黑。近期动作中不显示黑名单动作。
+8、右键支持：编辑。
+9、右键支持：批量编辑。
+10、编辑支持快捷键：Ctrl。
+11、批量编辑支持：作者、发布ID。
+12、右键支持：复制ID。用于去除黑名单使用。
+13、全局菜单增加：导入CSV功能。
+14、全局菜单支持：取消拉黑。
+15、编辑完成，检测“发布ID”获取信息，自动空白字段填补。
+16、黑名单去重。
+17、明示筛选词。
+
+
+导入CSV
+1、导入CSV时，有来源动作的，获取网络动作信息。
+2、导入CSV，支持取消选择文件，继续后续步骤。
+3、导入CSV优化菜单提示文字。
+
+其他：
+1、升级数据结构，增加用户数据。
+2、数据库变更字段。
+3、编辑窗口中作者字段，支持下拉选择。
+4、作者列表按照名称排序。
+5、优化内部步骤。
+
+BUG：
+1、修复由于不存在CSV导致的报错。
+2、修复在没有导入CSV的时候，管理动作展示动作为空的问题。
+3、解决管理动作列表中存在一个空动作的问题。
+4、修复在没有导入CSV时，动作名称写入时错位的问题。
+5、修复导入CSV时，取消选择文件，而动作管理列表变空的问题。
+6、修复一些数据升级过程中出现的报错问题。
+
+-------------------------------------
+版本0
+
+功能：
+1、支持编辑最近运行的6个动作。
+2、右键增加悬浮动作的功能。
+
+BUG：
+1、解决动作名称为空时，没有记录进来的问题。
+
+优化：
+1、使用自定义操作窗展示。",2024-05-14
+当前文档路径,https://getquicker.net/Sharedaction?code=ccb19de5-2fdd-42d5-e26a-08daf70dc81e,——定位当前文件位置。如果找到多个同名文件，打开everything。可识别软件：Office、Word、Excel、PPT、WPS、Photoshop、Illustrator（Ai）、Notepad2、记事本、XMind、Axure、Typora、Visual Studio、网易云音乐、360浏览器、2345看图王、PDF阅读器、画图等常用软件。,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,109.3 KB,2023-01-16 15:48,11,"功能：
+1、支持XMind新版本。
+2、支持Paint.net、PhotoFiltre Studio。",2024-05-14
+另存窗口快速切换,https://getquicker.net/Sharedaction?code=dfccca6b-9432-4c2a-8da1-08dc64c8b533,——仿Listary,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,31.6 KB,2024-04-25 16:12,3,"功能：
+1、处理了VScode“打开文件夹”的特殊情况。
+
+优化：
+1、循环间隔改为0，提高精度。",2024-05-14
+图片转网址(图标神器),https://getquicker.net/Sharedaction?code=6e7b8c4d-8988-40b8-5815-08dc463fbd2a,选择一个图片上传Quicker并返回图标网址[正方形比例图效果最佳],Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,25.1 KB,2024-03-17 20:39,2,.,2024-05-14
+文件后缀更改,https://getquicker.net/Sharedaction?code=84e14852-b5fc-4168-82e6-08dbba8e5a4d,批量更改文件后缀,通用,y_n,https://getquicker.net/User/333799/y_n,12.4 KB,2023-09-22 11:16,7,1：增加了一键更改,2024-05-14
+字幕识别,https://getquicker.net/Sharedaction?code=db0b3c54-e934-4ebf-6f3a-08dc62828b67,ocr识别字幕，保存到txt文件,通用,磐石,https://getquicker.net/User/12017/%E7%A3%90%E7%9F%B3,17.7 KB,2024-04-23 16:55,7,通过判断图片一致性，忽略无意义的识别,2024-05-14
+上下文菜单,https://getquicker.net/Sharedaction?code=b9de3b7b-d516-43c0-9a1a-08dc72f0e55e,有选中文本调出quicker的文本内容上下文菜单，否则弹出剪贴板上下文菜单,通用,原++,https://getquicker.net/User/189784/%E5%8E%9F__,3.2 KB,2024-05-13 14:50,0,,2024-05-14
+图层解锁,https://getquicker.net/Sharedaction?code=f74e0ead-00b4-4d8a-585c-08db38e9bfaa,JavaScript脚本解锁/锁定图层,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,3.7 KB,2023-04-10 11:58,4,__,2024-05-14
+调整边缘,https://getquicker.net/Sharedaction?code=e46c244f-d6cd-422e-9a14-08dc72f0e55e,使用JavaScript脚本对选中的区域生成一个图层,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,16.3 KB,2024-05-13 13:54,0,,2024-05-14
+历史记录,https://getquicker.net/Sharedaction?code=7e5dab88-9091-4b9d-cfa8-08dbb1e4c8fb,"JavaScript脚本打开Photoshop历史窗口,",Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,937 B,2023-09-11 00:53,2,.,2024-05-14
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的本地搜索神器(本地)内置110条检索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,390.5 KB,2023-03-25 00:27,175,.,2024-05-14
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,全能版搜索神器/成百上千的常用网站,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,386.6 KB,2023-10-22 15:24,235,.,2024-05-14
+快速表格颜色填充,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,18.8 KB,2024-05-08 14:47,7,增加隔行填充选项功能,2024-05-14
+Quotes from\nWeb → SiYuan,https://getquicker.net/Sharedaction?code=f9477125-afed-481a-9a13-08dc72f0e55e,替换,Google Chrome,松下竹之助,https://getquicker.net/User/93631/%E6%9D%BE%E4%B8%8B%E7%AB%B9%E4%B9%8B%E5%8A%A9,33.2 KB,2024-05-13 11:56,0,,2024-05-14
+阿里盘搜,https://getquicker.net/Sharedaction?code=ccd48e97-4fa0-4cae-11ce-08d9b4615e28,阿里云盘资源搜索，直接跳转到资源页面,通用,joie,https://getquicker.net/User/235348/joie,226.1 KB,2021-12-01 15:56,13,-fix null,2024-05-14
+输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,提示当前窗口的大写/小写/中文/英文状态；自动切换输入状态；重复点击切换小写中文/小写英文,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,145.1 KB,2024-04-01 13:20,18,优化逻辑,2024-05-14
+公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.5 MB,2022-12-06 16:37,216,"【更新】
+1.""一键全文排版""增加""首页无页码""选项
+2.增强设置左侧页码的容错性和奇偶页码位置的准确性
+3.改进""运行VBA代码""子程序
+（1）调整模拟按键延时 
+（2）调整窗口显示（代码运行结束后恢复窗口显示，不必再单独运行动作中打开窗口操作）
+4.调整菜单",2024-05-14
