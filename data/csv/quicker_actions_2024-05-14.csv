@@ -1,10 +1,11 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-辅助窗,https://getquicker.net/Sharedaction?code=910c9ede-81fe-474c-f5ed-08dba6ce1eab,辅助完成一个便利的自定义操作窗，添加网址、应用、文本、快捷键等,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,298.4 KB,2023-08-28 14:14,176,"多步骤增添循环
-网址打开指定浏览器",2024-05-15
 增强记事本,https://getquicker.net/Sharedaction?code=e89783c6-f4c2-4328-dfbb-08d6a826be86,可快速将选中的文字使用记事本打开,通用,KBC,https://getquicker.net/User/5221/KBC,8.8 KB,2019-03-14 21:55,4,优化等待时间,2024-05-15
 反色+灰度,https://getquicker.net/Sharedaction?code=2136b0bd-9a35-425c-8897-08dc73ca9fbc,针对已有贴图，快捷操作,pixpin.exe,W.JAN,https://getquicker.net/User/56701/W.JAN,4.6 KB,2024-05-14 20:52,0,,2024-05-15
 超级仪表盘,https://getquicker.net/Sharedaction?code=ecb55e64-5e09-4c36-b9c9-08dc7226251f,软件全能面板/切换跳转/管理/一个场景关联多程序,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,36.9 KB,2024-05-12 14:17,31,.,2024-05-15
 思源笔记插入本地文件链接,https://getquicker.net/Sharedaction?code=b186d1ef-143a-41a7-bafa-08da0a4333e6,将选中的文件或者剪贴板中的文件插入思源笔记当前页面,SiYuan,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,55.5 KB,2022-03-21 15:28,26,删除虚拟驱动器相关功能。由于电脑重启后虚拟驱动器会失效，请使用这个动作并设置为自启动：https://getquicker.net/Sharedaction?code=059667dd-0ecb-4387-b9d1-08dc7226251f,2024-05-15
+word常用字体,https://getquicker.net/Sharedaction?code=2e0bee1b-b677-4552-3314-08dc6e3171e5,"可自定义三种常用字体，字形、字号、段落对齐方式、缩进、行距,可选VBA或快捷键模式",Microsoft Word,1xwx1,https://getquicker.net/User/966592/1xwx1,115.2 KB,2024-05-07 09:42,2,新增：VBA模式，后台运行，推荐使用，不存在快捷键冲突问题,2024-05-15
+身份证号计算,https://getquicker.net/Sharedaction?code=0bcf3590-f580-43ae-8d91-08dc64c8b533,根据身份证号自动计算年龄和性别 可多行选取,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,39.8 KB,2024-04-25 14:09,1,加入可以生成性别,2024-05-15
+连续文字识别,https://getquicker.net/Sharedaction?code=b5c66dda-2f2b-4bf3-8e59-08dc6685e603,连续使用OCR文字识别，并将识别结果输出到桌面的同一个txt文件中，不会覆盖之前的内容,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,7.1 KB,2024-04-27 17:47,3,修改保存路径为所有人通用的桌面路径,2024-05-15
 弹出菜单-好,https://getquicker.net/Sharedaction?code=362ef925-6343-4ab6-e9f8-08db92f9f222,不同程序，弹出不同菜单,通用,show-er,https://getquicker.net/User/412766/show-er,40.5 KB,2023-08-02 15:35,12,"优化
 
 第一次使用，先右键设置相对应的程序等。
@@ -12,8 +13,8 @@
 生成注释外链,https://getquicker.net/Sharedaction?code=c98b3392-28bc-4e2c-9a43-08dc72f0e55e,选中文本，然后运行动作,PDF-XChange Editor,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,17.7 KB,2024-05-14 08:49,5,外链优化：去除锚文本中的[和]，替换链接部分的(和)，避免粘贴链接时解析失败,2024-05-15
 HTTP服务器,https://getquicker.net/Sharedaction?code=daadd498-0fff-4fc3-8875-08dc73ca9fbc,开启局域网HTTP服务，允许以web服务的方式访问主机文件夹。,通用,huasio,https://getquicker.net/User/20962/huasio,135.4 KB,2024-05-14 12:47,0,,2024-05-15
 记事本,https://getquicker.net/Sharedaction?code=45b597c2-9db3-4cb5-a65a-08db363ab19b,即时笔记本，支持分组，标签页切换,通用,dalou,https://getquicker.net/User/76824/dalou,194 KB,2023-04-06 13:09,26,2.0版本更新,2024-05-15
-记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,即时笔记、分组标签、自动同步,通用,dalou,https://getquicker.net/User/76824/dalou,266.5 KB,2024-05-10 17:42,2,自动同步、图标管理,2024-05-15
 吾爱破解签到,https://getquicker.net/Sharedaction?code=2486df69-3ea8-405a-a725-08dad3f6b04c,首次需要登陆账号，然后设置每日开机自动运行就好啦。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,5.4 KB,2022-12-02 13:57,9,简化,2024-05-15
+高清抠图,https://getquicker.net/Sharedaction?code=21a17184-3a83-4a82-aaf7-08dc14f2ecc6,文件抠图+截图抠图,通用,show-er,https://getquicker.net/User/412766/show-er,43.1 KB,2024-01-15 14:08,3,优化,2024-05-15
 Prompt,https://getquicker.net/Sharedaction?code=669e6986-5929-4ed5-94e6-08dc6f0c8aa6,发送 Prompt 到 ChatGPT对话窗。,通用,Anlv,https://getquicker.net/User/392637/Anlv,24 KB,2024-05-08 17:09,2,"1、前台浏览器标签页非GPT官网时，激活GPT官网；
 2、选中文本激活时跳转到GPT官网并且将选中文本放入对话框。",2024-05-15
 自动抠图,https://getquicker.net/Sharedaction?code=cd26c8ac-e99b-44f9-b95a-08dbe7797a52,可处理5种图片来源 ( 选中图片、文件、链接、截图和base64编码 ),通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,74.2 KB,2023-11-18 14:54,6,换个logo,2024-05-15
