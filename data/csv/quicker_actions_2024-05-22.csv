@@ -1,5 +1,7 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 单元格填充编号,https://getquicker.net/Sharedaction?code=82f420aa-5437-4d6d-91ba-08dc79843f34,按照选择顺序为所选单元格区域填充序号，支持纯数字、中文数字（一-一千）、英文字母（Excel编号）、自定义格式。,Microsoft Excel,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,29.8 KB,2024-05-21 19:43,1,增加了表单示例，增加了一级二级序号，支持输入自定义格式,2024-05-23
+计算器最新升级版,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,完美替代windows自带计算器，更强大易用,通用,翱翔,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94,208.3 KB,2024-05-22 14:21,1,新增计算器面板，多项细节优化,2024-05-23
+文献下载,https://getquicker.net/Sharedaction?code=06ce69eb-9eab-43c7-f34e-08dbdac4c3da,中英文献下载,通用,最爱沙迦,https://getquicker.net/User/462533/%E6%9C%80%E7%88%B1%E6%B2%99%E8%BF%A6,16.8 KB,2023-11-01 19:11,4,延长网页打开后等待时间,2024-05-23
 极简打字,https://getquicker.net/Sharedaction?code=c11d4fc8-d404-42a6-a086-08dc76aeba28,追求易上手，快速输出常用文本的打字体验。,通用,EC10010,https://getquicker.net/User/2997/EC10010,229.5 KB,2024-05-18 23:33,14,修改说明文字。,2024-05-23
 黑屏,https://getquicker.net/Sharedaction?code=aab9c5c8-9398-402f-91cb-08dc79843f34,用黑色图片遮挡屏幕,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,14.7 KB,2024-05-21 23:59,10,1,2024-05-23
 智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),730.2 KB,2023-06-26 19:07,187,"福利来了，直接免费送 星火转 gpt key，拿着可以使用几乎所有需要gpt作为后端的场景，受QPS影响，可能有时会报错，因为是别人也在用的原因。
@@ -8,11 +10,21 @@
 PDF翻译,https://getquicker.net/Sharedaction?code=145b5d53-b71d-4485-c2e3-08dc74bc40ca,将其他语言的PDF翻译成中文PDF。【PDF拆分成图片翻译后再合成PDF】,通用,M-cc,https://getquicker.net/User/521120/M-cc,255 KB,2024-05-15 20:24,6,"~尝试修复翻译后文件未存放到选中的pdf文件目录下的错误。
 +增加pdf翻译完成后自动关闭cmd窗口。
 ~简化部分模块。",2024-05-23
+修改管理员密码,https://getquicker.net/Sharedaction?code=72941a77-8c78-425a-4aa1-08dc779ff422,"无需输入原密码,直接修改或清除win登录密码",通用,^沐兮^,https://getquicker.net/User/1067771/%5E%E6%B2%90%E5%85%AE%5E,279 B,2024-05-19 10:42,1,无需输入第二次密码,2024-05-23
+镜像和旋转,https://getquicker.net/Sharedaction?code=42828a7a-effc-498f-91dd-08dc79843f34,镜像和旋转,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,2.5 KB,2024-05-22 15:55,0,,2024-05-23
 截图注释外链,https://getquicker.net/Sharedaction?code=e7f30b34-5244-4859-c2fe-08dc74bc40ca,截图OCR并生成外链,PDF-XChange Editor,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,34.6 KB,2024-05-16 12:51,2,取消思源笔记图片OCR文本的设置，思源默认不保存。,2024-05-23
-一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,一键快存/PNG/JPG/TIF/PSD/选中图层(JavaScript脚本),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,108.7 KB,2023-03-19 16:39,33,**,2024-05-23
 隐藏显示,https://getquicker.net/Sharedaction?code=c0d3320c-2d47-4a04-1816-08dbbd6a6295,单图层隐藏显示(AIT所有隐藏/CTRL所有显示/JavaScript脚本执行),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,5.8 KB,2023-09-26 12:13,3,(AIT所有隐藏/CTRL所有显示/JavaScript脚本执行),2024-05-23
 图层智能,https://getquicker.net/Sharedaction?code=a20bb7af-c353-407c-9671-08db2e83fcea,图层解锁/智能格栅交互转换/多格栅图层合并,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,24.3 KB,2023-03-27 23:00,17,如果选中为文件夹，也直接转为智能图层,2024-05-23
+命令执行,https://getquicker.net/Sharedaction?code=76f0cb6f-3b53-44c1-91d0-08dc79843f34,常用命令执行,通用,蚂蚁爸爸,https://getquicker.net/User/306719/%E8%9A%82%E8%9A%81%E7%88%B8%E7%88%B8,35.6 KB,2024-05-22 10:13,2,增加附加命令可以从剪切板或者选中文本获取,2024-05-23
 超级仪表盘,https://getquicker.net/Sharedaction?code=ecb55e64-5e09-4c36-b9c9-08dc7226251f,全能面板/跳转/管理/一场景关联多程序,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,36.7 KB,2024-05-12 14:17,32,云状态优化,2024-05-23
+GPT4o,https://getquicker.net/Sharedaction?code=05dfa061-c0f1-4d03-91d3-08dc79843f34,在GPT4搜索,通用,白泽宝宝想吃炸鸡,https://getquicker.net/User/477812/%E7%99%BD%E6%B3%BD%E5%AE%9D%E5%AE%9D%E6%83%B3%E5%90%83%E7%82%B8%E9%B8%A1,3.9 KB,2024-05-22 11:02,1,修正了小错误,2024-05-23
+视频速度调整,https://getquicker.net/Sharedaction?code=991355a3-e202-4820-a159-08dc6ffecc18,滚轮上下滑动，调整当前网页视频播放速度。单击后速度恢复1,Microsoft Edge,林青雀,https://getquicker.net/User/181402/%E6%9E%97%E9%9D%92%E9%9B%80,15.1 KB,2024-05-10 14:40,2,修改初始速度的逻辑更新，不影响实际功能。,2024-05-23
+文章格式排版,https://getquicker.net/Sharedaction?code=74e75f18-0c89-4828-a0c1-08dc75b3231d,自定义正文、摘要、标题、图表、注释脚注格式,Microsoft Word,1xwx1,https://getquicker.net/User/966592/1xwx1,85 KB,2024-05-16 22:19,1,表格格式新增显著性*上标选择,2024-05-23
+弹出菜单-精减,https://getquicker.net/Sharedaction?code=391e99e9-11de-46f5-44f9-08dba7ba3b5d,精减版，给已使用的朋友使用，更新一下。需要更多功能的，请看另一版。,通用,show-er,https://getquicker.net/User/412766/show-er,27.2 KB,2023-08-29 21:23,1,"增加通用组菜单
+
+需要其他软件菜单，可以提出",2024-05-23
+conda,https://getquicker.net/Sharedaction?code=d77f8de7-13c8-4904-91cf-08dc79843f34,conda外壳,通用,蚂蚁爸爸,https://getquicker.net/User/306719/%E8%9A%82%E8%9A%81%E7%88%B8%E7%88%B8,29.2 KB,2024-05-22 09:59,0,,2024-05-23
+专利检索,https://getquicker.net/Sharedaction?code=088cad11-9674-49d2-c30e-08dc74bc40ca,选中申请号或公开号 运行动作  进行专利检索,通用,清澈如许,https://getquicker.net/User/891193/%E6%B8%85%E6%BE%88%E5%A6%82%E8%AE%B8,6.1 KB,2024-05-16 17:17,3,新增 重乎 数据库  不能自动检索  只能运行动作打开网址 自行将关键词粘贴检索,2024-05-23
 图片翻译保格式,https://getquicker.net/Sharedaction?code=99b614ab-d8dd-407e-c3cb-08daf510bd0c,"翻译图片并且保留原图格式, 支持自定义显示图片+文本, 仅支持中英互译",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,40.9 KB,2023-01-14 10:03,24,无,2024-05-23
 收纳库,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,一个集收纳、检索、管理于一体的多层选项搜索框,通用,dalou,https://getquicker.net/User/76824/dalou,228.1 KB,2024-05-16 08:46,2,选项菜单微调,2024-05-23
 窗口靠右,https://getquicker.net/Sharedaction?code=16e28c12-9205-442b-57b3-08dab29af294,将鼠标位置窗口调整靠右50%_适用多屏,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,1.4 KB,2022-10-21 16:05,5,*,2024-05-23
