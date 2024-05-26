@@ -1,0 +1,12 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,超级色盘/字体上色/全局拾色/前景色/背景色/获取RGB/十六进制(内置531常用颜色值),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,98.3 KB,2023-04-10 17:25,48,纯黑优化,2024-05-26
+文本序号互转,https://getquicker.net/Sharedaction?code=63db04d9-33f1-41d2-c265-08dc7b86d2da,对WORD文档中不同类型的文本序号进行转换，支持自定义序号样式,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,250.2 KB,2024-05-24 11:31,2,修复本地备份数据格式错误的BUG,2024-05-26
+取消所有置顶,https://getquicker.net/Sharedaction?code=3fc5259a-c12b-4985-cfd9-08d8e28ac3fd,取消所有窗口的置顶。,通用,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,5.8 KB,2021-03-09 21:30,2,排除Quicker相关的窗口,2024-05-26
+收纳库,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,一个集收纳、检索、管理于一体的多层选项搜索框,通用,dalou,https://getquicker.net/User/76824/dalou,228.5 KB,2024-05-16 08:46,3,数据同步后自动刷新层级词典,2024-05-26
+阿里云盘签到,https://getquicker.net/Sharedaction?code=b61b1212-8f0b-4b1f-d8a2-08db94dc6a8e,每天阿里云盘自动签到,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,9.9 KB,2023-08-05 21:13,3,更改下逻辑，通过网络请求似乎无法领取奖励，只能签到；返回显示请升级客户端,2024-05-26
+嵌入文件,https://getquicker.net/Sharedaction?code=112d98fc-7a34-48b4-1dd4-08dc7c5ed873,将文档内的链接文件设置为嵌入。,Adobe Illustrator,Anlv,https://getquicker.net/User/392637/Anlv,2.1 KB,2024-05-25 10:49,0,,2024-05-26
+缩小,https://getquicker.net/Sharedaction?code=119344d3-d2c8-4e34-c294-08dc7b86d2da,字体缩小,sm18,一念of间,https://getquicker.net/User/507863/%E4%B8%80%E5%BF%B5of%E9%97%B4,652 B,2024-05-25 09:47,0,,2024-05-26
+加粗加大,https://getquicker.net/Sharedaction?code=67afe397-c02a-479f-c293-08dc7b86d2da,字体加粗加大,sm18,一念of间,https://getquicker.net/User/507863/%E4%B8%80%E5%BF%B5of%E9%97%B4,1.3 KB,2024-05-25 09:46,0,,2024-05-26
+声笔一键,https://getquicker.net/Sharedaction?code=a570c0c0-1a11-409b-24e3-08dc481c770b,全自动化搞定声笔打字在电脑上的安装部署,通用,Poto,https://getquicker.net/User/137838/Poto,41.8 KB,2024-03-20 13:00,12,优化,2024-05-26
+PPT常用字体,https://getquicker.net/Sharedaction?code=d57e4fec-0b96-4b66-402e-08dbfae13854,"PPT常用字体,可自定义字体、颜色、字形、字号，可选VBA、快捷键双模式",Microsoft PowerPoint,1xwx1,https://getquicker.net/User/966592/1xwx1,59.6 KB,2023-12-12 22:31,6,修改动作内更新说明,2024-05-26
+一键清除,https://getquicker.net/Sharedaction?code=81946aa8-f87e-45d9-eb27-08db18860216,一键进入清除/清爽/高效,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,27.6 KB,2023-02-27 18:10,7,*,2024-05-26
