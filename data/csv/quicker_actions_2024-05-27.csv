@@ -1,0 +1,40 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+定时任务,https://getquicker.net/Sharedaction?code=ee574ebe-f541-42a7-9fe3-08dc7d53f313,可以用于处理一些重复且需要固定时间做到的事情，比如游戏抢道具，自动保存等等。,通用,huasio,https://getquicker.net/User/20962/huasio,95.5 KB,2024-05-27 19:01,2,1. 预定支持日志,2024-05-28
+软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,114.7 KB,2022-12-27 16:23,21,批量打开不在弹出用户选择,2024-05-28
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,321.4 KB,2023-03-25 00:27,199,**,2024-05-28
+导出转曲,https://getquicker.net/Sharedaction?code=eccf49c2-3072-468c-9fe5-08dc7d53f313,导出当前文档的轮廓版本.ai文件和.pdf文件.,Adobe Illustrator,Anlv,https://getquicker.net/User/392637/Anlv,8.1 KB,2024-05-27 19:11,0,,2024-05-28
+ai小助理-全场景,https://getquicker.net/Sharedaction?code=5deea01e-2e37-4e1b-9fe1-08dc7d53f313,本动作需要自行注册对应ai的账号，使用webview浏览器弹窗协议访问官方网页，非破解！,通用,爱quicker的小李,https://getquicker.net/User/1026141/%E7%88%B1quicker%E7%9A%84%E5%B0%8F%E6%9D%8E,54.9 KB,2024-05-27 18:59,0,,2024-05-28
+【翻页时钟】网页屏保,https://getquicker.net/Sharedaction?code=49941b0b-bed1-4c3c-873e-08db9a6d5709,网页版翻页时钟，多种设置，鼠标不动的情况下，1分钟后进入全屏模式,通用,show-er,https://getquicker.net/User/412766/show-er,214.7 KB,2023-08-12 14:47,28,"暂时用自动重启动作的方式，解决关闭声音。
+
+以下白噪声下载网址，可以找到一些自己喜欢的下载。再设置添加到文件里
+https://earth.fm/?ref=naturesoundmap",2024-05-28
+复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,525.7 KB,2021-10-02 00:25,64,增加提示“已粘贴”。,2024-05-28
+DeepLX,https://getquicker.net/Sharedaction?code=c55325a6-3af1-4a11-bf4d-08dc12372202,Translator 配套动作  支持DeepLX，使用前请现在右键-设置菜单中配置deepLx的api,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,10.4 KB,2024-01-11 11:53,2,修复了，翻译多行文字时没有输出的情况,2024-05-28
+Zotero生成链接,https://getquicker.net/Sharedaction?code=0fd46217-5ac8-455e-9fdd-08dc7d53f313,选择条目，运行获得在obsidian中能直接打开条目附件的连接。需安装Zutilo插件，设置复制路径快捷键为CTRL+Q,Zotero,lzzy,https://getquicker.net/User/932147/lzzy,4.8 KB,2024-05-27 16:50,1, ,2024-05-28
+万能口袋,https://getquicker.net/Sharedaction?code=749f75da-6762-4fe7-da7b-08da54002c0e,搜索框样式快捷存取口袋,通用,dalou,https://getquicker.net/User/76824/dalou,269.1 KB,2022-06-22 11:45,10,子程序调整,2024-05-28
+巴德文件版本号,https://getquicker.net/Sharedaction?code=71742f10-471c-4625-8e6c-08dc6685e603,经常需要给文件添加版本；从当前版本复制出新的版本等操作，因此写了这个动作,通用,Bader,https://getquicker.net/User/135289/Bader,4.3 KB,2024-04-28 10:29,2,1. 增加文件快捷操作。,2024-05-28
+巴德文本查找输出,https://getquicker.net/Sharedaction?code=b593deb7-887d-4827-c6f1-08dc1baf171d,查找文件中的某字符串所在行，并将其输出到新文件中。,通用,Bader,https://getquicker.net/User/135289/Bader,11.1 KB,2024-01-23 16:45,6,1. 增加对选中文件进行搜索的功能。,2024-05-28
+Icons8,https://getquicker.net/Sharedaction?code=636a85c4-248f-4c67-9fd3-08dc7d53f313,在Icons8搜索,通用,白泽宝宝想吃炸鸡,https://getquicker.net/User/477812/%E7%99%BD%E6%B3%BD%E5%AE%9D%E5%AE%9D%E6%83%B3%E5%90%83%E7%82%B8%E9%B8%A1,3.9 KB,2024-05-27 12:38,0,,2024-05-28
+更换图标,https://getquicker.net/Sharedaction?code=d42eb392-ae5e-4f1f-aefe-08dc2a0d6588,更改文件夹图标，设置图标路径为相对路径，移动文件夹不丢失。,Windows 资源管理器,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,41.1 KB,2024-02-11 11:28,16,修复相对路径不能使用下层路径。,2024-05-28
+阿里icon,https://getquicker.net/Sharedaction?code=7d406e83-34a3-4d93-9fd1-08dc7d53f313,在iconfont中搜索,通用,白泽宝宝想吃炸鸡,https://getquicker.net/User/477812/%E7%99%BD%E6%B3%BD%E5%AE%9D%E5%AE%9D%E6%83%B3%E5%90%83%E7%82%B8%E9%B8%A1,4 KB,2024-05-27 12:08,0,,2024-05-28
+单元格取色,https://getquicker.net/Sharedaction?code=a56ece6b-6989-4e1d-9fcd-08dc7d53f313,WORD单元格取色,Microsoft Word,我是等等,https://getquicker.net/User/1073431/%E6%88%91%E6%98%AF%E7%AD%89%E7%AD%89,1.8 KB,2024-05-27 11:23,1,更新了图标,2024-05-28
+Flaticon,https://getquicker.net/Sharedaction?code=1aeaa6e4-7c36-4d37-9fd0-08dc7d53f313,在Flaticon中搜索,通用,白泽宝宝想吃炸鸡,https://getquicker.net/User/477812/%E7%99%BD%E6%B3%BD%E5%AE%9D%E5%AE%9D%E6%83%B3%E5%90%83%E7%82%B8%E9%B8%A1,3.9 KB,2024-05-27 12:02,0,,2024-05-28
+微信自动回复,https://getquicker.net/Sharedaction?code=f939e34e-0c3e-45c6-c280-08dc7b86d2da,可以按照关键词自动回复微信消息,WeChat,颜晓筱,https://getquicker.net/User/698346/%E9%A2%9C%E6%99%93%E7%AD%B1,36.5 KB,2024-05-24 17:02,2,修复逻辑漏洞；增加文件回复；,2024-05-28
+巴德JSON格式化,https://getquicker.net/Sharedaction?code=40e9bff8-2592-4016-9fcf-08dc7d53f313,支持单实例/多实例的JSON格式化动作。,通用,Bader,https://getquicker.net/User/135289/Bader,8.3 KB,2024-05-27 11:39,0,,2024-05-28
+颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,超级色盘/字体上色/全局拾色/前景色/背景色/获取RGB/十六进制(内置531常用颜色值),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,104.3 KB,2023-04-10 17:25,61,**youhua,2024-05-28
+AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,(158个AI网站/管够/免费)对话/生图/视频/音频/论文/写作/文档/法律/代码/金融/医疗/插件/API/找AI,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,62.5 KB,2024-04-22 15:16,37,*优化,2024-05-28
+图表转换形状,https://getquicker.net/Sharedaction?code=a038f760-db18-4121-aeb2-08daafdb5f80,"一键将图表转换成形状,方便二次编辑",Microsoft PowerPoint,Jerma1ne,https://getquicker.net/User/661391/Jerma1ne,2.5 KB,2022-10-17 16:25,1,更新图标,2024-05-28
+钢笔-选区减去,https://getquicker.net/Sharedaction?code=a52181c4-881b-4229-9fc6-08dc7d53f313,使用钢笔工具勾勒出路径后使用此动作减去选区，需在英文模式下实用,Adobe Photoshop,阿诺德战士阿灵,https://getquicker.net/User/320360/%E9%98%BF%E8%AF%BA%E5%BE%B7%E6%88%98%E5%A3%AB%E9%98%BF%E7%81%B5,29 B,2024-05-27 09:49,0,,2024-05-28
+钢笔-选区添加,https://getquicker.net/Sharedaction?code=9e0449b2-7c60-4034-9fc5-08dc7d53f313,使用钢笔工具勾勒出路径后使用此动作添加选区，需在英文模式下实用,Adobe Photoshop,阿诺德战士阿灵,https://getquicker.net/User/320360/%E9%98%BF%E8%AF%BA%E5%BE%B7%E6%88%98%E5%A3%AB%E9%98%BF%E7%81%B5,30 B,2024-05-27 09:48,0,,2024-05-28
+文本序号互转,https://getquicker.net/Sharedaction?code=63db04d9-33f1-41d2-c265-08dc7b86d2da,对WORD文档选中区域不同类型的文本序号进行转换，支持自定义序号样式,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,258.7 KB,2024-05-24 11:31,3,"右键菜单增加""运行代码模式设置""，支持使用 Quicker OFFICE软件辅助模块 和 模拟按键运行VBA代码两种方法
+PS：Quicker Office软件辅助模块加载代码速度快，但有时对WPS兼容性不好，这时可切换到使用模拟按键运行代码。",2024-05-28
+公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.5 MB,2022-12-06 16:37,218,"1.套红功能中的上行文和函头支持多行文件标识
+2.改进压缩恢复字距相关功能
+　（1）恢复字距默认操作由全文改成选区
+　（2）压缩字距跳过含有嵌入型图片的段落
+　（3）不对段首序号和首字符压缩，使得压缩后段首仍对齐
+3.修复""运行VBA代码""子程序一处快捷键丢失的BUG",2024-05-28
+Copy+,https://getquicker.net/Sharedaction?code=30f5182b-634c-40b1-438b-08d7f4f4652e,连续复制，一次粘贴,通用,Poto,https://getquicker.net/User/137838/Poto,18.8 KB,2020-05-11 13:27,6,优化,2024-05-28
+Emoji神器,https://getquicker.net/Sharedaction?code=6e5d58cf-f36a-4abc-3636-08db12123b2f,也许是最好用的Emoji表情工具/内置500Emoji/选词实时搜Emoji,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,41.7 KB,2023-02-19 14:34,35,**,2024-05-28
+纯色贴图,https://getquicker.net/Sharedaction?code=7d37d052-8f07-4e49-9900-08dc7a77392c,生成纯色贴图，可以用作截图覆盖或截图背景,通用,FaniX,https://getquicker.net/User/52603/FaniX,11.7 KB,2024-05-23 12:50,2,子程序支持输出窗口句柄,2024-05-28
+定格窗口,https://getquicker.net/Sharedaction?code=b90360ce-b6cc-4e69-50dd-08dabc15aa8f,定格并隐藏窗口,通用,FaniX,https://getquicker.net/User/52603/FaniX,87.6 KB,2022-11-01 23:10,11,避免生成重复定格的问题,2024-05-28
