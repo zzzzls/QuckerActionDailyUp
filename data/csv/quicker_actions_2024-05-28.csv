@@ -1,11 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算，高效,支持多种数学运算。",通用,翱翔,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94,249.1 KB,2024-05-22 14:21,14,细节更新,2024-05-29
-定时任务,https://getquicker.net/Sharedaction?code=ee574ebe-f541-42a7-9fe3-08dc7d53f313,可以用于处理一些重复且需要固定时间做到的事情，比如游戏抢道具，自动保存等等。,通用,huasio,https://getquicker.net/User/20962/huasio,207.7 KB,2024-05-27 19:01,11,1. 补充任务限制时间，可以限制任务的生效时间范围,2024-05-29
-Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,331.1 KB,2023-03-25 00:27,202,-**,2024-05-29
-检查形缺,https://getquicker.net/Sharedaction?code=7bd56bd2-d7aa-44c4-0db7-08db9d470fb9,检查权要,通用,清澈如许,https://getquicker.net/User/891193/%E6%B8%85%E6%BE%88%E5%A6%82%E8%AE%B8,8.3 KB,2023-08-15 16:02,11,优化体验,2024-05-29
 天翼云盘签到,https://getquicker.net/Sharedaction?code=3bcae77a-6798-497a-c713-08dc695e9b42,天翼云盘签到，每日领取150M永久空间,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,16.4 KB,2024-05-01 08:22,1,优化检测登录失效,2024-05-29
 吾爱破解签到,https://getquicker.net/Sharedaction?code=2486df69-3ea8-405a-a725-08dad3f6b04c,首次需要登陆账号，然后设置每日开机自动运行就好啦。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,6.4 KB,2022-12-02 13:57,10,优化检测登录失效,2024-05-29
-路径收藏v3,https://getquicker.net/Sharedaction?code=c976a78e-00ca-4b2c-e377-08dc7e4881b3,路径收藏2.0的升级版，可以把你想一键打开的文件夹，程序，网址，文本或命令收入此动作，需要使用时打开动作点一下启动或者发出去,通用,y_n,https://getquicker.net/User/333799/y_n,231.4 KB,2024-05-28 17:12,1,1：增加了按键介绍,2024-05-29
 替换智能对象,https://getquicker.net/Sharedaction?code=42cb8166-c925-4971-e37d-08dc7e4881b3,从剪贴板获取文件路径，替换到选择的智能对象。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,4.2 KB,2024-05-28 18:40,0,,2024-05-29
 AI对话,https://getquicker.net/Sharedaction?code=4d97031e-08e4-4d3a-e363-08dc7e4881b3,最全AI对话网站/(免费/数十个AI对话网站),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,39.3 KB,2024-05-28 11:56,1,可联动工具箱使用,2024-05-29
 下一帧,https://getquicker.net/Sharedaction?code=970a5a1a-85e6-41f3-e379-08dc7e4881b3,配合Global Speed浏览器插件，实现鼠标不抬起一直下一帧,Google Chrome,ex-man,https://getquicker.net/User/607921/ex-man,3 KB,2024-05-28 17:25,0,,2024-05-29
@@ -18,10 +13,6 @@ AI对话,https://getquicker.net/Sharedaction?code=4d97031e-08e4-4d3a-e363-08dc7e
 专利检索,https://getquicker.net/Sharedaction?code=088cad11-9674-49d2-c30e-08dc74bc40ca,选中申请号或公开号 运行动作  进行专利检索,通用,清澈如许,https://getquicker.net/User/891193/%E6%B8%85%E6%BE%88%E5%A6%82%E8%AE%B8,6.7 KB,2024-05-16 17:17,4,新增 度衍  数据库,2024-05-29
 原位克隆,https://getquicker.net/Sharedaction?code=041054a8-4683-4c64-ef66-08dc7894979b,在原始位置克隆形状或文本框,Microsoft PowerPoint,落日星一,https://getquicker.net/User/624819/%E8%90%BD%E6%97%A5%E6%98%9F%E4%B8%80,58 B,2024-05-21 16:31,1,增加延时以提高稳定性,2024-05-29
 表格瘦身,https://getquicker.net/Sharedaction?code=1fbb36ef-3cdb-4045-1df2-08dc7c5ed873,根据内容调整表格尺寸使之变得紧凑,Microsoft PowerPoint,落日星一,https://getquicker.net/User/624819/%E8%90%BD%E6%97%A5%E6%98%9F%E4%B8%80,2 KB,2024-05-25 20:14,2,1.添加视频说明；2.更改图标,2024-05-29
-书签,https://getquicker.net/Sharedaction?code=4e58eb3a-3d77-422f-e357-08dc7e4881b3,获取浏览器书签,通用,dalou,https://getquicker.net/User/76824/dalou,22.3 KB,2024-05-28 08:59,2,菜单显示优化,2024-05-29
-收纳库,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,一个集收纳、检索、管理于一体的多层选项搜索框,通用,dalou,https://getquicker.net/User/76824/dalou,257.5 KB,2024-05-16 08:46,4,"1.新增文本选项操作功能，可手动输入文本或快捷添加选中文本；
-2.新增文本选项相关表单设置；
-3.新增获取浏览器书签功能（动作右键），写入书签列表至剪贴板",2024-05-29
 资源导出,https://getquicker.net/Sharedaction?code=c3ccf4db-6bb1-411c-e36e-08dc7e4881b3,资源导出（画板、资产）,Adobe Illustrator,Harryli,https://getquicker.net/User/1070292/Harryli,22 B,2024-05-28 14:35,0,,2024-05-29
 纯色贴图,https://getquicker.net/Sharedaction?code=7d37d052-8f07-4e49-9900-08dc7a77392c,生成可以自由拖放拉伸的纯色贴图，可以用作截图覆盖或截图背景,通用,FaniX,https://getquicker.net/User/52603/FaniX,12.3 KB,2024-05-23 12:50,3,增加滑轮缩放,2024-05-29
 自动中英文切换,https://getquicker.net/Sharedaction?code=54e95ae9-aa54-48c7-e367-08dc7e4881b3,CAD自动中英文切换,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,37.2 KB,2024-05-28 12:58,0,,2024-05-29
@@ -30,4 +21,3 @@ AI对话,https://getquicker.net/Sharedaction?code=4d97031e-08e4-4d3a-e363-08dc7e
 Melvoridle,https://getquicker.net/Sharedaction?code=a9006bc2-3c7b-4475-e359-08dc7e4881b3,以浏览器APP模式打开 一键摸鱼,通用,$haun_,https://getquicker.net/User/747405/$haun_,5.2 KB,2024-05-28 09:23,0,,2024-05-29
 图片翻译保格式,https://getquicker.net/Sharedaction?code=99b614ab-d8dd-407e-c3cb-08daf510bd0c,"翻译图片并且保留原图格式, 支持自定义显示图片+文本, 仅支持中英互译",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,40.9 KB,2023-01-14 10:03,25,修复设置默认运行方式后选中图片无效问题,2024-05-29
 文件(夹)属性,https://getquicker.net/Sharedaction?code=a16ceee8-6a86-4411-f5db-08dba6ce1eab,查看文件(夹)属性/内存可视化分析/大小/时间/扩展名/markdown链接/复制全部信息,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,43.5 KB,2023-08-27 22:17,8,支持对选中文件夹使用SpaceSniffer打开,2024-05-29
-巴德随机输入,https://getquicker.net/Sharedaction?code=c2423f86-f22c-4cb4-e356-08dc7e4881b3,可以用来生成随机数（2进制、10进制、16进制）、随机字母（大写、小写、混合）、随机人名、随机手机号、随机邮箱等,通用,Bader,https://getquicker.net/User/135289/Bader,53.8 KB,2024-05-28 08:43,0,,2024-05-29
