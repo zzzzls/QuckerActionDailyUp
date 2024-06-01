@@ -1,16 +1,39 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-遍历路径,https://getquicker.net/Sharedaction?code=07e3c975-54bb-4175-d2cb-08dc811ce449,获取目标文件夹内所有内容，按ESC退出,通用,dalou,https://getquicker.net/User/76824/dalou,18.5 KB,2024-05-31 21:26,1,-,2024-06-01
+巴德AI搜索（一键直达）,https://getquicker.net/Sharedaction?code=ae6c4782-2d67-4f88-8ee6-08dc5841df9c,一个聚合多种AI搜索引擎的搜索动作。,通用,Bader,https://getquicker.net/User/135289/Bader,9.8 KB,2024-04-09 13:35,4,1. 搜索框样式优化,2024-06-01
+巴德SQL格式化,https://getquicker.net/Sharedaction?code=6bc2472c-c85b-4fd6-d2d1-08dc811ce449,调用sqlformat.org的api进行sql格式化,通用,Bader,https://getquicker.net/User/135289/Bader,14.7 KB,2024-05-31 22:56,0,,2024-06-01
+移动到桌面,https://getquicker.net/Sharedaction?code=6d23c0fa-30cb-43df-d2cc-08dc811ce449,将选择的文件移入桌面,通用,suyekun,https://getquicker.net/User/559425/suyekun,2.1 KB,2024-05-31 22:08,0,,2024-06-01
+下一帧循环,https://getquicker.net/Sharedaction?code=2a300aeb-b6f6-4f3e-6ad6-08dc804f50a0,鼠标左键单击循环运行下一帧，直到再次单击鼠标左键，支持调节速度,PotPlayer,ex-man,https://getquicker.net/User/607921/ex-man,13 KB,2024-05-30 17:00,5,参数改录入,2024-06-01
+上一帧循环,https://getquicker.net/Sharedaction?code=6f0e738a-ed9a-459d-6ad1-08dc804f50a0,鼠标左键单击循环运行上一帧，直到再次单击鼠标左键，支持调节速度,PotPlayer,ex-man,https://getquicker.net/User/607921/ex-man,12.8 KB,2024-05-30 16:52,5,参数改录入,2024-06-01
+Doc2X识别（改）,https://getquicker.net/Sharedaction?code=d247a0e5-3b96-45c4-0077-08dc658bec70,公式识别，按住ctrl纯公式识别,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,113.2 KB,2024-04-26 18:29,20,"更新了身份令牌的刷新
+在打开自动化选项时加入徽标",2024-06-01
+展开当前代码,https://getquicker.net/Sharedaction?code=fba7e76d-bf45-4554-d2c7-08dc811ce449,展开当前代码,RStudio,ningyuan,https://getquicker.net/User/575533/ningyuan,18 B,2024-05-31 18:34,0,,2024-06-01
+折叠当前代码,https://getquicker.net/Sharedaction?code=49dacda5-b8ec-4fc4-d2c6-08dc811ce449,折叠当前代码,RStudio,ningyuan,https://getquicker.net/User/575533/ningyuan,11 B,2024-05-31 18:33,0,,2024-06-01
+展开所有代码,https://getquicker.net/Sharedaction?code=66be1f01-d89e-4f2a-d2c5-08dc811ce449,展开所有代码块,RStudio,ningyuan,https://getquicker.net/User/575533/ningyuan,18 B,2024-05-31 18:33,0,,2024-06-01
+折叠所有代码,https://getquicker.net/Sharedaction?code=8af51093-d368-4620-d2c4-08dc811ce449,所有代码块,RStudio,ningyuan,https://getquicker.net/User/575533/ningyuan,11 B,2024-05-31 18:33,0,,2024-06-01
 视频搜索,https://getquicker.net/Sharedaction?code=28d37abb-8d5a-462f-52a0-08da8cb04b9b,视频搜索：抖音，哔哩哔哩，快手，,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,7.9 KB,2022-09-03 17:12,6,"新增,可以自定义选择打开视频网站类型.",2024-06-01
 PSCxio面板,https://getquicker.net/Sharedaction?code=d79a7479-d418-421f-d2b7-08dc811ce449,PS功能自定义面板,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,38.2 KB,2024-05-31 17:58,0,,2024-06-01
+输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,提示Capslock键/Numlock键/当前窗口中英文状态,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,120.5 KB,2024-04-01 13:20,26,1.增加光标提示文字所在位置、背景颜色、字体颜色的选项。2.丰富图片元素。3.增加图形选项,2024-06-01
+文本换行,https://getquicker.net/Sharedaction?code=bdf495f8-184f-45b1-d2ae-08dc811ce449,一键形状中的文字自动换行,Microsoft PowerPoint,BilbyLee,https://getquicker.net/User/393230/BilbyLee,1.6 KB,2024-05-31 16:54,0,,2024-06-01
+巴德Apifox助手,https://getquicker.net/Sharedaction?code=d116b7eb-cf0f-4c24-d2ac-08dc811ce449,在Apifox中常用到的一些操作,Apifox,Bader,https://getquicker.net/User/135289/Bader,8.7 KB,2024-05-31 16:40,0,,2024-06-01
 PS启动,https://getquicker.net/Sharedaction?code=ad3fc205-7856-4e9a-991e-08dc7a77392c,选中/剪贴板/截图/微信/Eagle/snipaste/PixPin/一键启动,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,55.3 KB,2024-05-23 21:07,15,加AIt,2024-06-01
 这动作安装过没,https://getquicker.net/Sharedaction?code=83779484-e44d-49eb-4a20-08d9c10181e6,不知道某个分享动作是否已安装？这个动作能帮到你。在动作主页运行动作。,通用,EC10010,https://getquicker.net/User/2997/EC10010,499.3 KB,2021-12-17 19:02,53,动作右键菜单增加自动模式（感谢@祥睿御免的建议）,2024-06-01
+ob挖空,https://getquicker.net/Sharedaction?code=09addb10-e47a-4ae5-d2a8-08dc811ce449,obsidian中的挖空，不过需要配合blue topaz主题才行,通用,cmdblock,https://getquicker.net/User/896244/cmdblock,4.5 KB,2024-05-31 15:50,0,,2024-06-01
 HTTP服务器,https://getquicker.net/Sharedaction?code=daadd498-0fff-4fc3-8875-08dc73ca9fbc,开启局域网HTTP服务，允许以web服务的方式访问主机文件夹。,通用,huasio,https://getquicker.net/User/20962/huasio,135 KB,2024-05-14 12:47,1,1. fit,2024-06-01
 参考线Pro,https://getquicker.net/Sharedaction?code=f1e5221f-a744-44f4-585f-08db38e9bfaa,中心参考线/3等分/4等分/清除参考线/JavaScript脚本,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,34.3 KB,2023-04-10 12:33,7,**.,2024-06-01
 超级剪贴板,https://getquicker.net/Sharedaction?code=90c2b81b-cd9e-41cd-4892-08d86ad454b4,连续复制和多种高级方式的增强型文字剪贴板,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,75.3 KB,2020-10-08 20:36,10,添加功能 按顺序发送（自动）,2024-06-01
 收纳库,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,一个集收纳、检索、管理于一体的多层选项搜索框,通用,dalou,https://getquicker.net/User/76824/dalou,268.2 KB,2024-05-16 08:46,7,区分手动与自动添加，加快执行速度,2024-06-01
-极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,速览图片/音频/视频/文档/PDF/电子书等,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,125 KB,2023-07-28 23:43,56,**,2024-06-01
+文件分类,https://getquicker.net/Sharedaction?code=75aede3c-f877-45e1-d29f-08dc811ce449,对以数字+字母组成的编号开头的文件按照编号分类。,Windows 资源管理器,颜晓筱,https://getquicker.net/User/698346/%E9%A2%9C%E6%99%93%E7%AD%B1,5.3 KB,2024-05-31 14:13,0,,2024-06-01
+皓拓彩印彩盒快捷生成,https://getquicker.net/Sharedaction?code=d2bc0cd2-ee3e-4746-6b5b-08daace84cb5,在Illustrator选中物件直接生成盒子,Adobe Illustrator,jialan75home,https://getquicker.net/User/631091/jialan75home,55.6 KB,2022-10-14 17:12,6,测试,2024-06-01
+文本前后缀输入(动作参数),https://getquicker.net/Sharedaction?code=c9b5103c-c1a5-49e9-d299-08dc811ce449,可以使用使用动作参数或单选作为输入的文本前后缀,通用,Colπ,https://getquicker.net/User/23071/Col%CF%80,8.6 KB,2024-05-31 12:07,1,修正错误,2024-06-01
 双链,https://getquicker.net/Sharedaction?code=810a3406-56b1-4e02-a807-08dad6aa6376,"选中文本进行[[双链]]符,如存在双链符,则去除",Obsidian,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,13.3 KB,2022-12-06 18:11,4,**,2024-06-01
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,SimpleTex公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,134.1 KB,2023-06-12 00:47,12,添加默认的公共公益API,2024-06-01
 写入文字到剪贴板,https://getquicker.net/Sharedaction?code=f3234644-7821-4195-6af4-08dc804f50a0,拾取文字内容到剪贴板，方便跨软件粘贴,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,14.9 KB,2024-05-31 10:40,0,,2024-06-01
+随时记事本,https://getquicker.net/Sharedaction?code=a536a7d5-2aae-40f9-65a8-08dc7f7256e7,随时收集文本，无感保存\n\n按CTRL可OCR\n\n按Alt可获取网址和标题,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,54.2 KB,2024-05-29 11:36,1,"1、优化获取文本的逻辑
+2、修复某些情况下读取不到窗口标题导致运行动作时无法激活已打开的默认记事本
+3、增加：
+	在浏览器页面，按Alt运行动作，可将当前标签页的标题和网页写入文本的末尾；方便从笔记中查看源网页",2024-06-01
 修复 Cinema 4D 缩略图,https://getquicker.net/Sharedaction?code=6c93f92d-6e13-40b2-7851-08dbc96066f3,修复 Cinema 4D 缩略图不显示的问题。,通用,Anlv,https://getquicker.net/User/392637/Anlv,3.7 KB,2023-10-11 17:59,1,变更许可,2024-06-01
+右键菜单,https://getquicker.net/Sharedaction?code=0121b30c-54d7-4973-6aee-08dc804f50a0,右键菜单管理,通用,Roger.Zou,https://getquicker.net/User/861089/Roger.Zou,23.5 KB,2024-05-31 09:44,0,,2024-06-01
 File协议,https://getquicker.net/Sharedaction?code=eeee7a8b-87e3-46d8-6ae9-08dc804f50a0,获取文件的 file:/// 路径,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,4.2 KB,2024-05-31 09:04,0,,2024-06-01
-Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,318.7 KB,2023-03-25 00:27,229,**,2024-06-01
+巴德定时发布动作,https://getquicker.net/Sharedaction?code=5d509028-3928-4241-6ae7-08dc804f50a0,定时发布指定的动作,通用,Bader,https://getquicker.net/User/135289/Bader,19.9 KB,2024-05-31 00:26,0,,2024-06-01
+巴德闪现,https://getquicker.net/Sharedaction?code=57d3b416-4e0b-45a9-65c7-08dc7f7256e7,你想摸鱼么？你想利用碎片化的时间学习么？来，巴德闪现给你无限可能！,通用,Bader,https://getquicker.net/User/135289/Bader,26.2 KB,2024-05-30 00:11,1,1. 编辑配置时停止其他动作实例一防止修改配置失败。,2024-06-01
