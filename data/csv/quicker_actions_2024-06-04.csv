@@ -2,7 +2,6 @@
 输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,提示Capslock键/Numlock键/Scroll Lock键/当前窗口中英文状态,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,136 KB,2024-04-01 13:20,27,"1.改善屏幕悬浮提示功能
 2.丰富图形
 3.增加Scroll Lock滚动锁定键的提示（常用于Excel，控制方向键、翻页键的功能）",2024-06-05
-结束当前进程,https://getquicker.net/Sharedaction?code=c2968bf2-52a6-44fe-d615-08dc842a79c6,结束当前进程,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,1.4 KB,2024-06-04 19:55,0,,2024-06-05
 自由演奏[风物之诗琴],https://getquicker.net/Sharedaction?code=86fff42c-eae6-4fca-b985-08dbe7797a52,"提供曲谱, 自动演奏",yuanshen.exe,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,79.9 KB,2023-11-19 00:57,7,优化,2024-06-05
 置 入多页PDF(脚本),https://getquicker.net/Sharedaction?code=08846e70-ac4d-4190-d611-08dc842a79c6,置入PDF文件,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,2.5 KB,2024-06-04 18:34,0,,2024-06-05
 批量改图片尺寸,https://getquicker.net/Sharedaction?code=13afcce0-ba1e-44b6-6ef5-08dc62828b67,统一批量改所有图片尺寸,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,13.9 KB,2024-04-23 09:15,4,优化初次运行检测,2024-06-05
@@ -40,14 +39,7 @@
 检查Python依赖,https://getquicker.net/Sharedaction?code=88b737c3-84d1-438c-d5ef-08dc842a79c6,检测第Python三方模块是否安装（v1.4）,通用,qωer,https://getquicker.net/User/723670/q%CF%89er,33.7 KB,2024-06-04 08:21,4,"1.修复通过右键动作配置选择检查模式不生效的问题。
 2.可在配置中选择仅检查pip，`quicker_in_param`不提供第二个键时则仅检查pip。
 3.可在配置中设置get-pip.py路径，留空时将检查python安装目录下是否有get-pip.py，没有则从网络下载。",2024-06-05
-收纳库,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,「 多层次收纳、检索、管理：动作、文件、网址、文本」,通用,dalou,https://getquicker.net/User/76824/dalou,264.4 KB,2024-05-16 08:46,8,优化浏览器书签列表获取逻辑,2024-06-05
 书签,https://getquicker.net/Sharedaction?code=4e58eb3a-3d77-422f-e357-08dc7e4881b3,获取浏览器书签,通用,dalou,https://getquicker.net/User/76824/dalou,36.7 KB,2024-05-28 08:59,5,优化书签列表获取逻辑,2024-06-05
-摘取,https://getquicker.net/Sharedaction?code=b6c50f8f-354c-4c62-540a-08d6d1932d22,将内容摘取为便笺,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,82 KB,2019-05-06 21:18,22,"- 截图后增加识文（OCR）功能
-- 优化设置体验
-- 调整文本窗口体验
-    - 默认底色为白色
-    - 窗口位置改为鼠标右下角",2024-06-05
-植物大战僵尸\n杂交版,https://getquicker.net/Sharedaction?code=32070c32-a896-473a-d5f4-08dc842a79c6,一键下载/启动最近热门的植物大战僵尸杂交版,通用,M-cc,https://getquicker.net/User/521120/M-cc,259.9 KB,2024-06-04 10:15,0,,2024-06-05
 搜索anytxt,https://getquicker.net/Sharedaction?code=356a6ba3-2c8d-41ed-d5f1-08dc842a79c6,搜索选中文本、文件或剪贴板，否则打开ATGUI,AnyTXT Searcher GUI,用户Qb81-Hz1BAA,https://getquicker.net/User/1083901/%E7%94%A8%E6%88%B7Qb81-Hz1BAA,7.8 KB,2024-06-04 08:46,0,,2024-06-05
 向下滑动,https://getquicker.net/Sharedaction?code=e04572fa-1602-455f-b93a-08dc83042634,腾讯应用宝PC版本，向下拉，可刷抖音或其他,腾讯应用宝,ii6uu992,https://getquicker.net/User/997056/ii6uu992,16.6 KB,2024-06-03 20:49,1,.,2024-06-05
 向上滑动,https://getquicker.net/Sharedaction?code=4d81665d-9a8a-4134-b93b-08dc83042634,腾讯应用宝PC版本，向上拉，可刷抖音或其他,腾讯应用宝,ii6uu992,https://getquicker.net/User/997056/ii6uu992,16.8 KB,2024-06-03 20:50,1,.,2024-06-05
