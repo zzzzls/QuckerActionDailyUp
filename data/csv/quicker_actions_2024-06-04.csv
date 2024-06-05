@@ -1,0 +1,56 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,提示Capslock键/Numlock键/Scroll Lock键/当前窗口中英文状态,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,136 KB,2024-04-01 13:20,27,"1.改善屏幕悬浮提示功能
+2.丰富图形
+3.增加Scroll Lock滚动锁定键的提示（常用于Excel，控制方向键、翻页键的功能）",2024-06-05
+结束当前进程,https://getquicker.net/Sharedaction?code=c2968bf2-52a6-44fe-d615-08dc842a79c6,结束当前进程,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,1.4 KB,2024-06-04 19:55,0,,2024-06-05
+自由演奏[风物之诗琴],https://getquicker.net/Sharedaction?code=86fff42c-eae6-4fca-b985-08dbe7797a52,"提供曲谱, 自动演奏",yuanshen.exe,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,79.9 KB,2023-11-19 00:57,7,优化,2024-06-05
+置 入多页PDF(脚本),https://getquicker.net/Sharedaction?code=08846e70-ac4d-4190-d611-08dc842a79c6,置入PDF文件,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,2.5 KB,2024-06-04 18:34,0,,2024-06-05
+批量改图片尺寸,https://getquicker.net/Sharedaction?code=13afcce0-ba1e-44b6-6ef5-08dc62828b67,统一批量改所有图片尺寸,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,13.9 KB,2024-04-23 09:15,4,优化初次运行检测,2024-06-05
+巴德今天吃什么,https://getquicker.net/Sharedaction?code=46fa7f11-bbe0-4fb4-d60d-08dc842a79c6,用于帮助自己选择菜单。选择困难症的福音！！！,通用,Bader,https://getquicker.net/User/135289/Bader,6.1 KB,2024-06-04 17:12,0,,2024-06-05
+连续截图,https://getquicker.net/Sharedaction?code=d88f5270-5a1f-471e-8e56-08dc6685e603,——用户自己的第三方截图工具，运行后用户自行截图，点击“完成”会拼合截图。,通用,level1,https://getquicker.net/User/102977/level1,72.2 KB,2024-04-27 16:43,2,"BUG：
+1、处理当检测到剪贴板变化，但是对象为图片以外的内容，导致添加了重复的图片的情况。
+2、去掉多余的提示信息。",2024-06-05
+最近运行动作,https://getquicker.net/Sharedaction?code=c24f9bb8-876a-458b-94dd-08dc6f0c8aa6,——展示最近运行的动作。支持运行、编辑、悬浮等便利功能，是Quicker开发者的好帮手。,Quicker,level1,https://getquicker.net/User/102977/level1,317.5 KB,2024-05-08 15:32,3,"功能：
+1、支持新建组合动作。
+2、设置增加：新增动作相关设置。
+3、左键运行、右键运行模式，增加更丰富的操作：运行、调试运行、悬停。
+4、增加动作数据导入导出。
+
+优化：
+1、左键、右键用同一套ID。
+2、变更左键、右键ID对应功能。
+3、设置左键、右键，增加更丰富的选项，各自有不同的展示顺序。
+4、操作窗右键“运行模式”增加丰富的左右键操作，优化样式。
+5、设置窗口，新建动作开启为false时，清空新建动作项的数据。
+6、截取动作页坐标后，直接写入数据。不用再复制粘贴。",2024-06-05
+另存窗口快速切换,https://getquicker.net/Sharedaction?code=dfccca6b-9432-4c2a-8da1-08dc64c8b533,——仿Listary,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,33.2 KB,2024-04-25 16:12,5,"BUG：
+1、解决Photoshop，/Edit激活不了控件的问题。
+2、解决WinRAR自动压缩的问题。
+3、处理vMix链接文件的特殊情况。
+
+优化：
+1、所有触发控件操作，都传入了句柄。",2024-06-05
+删除,https://getquicker.net/Sharedaction?code=ba97ec02-c281-44de-d4e1-08dc8210ab87,"要还原删除,大海捞针?还原后找不到文件？",Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,64.2 KB,2024-06-01 17:36,24,优化,2024-06-05
+巴德JSON转JS对象字面量,https://getquicker.net/Sharedaction?code=4e52288b-fd6f-4be1-d604-08dc842a79c6,JSON转JS对象字面量,通用,Bader,https://getquicker.net/User/135289/Bader,3.7 KB,2024-06-04 15:38,1,1. 支持文本快捷方式,2024-06-05
+巴德URIComponent,https://getquicker.net/Sharedaction?code=3e285d57-a8f4-404e-d601-08dc842a79c6,使用三组URL编码和解码函数对选中字符串进行编码和解码,通用,Bader,https://getquicker.net/User/135289/Bader,7 KB,2024-06-04 15:19,0,,2024-06-05
+巴德选中、剪切板、文本框示例,https://getquicker.net/Sharedaction?code=7cec2b37-3c6a-4cc4-d5fc-08dc842a79c6,子程序“巴德选中、剪切板、文本框”的使用示例,通用,Bader,https://getquicker.net/User/135289/Bader,5.9 KB,2024-06-04 13:57,0,,2024-06-05
+截图保存至,https://getquicker.net/Sharedaction?code=42c087a6-5738-49c6-9a1e-08dc72f0e55e,截图后可输入图片名称和选择要保存的文件夹（自动获取当前已打开的文件夹）,通用,原++,https://getquicker.net/User/189784/%E5%8E%9F__,11.6 KB,2024-05-13 15:22,2,增加可选文件夹路径,2024-06-05
+下载所有网络图片,https://getquicker.net/Sharedaction?code=4b47b675-ccb2-4d7c-d5fa-08dc842a79c6,将所有文档中的网络图片下载到本地，完成后最好重启下思源。,SiYuan,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,8 KB,2024-06-04 13:25,0,,2024-06-05
+智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,翱翔,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94,276.1 KB,2024-05-22 14:21,34,优化,2024-06-05
+检查Python依赖,https://getquicker.net/Sharedaction?code=88b737c3-84d1-438c-d5ef-08dc842a79c6,检测第Python三方模块是否安装（v1.4）,通用,qωer,https://getquicker.net/User/723670/q%CF%89er,33.7 KB,2024-06-04 08:21,4,"1.修复通过右键动作配置选择检查模式不生效的问题。
+2.可在配置中选择仅检查pip，`quicker_in_param`不提供第二个键时则仅检查pip。
+3.可在配置中设置get-pip.py路径，留空时将检查python安装目录下是否有get-pip.py，没有则从网络下载。",2024-06-05
+收纳库,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,「 多层次收纳、检索、管理：动作、文件、网址、文本」,通用,dalou,https://getquicker.net/User/76824/dalou,264.4 KB,2024-05-16 08:46,8,优化浏览器书签列表获取逻辑,2024-06-05
+书签,https://getquicker.net/Sharedaction?code=4e58eb3a-3d77-422f-e357-08dc7e4881b3,获取浏览器书签,通用,dalou,https://getquicker.net/User/76824/dalou,36.7 KB,2024-05-28 08:59,5,优化书签列表获取逻辑,2024-06-05
+摘取,https://getquicker.net/Sharedaction?code=b6c50f8f-354c-4c62-540a-08d6d1932d22,将内容摘取为便笺,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,82 KB,2019-05-06 21:18,22,"- 截图后增加识文（OCR）功能
+- 优化设置体验
+- 调整文本窗口体验
+    - 默认底色为白色
+    - 窗口位置改为鼠标右下角",2024-06-05
+植物大战僵尸\n杂交版,https://getquicker.net/Sharedaction?code=32070c32-a896-473a-d5f4-08dc842a79c6,一键下载/启动最近热门的植物大战僵尸杂交版,通用,M-cc,https://getquicker.net/User/521120/M-cc,259.9 KB,2024-06-04 10:15,0,,2024-06-05
+搜索anytxt,https://getquicker.net/Sharedaction?code=356a6ba3-2c8d-41ed-d5f1-08dc842a79c6,搜索选中文本、文件或剪贴板，否则打开ATGUI,AnyTXT Searcher GUI,用户Qb81-Hz1BAA,https://getquicker.net/User/1083901/%E7%94%A8%E6%88%B7Qb81-Hz1BAA,7.8 KB,2024-06-04 08:46,0,,2024-06-05
+向下滑动,https://getquicker.net/Sharedaction?code=e04572fa-1602-455f-b93a-08dc83042634,腾讯应用宝PC版本，向下拉，可刷抖音或其他,腾讯应用宝,ii6uu992,https://getquicker.net/User/997056/ii6uu992,16.6 KB,2024-06-03 20:49,1,.,2024-06-05
+向上滑动,https://getquicker.net/Sharedaction?code=4d81665d-9a8a-4134-b93b-08dc83042634,腾讯应用宝PC版本，向上拉，可刷抖音或其他,腾讯应用宝,ii6uu992,https://getquicker.net/User/997056/ii6uu992,16.8 KB,2024-06-03 20:50,1,.,2024-06-05
+点击应用宝返回,https://getquicker.net/Sharedaction?code=72482b37-b3fb-4aaa-b917-08dc83042634,点击腾讯应用宝PC版本的返回按键,腾讯应用宝,ii6uu992,https://getquicker.net/User/997056/ii6uu992,10.1 KB,2024-06-03 14:16,5,.,2024-06-05
+控制手机,https://getquicker.net/Sharedaction?code=e3dbc10e-913a-4fa2-05ba-08da02a774c9,电脑控制Android手机,通用,M-cc,https://getquicker.net/User/521120/M-cc,371.5 KB,2022-03-11 14:09,27,~修复下载失败的错误。,2024-06-05
+极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/视频/文档/PDF/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,147.2 KB,2023-07-28 23:43,65,**,2024-06-05
