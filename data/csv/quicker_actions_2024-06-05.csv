@@ -1,14 +1,10 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 设置窗口样式,https://getquicker.net/Sharedaction?code=1f2a2736-7e83-47ef-ebc4-08dc84f6bb0e,设置窗口的样式(style)和扩展样式(exstyle),通用,FaniX,https://getquicker.net/User/52603/FaniX,59.2 KB,2024-06-05 21:52,0,,2024-06-06
 逐字输入-剪贴板,https://getquicker.net/Sharedaction?code=b9cfa904-f725-436e-ebbf-08dc84f6bb0e,从剪贴板获取文本，逐字输入,通用,Runos,https://getquicker.net/User/250742/Runos,1.4 KB,2024-06-05 20:52,1,1,2024-06-06
-结束当前进程,https://getquicker.net/Sharedaction?code=c2968bf2-52a6-44fe-d615-08dc842a79c6,结束当前进程,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,7 KB,2024-06-04 19:55,4,+ 增加按住ctrl执行命令为重启当前进程,2024-06-06
 视频网址解析,https://getquicker.net/Sharedaction?code=b7249026-2997-4d01-ebc1-08dc84f6bb0e,！,Google Chrome,尤格泡泡,https://getquicker.net/User/635813/%E5%B0%A4%E6%A0%BC%E6%B3%A1%E6%B3%A1,125.9 KB,2024-06-05 20:59,0,,2024-06-06
 Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,323.4 KB,2023-03-25 00:27,251,小使用问题,2024-06-06
 绝不会出错的粘贴图片,https://getquicker.net/Sharedaction?code=e9b1525a-7adf-48a3-ebbb-08dc84f6bb0e,在不改变图片比例的情况下用鼠标缩放图片大小,sm18,vtsk,https://getquicker.net/User/824924/vtsk,24 KB,2024-06-05 19:50,0,,2024-06-06
-颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,160.2 KB,2023-04-10 17:25,78,**优化,2024-06-06
-PDF工具,https://getquicker.net/Sharedaction?code=0e24c256-07a9-4cd4-a97f-08dab0af50de,PDF按比例缩小 PDF设置出血 骑马钉 单张单双面 叠堆单双面 混拼,通用,jialan75home,https://getquicker.net/User/631091/jialan75home,342.8 KB,2022-10-18 16:06,93,按父文件夹合并pdf 新增 按文件名长度排序,2024-06-06
 辅助窗,https://getquicker.net/Sharedaction?code=910c9ede-81fe-474c-f5ed-08dba6ce1eab,辅助完成一个便利的自定义操作窗，添加网址、应用、文本、快捷键等,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,312.4 KB,2023-08-28 14:14,186,repeat不显示插入等待时间，避免添加,2024-06-06
-鼠标连点,https://getquicker.net/Sharedaction?code=04213d14-d347-42c0-6d65-08d92c07dd7a,最好的鼠标连点，空格-开始/暂停、F2-停止。右键菜单支持自定义按键及速率。,通用,Dasuay,https://getquicker.net/User/256778/Dasuay,13.1 KB,2021-06-11 17:23,3,修复一些bug,2024-06-06
 收纳库,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,「 多层次收纳、检索、管理：动作、文件、网址、文本」,通用,dalou,https://getquicker.net/User/76824/dalou,303 KB,2024-05-16 08:46,10,"优化
 1.优化层级刷新逻辑，加快运行速度；
 2.调整数据删除方式；
@@ -18,7 +14,6 @@ PDF工具,https://getquicker.net/Sharedaction?code=0e24c256-07a9-4cd4-a97f-08dab
 Ps图层命名,https://getquicker.net/Sharedaction?code=38aad4f1-a60d-4054-7cc2-08dc009a2ba3,ps高级图层命名多功能版,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,60.1 KB,2023-12-20 21:05,8,增加功能“前缀-保留图层名”+“后缀-保留图层名”,2024-06-06
 转义文本为合法Json值,https://getquicker.net/Sharedaction?code=b6599203-32a3-4e2e-ebb1-08dc84f6bb0e,将一段文本转换为合法的json字段值（将里面的特殊字符进行转义，避免拼接的json内容出现格式混乱）,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,5.3 KB,2024-06-05 16:39,0,,2024-06-06
 Html表格复制为Excel,https://getquicker.net/Sharedaction?code=447ef9d6-7d05-428a-5cd5-08da823f25ca,选中网页中的表格后，,Google Chrome,CL,https://getquicker.net/User/3/CL,10.9 KB,2022-08-20 22:03,1,按Ctrl可直接输入<table>的html代码,2024-06-06
-OCR识别自动贴图,https://getquicker.net/Sharedaction?code=939e426f-802a-4ca7-eb91-08dc84f6bb0e,调用quikcer的OCR，速度快，精准，自动贴图对照,通用,翱翔,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94,11.2 KB,2024-06-05 08:30,2,优化,2024-06-06
 摘取,https://getquicker.net/Sharedaction?code=b6c50f8f-354c-4c62-540a-08d6d1932d22,将内容摘取为便笺,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,84.5 KB,2019-05-06 21:18,24,- 取消截图时不再弹出弹出文本输入框,2024-06-06
 编辑多边形面,https://getquicker.net/Sharedaction?code=769991a0-15fd-4154-ebaa-08dc84f6bb0e,快速增加编辑多边形 并选择元素级别,3ds Max application,DR-1,https://getquicker.net/User/1081563/DR-1,54 B,2024-06-05 14:11,0,,2024-06-06
 编辑多边形面,https://getquicker.net/Sharedaction?code=fb310759-da4c-4cb3-eba9-08dc84f6bb0e,快速增加编辑多边形 并选择面级别,3ds Max application,DR-1,https://getquicker.net/User/1081563/DR-1,54 B,2024-06-05 14:09,0,,2024-06-06
