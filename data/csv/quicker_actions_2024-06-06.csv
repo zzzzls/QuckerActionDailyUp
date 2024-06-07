@@ -1,0 +1,15 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+显示电量,https://getquicker.net/Sharedaction?code=74d3d465-081f-485e-3321-08dc6e3171e5,在任务栏显示剩余电量,通用,FaniX,https://getquicker.net/User/52603/FaniX,10.3 KB,2024-05-07 14:45,3,支持通过Quicker终止动作,2024-06-07
+颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/Photoshop/Obsidian/WPS/Office/Illustrator,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,160.2 KB,2023-04-10 17:25,79,小优化,2024-06-07
+关闭样式自动更新,https://getquicker.net/Sharedaction?code=16672ff2-f3fe-4f59-6583-08dc85dec23e,关闭所有样式的“自动更新”功能,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,1.4 KB,2024-06-06 18:43,1,修改宏名称,2024-06-07
+文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用讯飞星火模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,130.8 KB,2023-09-07 09:28,90,历史文件,2024-06-07
+按键转文本,https://getquicker.net/Sharedaction?code=a7efb7a1-dcf3-45d8-6573-08dc85dec23e,根据按下的按键来输出文本描述,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,14 KB,2024-06-06 15:07,1,1,2024-06-07
+专注窗口,https://getquicker.net/Sharedaction?code=4dffc7ad-7c41-4401-1a2a-08dbfbd5ce70,按黄金比例调整窗口（调整鼠标指向的窗口尺寸并前置居中）,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,13.2 KB,2023-12-14 11:05,5,- 支持设置宽高比（默认16:9）,2024-06-07
+正则速查手册,https://getquicker.net/Sharedaction?code=65a5ee04-29bc-42f0-3962-08db5c50a3af,Quicker正则表达式速查手册,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,232.8 KB,2023-05-25 18:27,10,"- 更正一些笔误
+- 扩写短文「什么是断言」
+- 增加短文「后向引用的歧义问题」
+- 增加短文「捕获分组与非捕获分组的区别」",2024-06-07
+图片尺寸修改,https://getquicker.net/Sharedaction?code=c1d9779f-3542-4a79-656c-08dc85dec23e,利用PS快速批量调整图片尺寸（PS需要挂在后台）,Adobe Photoshop,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,14.3 KB,2024-06-06 12:11,0,,2024-06-07
+简译,https://getquicker.net/Sharedaction?code=b115a802-3ab4-4195-e593-08d7e1d8d224,极简翻译,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,109.8 KB,2020-04-16 20:50,20,单个单词翻译时，增加原单词的显示,2024-06-07
+净化网址,https://getquicker.net/Sharedaction?code=b7761752-dedc-4131-8e54-08dc6685e603,去掉链接中的spm等指定参数。支持逐级提取链接。,通用,EC10010,https://getquicker.net/User/2997/EC10010,46.7 KB,2024-04-27 16:31,13,优化。,2024-06-07
+参考线Pro,https://getquicker.net/Sharedaction?code=f1e5221f-a744-44f4-585f-08db38e9bfaa,中心参考线/3等分/4等分/清除参考线/JavaScript脚本,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,37.6 KB,2023-04-10 12:33,8,新增参考线,2024-06-07
