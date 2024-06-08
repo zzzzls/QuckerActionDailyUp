@@ -1,0 +1,18 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+辅助窗,https://getquicker.net/Sharedaction?code=910c9ede-81fe-474c-f5ed-08dba6ce1eab,辅助完成一个便利的自定义操作窗，添加网址、应用、文本、快捷键等,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,312.4 KB,2023-08-28 14:14,188,11,2024-06-08
+文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用讯飞星火模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,131.6 KB,2023-09-07 09:28,92,历史文件,2024-06-08
+菜单倒角,https://getquicker.net/Sharedaction?code=23d44303-5f41-436b-eb9d-08dc84f6bb0e,调用菜单，倒角/多段线倒角/动态倒角,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,42.7 KB,2024-06-05 11:43,1,去除图纸名变量判断，避免同一图纸切换时，命令读取失败,2024-06-08
+在线聊天,https://getquicker.net/Sharedaction?code=c5b3928a-c068-4d0c-44b9-08db6b278c19,一个在线聊天工具,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,137.2 KB,2023-06-13 16:55,12,复活一下,2024-06-08
+文器,https://getquicker.net/Sharedaction?code=d3dcdaf2-1544-43b8-17c3-08d7dec8856a,集大成的文本处理利器,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,139.8 KB,2020-04-13 03:18,38,"- 关联到文本和文件的上下文菜单
+- 修复贴图不清晰的问题
+- Shift点击贴图时，可以进行贴图设置",2024-06-08
+Prompt,https://getquicker.net/Sharedaction?code=669e6986-5929-4ed5-94e6-08dc6f0c8aa6,发送 Prompt 到 ChatGPT对话窗。,通用,Anlv,https://getquicker.net/User/392637/Anlv,24.5 KB,2024-05-08 17:09,3, ,2024-06-08
+任务计划程序,https://getquicker.net/Sharedaction?code=ad9a3154-5700-4cdb-659c-08dc85dec23e,创建简单的任务计划程序,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,35.5 KB,2024-06-07 12:45,3,1,2024-06-08
+用PS打开,https://getquicker.net/Sharedaction?code=7b2dace1-2d7d-40a1-3587-08dc102fde90,功能增强版“用PS打开”,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,35.8 KB,2024-01-09 10:55,6,修改为导入后，在选择的图层上方,2024-06-08
+简译,https://getquicker.net/Sharedaction?code=b115a802-3ab4-4195-e593-08d7e1d8d224,极简翻译,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,111.6 KB,2020-04-16 20:50,21,- 单个单词翻译时，优化显示的格式,2024-06-08
+字数统计,https://getquicker.net/Sharedaction?code=38f6b51a-1e85-4bce-ab24-08d89596933e,字符数、字词数、单词数、汉字数、空行数，非空行数,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,21 KB,2020-12-01 11:32,8,- 更新子程序,2024-06-08
+Cinema 4D,https://getquicker.net/Sharedaction?code=dadc20dd-627f-43b4-2f90-08dbecaddff5,通过 Everything 搜索本机 Cinema 4D 并运行。,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,61.8 KB,2023-11-24 17:33,2, ,2024-06-08
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,179.2 KB,2023-10-18 22:55,59,模式切换优化,2024-06-08
+文件整理,https://getquicker.net/Sharedaction?code=e22a1b1f-c61b-4b5f-6d8d-08db44ce5b6e,解散文件夹，归档文件，批量重命名，选中/反选文件，删除文件，重复文件，空目录，获取信息,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,144.8 KB,2023-04-25 15:57,31,修改一图转一PDF为页面自适应宽度高度,2024-06-08
+天翼云盘签到,https://getquicker.net/Sharedaction?code=3bcae77a-6798-497a-c713-08dc695e9b42,天翼云盘签到，每日领取150M永久空间,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,15.8 KB,2024-05-01 08:22,2,简化步骤,2024-06-08
+Ob粘贴,https://getquicker.net/Sharedaction?code=b259db0a-db2b-4c84-658e-08dc85dec23e,针对 Obsidian 拦截覆写的 Ctrl+Shift+V 操作,Obsidian,Moy,https://getquicker.net/User/771/Moy,34.6 KB,2024-06-07 02:31,0,,2024-06-08
