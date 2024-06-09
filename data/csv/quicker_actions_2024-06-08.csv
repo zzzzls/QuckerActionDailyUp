@@ -1,0 +1,14 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/视频/文档/PDF/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,150.2 KB,2023-07-28 23:43,67,新增QuickLook和quicker预览图片开关,2024-06-09
+一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,一键快存/PNG/JPG/TIF/PSD/选中图层 ( 拒绝弹窗保存/直接脚本极速保存 ),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,117.3 KB,2023-03-19 16:39,41,**,2024-06-09
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,326.2 KB,2023-03-25 00:27,254,**,2024-06-09
+RSA秘钥,https://getquicker.net/Sharedaction?code=7c904aa5-1c88-4149-2870-08dc86d0f421,生成RSA秘钥,通用,zdf153,https://getquicker.net/User/20184/zdf153,3.6 KB,2024-06-08 20:52,0,,2024-06-09
+颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/Photoshop/Obsidian/WPS/Office/Illustrator,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,147.5 KB,2023-04-10 17:25,83,**,2024-06-09
+示例：数字签名,https://getquicker.net/Sharedaction?code=2788e944-4f65-4ad9-286d-08dc86d0f421,RSA签名，用于数据的防伪，服务器为私钥对数据进行签名，客户端用公钥验证数据是否篡改,通用,zdf153,https://getquicker.net/User/20184/zdf153,13.5 KB,2024-06-08 19:49,0,,2024-06-09
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,171.9 KB,2023-10-18 22:55,69,优化,2024-06-09
+创建软链接2.0,https://getquicker.net/Sharedaction?code=7e0eea7b-a562-47f8-285d-08dc86d0f421,快速创建文件/文件夹软链接,Windows 资源管理器,notag shen,https://getquicker.net/User/143575/notag%20shen,6.7 KB,2024-06-08 14:16,0,,2024-06-09
+删除,https://getquicker.net/Sharedaction?code=ba97ec02-c281-44de-d4e1-08dc8210ab87,"要还原删除,大海捞针?还原后找不到文件？",Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,64.2 KB,2024-06-01 17:36,25,获取增强,2024-06-09
+PSCoke,https://getquicker.net/Sharedaction?code=333365f5-7d51-407d-f36d-08dbdac4c3da,多平台图片导入PS,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,127.4 KB,2023-11-02 12:40,34,淘宝天猫网页端改版，coke做了新的适应。,2024-06-09
+路径收藏v3,https://getquicker.net/Sharedaction?code=c976a78e-00ca-4b2c-e377-08dc7e4881b3,路径收藏2.0的升级版，可以把你想一键打开的文件夹，程序，网址，文本或命令收入此动作，需要使用时打开动作点一下启动或者发出去,通用,y_n,https://getquicker.net/User/333799/y_n,365.9 KB,2024-05-28 17:12,12,"1：修复“贴边隐藏”更改参数需要关闭操作窗
+2：“鼠标移出关闭”可使用
+3：“参数设置”修改一部分可见性表达式",2024-06-09
