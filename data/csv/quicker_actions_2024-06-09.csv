@@ -1,0 +1,17 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+极速摘录,https://getquicker.net/Sharedaction?code=0b5a268a-d8f0-41da-35f1-08db28db7b72,"灵感出现,极速/记录/摘字/摘图/连续摘录/编辑/无需运行Obsidian",Obsidian,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,170.7 KB,2023-03-20 15:40,47,支持不存在文件夹中也可以持续当前文件摘录,2024-06-10
+拾色器,https://getquicker.net/Sharedaction?code=183424ce-1c03-43d4-a071-08d9ac50b9f2,取色，调色，管理颜色,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,77.2 KB,2021-11-21 12:54,10,填充颜色,2024-06-10
+视频小工具,https://getquicker.net/Sharedaction?code=c571c9f3-989a-4aa8-adb6-08da6e569e28,批量去片头片尾，裁剪视频，视频转码，音频提取，合并视频等；自动配置FFmpeg,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,189.4 KB,2022-07-26 10:47,23,更新蓝奏解析失效问题,2024-06-10
+颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/公众号/Photoshop/Obsidian/WPS/Office/Illustrator,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,159.3 KB,2023-04-10 17:25,87,**,2024-06-10
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,319.1 KB,2023-03-25 00:27,255,"选中文件搜索逻辑变更
+搜索选中文件所在文件夹的后缀相同类型文件
+以支持查找相同文件的场景",2024-06-10
+一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,一键快存/PNG/JPG/TIF/PSD/选中图层/圆角导出 ( 拒绝弹窗保存/直接脚本极速保存 ),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,120.1 KB,2023-03-19 16:39,43,/**,2024-06-10
+保存网址为快捷方式,https://getquicker.net/Sharedaction?code=1c4f3271-bd0a-4a04-144b-08d9f54a7e1f,保存网址为URL文件，方便管理，还可以用 Everything 搜索,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,25.5 KB,2022-02-22 10:56,5,- 优化,2024-06-10
+搜索,https://getquicker.net/Sharedaction?code=7ec95694-29e4-4739-8355-08d94406436b,简单好用的网页搜索引擎聚合,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,176 KB,2021-07-12 02:31,18,"- 支持“一个引擎同时查询多个关键词”
+- 支持自定义关键词分隔符
+- 「记住上次筛选词」支持筛选词后置
+- 「OCR取词」改为默认关闭
+- 「引擎大全」增收",2024-06-10
+隐藏/显示悬浮按钮,https://getquicker.net/Sharedaction?code=075b05e3-b00b-4660-9c61-08dc87c6ae9d,切换悬浮按钮的隐藏和显示状态,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,442 B,2024-06-09 08:45,0,,2024-06-10
+标题,https://getquicker.net/Sharedaction?code=fd7d43b8-14c5-4ba3-9c5d-08dc87c6ae9d,设置标题/VBA/,WPS Office,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,15.1 KB,2024-06-09 00:40,0,,2024-06-10
