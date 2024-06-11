@@ -1,9 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/微信公众号/Photoshop/Obsidian/WPS/Office/Illustrator,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,176 KB,2023-04-10 17:25,89,允许多实例运行/颜色设置反悔后/更多重新设置,2024-06-11
 一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,PNG/JPG/TIF/PSD/图层/圆角/描边/等一键快存 ( 拒绝弹窗低效率保存 ),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,147.3 KB,2023-03-19 16:39,51,"1.保存路径不存在时,自动创建
 2.优化psd保存问题",2024-06-11
-隐藏悬浮动作,https://getquicker.net/Sharedaction?code=a0dacc84-9e91-4ebf-e913-08dc88e3c2ea,"全屏自动隐藏悬浮动作,动作右键可以设置显示隐藏悬浮动作,添加黑名单进程",通用,zdf153,https://getquicker.net/User/20184/zdf153,16.9 KB,2024-06-10 22:49,1,"动作右键可以设置显示隐藏悬浮动作,添加黑名单进程",2024-06-11
-Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,319.1 KB,2023-03-25 00:27,256,桌面搜索时补充缺少的空格符,2024-06-11
 极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/视频/文档/PDF/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,150.2 KB,2023-07-28 23:43,68,**小调整,2024-06-11
 Demo：DocWriter,https://getquicker.net/Sharedaction?code=885228aa-36f8-4427-e90e-08dc88e3c2ea,一个富文本编辑器（基于RichTextBox）,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,172.5 KB,2024-06-10 21:15,0,,2024-06-11
 填写sku价格,https://getquicker.net/Sharedaction?code=c3779ab6-a866-466a-9613-08dbfd0d4b63,有时同样的价格，重复输入，就用这个,通用,show-er,https://getquicker.net/User/412766/show-er,9.3 KB,2023-12-15 12:13,2,1,2024-06-11
