@@ -1,18 +1,30 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 备份pgp,https://getquicker.net/Sharedaction?code=ffb5de79-c0db-4e34-ff66-08dc8b985333,备份pgp,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,28.8 KB,2024-06-14 17:34,2,修复bug,2024-06-15
 迷你资源管理器,https://getquicker.net/Sharedaction?code=645ad863-dc77-4e16-a19a-08db9e3a5ebf,迷你资源管理器，支持文件拖曳,通用,FaniX,https://getquicker.net/User/52603/FaniX,346.3 KB,2023-08-16 20:12,12,支持多标签页,2024-06-15
-极简打字,https://getquicker.net/Sharedaction?code=c11d4fc8-d404-42a6-a086-08dc76aeba28,追求易上手，快速输出常用文本的打字体验。,通用,EC10010,https://getquicker.net/User/2997/EC10010,229.5 KB,2024-05-18 23:33,17,优化。,2024-06-15
+保存到Obsitian,https://getquicker.net/Sharedaction?code=1c8b64ef-30ca-49fc-ff73-08dc8b985333,将选中的文本保存到Obsidian（REST API）,通用,megre,https://getquicker.net/User/12312/megre,24.9 KB,2024-06-14 22:18,0,,2024-06-15
+巴德二维码生成,https://getquicker.net/Sharedaction?code=3b6871e1-6149-4e04-ff72-08dc8b985333,争做最便捷的二维码生成动作,通用,Bader,https://getquicker.net/User/135289/Bader,12 KB,2024-06-14 22:13,0,,2024-06-15
 文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用讯飞星火模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,133.1 KB,2023-09-07 09:28,96,Unescape(),2024-06-15
+随时记事本,https://getquicker.net/Sharedaction?code=a536a7d5-2aae-40f9-65a8-08dc7f7256e7,随时收集文本，无感保存\n\n按CTRL可OCR\n\n按Alt可获取网址和标题,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,63.9 KB,2024-05-29 11:36,6,~,2024-06-15
 植物大战僵尸\n杂交版,https://getquicker.net/Sharedaction?code=32070c32-a896-473a-d5f4-08dc842a79c6,一键下载/启动最近热门的植物大战僵尸杂交版,通用,M-cc,https://getquicker.net/User/521120/M-cc,262.6 KB,2024-06-04 10:15,2,~更新至游戏最新版本。,2024-06-15
+增加行距,https://getquicker.net/Sharedaction?code=76c9a1b7-d0a6-4ae3-ff6b-08dc8b985333,使用C#增加行距，绑定快捷键可以有效提升工作效率,Microsoft PowerPoint,snowpy,https://getquicker.net/User/1075933/snowpy,2.4 KB,2024-06-14 19:16,0,,2024-06-15
 网站收藏2.0,https://getquicker.net/Sharedaction?code=a653a1d1-6c52-4089-ba99-08dc61bfef39,"按住Ctrl启动动作可以添加网站,长按Esc会关闭窗口",通用,zdf153,https://getquicker.net/User/20184/zdf153,331.5 KB,2024-04-22 01:35,26,修复bug,2024-06-15
 字数统计,https://getquicker.net/Sharedaction?code=38f6b51a-1e85-4bce-ab24-08d89596933e,字符数、字词数、单词数、汉字数、空行数，非空行数,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,23.5 KB,2020-12-01 11:32,9,- 增加选项「无选中时自动全选」,2024-06-15
+关闭鼠标下的标签,https://getquicker.net/Sharedaction?code=dc8a3874-8b42-4018-ff60-08dc8b985333,自动关闭鼠标位置下的标签页,通用,喝酒吃肉爽,https://getquicker.net/User/29524/%E5%96%9D%E9%85%92%E5%90%83%E8%82%89%E7%88%BD,959 B,2024-06-14 17:10,0,,2024-06-15
 PS图层库,https://getquicker.net/Sharedaction?code=e5a8565f-ee29-407e-ff5b-08dc8b985333,利用ealge建立PS的图层库工作流。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,143.8 KB,2024-06-14 16:25,2,2024年6月14日17:05:27,2024-06-15
 固定尺寸,https://getquicker.net/Sharedaction?code=6578ba2a-418b-4f34-ff56-08dc8b985333,调整窗口大小到固定尺寸（自适应显示器）,通用,Moy,https://getquicker.net/User/771/Moy,19.2 KB,2024-06-14 16:22,2,支持识别动作名称（如 1200x800）作为尺寸,2024-06-15
+果核音乐,https://getquicker.net/Sharedaction?code=8e030699-4559-44d0-ff5f-08dc8b985333,新果核音乐搜搜，免费下载母带级、无损级的音乐~！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,19 KB,2024-06-14 16:54,0,,2024-06-15
+获取电脑名称,https://getquicker.net/Sharedaction?code=8f8a783a-b5f5-473d-ff5e-08dc8b985333,获取电脑名称并复制，用做如果否则变量，可使同一动作家里和公司都能使用,通用,Zengweihu,https://getquicker.net/User/720110/Zengweihu,2 KB,2024-06-14 16:45,0,,2024-06-15
 记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,即时笔记、分组标签、快速检索、自动同步,通用,dalou,https://getquicker.net/User/76824/dalou,253.5 KB,2024-05-10 17:42,9,修复：窗口句柄本地状态丢失导致无法激活已打开的窗口,2024-06-15
 Reward,https://getquicker.net/Sharedaction?code=f75f7e93-0d8b-4d29-b3f1-08db05106307,Microsoft Rewards (bing.com) 刷分脚本,Microsoft Edge,Petercode,https://getquicker.net/User/400506/Petercode,59.9 KB,2023-02-02 23:53,27,~.手机端搜索修复,2024-06-15
+apipost可视化,https://getquicker.net/Sharedaction?code=a91edeec-f2b8-4363-1cc6-08db8790d489,"生成apipost的可视化代码,生成后粘贴到后执行脚本中",ApiPost,ziyue,https://getquicker.net/User/245395/ziyue,8.6 KB,2023-07-19 17:20,3,"v8加上边框
+",2024-06-15
 文本转语音,https://getquicker.net/Sharedaction?code=96455af0-2d9b-420c-8d12-08da1e38749d,微软TTS文本转语音，支持试听/生成mp3,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,35 KB,2022-04-15 16:57,14,新增置顶,2024-06-15
 删除bak,https://getquicker.net/Sharedaction?code=2fe1064b-cd2a-4da7-ff4a-08dc8b985333,"删除当前打开图纸目录下的所有 .bak,  .dwl, , .log,  .tmp和 .dwl2 文件",AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,14.2 KB,2024-06-14 14:26,0,,2024-06-15
+替换-V2(脚本),https://getquicker.net/Sharedaction?code=773d60ec-d1b9-4389-ff48-08dc8b985333,替换对象-V2,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,24.8 KB,2024-06-14 14:23,0,,2024-06-15
+PS检查图层,https://getquicker.net/Sharedaction?code=10bd1a1f-aaad-4f32-ff46-08dc8b985333,色相检查-饱和度检查-明度检查,Adobe Photoshop,ii6uu992,https://getquicker.net/User/997056/ii6uu992,23.8 KB,2024-06-14 13:49,0,,2024-06-15
 我的文件夹,https://getquicker.net/Sharedaction?code=d3bc2fd0-3fd8-4488-a84a-08db46b2d818,常用路径收藏夹，支持「自定义操作窗」和「搜索框」两种启动方式。支持收藏文件、文件夹、应用程序，支持快速切换目录、复制、移动文件。,Windows 资源管理器,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,286.5 KB,2023-04-27 15:53,20,"- 优化失效路径处理
 - 优化预置分组的「移除此条」
 - 优化「下载」文件夹的获取方式",2024-06-15
 智能复制,https://getquicker.net/Sharedaction?code=f88b6021-4ffd-4919-09b0-08dab667ae52,智能判断情景，复制纯文本、文件路径或窗口路径。,通用,Anlv,https://getquicker.net/User/392637/Anlv,27.8 KB,2022-10-26 11:43,7,复制多个标签页标题和链接时候，每个标签页增加换行。,2024-06-15
+加日期版本号前缀,https://getquicker.net/Sharedaction?code=0a5fa70c-5615-428f-ff44-08dc8b985333,给文件名前缀加上/更新当前日期前缀,Windows 资源管理器,花月歌浮舟,https://getquicker.net/User/1083901/%E8%8A%B1%E6%9C%88%E6%AD%8C%E6%B5%AE%E8%88%9F,8.7 KB,2024-06-14 11:37,0,,2024-06-15
+批量倍速1.1倍,https://getquicker.net/Sharedaction?code=c0a4b9a6-5052-4046-ff39-08dc8b985333,默认参数（h.264 aac），批量转换选中的视频文件，依赖FFmpeg,通用,Gavin_2024,https://getquicker.net/User/985961/Gavin_2024,5.8 KB,2024-06-14 01:01,0,,2024-06-15
