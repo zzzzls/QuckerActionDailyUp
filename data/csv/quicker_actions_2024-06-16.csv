@@ -1,5 +1,4 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-示例：加载lsp并触发 ,https://getquicker.net/Sharedaction?code=dadc7fbb-cdc3-45bd-503d-08dc8da31a11,对应子程序使用说明,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,11.2 KB,2024-06-16 22:38,2,1,2024-06-17
 View/Add,https://getquicker.net/Sharedaction?code=a17ca6c9-ccb7-45f3-72bc-08dac59559d0,直接readcube添加文献和PDF文件到Zotero,Microsoft Edge,ttChen,https://getquicker.net/User/395924/ttChen,15.3 KB,2022-11-14 09:37,1,同步Zotero 7更新,2024-06-17
 View/Add,https://getquicker.net/Sharedaction?code=7e1437cd-5164-43cb-b529-08da6f0adcd1,在SCI-hub页面直接将文献添加到Zotero,Microsoft Edge,ttChen,https://getquicker.net/User/395924/ttChen,21.2 KB,2022-07-27 11:39,4,同步Zotero 7更新,2024-06-17
 Copy Files,https://getquicker.net/Sharedaction?code=4c88806d-f441-4179-aae1-08dc14f2ecc6,在zotero中获取Reader当前文件或者当前选中的文件列表,Zotero,ttChen,https://getquicker.net/User/395924/ttChen,4.4 KB,2024-01-14 22:07,1,同步Zotero 7更新,2024-06-17
@@ -23,11 +22,11 @@ PS启动,https://getquicker.net/Sharedaction?code=ad3fc205-7856-4e9a-991e-08dc7a
 截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,截图/OCR/GIF/录屏/贴图/保存/画笔/翻译/批量识别/snipaste/PixPin/班迪/ScreenToGif/FFmpeg,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,206.6 KB,2024-06-06 00:01,22,图标优化,2024-06-17
 PSCoke,https://getquicker.net/Sharedaction?code=333365f5-7d51-407d-f36d-08dbdac4c3da,多平台图片导入PS,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,129.1 KB,2023-11-02 12:40,35,修复“如果当前没有打开文档，导入就会报错”的问题，现在如果当前没有文档，图片就会从PS打开。,2024-06-17
 用PS打开/导入,https://getquicker.net/Sharedaction?code=7b2dace1-2d7d-40a1-3587-08dc102fde90,功能增强版“用PS打开”,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,39.1 KB,2024-01-09 10:55,8,2024年6月16日15:13:57,2024-06-17
+脚本之家搜索,https://getquicker.net/Sharedaction?code=c8d42e5b-6b4b-4b31-502b-08dc8da31a11,用百度站内搜索选中的内容，如果未选中文字，则直接打开脚本之家网站。,通用,cciscc,https://getquicker.net/User/588834/cciscc,2.1 KB,2024-06-16 14:45,0,,2024-06-17
+一次选择多个词,https://getquicker.net/Sharedaction?code=51ea6834-456c-4a28-5024-08dc8da31a11,模拟 ctrl + d 的功能,Visual Studio Code,她梦丶,https://getquicker.net/User/1091033/%E5%A5%B9%E6%A2%A6%E4%B8%B6,1.1 KB,2024-06-16 14:18,0,,2024-06-17
 自定义仪表盘,https://getquicker.net/Sharedaction?code=3f9e2a01-14f3-415d-b9d2-08dc7226251f,指定动作管理窗口/可虚拟场景/可灵活切换,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,13.5 KB,2024-05-12 20:04,13,优化,2024-06-17
 超级仪表盘,https://getquicker.net/Sharedaction?code=ecb55e64-5e09-4c36-b9c9-08dc7226251f,全能面板/跳转/管理/一场景关联多程序,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,32.2 KB,2024-05-12 14:17,36,youhua,2024-06-17
-屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,374.9 KB,2023-12-05 00:57,49,~动作开始时增加更新提示。,2024-06-17
-加日期版本号前缀,https://getquicker.net/Sharedaction?code=0a5fa70c-5615-428f-ff44-08dc8b985333,给文件名前缀加上/更新当前日期前缀,Windows 资源管理器,花月歌浮舟,https://getquicker.net/User/1083901/%E8%8A%B1%E6%9C%88%E6%AD%8C%E6%B5%AE%E8%88%9F,8.8 KB,2024-06-14 11:37,1,"增加了步骤注释
-",2024-06-17
+unicode 转汉字,https://getquicker.net/Sharedaction?code=264446a0-6da8-4580-5023-08dc8da31a11,"将 ""\uxxxx"" 的 Unicode 编码转换成中文",Visual Studio Code,她梦丶,https://getquicker.net/User/1091033/%E5%A5%B9%E6%A2%A6%E4%B8%B6,3.4 KB,2024-06-16 13:32,0,,2024-06-17
 百度图床,https://getquicker.net/Sharedaction?code=0168bc87-ad21-4e5c-b6a6-08dc8c86488e,骚操作，需要登陆账号，大厂图库速度比较快,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,15.2 KB,2024-06-16 00:21,0,,2024-06-17
 巴德获取网页链接,https://getquicker.net/Sharedaction?code=9fe8e82a-d3f3-4673-b6a5-08dc8c86488e,获取Markdown格式、自定义格式的网页链接。,通用,Bader,https://getquicker.net/User/135289/Bader,6.3 KB,2024-06-16 00:10,0,,2024-06-17
 文本转语音,https://getquicker.net/Sharedaction?code=1555f784-53a3-4846-e916-08dc88e3c2ea,免费/61种音色/试听可停/100条生成历史/晓晓/晓伊/云健/云希/云夏/云扬,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,55.9 KB,2024-06-11 06:50,21,.,2024-06-17
