@@ -1,19 +1,13 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 PDF画质提升,https://getquicker.net/Sharedaction?code=58e79440-2846-417b-0106-08dc905511b4,改善pdf清晰度，提高pdf观感。,通用,M-cc,https://getquicker.net/User/521120/M-cc,202.3 KB,2024-06-19 23:22,0,,2024-06-20
-计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,32 KB,2024-06-13 00:30,15,二次打开前台窗口,2024-06-20
-极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,179.6 KB,2023-07-28 23:43,79,优化,2024-06-20
-微信多开,https://getquicker.net/Sharedaction?code=9d5b01e4-de04-4fe4-e682-08dc8f5b9fbd,先选择微信图标，然后使用动作。默认双开，如果右键菜单修改过多开数量，则下次默认修改后的多开数。,通用,血荐轩辕,https://getquicker.net/User/1091258/%E8%A1%80%E8%8D%90%E8%BD%A9%E8%BE%95,2.8 KB,2024-06-19 17:38,0,,2024-06-20
 批量重命名,https://getquicker.net/Sharedaction?code=96e9036a-eac5-432e-9eab-08d8b31f60e1,批量重命名文件或文件夹,通用,FaniX,https://getquicker.net/User/52603/FaniX,40.4 KB,2021-01-08 10:10,5,"增加表达式文本处理功能
 增加绝对路径/相对路径转换功能",2024-06-20
 自动中英文切换,https://getquicker.net/Sharedaction?code=54e95ae9-aa54-48c7-e367-08dc7e4881b3,CAD自动中英文切换,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,37.4 KB,2024-05-28 12:58,3,增加天正文字命令,2024-06-20
 自动中英文,https://getquicker.net/Sharedaction?code=30fce121-7afa-4207-0843-08dbdf2a04c0,输入法状态切换，全自动切换，也可以手动切换,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,180.7 KB,2023-11-07 17:07,13,修bug,2024-06-20
-重命名,https://getquicker.net/Sharedaction?code=a9b6a300-e78e-43a7-8f42-08dba9bf00b5,将复制的内容命名给选中的文件（可批量重命名）,Windows 资源管理器,颜晓筱,https://getquicker.net/User/698346/%E9%A2%9C%E6%99%93%E7%AD%B1,10.2 KB,2023-08-31 14:45,4,保存上次剪贴板文本内容，未获取到文本时自动使用（第一次若未获取到内容，则默认'空白'）,2024-06-20
 输入状态提示,https://getquicker.net/Sharedaction?code=bfcddc29-83e2-4934-86a4-08dc51d79bc5,提示Caps Lock键/Num Lock键/Scroll Lock键/当前窗口中英文状态,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,139.4 KB,2024-04-01 13:20,28,"1.优化设置菜单
 2.调整菜单中的“不同状态时文字颜色不同”为通用选项，应用于桌面悬浮显示、光标右下角显示",2024-06-20
 剪贴板交互,https://getquicker.net/Sharedaction?code=f3234644-7821-4195-6af4-08dc804f50a0,拾取文字内容到剪贴板/剪贴板写入cad,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,18.4 KB,2024-05-31 10:40,2,增加剪贴板写入cad,2024-06-20
-筛选选中单元格,https://getquicker.net/Sharedaction?code=36c645d6-3dba-45d3-3f3a-08db997d30d2,可以跨列多个单元格的同时筛选,WPS Spreadsheets,流氓兔,https://getquicker.net/User/144013/%E6%B5%81%E6%B0%93%E5%85%94,9.7 KB,2023-08-11 17:12,2,"针对纯数值格式的单元格，格式字符串中的占位符 _ 和引号 """,2024-06-20
 一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,PNG/JPG/TIF/PSD/图层/圆角/描边/切片/等一键快存 ( 拒绝弹窗低效率保存 ),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,213.2 KB,2023-03-19 16:39,56,**,2024-06-20
-取色,https://getquicker.net/Sharedaction?code=c7622d4e-8b25-48b6-e66d-08dc8f5b9fbd,支持 文字 表格 形状,Microsoft Word,我是等等,https://getquicker.net/User/1073431/%E6%88%91%E6%98%AF%E7%AD%89%E7%AD%89,2.2 KB,2024-06-19 12:40,0,,2024-06-20
 反色+灰度,https://getquicker.net/Sharedaction?code=2136b0bd-9a35-425c-8897-08dc73ca9fbc,针对已有贴图，模拟鼠标快捷操作,pixpin.exe,W.JAN,https://getquicker.net/User/56701/W.JAN,4.7 KB,2024-05-14 20:52,1,修改,2024-06-20
 吾爱破解签到,https://getquicker.net/Sharedaction?code=2486df69-3ea8-405a-a725-08dad3f6b04c,首次需要登陆账号，然后设置每日开机自动运行就好啦。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,6.7 KB,2022-12-02 13:57,11,更新已失效的原签到链接,2024-06-20
 时间戳转换,https://getquicker.net/Sharedaction?code=e3388d87-4d8a-45b9-503e-08dc8da31a11,时间戳转换,通用,用户qhr0anNoBAA,https://getquicker.net/User/967899/%E7%94%A8%E6%88%B7qhr0anNoBAA,14.5 KB,2024-06-17 00:05,3,优化逻辑复制数据是不自动进行当前时间转换，动作可重复运行,2024-06-20
@@ -22,9 +16,6 @@ FFmpeg配置,https://getquicker.net/Sharedaction?code=eaa49e0e-d8d0-450a-bb9d-08
 AI转PSD,https://getquicker.net/Sharedaction?code=ef080846-46e3-4d88-100b-08dc0460f3d4,Ai2Psd4.0汉化版，转PS后仍然为形状,Adobe Illustrator,zdf153,https://getquicker.net/User/20184/zdf153,69.5 KB,2023-12-25 12:11,3,修复bug,2024-06-20
 PDF小工具,https://getquicker.net/Sharedaction?code=e0872ced-fa64-425a-57b5-08dac0d38e97,批量PDF分割、合并、转图片、转HTML，删除、提取PDF页码；文档、图片转PDF,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,157.3 KB,2022-11-08 14:33,24,修改一图转一PDF为页面自适应宽度高度,2024-06-20
 安装扩展-百分,https://getquicker.net/Sharedaction?code=863a0f47-04db-4ca8-e666-08dc8f5b9fbd,centbrowser安装扩展,Google Chrome,joody,https://getquicker.net/User/21263/joody,1.4 KB,2024-06-19 09:31,0,,2024-06-20
-文本转语音,https://getquicker.net/Sharedaction?code=96455af0-2d9b-420c-8d12-08da1e38749d,微软TTS文本转语音，支持试听/生成mp3,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,39.1 KB,2022-04-15 16:57,15,"+获取选中文本
-+保留上次操作文本
-+选择保存目录",2024-06-20
 巴德Windows运维,https://getquicker.net/Sharedaction?code=eaf32a42-4c5b-4b6a-c6f4-08dc1baf171d,通过命令行打开Windows各种功能。,通用,Bader,https://getquicker.net/User/135289/Bader,7.7 KB,2024-01-23 17:14,3,1. 命令复制到剪切板,2024-06-20
 巴德文件版本号,https://getquicker.net/Sharedaction?code=71742f10-471c-4625-8e6c-08dc6685e603,经常需要给文件添加版本；从当前版本复制出新的版本等操作，因此写了这个动作,通用,Bader,https://getquicker.net/User/135289/Bader,6.1 KB,2024-04-28 10:29,3,1. 增加批量修改多个文件的功能,2024-06-20
 巴德二维码生成,https://getquicker.net/Sharedaction?code=3b6871e1-6149-4e04-ff72-08dc8b985333,争做最便捷的二维码生成动作,通用,Bader,https://getquicker.net/User/135289/Bader,14.8 KB,2024-06-14 22:13,1,1. bug修复,2024-06-20
