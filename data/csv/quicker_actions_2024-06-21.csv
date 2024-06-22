@@ -1,12 +1,22 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,37.4 KB,2024-06-13 00:30,20,"初始加载拉到最下方；
-c与ac的切换，c清除输入框内容，ac清除计算历史",2024-06-22
-截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[50种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,385.9 KB,2024-06-06 00:01,35,优化ocr,2024-06-22
+透明度,https://getquicker.net/Sharedaction?code=b10d12ea-155d-46f8-e665-08dc8f5b9fbd,"调整窗口透明度, 支持无极调节",通用,里吉LlJ,https://getquicker.net/User/505758/%E9%87%8C%E5%90%89LlJ,39.2 KB,2024-06-19 02:17,1,"1.支持对 Quicker 截图和图片窗口的透明度调节
+2.支持对右键预设值的增删修改
+2.右键版面美化
+---------------------------
+3.修复了对桌面无极调节时的重复报错问题
+4.结构和代码优化",2024-06-22
+数据提取,https://getquicker.net/Sharedaction?code=8e21fd85-f148-42df-44ed-08dabeef2cf5,提取文献图形中的数据,通用,pinbo,https://getquicker.net/User/549488/pinbo,122.4 KB,2022-11-05 22:43,6,更新WebPlotDigitizer网址,2024-06-22
 PS智能填色2.1,https://getquicker.net/Sharedaction?code=1da74d05-f5f1-4637-9a0f-08dbaf28f11c,感应前景色变化，自动将变化的颜色填充图层。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,34.2 KB,2023-09-07 22:24,11,2024年6月21日15:29:18,2024-06-22
 静默拍照,https://getquicker.net/Sharedaction?code=38f7bdf0-1d95-4375-0140-08dc905511b4,笔记本摄像头静默拍照。须安装FFmpeg。,通用,EC10010,https://getquicker.net/User/2997/EC10010,24.1 KB,2024-06-20 20:55,5,公开。,2024-06-22
+自动复制粘贴,https://getquicker.net/Sharedaction?code=aa40ed8b-1959-48b3-12b9-08dbbe5b3358,选中自动复制，左键长按粘贴,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,12.2 KB,2023-09-27 18:46,9,1,2024-06-22
 拾录记事本,https://getquicker.net/Sharedaction?code=c686b17d-b40d-4631-ee74-08d9ffe2991a,替代电脑记事本，可重复获取选中文本并进行筛选、替换、翻译等等操作的文本处理工具。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,403.5 KB,2022-03-07 13:59,40,~云备份数据恢复无法覆盖的问题,2024-06-22
 PS取色填充,https://getquicker.net/Sharedaction?code=198718bc-1f79-490f-73c3-08dbb7994b31,Photoshop 中，取屏幕任意位置颜色填充图层。,Adobe Photoshop,ZTOA10,https://getquicker.net/User/234516/ZTOA10,5.9 KB,2023-09-18 16:33,1,~快捷键修改为代码执行,2024-06-22
 记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步」,通用,dalou,https://getquicker.net/User/76824/dalou,272.5 KB,2024-05-10 17:42,14,优化：调整网络超时处理,2024-06-22
+巴德文件合并,https://getquicker.net/Sharedaction?code=ec418d8d-5c9a-444f-0691-08dc9144415b,文本文件合并,通用,Bader,https://getquicker.net/User/135289/Bader,6.5 KB,2024-06-21 11:35,0,,2024-06-22
+AndroidStudio代码保持折叠标记,https://getquicker.net/Sharedaction?code=8644a343-3760-4ede-0690-08dc9144415b,AndroidStudio自动设置代码折叠前后标记,Android Studio,52Shell,https://getquicker.net/User/782162/52Shell,3.2 KB,2024-06-21 11:29,0,,2024-06-22
 来点颜色,https://getquicker.net/Sharedaction?code=28ee6da1-c7bc-4bb3-089c-08dbcb4e6e88,具备拾色器屏幕取色、色轮/色板自选色值、颜色收藏、颜色编辑、色值转换等功能,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,220 KB,2023-10-13 15:35,3,~云备份数据恢复无法覆盖的问题,2024-06-22
 自动复制,https://getquicker.net/Sharedaction?code=42f824ed-b864-497b-d54d-08d9ad440745,选中即自动复制,通用,Poto,https://getquicker.net/User/137838/Poto,17.2 KB,2021-11-22 19:02,3,优化,2024-06-22
+巴德文件版本号,https://getquicker.net/Sharedaction?code=71742f10-471c-4625-8e6c-08dc6685e603,经常需要给文件添加版本；从当前版本复制出新的版本等操作，因此写了这个动作,通用,Bader,https://getquicker.net/User/135289/Bader,8.1 KB,2024-04-28 10:29,4,1. 已有更新版本的文件存在时，自动生成更更新的版本。,2024-06-22
+EasyImage,https://getquicker.net/Sharedaction?code=705df725-6ebe-4cfb-007c-08dc658bec70,EasyImage 上传图片,通用,lllei,https://getquicker.net/User/782476/lllei,14.6 KB,2024-04-26 20:34,2,"1. 之前请求超时时间过小，调大了默认超时时间
+2. 增加超时时间自定义",2024-06-22
 OCR,https://getquicker.net/Sharedaction?code=234c27eb-6efa-4757-3d53-08d915d5fc6d,截图 OCR,通用,Poto,https://getquicker.net/User/137838/Poto,45.6 KB,2021-05-14 04:00,8,支持 Quicker OCR Online / Offline,2024-06-22
