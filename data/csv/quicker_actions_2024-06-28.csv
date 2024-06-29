@@ -1,7 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 安装离线OCR,https://getquicker.net/Sharedaction?code=d8af44f5-1cf5-4726-d8a3-08db8336c661,全自动安装Quicker离线OCR识别引擎包。（自动下载/安装到指定位置）,通用,M-cc,https://getquicker.net/User/521120/M-cc,355 KB,2023-07-13 09:31,10,~移除失效链接，增加备用链接。,2024-06-29
 找文献(标题/DOI),https://getquicker.net/Sharedaction?code=bbca1648-696a-48f4-3975-08da71e0d453,基于文献标题和DOI查找并打开文献，若没有弹出窗口，可在多种搜索引擎下查找,通用,ttChen,https://getquicker.net/User/395924/ttChen,15.6 KB,2022-07-30 12:53,7,同步Zotero 7更新,2024-06-29
-解压缩,https://getquicker.net/Sharedaction?code=6c07f2ca-3ce0-4628-a637-08db29c171e2,极速解压缩选中文件/Bandizip,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,33 KB,2023-03-22 14:20,13,*,2024-06-29
 语音输入,https://getquicker.net/Sharedaction?code=0afa11ce-0571-4fcd-7950-08dc970018b2,简单易用的语音输入功能。【Quicker模块】,通用,M-cc,https://getquicker.net/User/521120/M-cc,12.8 KB,2024-06-28 19:54,0,,2024-06-29
 屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,377.8 KB,2023-12-05 00:57,51,"~紧急修复自定义参数导致录制完成后输出的文件名固定的问题。
 
@@ -9,28 +8,20 @@
 		
 		
 -因自定义参数设置导致以上错误，现已取消自定义参数的设置功能(参数页面改为了只读模式)。",2024-06-29
-特殊符号,https://getquicker.net/Sharedaction?code=d91e9242-4ac7-41f6-794e-08dc970018b2,特殊符号软键盘,通用,FaniX,https://getquicker.net/User/52603/FaniX,36.4 KB,2024-06-28 19:36,0,,2024-06-29
 分组开合,https://getquicker.net/Sharedaction?code=64dc4148-9fa8-45fb-794d-08dc970018b2,展开/折叠所有分组,Adobe Photoshop,ZTOA10,https://getquicker.net/User/234516/ZTOA10,4.8 KB,2024-06-28 19:34,0,,2024-06-29
 PS极字重,https://getquicker.net/Sharedaction?code=e16ee2ae-bca4-4973-0968-08dbd6a53889,可通过传参，对字体家族进行粗细调整,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,25.9 KB,2023-10-27 18:31,6,新增对批量图层的支持。,2024-06-29
 PSDodo,https://getquicker.net/Sharedaction?code=9b365e94-af2a-43a4-cb01-08dbad2a79ed,PS高级图片导出,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,52.8 KB,2023-09-05 13:54,12,修复关于最上方图层导出的BUG,2024-06-29
-截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[50种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,390.5 KB,2024-06-06 00:01,39,顺转支持本地图片处理,2024-06-29
 展开所有分组,https://getquicker.net/Sharedaction?code=e3e72461-313d-4f6b-cee2-08dc925151e4,Photoshop专用,Adobe Photoshop,ZTOA10,https://getquicker.net/User/234516/ZTOA10,1.3 KB,2024-06-22 16:50,1,支持展开多层分组,2024-06-29
 反显图层,https://getquicker.net/Sharedaction?code=8ec42e57-e6f4-426c-7946-08dc970018b2,如果图层可见，则设置为不可见；如果图层不可见，则设置为可见,Adobe Photoshop,ZTOA10,https://getquicker.net/User/234516/ZTOA10,1 KB,2024-06-28 16:27,0,,2024-06-29
-文器,https://getquicker.net/Sharedaction?code=d3dcdaf2-1544-43b8-17c3-08d7dec8856a,集大成的文本处理利器,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,156.3 KB,2020-04-13 03:18,46,"最新：
-- 支持记住窗口尺寸（「文器(_W)」菜单中设置）
-近期：
-- 免窗调用：支持在记事本等地方直接调用菜单进行文本处理
-- 增加“多行”的智能添加序号功能（根据首行序号格式，自动递增剩余行序号）
-- 推出「扩展机制」",2024-06-29
 记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步」,通用,dalou,https://getquicker.net/User/76824/dalou,300.8 KB,2024-05-10 17:42,17,调整：修复列表末尾添加占位符导致笔记组窗口无法打开的情况,2024-06-29
 克隆移动,https://getquicker.net/Sharedaction?code=e61863e4-d9e3-4452-d503-08dc8210ab87,"用于一比一复制克隆文件夹目录,参考现有文件夹路径移动该文件",Windows 资源管理器,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,14.4 KB,2024-06-02 17:25,2,1,2024-06-29
+星火大模型,https://getquicker.net/Sharedaction?code=8e54cb15-133f-4760-be89-08dbdcf87739,迅飞星火大模型Quicker版（选中任何文字，运行本动作，大模型会直接回复。省去了复制粘贴到输入框的麻烦~）,通用,Balrog,https://getquicker.net/User/235565/Balrog,34.2 KB,2023-11-05 11:52,6,更新模型4.0 Ultra,2024-06-29
 AI对话,https://getquicker.net/Sharedaction?code=4d97031e-08e4-4d3a-e363-08dc7e4881b3,最全AI对话网站/(免费/数十个AI对话网站),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,47 KB,2024-05-28 11:56,3,.,2024-06-29
 图片翻译保格式,https://getquicker.net/Sharedaction?code=99b614ab-d8dd-407e-c3cb-08daf510bd0c,"翻译图片并且保留原图格式, 支持自定义显示图片+文本, 仅支持中英互译, 无需key",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,40.1 KB,2023-01-14 10:03,27,设置新增选中文件无效提示开关,2024-06-29
 摸鱼,https://getquicker.net/Sharedaction?code=6e97bfb1-6e01-4f81-c6c1-08dc951be15a,选择窗口-指定位置-开始摸鱼,通用,紫cm煞,https://getquicker.net/User/168537/%E7%B4%ABcm%E7%85%9E,9.1 KB,2024-06-26 15:57,2,1.公开分享,2024-06-29
 geek,https://getquicker.net/Sharedaction?code=c319d765-c17c-44e5-52d7-08daa2174898,"自动下载geek,卸载软件",通用,zdf153,https://getquicker.net/User/20184/zdf153,6.5 KB,2022-09-30 13:01,4,增加停止其他实例,2024-06-29
 加日期版本号,https://getquicker.net/Sharedaction?code=0a5fa70c-5615-428f-ff44-08dc8b985333,给文件名加上/更新当前日期版本号,Windows 资源管理器,花月歌浮舟,https://getquicker.net/User/1083901/%E8%8A%B1%E6%9C%88%E6%AD%8C%E6%B5%AE%E8%88%9F,22.4 KB,2024-06-14 11:37,8,更新了正则表达，现在会一次性将文件名末尾的括号内数字全部去除,2024-06-29
 巴德批量压缩,https://getquicker.net/Sharedaction?code=80877759-84ce-44d7-c6aa-08dc951be15a,批量压缩选中的每一个文件或文件夹,通用,Bader,https://getquicker.net/User/135289/Bader,10.3 KB,2024-06-26 10:29,2,1. 修复删除异常的bug,2024-06-29
-中英符号互转,https://getquicker.net/Sharedaction?code=cddc2d71-7f26-43df-7931-08dc970018b2,快捷键一键中英文符号互转,通用,里吉LlJ,https://getquicker.net/User/505758/%E9%87%8C%E5%90%89LlJ,9.1 KB,2024-06-28 08:28,0,,2024-06-29
 截图快存,https://getquicker.net/Sharedaction?code=f3666f30-1f15-46db-7930-08dc970018b2,截图后快速保存到指定位置,通用,YLing2024,https://getquicker.net/User/367967/YLing2024,14.8 KB,2024-06-28 07:26,0,,2024-06-29
 克隆,https://getquicker.net/Sharedaction?code=7112cad3-8261-4110-792f-08dc970018b2,在新窗口中打开当前资源管理器的路径,Windows 资源管理器,YLing2024,https://getquicker.net/User/367967/YLing2024,1.1 KB,2024-06-28 07:24,0,,2024-06-29
 克隆标签页,https://getquicker.net/Sharedaction?code=836d8234-eef4-4256-792e-08dc970018b2,克隆当前标签页,Microsoft Edge,YLing2024,https://getquicker.net/User/367967/YLing2024,1.1 KB,2024-06-28 07:23,0,,2024-06-29
