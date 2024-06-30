@@ -6,7 +6,6 @@
 计算,https://getquicker.net/Sharedaction?code=11a85dfb-3603-4dba-5a4f-08dc97ed6dcb,通用计算器,通用,FaniX,https://getquicker.net/User/52603/FaniX,88 KB,2024-06-29 20:12,0,,2024-06-30
 颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/微信公众号/Photoshop/Obsidian/WPS/Office/Illustrator,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,284.5 KB,2023-04-10 17:25,99,感谢@用户539607735497723[反馈]优化RGB空格问题,2024-06-30
 计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,42.4 KB,2024-06-13 00:30,27,ac按键,2024-06-30
-特殊符号,https://getquicker.net/Sharedaction?code=d91e9242-4ac7-41f6-794e-08dc970018b2,特殊符号软键盘,通用,FaniX,https://getquicker.net/User/52603/FaniX,38.4 KB,2024-06-28 19:36,1,增加动作右键菜单-设置自定义面板,2024-06-30
 屏幕键盘,https://getquicker.net/Sharedaction?code=561f7500-e211-40f9-3dc8-08dc93290ea3,Winform屏幕键盘,通用,FaniX,https://getquicker.net/User/52603/FaniX,31.4 KB,2024-06-24 11:32,1,"增加按键响应功能，按下键盘按键时显示
 支持长按连续发送按键",2024-06-30
 弹出菜单-好,https://getquicker.net/Sharedaction?code=362ef925-6343-4ab6-e9f8-08db92f9f222,不同程序，弹出不同菜单,通用,show-er,https://getquicker.net/User/412766/show-er,51.4 KB,2023-08-02 15:35,19,"1、微信改为社交菜单，默认微信和qq，共用的话，可添加其他程序
@@ -22,9 +21,6 @@
 如果已经启动了微信，则选择是否要借助进程并重新多开。
 如果没有启动微信，则正常多开微信。",2024-06-30
 多引擎搜索,https://getquicker.net/Sharedaction?code=af45e772-0598-453f-7957-08dc970018b2,多引擎搜索,通用,YLing2024,https://getquicker.net/User/367967/YLing2024,18.1 KB,2024-06-28 23:36,2,如果用户选中链接将直接打开，而不进行搜索,2024-06-30
-路径收藏v3,https://getquicker.net/Sharedaction?code=c976a78e-00ca-4b2c-e377-08dc7e4881b3,路径收藏2.0的升级版，可以把你想一键打开的文件夹，程序，网址，文本或命令收入此动作，需要使用时打开动作点一下启动或者发出去,通用,y_n,https://getquicker.net/User/333799/y_n,362.7 KB,2024-05-28 17:12,25,"1：修改一些按键操作，关闭面板键值需要重新设置，现在支持组合键了
-2：修复添加全屏网页窗口会切换显示大小
-3：修复贴边隐藏调整大小时的一些bug",2024-06-30
 智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),731.9 KB,2023-06-26 19:07,188,"1. 修复了逆向国产大模型时有时会失败的bug
 2. 增加了对话模式中提问阶段可以临时切换模型功能",2024-06-30
 函数绘图,https://getquicker.net/Sharedaction?code=d9968280-8f8c-4269-795d-08dc970018b2,调用网络接口绘图,通用,YLing2024,https://getquicker.net/User/367967/YLing2024,6.1 KB,2024-06-29 08:54,0,,2024-06-30
