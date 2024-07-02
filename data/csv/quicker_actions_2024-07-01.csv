@@ -2,8 +2,6 @@
 翻译pro LTS,https://getquicker.net/Sharedaction?code=4d08b2ca-9ac9-462e-b289-08da6c6e93e6,"调用多个第三方API地址,直接快速翻译长文本，无需key，支持截图翻译",通用,小锴,https://getquicker.net/User/585186/%E5%B0%8F%E9%94%B4,161.6 KB,2022-07-23 18:30,89,"+LTS-1=
 -移除”无用的“代码
 -优化速度",2024-07-02
-用USB扫描仪扫描文件,https://getquicker.net/Sharedaction?code=505feb2e-b666-438f-038a-08dbe9cdb3c1,使用USB扫描仪扫描文件,通用,FaniX,https://getquicker.net/User/52603/FaniX,80.9 KB,2023-11-20 23:58,3,"增加扫描后贴图功能
-补充设置面板字段说明",2024-07-02
 文器,https://getquicker.net/Sharedaction?code=d3dcdaf2-1544-43b8-17c3-08d7dec8856a,集大成的文本处理利器,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,177.5 KB,2020-04-13 03:18,52,"本次：
 - 扩展支持常规动作
 - 快存支持选择目录
@@ -29,7 +27,6 @@ PSDodo,https://getquicker.net/Sharedaction?code=9b365e94-af2a-43a4-cb01-08dbad2a
 记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,351.4 KB,2024-05-10 17:42,21,优化：调整失焦隐藏判断逻辑,2024-07-02
 连续复制、,https://getquicker.net/Sharedaction?code=4f57185b-9ef0-4a72-25dd-08dc98da1b3c,"复制多段文本，用“、""连接并粘贴到窗口。第一次使用请右键设置快捷键。",通用,笑脸狼Cc,https://getquicker.net/User/1046377/%E7%AC%91%E8%84%B8%E7%8B%BCCc,15.5 KB,2024-07-01 11:41,0,,2024-07-02
 截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,385.7 KB,2024-06-06 00:01,51,表格识别优化,2024-07-02
-快速浏览器,https://getquicker.net/Sharedaction?code=f116132f-e02f-4fdb-16aa-08dc961924ec,打开网页窗口，可自定义窗口尺寸位置，添加常用网址标签,通用,颜晓筱,https://getquicker.net/User/698346/%E9%A2%9C%E6%99%93%E7%AD%B1,16.1 KB,2024-06-27 09:22,1,修改显示网页方式，左下角添加悬浮按钮，鼠标悬浮显示常用网址，点击即可跳转,2024-07-02
 另存新版本,https://getquicker.net/Sharedaction?code=ca6ff331-552f-46b2-25d5-08dc98da1b3c,适用于OFFICE另存为，在365上试验通过,通用,lancesy,https://getquicker.net/User/581715/lancesy,5.9 KB,2024-07-01 09:40,1,新增日期填写，仅适用于 “ - ” 添加日期的形式，不适合下划线，正则匹配不太会用……,2024-07-02
 解压缩,https://getquicker.net/Sharedaction?code=6c07f2ca-3ce0-4628-a637-08db29c171e2,极速解压缩选中文件/解压和压缩一体/支持Bandizip,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,41.5 KB,2023-03-22 14:20,14,**,2024-07-02
 url转iframe,https://getquicker.net/Sharedaction?code=c23846b3-b845-4c0a-25d4-08dc98da1b3c,将URL转换为iframe标签，用于在markdown中直接显示网页,Obsidian,YLing2024,https://getquicker.net/User/367967/YLing2024,3.7 KB,2024-07-01 09:32,0,,2024-07-02
