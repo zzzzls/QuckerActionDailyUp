@@ -2,7 +2,6 @@
 插入f(x),https://getquicker.net/Sharedaction?code=bd9cc3a1-be19-4b34-caca-08dc99cfb00d,插入小写f(x),MathType,quickerking,https://getquicker.net/User/1102308/quickerking,3.8 KB,2024-07-02 21:41,0,,2024-07-03
 语音输入,https://getquicker.net/Sharedaction?code=0afa11ce-0571-4fcd-7950-08dc970018b2,简单易用的语音输入功能。【Quicker模块】,通用,M-cc,https://getquicker.net/User/521120/M-cc,13.1 KB,2024-06-28 19:54,1,~语音输入完毕后的文本自动写入剪贴板，用于一些特殊窗口语音结束后无法自动输入的情况可以粘贴。,2024-07-03
 Everything Pro,https://getquicker.net/Sharedaction?code=b651041a-4ec5-4d8f-bed0-08dc4ec30b16,在不同情况下在Everything地址栏填入不同内容（指定路径目录/搜索语法/选中文字）,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,60 KB,2024-03-29 12:28,7,优化步骤,2024-07-03
-翻译pro2,https://getquicker.net/Sharedaction?code=0b7fbf74-f0f9-4d87-cab5-08dc99cfb00d,"!!!翻译pro的续作!!!调用多个第三方API,多线程快速翻译,提供免费key,支持截图翻译!UI得到优化!",通用,小锴,https://getquicker.net/User/585186/%E5%B0%8F%E9%94%B4,147.8 KB,2024-07-02 18:35,0,,2024-07-03
 搜steamUI,https://getquicker.net/Sharedaction?code=3cf22d56-07ce-4361-caae-08dc99cfb00d,用网页版steamUI搜索选中的内容，如果未选中文字，则直接打开steamUI网站,通用,九丶三,https://getquicker.net/User/216626/%E4%B9%9D%E4%B8%B6%E4%B8%89,2.1 KB,2024-07-02 18:21,0,,2024-07-03
 加绝对值,https://getquicker.net/Sharedaction?code=fa0eae8f-6e98-44fc-caa0-08dc99cfb00d,给选中项加绝对值,MathType,quickerking,https://getquicker.net/User/1102308/quickerking,990 B,2024-07-02 16:54,0,,2024-07-03
 菲律宾比索,https://getquicker.net/Sharedaction?code=ccfd703e-a5d8-44e9-ca9f-08dc99cfb00d,菲律宾比索与人民币相互兑换。,通用,Hamson1026,https://getquicker.net/User/187948/Hamson1026,21.9 KB,2024-07-02 16:54,0,,2024-07-03
@@ -23,7 +22,6 @@ rhino图层隔离,https://getquicker.net/Sharedaction?code=8e56af6a-7427-48f1-ca
 另存为,https://getquicker.net/Sharedaction?code=9ff0a788-9dcc-4ea1-6d05-08daf42ff78e,WPS的另存为窗口太难用了，用此动作可以替换另存窗口,WPS Spreadsheets,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,25.6 KB,2023-01-13 09:51,6,新增PDF另存,2024-07-03
 巴德规范Commit,https://getquicker.net/Sharedaction?code=278feb0c-e63e-4e38-ca7d-08dc99cfb00d,给Git commit经常写得不规范的小伙伴的动作。,通用,Bader,https://getquicker.net/User/135289/Bader,5.1 KB,2024-07-02 09:12,0,,2024-07-03
 巴德Nginx助手,https://getquicker.net/Sharedaction?code=25bb7d78-740a-4882-ca7c-08dc99cfb00d,快速启动、关闭Nignx。（需要在本地调试Nginx配置文本，但是我懒得敲命令。）,通用,Bader,https://getquicker.net/User/135289/Bader,6.3 KB,2024-07-02 08:48,0,,2024-07-03
-巴德文件合并,https://getquicker.net/Sharedaction?code=ec418d8d-5c9a-444f-0691-08dc9144415b,文本文件合并,通用,Bader,https://getquicker.net/User/135289/Bader,6.7 KB,2024-06-21 11:35,1,1. 根据选中的文件后缀来确定合并文件的后缀,2024-07-03
 巴德前缀File:///,https://getquicker.net/Sharedaction?code=2af0ef94-df3f-4e4e-3dc3-08dc93290ea3,给路径增加file:///前缀,通用,Bader,https://getquicker.net/User/135289/Bader,4.1 KB,2024-06-24 10:38,1,1. 增加是否立即输出的配置项,2024-07-03
 巴德Quicker积分统计,https://getquicker.net/Sharedaction?code=3545f09e-0cb2-448b-ced3-08dc925151e4,统计一下Quicker每天平均获得了多少积分,通用,Bader,https://getquicker.net/User/135289/Bader,7.1 KB,2024-06-22 08:21,1,1. 增加计算积分价值的功能,2024-07-03
 屏幕测量,https://getquicker.net/Sharedaction?code=a554efe3-2f07-4e47-25d0-08dc98da1b3c,根据基准尺寸，测量屏幕图形长度和角度,通用,pinbo,https://getquicker.net/User/549488/pinbo,30.1 KB,2024-07-01 00:31,1,支持角度测量,2024-07-03
