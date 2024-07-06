@@ -1,0 +1,11 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用讯飞星火模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,133 KB,2023-09-07 09:28,97,1,2024-07-06
+更改界面语言,https://getquicker.net/Sharedaction?code=64e30042-6a24-4a5b-a990-08dab0af50de,更改Zotero界面语言,Zotero,myhan,https://getquicker.net/User/467528/myhan,1.9 KB,2022-10-19 08:57,1,更新子程序，适配Zotero 7最新测试版,2024-07-06
+导出附件,https://getquicker.net/Sharedaction?code=78ff37f0-ca21-44e7-b326-08daf823c549,导出条目包含的附件,Zotero,myhan,https://getquicker.net/User/467528/myhan,10 KB,2023-01-17 14:28,1,更新子程序，适配Zotero 7,2024-07-06
+标签,https://getquicker.net/Sharedaction?code=16252683-cae2-4ced-492c-08db697c985a,给所选条目添加或删除在读标签,Zotero,myhan,https://getquicker.net/User/467528/myhan,15.5 KB,2023-06-11 16:37,3,使用新的子动作,2024-07-06
+预览Word,https://getquicker.net/Sharedaction?code=69e1b083-f370-44e0-4dc7-08dc9ca860e5,免安装Word便可预览,通用,darcyc,https://getquicker.net/User/95689/darcyc,173.9 KB,2024-07-05 19:07,0,,2024-07-06
+巴德Quicker文本上下文菜单集合,https://getquicker.net/Sharedaction?code=44d1a14f-c9fc-4541-4dad-08dc9ca860e5,为什么没有一个提供搜索服务的API集合的动作？现在有了 ,通用,Bader,https://getquicker.net/User/135289/Bader,2.1 KB,2024-07-05 16:17,0,,2024-07-06
+吾爱破解签到,https://getquicker.net/Sharedaction?code=2486df69-3ea8-405a-a725-08dad3f6b04c,首次需要登陆账号，然后设置每日开机自动运行就好啦。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,23.5 KB,2022-12-02 13:57,13,~跟进网站签到变动,2024-07-06
+PS另存为,https://getquicker.net/Sharedaction?code=0fac595c-f12c-46b7-72d7-08d9aa624e96,支持弹窗/静默保存，另存为JPG/PNG/TIF/TGA/PSD等，兼容多Photoshop版本保存,Adobe Photoshop,ZTOA10,https://getquicker.net/User/234516/ZTOA10,55.6 KB,2021-11-18 18:11,9,+新增定位保存文件，可在「参数设置」中开启。,2024-07-06
+Flyme 互联,https://getquicker.net/Sharedaction?code=4d5765d4-78fc-4013-4d9f-08dc9ca860e5,魅族手机 Flyme PC 互联,通用,Poto,https://getquicker.net/User/137838/Poto,644 B,2024-07-05 12:37,0,,2024-07-06
+极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,181.7 KB,2023-07-28 23:43,85,支持预览SRT文件,2024-07-06
