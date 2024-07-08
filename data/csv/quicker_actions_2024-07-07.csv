@@ -1,0 +1,9 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+百度网盘/同步盘切换,https://getquicker.net/Sharedaction?code=cb872dd3-c5d6-4af5-0b7a-08dc9d9ab057,唤出、启停网盘；切换同步状态；自动同步等；同步开启前关闭预设程序等；,BaiduNetdisk,W.JAN,https://getquicker.net/User/56701/W.JAN,86.2 KB,2024-07-07 18:36,1,补充说明,2024-07-08
+CURL转Quicker步骤,https://getquicker.net/Sharedaction?code=8a2b10fc-f8a3-4c5f-0b82-08dc9d9ab057,读取剪贴板的CURL并转为Quicker步骤写入剪贴板,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,15.6 KB,2024-07-07 20:05,1,~,2024-07-08
+护眼小助手,https://getquicker.net/Sharedaction?code=7de9e461-2fd9-4d75-b69a-08dc8c86488e,它一闪，你就眨眼，频率为2s至10s的随机时长（虽然别人建议2-3秒一眨，但感觉太短了）,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,4.2 KB,2024-06-15 19:40,2,改为了右上角,2024-07-08
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,214.3 KB,2023-12-16 20:13,67,"~ 支持Ctrl+点击【清除聊天记录】按钮，快捷清空所有聊天记录（点击提示消息可撤回操作，防止误触）
+~ 修改默认话会数据，将不可用的图片链接换成新链接",2024-07-08
+文件定位,https://getquicker.net/Sharedaction?code=b9c6b52d-d189-4104-25fd-08dc98da1b3c,快速在文件夹内中定位某个文件(夹),Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,18.9 KB,2024-07-01 18:48,5,.,2024-07-08
+复制网页信息,https://getquicker.net/Sharedaction?code=098e72f0-2760-4e19-cbab-08d8dde466af,复制网页标题、图标等信息。,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,31.6 KB,2021-03-03 23:52,11,增加复制网页文本的功能，可以将所有功能选择性增加到右键菜单,2024-07-08
+B站标签页排序,https://getquicker.net/Sharedaction?code=58af915b-ae3a-4c7e-0b66-08dc9d9ab057,将多个B站的浏览器标签页，按播放量降序排列。,Google Chrome,恋天忧,https://getquicker.net/User/162890/%E6%81%8B%E5%A4%A9%E5%BF%A7,33.3 KB,2024-07-07 03:06,0,,2024-07-08
