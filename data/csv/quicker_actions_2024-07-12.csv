@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+微信定位发送,https://getquicker.net/Sharedaction?code=b9da2b93-3dd3-4883-9a0a-08dca25b1344,打开指定的联系人窗口；选择文件/文本运行；锁定、快速发送模板信息；,WeChat,W.JAN,https://getquicker.net/User/56701/W.JAN,56.8 KB,2024-07-12 22:49,1,调整,2024-07-13
+剪库,https://getquicker.net/Sharedaction?code=74fc2052-d397-47a3-a1cd-08d6c790cedc,记录剪贴板文本历史,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,429.8 KB,2019-04-23 15:29,115,- 体验优化,2024-07-13
+PS快速保存,https://getquicker.net/Sharedaction?code=cef8e92c-4ca3-4275-d69a-08dbd1035d4f,一键快速存储常用的图片格式文件,Adobe Photoshop,龙少,https://getquicker.net/User/1391/%E9%BE%99%E5%B0%91,15 KB,2023-10-20 16:07,7,界面微调,2024-07-13
+解压缩,https://getquicker.net/Sharedaction?code=6c07f2ca-3ce0-4628-a637-08db29c171e2,极速解压缩选中文件/解压和压缩一体/支持Bandizip,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,44.4 KB,2023-03-22 14:20,18,优化,2024-07-13
+赛马娘事件簿,https://getquicker.net/Sharedaction?code=62e25b84-57a0-4556-99fe-08dca25b1344,赛马娘事件簿(在线版),通用,Cold_Air,https://getquicker.net/User/577696/Cold_Air,2.3 KB,2024-07-12 19:32,1,移除原有的广告,2024-07-13
+极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,188.6 KB,2023-07-28 23:43,92,优化,2024-07-13
+文器,https://getquicker.net/Sharedaction?code=d3dcdaf2-1544-43b8-17c3-08d7dec8856a,集大成的文本处理利器,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,232.3 KB,2020-04-13 03:18,57,- 增加「翻译」功能,2024-07-13
+QQ定位发送,https://getquicker.net/Sharedaction?code=b6cf33ec-8dba-41b6-2fde-08dc9fa8ef9a,NTQQ 打开指定的联系人窗口；选择文件/文本运行；锁定、快速发送模板信息；,腾讯QQ,W.JAN,https://getquicker.net/User/56701/W.JAN,58.4 KB,2024-07-09 21:15,9,优化同步设置,2024-07-13
+快下Quixia,https://getquicker.net/Sharedaction?code=bb8081b7-c8e9-4e9a-aa62-08db66a6be43,一键下载网站上的视频（支持B站、爱奇艺、腾讯视频等）,通用,我是厅长,https://getquicker.net/User/127316/%E6%88%91%E6%98%AF%E5%8E%85%E9%95%BF,52.2 KB,2023-06-07 15:02,5,正式发布,2024-07-13
+云板,https://getquicker.net/Sharedaction?code=66502c1c-6ce0-4edb-37bc-08d8346ce0f2,云记事本（轻便、无感保存）,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,250.8 KB,2020-07-31 09:39,85,- 部分细节优化,2024-07-13
+PSyoyo,https://getquicker.net/Sharedaction?code=d85153ea-fd25-48ac-cee8-08dc925151e4,PS画板导出/图层导出,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,26.8 KB,2024-06-22 17:23,10,使用jsx脚本进行导出，更改以前需要使用快捷键导出，不方便的问题。,2024-07-13
+Obsidian 库,https://getquicker.net/Sharedaction?code=8d0550f1-c378-4cce-190d-08daa2ecb1a4,搜索并打开 Obsidian 的库。,Obsidian,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,54.8 KB,2022-10-01 20:44,13,"[=] 重构
+[~] 解决正则匹配失败不显示结果的 bug
+[+] 新增显示库所在路径（感谢熊猫别熬夜的建议）
+[+] 支持搜索路径筛选，但比库名权重（优先级）低",2024-07-13
+XLOOKUP,https://getquicker.net/Sharedaction?code=26b154a7-9c01-474a-74f3-08dc9e8ef04d,模拟XLOOKUP进行快速查找匹配,Microsoft Excel,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,5.8 KB,2024-07-08 14:28,1,取消选择区域时不再报错,2024-07-13
+巴德动作模板,https://getquicker.net/Sharedaction?code=6a6448b5-35e4-4b2c-f13a-08dca16ac556,通过复制本动作来快速创建新的动作。包含常用的几个功能：菜单、再次运行关闭、滚轮,通用,Bader,https://getquicker.net/User/135289/Bader,5.5 KB,2024-07-12 10:19,0,,2024-07-13
+数据分列,https://getquicker.net/Sharedaction?code=5dc8e3f2-7387-4698-f12a-08dca16ac556,Excel中按空格分列数据并调整列宽行高,Microsoft Excel,NogiRuka,https://getquicker.net/User/116515/NogiRuka,5.7 KB,2024-07-12 01:52,0,,2024-07-13
