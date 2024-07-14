@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,185.3 KB,2023-10-18 22:55,77,右键编辑时支持可再打开操作窗,2024-07-14
+隐藏特定行(宏),https://getquicker.net/Sharedaction?code=c0836142-3e2c-439b-9a1e-08dca25b1344,"excel宏,检查特定的列（例如 B 到 D 列）,隐藏一行中全是特定值（比如0）的行。",Microsoft Excel,Colπ,https://getquicker.net/User/23071/Col%CF%80,8.4 KB,2024-07-13 16:56,0,,2024-07-14
+显示所有隐藏行(宏),https://getquicker.net/Sharedaction?code=2a9fa4e8-ef8c-45d4-9a1d-08dca25b1344,excel显示所有隐藏行（宏）,Microsoft Excel,Colπ,https://getquicker.net/User/23071/Col%CF%80,1.9 KB,2024-07-13 16:56,0,,2024-07-14
+文器,https://getquicker.net/Sharedaction?code=d3dcdaf2-1544-43b8-17c3-08d7dec8856a,集大成的文本处理利器,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,237.2 KB,2020-04-13 03:18,59,- 体验细节优化,2024-07-14
+下载图片,https://getquicker.net/Sharedaction?code=cabf0ece-1ba7-460c-11a7-08db8c4f03af,目前最好的网页图片下载工具！支持任意图片，只需鼠标点击图片即可下载至本地，支持单选、多选两种模式！,Google Chrome,南望山,https://getquicker.net/User/684393/%E5%8D%97%E6%9C%9B%E5%B1%B1,92.5 KB,2023-07-24 22:47,18,"更新
++增加灵活模式，默认是单选模式，按住ctrl键时运行为多选模式，也可以固定其中一种选图方式
+~支持部分链接没有后缀的情况",2024-07-14
+复制url路径,https://getquicker.net/Sharedaction?code=a3f9971f-f08e-4415-fa95-08da8da3677e,"复制出一个ob地址到剪贴板, 可以嵌入到其他笔记软件里面.",Obsidian,不获全胜不收兵,https://getquicker.net/User/460066/%E4%B8%8D%E8%8E%B7%E5%85%A8%E8%83%9C%E4%B8%8D%E6%94%B6%E5%85%B5,1.2 KB,2022-09-04 15:27,3,更新了图标,2024-07-14
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,全能版网络搜索神器/让quicker搜索超级增强/AI对话,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,375.6 KB,2023-10-22 15:24,255,小优化,2024-07-14
+获取鼠标坐标,https://getquicker.net/Sharedaction?code=77807116-1350-468a-9a0c-08dca25b1344,动作右键切换模式，按住右键停止动作，右键可清空显示,通用,LJH_,https://getquicker.net/User/392903/LJH_,55.9 KB,2024-07-13 01:30,4,优化，新增右键查看上次历史坐标,2024-07-14
+输入框增强AI,https://getquicker.net/Sharedaction?code=dc308cd4-082f-4074-0b89-08dc9d9ab057,输入框中英文互译/改写，并有轻AI功能（类似微信输入法=问AI）的输入增强AI助手,通用,Donnie_L,https://getquicker.net/User/199719/Donnie_L,27 KB,2024-07-07 21:44,12,修复符号后缀bug,2024-07-14
+巴德卜一卦,https://getquicker.net/Sharedaction?code=41b2b6d1-8f24-4f2c-9a0e-08dca25b1344,64卦 卜卦 一键卜卦,通用,Bader,https://getquicker.net/User/135289/Bader,12.3 KB,2024-07-13 09:57,0,,2024-07-14
+剪库,https://getquicker.net/Sharedaction?code=74fc2052-d397-47a3-a1cd-08d6c790cedc,记录剪贴板文本历史,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,427.9 KB,2019-04-23 15:29,116,- 细节优化,2024-07-14
+显示上下文菜单,https://getquicker.net/Sharedaction?code=1571f0ac-308a-4371-9a0d-08dca25b1344,将Quicker的【上下文菜单】功能提取出来，可以自定义触发方式,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,21.2 KB,2024-07-13 08:16,2,~ 支持剪贴板未变化时运行其他动作，避免完全占用某个触发方式,2024-07-14
+锁定输入法,https://getquicker.net/Sharedaction?code=fe2fda9a-a22d-442a-9a05-08dca25b1344,锁定切换输入法（避免使用PS时自动切换输入法）,通用,ADONG8,https://getquicker.net/User/782951/ADONG8,9.9 KB,2024-07-12 22:12,3,1,2024-07-14
+Kimi Assistant,https://getquicker.net/Sharedaction?code=1d51f1aa-4ec2-458a-5729-08dc4dd1cd4e,使用 Kimi.ai 帮助快速阅读网页，支持 API 和 网页自动化（需要Quicker插件） 访问！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,42.4 KB,2024-03-27 17:47,13,"1. 适配新版界面逻辑
+2. 修复文件上传后新版界面无法反应问题",2024-07-14
+巴德AI快搜,https://getquicker.net/Sharedaction?code=208d0d8d-82aa-46d0-f127-08dca16ac556,定义提示词；调用AI引擎进行快速搜索。,通用,Bader,https://getquicker.net/User/135289/Bader,8 KB,2024-07-11 23:07,2,1. 增加天工AI,2024-07-14
