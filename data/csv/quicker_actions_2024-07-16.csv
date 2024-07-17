@@ -1,8 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 刷新推荐页,https://getquicker.net/Sharedaction?code=b71c613a-b82e-461f-9ab2-08dca533070d,适用于哔哩哔哩客户端，刷新推荐页视频,哔哩哔哩,Yokior,https://getquicker.net/User/1040030/Yokior,2.2 KB,2024-07-16 23:00,0,,2024-07-17
 显示托盘,https://getquicker.net/Sharedaction?code=8e075cd4-6f7a-4c26-5639-08d9eec3922c,显示并移动系统托盘至光标处,通用,dalou,https://getquicker.net/User/76824/dalou,46.3 KB,2022-02-14 19:03,17,-,2024-07-17
-窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,79 KB,2024-07-15 17:32,6,"优化：设置贴边优先级，左右高于上下；
-新增：动画特效，在贴边速度较慢时，可显示透明动画特效",2024-07-17
 星火大模型,https://getquicker.net/Sharedaction?code=8e54cb15-133f-4760-be89-08dbdcf87739,迅飞星火大模型Quicker版（选中任何文字，运行本动作，大模型会直接回复。省去了复制粘贴到输入框的麻烦~）,通用,Balrog,https://getquicker.net/User/235565/Balrog,34.3 KB,2023-11-05 11:52,7,加入了新模型：Spark Pro-128K,2024-07-17
 厘米>英寸,https://getquicker.net/Sharedaction?code=06db858f-23c8-4db8-a43f-08dbf16456ca,inch > cm / cm > inch,通用,Anlv,https://getquicker.net/User/392637/Anlv,20.1 KB,2023-12-01 10:25,5,支持多行。,2024-07-17
 极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,187.4 KB,2023-07-28 23:43,102,优化,2024-07-17
