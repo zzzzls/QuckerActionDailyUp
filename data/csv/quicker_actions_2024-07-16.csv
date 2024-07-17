@@ -1,0 +1,33 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+刷新推荐页,https://getquicker.net/Sharedaction?code=b71c613a-b82e-461f-9ab2-08dca533070d,适用于哔哩哔哩客户端，刷新推荐页视频,哔哩哔哩,Yokior,https://getquicker.net/User/1040030/Yokior,2.2 KB,2024-07-16 23:00,0,,2024-07-17
+显示托盘,https://getquicker.net/Sharedaction?code=8e075cd4-6f7a-4c26-5639-08d9eec3922c,显示并移动系统托盘至光标处,通用,dalou,https://getquicker.net/User/76824/dalou,46.3 KB,2022-02-14 19:03,17,-,2024-07-17
+窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,79 KB,2024-07-15 17:32,6,"优化：设置贴边优先级，左右高于上下；
+新增：动画特效，在贴边速度较慢时，可显示透明动画特效",2024-07-17
+星火大模型,https://getquicker.net/Sharedaction?code=8e54cb15-133f-4760-be89-08dbdcf87739,迅飞星火大模型Quicker版（选中任何文字，运行本动作，大模型会直接回复。省去了复制粘贴到输入框的麻烦~）,通用,Balrog,https://getquicker.net/User/235565/Balrog,34.3 KB,2023-11-05 11:52,7,加入了新模型：Spark Pro-128K,2024-07-17
+厘米>英寸,https://getquicker.net/Sharedaction?code=06db858f-23c8-4db8-a43f-08dbf16456ca,inch > cm / cm > inch,通用,Anlv,https://getquicker.net/User/392637/Anlv,20.1 KB,2023-12-01 10:25,5,支持多行。,2024-07-17
+极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,187.4 KB,2023-07-28 23:43,102,优化,2024-07-17
+同步剪贴板,https://getquicker.net/Sharedaction?code=51cfce12-6aa6-4ad6-a067-08d9ac50b9f2,同步 iPhone 和 Windows 电脑的剪贴板。,通用,Y@404,https://getquicker.net/User/91893/Y@404,127.3 KB,2021-11-21 02:08,10,"新图标。
+允许关闭提示声音。",2024-07-17
+PotPlayer 的 ob 链接,https://getquicker.net/Sharedaction?code=2944f6ed-a7bf-4ea4-9614-08dbfd0d4b63,自动生成用于“在 PotPlayer 中，以指定时间戳打开视频”的 Obsidian 专用 Markdown 链接。,PotPlayer,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,22 KB,2023-12-15 12:51,4,[~] 增加延时，修复粘贴失败的问题,2024-07-17
+PotPlayer 的 md 链接,https://getquicker.net/Sharedaction?code=e3058555-a8ad-4836-d6f4-08dbf7217f2d,自动生成用于“在 PotPlayer 中，以指定时间戳打开视频”的 Markdown 链接。,PotPlayer,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,26.9 KB,2023-12-08 15:32,11,[~] 增加延时，修复粘贴失败的问题。,2024-07-17
+截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,379 KB,2024-06-06 00:01,57,优化,2024-07-17
+双拼全拼切换,https://getquicker.net/Sharedaction?code=ad7d7e6b-3cb7-40ee-9a9d-08dca533070d,Windows 微软拼音输入法全拼双拼一键切换,通用,┗飞翔╯╗,https://getquicker.net/User/285810/%E2%94%97%E9%A3%9E%E7%BF%94%E2%95%AF%E2%95%97,987 B,2024-07-16 15:59,1,隐藏掉输出log,2024-07-17
+OCR命名,https://getquicker.net/Sharedaction?code=42f126ac-03ea-4496-9a9b-08dca533070d,选中一个图片OCR后自动命名(以最合适的尺寸显示),Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,15.6 KB,2024-07-16 15:41,0,,2024-07-17
+系统工具箱,https://getquicker.net/Sharedaction?code=754c796f-dd47-4cca-5cb4-08d67c18d54b,解放你的双手，快速打开常用系统工箱,通用,KBC,https://getquicker.net/User/5221/KBC,271.2 KB,2019-01-17 12:32,86,其他,2024-07-17
+虚拟桌面切换,https://getquicker.net/Sharedaction?code=f5aa6b1d-be0e-401f-2fe0-08dc9fa8ef9a,2个虚拟桌面之间快速切换，滚轮轮盘控制，可自动创建虚拟桌面,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,8.1 KB,2024-07-09 21:31,6, ,2024-07-17
+发送到文件夹,https://getquicker.net/Sharedaction?code=440a8db8-cb57-43b0-9a91-08dca533070d,将文件移动到指定文件夹,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,21.2 KB,2024-07-16 13:46,0,,2024-07-17
+AskPDF,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,文章书籍AI问答，不限文件大小，本地向量化永久储存。直接选择需要问答的文件即可，也可结合zotero使用更方便。,通用,周启,https://getquicker.net/User/20349/%E5%91%A8%E5%90%AF,119.1 KB,2024-07-11 11:24,8,修复极速下载方式，下载的模型不全的问题,2024-07-17
+植物大战僵尸\n杂交版,https://getquicker.net/Sharedaction?code=32070c32-a896-473a-d5f4-08dc842a79c6,一键下载/启动最近热门的植物大战僵尸杂交版,通用,M-cc,https://getquicker.net/User/521120/M-cc,262.4 KB,2024-06-04 10:15,3,~更新下载链接版本到2.2。并在动作开始前提示更新。,2024-07-17
+浏览器脚本,https://getquicker.net/Sharedaction?code=4c472a41-a1e6-481f-9a88-08dca533070d,浏览器JavaScript网页脚本面板，各种骚操作，Bookmarklet 小书签,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,97.1 KB,2024-07-16 09:49,0,,2024-07-17
+多桌面任意切换（智慧版）,https://getquicker.net/Sharedaction?code=fe91b0ef-a20e-4452-b951-08dca0782eac,一键切换至指定虚拟桌面。自动适配Win10/Win11。,通用,EC10010,https://getquicker.net/User/2997/EC10010,27.4 KB,2024-07-10 15:33,12,优化。,2024-07-17
+巴德代码片段,https://getquicker.net/Sharedaction?code=1b123fed-a820-4191-e159-08dca45772b6,保存常用的代码片段,通用,Bader,https://getquicker.net/User/135289/Bader,5.6 KB,2024-07-16 08:33,0,,2024-07-17
+AD-搜启动,https://getquicker.net/Sharedaction?code=5672dcf5-56ff-448a-e156-08dca45772b6,传参搜索启动,通用,ADONG8,https://getquicker.net/User/782951/ADONG8,11.9 KB,2024-07-16 07:21,1,1,2024-07-17
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,截图识别文字,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,59.7 KB,2024-05-09 20:07,9,优化,2024-07-17
+AD-锁定输入法,https://getquicker.net/Sharedaction?code=fe2fda9a-a22d-442a-9a05-08dca25b1344,锁定切换输入法（避免使用PS等软件时自动切换输入法）,通用,ADONG8,https://getquicker.net/User/782951/ADONG8,10.5 KB,2024-07-12 22:12,5,优化代码并改回全局模式,2024-07-17
+视频笔记,https://getquicker.net/Sharedaction?code=375863dd-6665-4ef3-bad7-08dc6c306e08,快速截取当前浏览器的视频画面、时间码等信息。,Obsidian,Moy,https://getquicker.net/User/771/Moy,19.5 KB,2024-05-04 21:54,5,"增加「默认行为」的参数，支持右键修改；同时支持「时间」+「截屏」同时运行；
+更新了「粘压图片」动作的链接说明，并且在动作不存在的时候默认粘贴",2024-07-17
+移动列表,https://getquicker.net/Sharedaction?code=33ccf47d-f19d-423a-2edf-08db2d92bfe7,选中自己想要移动的文件，批量移动至常用文件夹,Windows 资源管理器,Tanziow,https://getquicker.net/User/725126/Tanziow,45.9 KB,2023-03-26 19:12,5,"【增】新增可以在一级菜单直接移动的快捷文件夹，最多3个
+【增】可以在模式选择中关闭“将最后一个文件路径写入剪贴板”的功能",2024-07-17
+全能窗口调整器,https://getquicker.net/Sharedaction?code=c3715e2a-aa83-42b8-eb81-08daa107cacc,调整窗口的大小、位置、透明度、置顶状态。,通用,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,269.5 KB,2022-09-28 13:25,35,[=] 取消最大化后，如果鼠标不在窗口上，则将窗口中心置于鼠标位置。,2024-07-17
+巴德卜一卦,https://getquicker.net/Sharedaction?code=41b2b6d1-8f24-4f2c-9a0e-08dca25b1344,64卦 卜卦 一键占卜 AI解卦,通用,Bader,https://getquicker.net/User/135289/Bader,17.6 KB,2024-07-13 09:57,4,"1. 修复设置并未打开的bug
+2. 增加AI解卦引擎：文心一言、秘塔AI搜索",2024-07-17
