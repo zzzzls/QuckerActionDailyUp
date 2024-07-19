@@ -1,0 +1,45 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+巴德浏览器脚本-显示密码,https://getquicker.net/Sharedaction?code=c1a73dbf-9bcb-4e90-95bc-08dca71b147e,显示*号密码,Microsoft Edge,Bader,https://getquicker.net/User/135289/Bader,1.2 KB,2024-07-18 23:52,0,,2024-07-19
+巴德浏览器脚本-网页记事本,https://getquicker.net/Sharedaction?code=e1bfb78d-f234-4609-95bb-08dca71b147e,临时生成一个记事本,Microsoft Edge,Bader,https://getquicker.net/User/135289/Bader,2.3 KB,2024-07-18 23:43,0,,2024-07-19
+巴德浏览器脚本-网页画图板,https://getquicker.net/Sharedaction?code=cf0129dc-51ce-484c-95ba-08dca71b147e,临时生成一个画图板,Microsoft Edge,Bader,https://getquicker.net/User/135289/Bader,2.4 KB,2024-07-18 23:40,0,,2024-07-19
+巴德浏览器脚本-可视化编辑网页,https://getquicker.net/Sharedaction?code=2d48cc28-10f4-475f-95b9-08dca71b147e,直接对网页进行编辑,Microsoft Edge,Bader,https://getquicker.net/User/135289/Bader,1.2 KB,2024-07-18 23:34,0,,2024-07-19
+巴德浏览器脚本-查看所有链接,https://getquicker.net/Sharedaction?code=880700f2-299e-4803-95b8-08dca71b147e,查看当前网页的所有链接,Microsoft Edge,Bader,https://getquicker.net/User/135289/Bader,1.6 KB,2024-07-18 23:33,0,,2024-07-19
+巴德浏览器脚本-视频一直播,https://getquicker.net/Sharedaction?code=bb5650ee-2f3a-46bd-95b7-08dca71b147e,解除标签页失焦视频自动暂停的问题,Microsoft Edge,Bader,https://getquicker.net/User/135289/Bader,1.3 KB,2024-07-18 23:22,0,,2024-07-19
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,SimpleTex公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,139.6 KB,2023-06-12 00:47,16,更新公共API（更新动作后右键重置动作获取新API）,2024-07-19
+公式识别3,https://getquicker.net/Sharedaction?code=9666d404-be36-45de-438c-08d7f4f4652e,可以试一下的公式识别,通用,Cesar,https://getquicker.net/User/18359/Cesar,499.6 KB,2020-05-11 14:10,95,更换 staticfile cdn 为 字节跳动CDN,2024-07-19
+启动和关闭打印机,https://getquicker.net/Sharedaction?code=23efd728-9366-4f29-4114-08dca6282cd9,启动和关闭打印服务,通用,ai56,https://getquicker.net/User/185823/ai56,483 B,2024-07-18 18:50,0,,2024-07-19
+USB关,https://getquicker.net/Sharedaction?code=9da9a4dd-710a-4ba8-4113-08dca6282cd9,在注册表中修改，不能设别插入的U盘,通用,ai56,https://getquicker.net/User/185823/ai56,1 KB,2024-07-18 18:32,0,,2024-07-19
+USB开,https://getquicker.net/Sharedaction?code=5297c337-f4f1-4c3d-4112-08dca6282cd9,在注册表中修改，设别插入的U盘,通用,ai56,https://getquicker.net/User/185823/ai56,1 KB,2024-07-18 18:31,0,,2024-07-19
+复制求和值,https://getquicker.net/Sharedaction?code=b3108d35-d44f-4ac9-9761-08d796538da2,求和选中数据，并将结果写入剪贴板,Microsoft Excel,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,31.2 KB,2020-01-11 13:27,15,"- 多结果改用操作窗展示
+- 增加统计项「中位数」",2024-07-19
+当前进程关闭,https://getquicker.net/Sharedaction?code=c2968bf2-52a6-44fe-d615-08dc842a79c6,结束当前进程,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,13.2 KB,2024-06-04 19:55,9,+ 针对steam商店主界面单独处理,2024-07-19
+AD-搜启动,https://getquicker.net/Sharedaction?code=5672dcf5-56ff-448a-e156-08dca45772b6,传参搜索启动,通用,ADONG8,https://getquicker.net/User/782951/ADONG8,14.6 KB,2024-07-16 07:21,3,解决搜索不到带空格名字的程序,2024-07-19
+执行JS代码,https://getquicker.net/Sharedaction?code=22ce75b2-8935-476f-9ab7-08dca533070d,用于执行JS代码,通用,YLing2024,https://getquicker.net/User/367967/YLing2024,22.5 KB,2024-07-17 03:41,7,小修复,2024-07-19
+ID加逗号,https://getquicker.net/Sharedaction?code=25d64a66-0ea0-4cbd-3ca3-08da25cd8d3a,适合同步在天猫详情页批量同步输入ID的,WPS Office,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,6.6 KB,2022-04-25 11:25,6,1,2024-07-19
+视频搜索,https://getquicker.net/Sharedaction?code=28d37abb-8d5a-462f-52a0-08da8cb04b9b,视频搜索：抖音，哔哩哔哩，快手，,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,10.1 KB,2022-09-03 17:12,7,1,2024-07-19
+文本打散,https://getquicker.net/Sharedaction?code=51db320e-d0f4-4719-410e-08dca6282cd9,打散选中的文本图层,Adobe Photoshop,Taitun,https://getquicker.net/User/854987/Taitun,6.9 KB,2024-07-18 17:18,0,,2024-07-19
+删除近期文件,https://getquicker.net/Sharedaction?code=d6e4c4ce-265e-4edd-410c-08dca6282cd9,默认删除7天内的文件,Windows 资源管理器,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,18.4 KB,2024-07-18 16:49,2,整理动作,2024-07-19
+多步骤生成器,https://getquicker.net/Sharedaction?code=52e0112f-076d-4347-df18-08d9db64e6a1,辅助编写多步骤输入模块。,通用,EC10010,https://getquicker.net/User/2997/EC10010,356.8 KB,2022-01-20 00:01,33,修改一些说明文字。,2024-07-19
+快捷指令,https://getquicker.net/Sharedaction?code=04d7ad44-efa4-4cdc-410a-08dca6282cd9,CAD,AutoCAD Application,轻I语,https://getquicker.net/User/631313/%E8%BD%BBI%E8%AF%AD,1.9 KB,2024-07-18 16:30,1,整理了顺序,2024-07-19
+切换应用,https://getquicker.net/Sharedaction?code=eebcc911-19bc-4a00-208a-08d951b2ab51,滚轮切换应用界面,通用,dalou,https://getquicker.net/User/76824/dalou,23.2 KB,2021-07-29 17:46,8,"优化：增加屏幕边缘误差，避免右边缘失效；
+调整：切换时判定前台窗口类名，避免误触",2024-07-19
+文件日期前缀,https://getquicker.net/Sharedaction?code=09498738-1fd8-4966-4101-08dca6282cd9,选中文件后运行，增加文件创建日期前缀（yymmdd格式），支持多文件批量处理，自动跳过已有 yymmdd 格式日期前缀的文件,Windows 资源管理器,大葱明子,https://getquicker.net/User/184821/%E5%A4%A7%E8%91%B1%E6%98%8E%E5%AD%90,9.5 KB,2024-07-18 14:24,1,增加跳过已有 yymmdd 格式日期前缀的文件的机制,2024-07-19
+某日是第几周,https://getquicker.net/Sharedaction?code=1a1b2630-24d9-49e4-4487-08dbd9da7c9a,依据 ISO 8601 规范，计算周次。某年某日是某年的第几周。某时间段有多少周。支持动作调用。,通用,EC10010,https://getquicker.net/User/2997/EC10010,91.8 KB,2023-10-31 16:31,2,取消只读分享。,2024-07-19
+切换截图,https://getquicker.net/Sharedaction?code=172f71cb-a4a9-47bc-b930-08dca0782eac,使用命令行来执行截图，使用参数运行,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,12.1 KB,2024-07-10 09:43,2,增加Snipaste路径,2024-07-19
+截图并手绘,https://getquicker.net/Sharedaction?code=e328ee9e-66d1-4ebe-096c-08dbd6a53889,截图并在图片上进行手绘编辑,通用,小锴,https://getquicker.net/User/585186/%E5%B0%8F%E9%94%B4,10.1 KB,2023-10-27 21:19,8,优化截图范围,2024-07-19
+巴德NSSM命令助手,https://getquicker.net/Sharedaction?code=5faaad12-8e38-4f4e-e644-08dc8f5b9fbd,懒，不想手敲命令。,通用,Bader,https://getquicker.net/User/135289/Bader,3 KB,2024-06-18 15:05,1,1. 增加查看所有nssm创建的服务,2024-07-19
+Snipaste截图,https://getquicker.net/Sharedaction?code=6d63d14a-91be-4811-ece7-08d93868de63,命令行版，非快捷键，稳定，可靠，安全，安装即用！,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,18.4 KB,2021-06-27 10:16,19, ,2024-07-19
+显示/不显示隐藏文件,https://getquicker.net/Sharedaction?code=da084fb9-bbe2-4eb6-40fa-08dca6282cd9,一键显示硬盘上的所有文件,Windows 资源管理器,ilcpm,https://getquicker.net/User/328745/ilcpm,3.7 KB,2024-07-18 11:32,0,,2024-07-19
+大纲序号,https://getquicker.net/Sharedaction?code=72b30190-bc80-4ee4-a64e-08db363ab19b,自动按序输出大纲序号，右键可以查看帮助,通用,Ranfou,https://getquicker.net/User/108076/Ranfou,35.7 KB,2023-04-06 10:10,3,配合「法律格式化」等动作，法条条目不再补足位数,2024-07-19
+摸鱼人日历,https://getquicker.net/Sharedaction?code=7ee4fcd0-0672-4cab-7abd-08d9fcf64e81,建议随Quicker启动时运行，提醒自己摸鱼。,通用,EC10010,https://getquicker.net/User/2997/EC10010,138.2 KB,2022-03-04 14:28,19,选项右键菜单增加排序选项功能。,2024-07-19
+极简打字,https://getquicker.net/Sharedaction?code=c11d4fc8-d404-42a6-a086-08dc76aeba28,追求易上手，快速输出常用文本的打字体验。#常用语软件 #快捷短语工具 #自定义短语神器,通用,EC10010,https://getquicker.net/User/2997/EC10010,235 KB,2024-05-18 23:33,25,获取的剪贴板文本要小于50个字符才视为有效获取。,2024-07-19
+下班倒计时,https://getquicker.net/Sharedaction?code=afd234b4-46c3-4c05-40ef-08dca6282cd9,最后60秒倒计时,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,5.7 KB,2024-07-18 09:19,0,,2024-07-19
+创建软链接,https://getquicker.net/Sharedaction?code=7a52f0c6-2efa-4dca-9a96-08dca533070d,创建符号链接，并创建历史记录。,Windows 资源管理器,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,11.9 KB,2024-07-16 14:37,2,取消添加UTF-BOM属性使bat备份文件可用。,2024-07-19
+浏览器脚本,https://getquicker.net/Sharedaction?code=4c472a41-a1e6-481f-9a88-08dca533070d,浏览器JavaScript网页脚本面板，各种骚操作，Bookmarklet 小书签,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,100.3 KB,2024-07-16 09:49,1,微调，新增一些常用代码,2024-07-19
+AD-直译,https://getquicker.net/Sharedaction?code=8149e899-35cc-4de6-cfb8-08dca3549c75,调用百度API直接替换原文,通用,ADONG8,https://getquicker.net/User/782951/ADONG8,16.7 KB,2024-07-14 19:41,1,避免切换完输入法立刻输入后没反应过来,2024-07-19
+巴德浏览器脚本库,https://getquicker.net/Sharedaction?code=9c01292b-7281-40c2-40eb-08dca6282cd9,一个管理浏览器书签脚本的工具,通用,Bader,https://getquicker.net/User/135289/Bader,10.3 KB,2024-07-18 00:33,0,,2024-07-19
+巴德代码片段,https://getquicker.net/Sharedaction?code=1b123fed-a820-4191-e159-08dca45772b6,保存常用的代码片段,通用,Bader,https://getquicker.net/User/135289/Bader,10.4 KB,2024-07-16 08:33,1,"1. 增加修改代码片段的功能 
+2. 增加删除功能",2024-07-19
+巴德AI快搜,https://getquicker.net/Sharedaction?code=208d0d8d-82aa-46d0-f127-08dca16ac556,定义提示词；调用AI引擎进行快速搜索。,通用,Bader,https://getquicker.net/User/135289/Bader,13.7 KB,2024-07-11 23:07,6,1. 增加编辑提示词的功能,2024-07-19
+巴德Quicker动作推广词,https://getquicker.net/Sharedaction?code=cf85d8ff-bdf6-4c31-ca84-08dc99cfb00d,利用GPT创作Quicker动作推广词,通用,Bader,https://getquicker.net/User/135289/Bader,4.2 KB,2024-07-02 09:53,2,"1. 增加搜索引擎选项
+2. 增加Kimi、文心一言两个搜索引擎",2024-07-19
