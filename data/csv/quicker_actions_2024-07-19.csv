@@ -1,9 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 右开tab,https://getquicker.net/Sharedaction?code=10c6c646-e2d2-45db-95fc-08dca71b147e,右开tab并同步当前位置,SiYuan,刘烟火,https://getquicker.net/User/60669/%E5%88%98%E7%83%9F%E7%81%AB,3.7 KB,2024-07-19 21:58,0,,2024-07-20
-窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,129.7 KB,2024-07-15 17:32,10,优化：左键按下时，不触发贴边与吸附，以避免误触改变窗口尺寸,2024-07-20
 拷贝并替换智能对象,https://getquicker.net/Sharedaction?code=b11db6be-6928-4cc2-95f8-08dca71b147e,新建并拷贝智能对象后替换智能对象。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,14.2 KB,2024-07-19 19:41,0,,2024-07-20
-超级操作窗,https://getquicker.net/Sharedaction?code=1671d505-abeb-45df-a274-08dc0740f11f,【打造属于自己的万能工具箱】网址/搜索/程序/文件(夹)/动作/命令/面板/VBA宏/脚本/键鼠操作/文本替换/常用语/颜色收藏……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,415.5 KB,2023-12-29 09:54,24,"v2.6.0 (2024-07-19)
-- 【功能】新增按钮类型「运行网页脚本」",2024-07-20
 识文,https://getquicker.net/Sharedaction?code=b3b9764b-7303-42e7-b102-08d99dc328c2,轻量好用的OCR文字识别工具,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,47 KB,2021-11-03 09:10,10,- 重构,2024-07-20
 文器,https://getquicker.net/Sharedaction?code=d3dcdaf2-1544-43b8-17c3-08d7dec8856a,集大成的文本处理利器,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,250.6 KB,2020-04-13 03:18,61,- 增加免费的网页翻译（打开翻译网站展示翻译结果）,2024-07-20
 简译,https://getquicker.net/Sharedaction?code=b115a802-3ab4-4195-e593-08d7e1d8d224,极简翻译,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,84.8 KB,2020-04-16 20:50,23,"- 重构
