@@ -1,0 +1,24 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+正则测试,https://getquicker.net/Sharedaction?code=c8571724-ead5-43af-1381-08d9cf2149ab,测试正则,通用,zetalpha,https://getquicker.net/User/108272/zetalpha,151.2 KB,2022-01-05 00:13,21,更新,2024-07-27
+切换程序窗口,https://getquicker.net/Sharedaction?code=634c26eb-f389-44a2-57b5-08dcaccb90ad,悬浮鼠标滚轮模拟ALT+TAB，点击模拟CTRL+ALT+TAB,Windows 资源管理器,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,5.7 KB,2024-07-26 20:05,2, ,2024-07-27
+打开,https://getquicker.net/Sharedaction?code=53e77089-3cb1-40c9-57aa-08dcaccb90ad,快速打开文件，比如在另存为、打开等界面，配合扩展热键，可以快速打开文件,Windows 资源管理器,南望山,https://getquicker.net/User/684393/%E5%8D%97%E6%9C%9B%E5%B1%B1,3.7 KB,2024-07-26 17:41,0,,2024-07-27
+一键公文括号,https://getquicker.net/Sharedaction?code=5fe84799-74a9-46a6-fcae-08dc31aa8621,对选中的文本一键添加〔〕（公文括号/六角括号）,WPS Office,mrxt,https://getquicker.net/User/44894/mrxt,1.9 KB,2024-02-20 08:56,2,自动去除选中文本内的中英文方括号,2024-07-27
+文件名启动,https://getquicker.net/Sharedaction?code=c57e46b1-bb8e-4c8f-bce5-08dc9bca0acf,适合家里、公司多台电脑的用户，不管软件装在C盘还是D盘，根据名字直接找到并运行,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,91.4 KB,2024-07-04 21:28,18,+ 增加将选中文件作为打开参数,2024-07-27
+输入框增强AI,https://getquicker.net/Sharedaction?code=dc308cd4-082f-4074-0b89-08dc9d9ab057,让所有输入框/文字编辑器智能化,通用,Donnie_L,https://getquicker.net/User/199719/Donnie_L,245.5 KB,2024-07-07 21:44,31,修复bug,2024-07-27
+偶尔喵一声,https://getquicker.net/Sharedaction?code=a9cd51f7-bf75-4554-57a6-08dcaccb90ad,喵喵喵喵喵喵,通用,GX1D,https://getquicker.net/User/13155/GX1D,3.1 KB,2024-07-26 16:22,0,,2024-07-27
+中文字段批量翻译,https://getquicker.net/Sharedaction?code=00ab02b4-31a9-4648-57a5-08dcaccb90ad,字段批量翻译工具,通用,cn_zane,https://getquicker.net/User/386580/cn_zane,13.8 KB,2024-07-26 16:17,0,,2024-07-27
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,快速AI问答、连续问答、文章书籍AI问答、多文件AI问答......，不限文件大小，本地向量化永久储存。直接选择需要问答的文件即可，也可结合zotero使用更方便。分为普通对话模式和文章对话模式，普通直接使用即可，文章对话模式需要下载模型。,通用,周启,https://getquicker.net/User/20349/%E5%91%A8%E5%90%AF,487.8 KB,2024-07-11 11:24,13,"1.增加通义千问接口
+2.增加自动新建Zotero Better Note 结果自动输入功能
+3.配置增加使用教程
+4.增加普通对话AI角色自定义
+5.增加Apikey增删改存的功能
+6.其他修正......",2024-07-27
+YT-DLP下载视频,https://getquicker.net/Sharedaction?code=8d22fc56-bc6a-4b36-25bd-08dc98da1b3c,"自动获取登录信息,并下载网页视频",Google Chrome,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,15.3 KB,2024-06-30 20:21,1,公开分享,2024-07-27
+时区切换,https://getquicker.net/Sharedaction?code=312dbc4b-3f34-47e8-005d-08dcabde87f1,快速切换时区,通用,KBC,https://getquicker.net/User/5221/KBC,19.2 KB,2024-07-25 10:55,1,增加右键直接切回北京时区,2024-07-27
+网搜,https://getquicker.net/Sharedaction?code=566b76f7-acaa-4d46-c1e0-08d6a4fe0b4a,极致搜索体验,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,86.4 KB,2019-03-10 20:18,101,- 问题修复,2024-07-27
+一键双引号,https://getquicker.net/Sharedaction?code=28fcbb09-004f-41f6-fcb2-08dc31aa8621,对选中的文本一键添加双引号,WPS Office,mrxt,https://getquicker.net/User/44894/mrxt,1.8 KB,2024-02-20 09:00,2,自动将选中文本的内部双引号修改为单引号,2024-07-27
+一键书名号,https://getquicker.net/Sharedaction?code=c89a4ba3-f39b-410c-fcb1-08dc31aa8621,对选中的文本一键添加书名号,WPS Office,mrxt,https://getquicker.net/User/44894/mrxt,1.8 KB,2024-02-20 08:59,2,自动将选中文本的内部书名号修改为单书名号,2024-07-27
+查看待办,https://getquicker.net/Sharedaction?code=52f91e87-1204-471f-5788-08dcaccb90ad,打开最近一次含有指定文本的印象笔记,Evernote,全麦,https://getquicker.net/User/189139/%E5%85%A8%E9%BA%A6,18.7 KB,2024-07-26 10:04,1,更新了设置表单说明,2024-07-27
+Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,617.5 KB,2023-03-16 00:45,39,"1. 修复：最小化界面后会导致后续的翻译不显示界面的bug（感谢vv12138）
+2. 修复：腾讯交互翻译的接口故障",2024-07-27
+诺亚2.0,https://getquicker.net/Sharedaction?code=b6a753a2-8405-4fd8-ad4c-08dbb89e3001,判断场景，匹配场景动作。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,30.9 KB,2023-09-19 21:04,12,2024年7月26日09:17:19,2024-07-27
