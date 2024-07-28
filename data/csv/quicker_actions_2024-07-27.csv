@@ -1,7 +1,5 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 OCR识别自动贴图,https://getquicker.net/Sharedaction?code=939e426f-802a-4ca7-eb91-08dc84f6bb0e,调用quikcer的OCR，速度快，精准，自动贴图对照,通用,翱翔,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94,24.4 KB,2024-06-05 08:30,7,改用quikcer自带的OCR引擎，提高识别速度,2024-07-28
-输入框增强AI,https://getquicker.net/Sharedaction?code=dc308cd4-082f-4074-0b89-08dc9d9ab057,让所有输入框/文字编辑器智能化,通用,Donnie_L,https://getquicker.net/User/199719/Donnie_L,228 KB,2024-07-07 21:44,32,"1. 划词解析模式中，如果窗口不关闭，再次划词时，会给窗口追加内容，方便阅读常文本中进行分析；
-2. 原版本中所有的文本窗口只能打开一个。更新后，可以重复打开多个窗口，不同模式互相不影响。",2024-07-28
 自动进入微信,https://getquicker.net/Sharedaction?code=69417ffd-e9ec-4ee3-4dc8-08dc9ca860e5,结合“事件触发”和“自动运行动作”功能，实现微信启动时自动进入，无需手动点击登录界面的“进入微信”,WeChat,全麦,https://getquicker.net/User/189139/%E5%85%A8%E9%BA%A6,28.6 KB,2024-07-05 20:02,4,更新了说明文档,2024-07-28
 实践194：寻找夹在中间的文本,https://getquicker.net/Sharedaction?code=7a008fce-e79f-46da-acba-08dcadd628ae, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.7 KB,2024-07-27 18:59,1,修复动作名称序号,2024-07-28
 实践193：（方法二）Quicker文本窗口是否依旧存在,https://getquicker.net/Sharedaction?code=22022d07-50a3-4b24-acbd-08dcadd628ae, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,5.3 KB,2024-07-27 19:00,0,,2024-07-28
@@ -14,10 +12,8 @@ OCR识别自动贴图,https://getquicker.net/Sharedaction?code=939e426f-802a-4ca
 实践186：将多个CSV表格合并为全新的总表,https://getquicker.net/Sharedaction?code=d77ecf22-6429-4348-0081-08dcabde87f1,  ,通用,darcyc,https://getquicker.net/User/95689/darcyc,7.6 KB,2024-07-25 21:36,2,归入例子库,2024-07-28
 实践185：选中一些文件后直接汉化文件名,https://getquicker.net/Sharedaction?code=d3d160e8-3187-470c-579b-08dcaccb90ad, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.7 KB,2024-07-26 14:47,1,归入例子库,2024-07-28
 实践184：令Webview2模块只显示局部网页内容,https://getquicker.net/Sharedaction?code=124cd6d3-a465-4649-57c0-08dcaccb90ad,  ,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.6 KB,2024-07-26 22:33,1,归入例子库,2024-07-28
-文器,https://getquicker.net/Sharedaction?code=d3dcdaf2-1544-43b8-17c3-08d7dec8856a,集大成的文本处理利器,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,262 KB,2020-04-13 03:18,64,- 细节优化,2024-07-28
 替换文本,https://getquicker.net/Sharedaction?code=246a0616-26e6-4dd3-57cd-08dcaccb90ad,方便替换文本时测试,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,10.9 KB,2024-07-27 00:24,2,原内容修改自动更新,2024-07-28
 巴德日期时间输入,https://getquicker.net/Sharedaction?code=87e4f28d-66fd-4f67-b674-08dc8c86488e,争做最强的日期时间输入动作!!!,通用,Bader,https://getquicker.net/User/135289/Bader,12 KB,2024-06-15 10:40,2,1. 去除选择时使用焦点,2024-07-28
-一键置入PS,https://getquicker.net/Sharedaction?code=59498e0a-a10c-4a67-180b-08dbbd6a6295,将选中素材一键置入正在编辑的PSD中(Photoshop),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,17.5 KB,2023-09-26 10:12,15,支持在wps文档置入Photoshop,2024-07-28
 PS启动,https://getquicker.net/Sharedaction?code=ad3fc205-7856-4e9a-991e-08dc7a77392c,选中/剪贴板/截图/微信/wps/Office/Eagle/snipaste/PixPin/一键启动,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,58.5 KB,2024-05-23 21:07,20,wps置入ps优化,2024-07-28
 远程控制简易版,https://getquicker.net/Sharedaction?code=4e31c817-5217-40ca-f29a-08dc4938cae7,"一个简易版的远程控制, 请勿改名, 被控端也需要安装, 可用本机远程控制本机进行测试",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,66 KB,2024-03-21 10:53,6,同上,2024-07-28
 段落排版,https://getquicker.net/Sharedaction?code=ee84cea1-d475-47b6-ac89-08dcadd628ae,段落排版,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,1.1 KB,2024-07-27 11:59,0,,2024-07-28
