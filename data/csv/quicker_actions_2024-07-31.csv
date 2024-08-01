@@ -1,13 +1,11 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 分离pdf新,https://getquicker.net/Sharedaction?code=a471e6e4-1353-4d1d-a87a-08dcafa4e6df,提取出pdf的目录页码,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,67.9 KB,2024-07-30 17:39,2,2,2024-08-01
 表格分PDF,https://getquicker.net/Sharedaction?code=f7291ed9-573e-4e7f-a855-08dcafa4e6df,根据文件夹中的word目录，自动整理格式，输出excel，并对对应的pdf进行目录拆分,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,92.4 KB,2024-07-30 11:06,11,1,2024-08-01
-摸鱼人日历,https://getquicker.net/Sharedaction?code=7ee4fcd0-0672-4cab-7abd-08d9fcf64e81,建议随Quicker启动时运行，提醒自己摸鱼。,通用,EC10010,https://getquicker.net/User/2997/EC10010,143.4 KB,2022-03-04 14:28,20,增加巴黎奥运会奖牌榜。,2024-08-01
 文本统计,https://getquicker.net/Sharedaction?code=c221e729-84a3-4985-9b6c-08dcb09936a7,文本统计功能,通用,qkxw,https://getquicker.net/User/149019/qkxw,15.2 KB,2024-07-31 20:35,0,,2024-08-01
 实践201：为文件名加上序号,https://getquicker.net/Sharedaction?code=ed7608c5-b5dc-419e-9b68-08dcb09936a7, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,4.3 KB,2024-07-31 18:49,0,,2024-08-01
 实践200：转换文本文件（如 .txt）的编码,https://getquicker.net/Sharedaction?code=5d7b33a6-ecff-4625-9b67-08dcb09936a7, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.2 KB,2024-07-31 18:48,0,,2024-08-01
 实践199：跳转到某个浏览器标签页,https://getquicker.net/Sharedaction?code=334bbe5a-d89f-44ce-9b63-08dcb09936a7, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,1.1 KB,2024-07-31 18:07,1,归入例子库,2024-08-01
 实践198：找到值在列表里的所有序号,https://getquicker.net/Sharedaction?code=d1729b7b-3b32-4861-9b43-08dcb09936a7, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,4.4 KB,2024-07-31 09:56,1,归入例子库,2024-08-01
-示例：浏览器书签操控,https://getquicker.net/Sharedaction?code=e94dc30e-c665-4884-8eb0-08dcaeb3ff7a,浏览器书签操控,通用,zdf153,https://getquicker.net/User/20184/zdf153,23.7 KB,2024-07-28 16:58,2,1,2024-08-01
 ASIN首图,https://getquicker.net/Sharedaction?code=773a9772-1573-45f3-9b64-08dcb09936a7,通过亚马逊asin下载主图到剪贴板,Microsoft Excel,不想玩啦,https://getquicker.net/User/238960/%E4%B8%8D%E6%83%B3%E7%8E%A9%E5%95%A6,10.7 KB,2024-07-31 18:17,0,,2024-08-01
 导航灵,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,网页收藏/导航/搜索/标签管理网页,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,137 KB,2023-07-04 13:05,40,支持设置常驻模式,2024-08-01
 截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,380.9 KB,2024-06-06 00:01,58,优化,2024-08-01
@@ -20,7 +18,6 @@ TrashPikPak,https://getquicker.net/Sharedaction?code=d7894800-9b0b-4274-9b59-08d
 EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,223.5 KB,2023-05-29 20:30,30,修改说明文字。,2024-08-01
 在线观影,https://getquicker.net/Sharedaction?code=764233ef-c4f9-4cd6-5411-08d7e68868be,收集一些可以在线看电影的网站,通用,qkxw,https://getquicker.net/User/149019/qkxw,3 KB,2020-04-22 19:50,5,更新影视资源,2024-08-01
 目录名命名,https://getquicker.net/Sharedaction?code=8f1e03f5-5d92-46cf-9b48-08dcb09936a7,以文件所在文件夹名称（目录名）命名文件,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,18.1 KB,2024-07-31 12:32,0,,2024-08-01
-喝水提醒,https://getquicker.net/Sharedaction?code=9c324846-beb5-40a0-9b46-08dcb09936a7,"好看版, 通过自行设置定时任务提醒喝水",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,5.7 KB,2024-07-31 11:35,0,,2024-08-01
 百变动作,https://getquicker.net/Sharedaction?code=857dc736-c5c9-4cda-7515-08dc9e8ef04d,复制一次需要模仿的动作，在运行一次此动作，以后每次都会变成被模仿的动作，直到右键清空,通用,sd309991,https://getquicker.net/User/341619/sd309991,26.6 KB,2024-07-08 18:52,3,增加已选动作徽标,2024-08-01
 常用文件夹,https://getquicker.net/Sharedaction?code=b651a40a-b8e6-4e15-9b45-08dcb09936a7,配置简单，快速打开常用的文件夹，超级好用,Windows 资源管理器,syhc,https://getquicker.net/User/64098/syhc,11.7 KB,2024-07-31 10:55,0,,2024-08-01
 图标搜索,https://getquicker.net/Sharedaction?code=150ef724-ee76-416c-275d-08db791b24f5,快速搜索图标进行下载或复制链接,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,43.9 KB,2023-06-30 15:45,2,修复链接重复写入剪切板,2024-08-01
