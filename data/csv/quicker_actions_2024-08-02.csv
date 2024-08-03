@@ -1,0 +1,28 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+表格分PDF,https://getquicker.net/Sharedaction?code=f7291ed9-573e-4e7f-a855-08dcafa4e6df,3,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,100.5 KB,2024-07-30 11:06,13,22,2024-08-03
+浏览器书签,https://getquicker.net/Sharedaction?code=c4225383-8f95-4221-aa86-08dcb238f6cd,浏览器书签竖着显示，基于Quicker浏览器插件,通用,zdf153,https://getquicker.net/User/20184/zdf153,65.4 KB,2024-08-01 22:49,5,优化,2024-08-03
+创建变量,https://getquicker.net/Sharedaction?code=3110cf23-fb47-4d94-ff67-08dcb28a557a,批量创建或收藏变量,通用,zdf153,https://getquicker.net/User/20184/zdf153,26.7 KB,2024-08-02 20:00,1,1,2024-08-03
+文本对比,https://getquicker.net/Sharedaction?code=ef557423-c9fa-4559-8b69-08d83cd831d0,麻雀虽小五脏俱全的文本对比/合并动作，可以在一定程度上替代Beyond Compare,通用,Cesar,https://getquicker.net/User/18359/Cesar,67.9 KB,2020-08-10 18:24,7,修复由于CDN失效导致的问题,2024-08-03
+智能复制,https://getquicker.net/Sharedaction?code=f88b6021-4ffd-4919-09b0-08dab667ae52,智能判断情景，复制纯文本、文件路径或窗口路径。,通用,Anlv,https://getquicker.net/User/392637/Anlv,33.4 KB,2022-10-26 11:43,8,文件智能复制：可选复制文件路径或文件名。,2024-08-03
+截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,380.9 KB,2024-06-06 00:01,59,优化,2024-08-03
+连续复制板,https://getquicker.net/Sharedaction?code=52fd2f8f-3c24-4072-8edc-08dcaeb3ff7a,"按下CTRL+C,自动收集复制文本",通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,11.5 KB,2024-07-29 12:53,4,优化,2024-08-03
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,截图识别文字/截图后60种文本联动处理功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,51.2 KB,2024-05-09 20:07,23,优化,2024-08-03
+文本窗口,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,7.7 KB,2024-07-30 20:09,9,优化Typora打开,2024-08-03
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,全能版网络搜索神器/让quicker搜索超级增强/AI对话,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,376.3 KB,2023-10-22 15:24,257,优化购物,2024-08-03
+AVIF转jpg,https://getquicker.net/Sharedaction?code=842b5b18-bfba-4651-ff61-08dcb28a557a,AVIF转jpg,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,7.5 KB,2024-08-02 17:16,0,,2024-08-03
+删除英语键盘,https://getquicker.net/Sharedaction?code=47a972af-84a2-449f-bb75-08db3a59838c,删除英语语言 删除美式键盘,通用,超频雪糕,https://getquicker.net/User/610346/%E8%B6%85%E9%A2%91%E9%9B%AA%E7%B3%95,2.7 KB,2023-04-11 19:06,2,隐藏powerShell运行窗口 增加启动时通知,2024-08-03
+生成变量,https://getquicker.net/Sharedaction?code=c0904c19-d4fd-442b-e504-08d8bce5d18f,"快速生成大量变量,用于测试",Quicker,Cea,https://getquicker.net/User/113342/Cea,38.5 KB,2021-01-20 12:34,14,fix,2024-08-03
+微信锁V1,https://getquicker.net/Sharedaction?code=0f39a569-f170-4c26-7c87-08dbeef8975e,无侵入式锁定微信ui，防止离开的时候被人偷窥，默认密码666 ，解锁的时候鼠标 点一下微信输入666回车即可,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,11 KB,2023-11-27 20:01,1,"不知道是quicker哪里出问题了  密码判断不了，现在强制改成666密码
+想自己改 可以打开c#代码把666改成其他密码即可",2024-08-03
+实践207：【WebView2】显示折线图,https://getquicker.net/Sharedaction?code=54c0ff71-5bec-41f2-a988-08dab0af50de,,通用,darcyc,https://getquicker.net/User/95689/darcyc,6 KB,2022-10-18 22:15,1,归入例子库,2024-08-03
+Dataview,https://getquicker.net/Sharedaction?code=1a6018d7-f49b-4e29-061c-08dac1ea0184,"Dataview插件代码生成器,简单强大,全链路文件管理,让知识复利",Obsidian,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,350 KB,2022-11-09 19:24,370,小优化,2024-08-03
+网络子程序收藏,https://getquicker.net/Sharedaction?code=6abcee60-f639-4674-a7b9-08d97fc56787,"子程序收藏,按下ctrl启动动作为收藏,如果获取失败,可以手动复制再收藏",Quicker,zdf153,https://getquicker.net/User/20184/zdf153,17.7 KB,2021-09-25 19:51,3,修复bug,2024-08-03
+实践206：（方法2）分钟时间转秒数,https://getquicker.net/Sharedaction?code=2e6dcc0b-f654-47e0-ff53-08dcb28a557a, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.9 KB,2024-08-02 11:10,0,,2024-08-03
+实践205：（方法1）分钟时间转秒数,https://getquicker.net/Sharedaction?code=6ce91556-fd93-4202-ff52-08dcb28a557a, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,4.8 KB,2024-08-02 11:10,0,,2024-08-03
+实践204：C#自定义排序列表函数,https://getquicker.net/Sharedaction?code=190e1bda-2055-460d-ff48-08dcb28a557a, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.6 KB,2024-08-02 08:31,1,归入例子库,2024-08-03
+实践203：求和数字元素的列表,https://getquicker.net/Sharedaction?code=83e736ff-e175-4af1-ffdb-08dcb1b1f7f4, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.8 KB,2024-08-01 19:05,2,归入例子库,2024-08-03
+实践202：获取并发送富文本到编辑器（如Word）,https://getquicker.net/Sharedaction?code=b0886049-1f43-4d4e-9b6a-08dcb09936a7, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,5 KB,2024-07-31 20:05,1,归入例子库,2024-08-03
+当前文件夹运行,https://getquicker.net/Sharedaction?code=66d67362-b0cb-4daa-ff4b-08dcb28a557a,快速在当前文件夹运行指定命令,Windows 资源管理器,syhc,https://getquicker.net/User/64098/syhc,7.9 KB,2024-08-02 10:12,0,,2024-08-03
+交互直译,https://getquicker.net/Sharedaction?code=78ab37a2-9b2b-4af0-eb44-08db18860216,免费无需登陆 ，谷歌、有道、腾讯、阿里，翻译动作图标右键可切换,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,32.9 KB,2023-02-28 13:27,5,"+ 谷歌镜像翻译
+~ 修改默认翻译为谷歌镜像",2024-08-03
+导航灵,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,网页收藏/导航/搜索/标签管理网页,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,137.4 KB,2023-07-04 13:05,41,优化子程序bug,2024-08-03
