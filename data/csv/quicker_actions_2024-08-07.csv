@@ -3,7 +3,6 @@
 输入框增强AI,https://getquicker.net/Sharedaction?code=dc308cd4-082f-4074-0b89-08dc9d9ab057,让所有输入框/文字编辑器智能化 + 划词翻译/解析,通用,Donnie_L,https://getquicker.net/User/199719/Donnie_L,234.4 KB,2024-07-07 21:44,43,"1. 增加一个动作参数【选词模式切换】方便快速切换；
 2. 把选词模式的切换从“参数设置”中更改到右键菜单；",2024-08-08
 离线ocr,https://getquicker.net/Sharedaction?code=d981e1da-3cab-452b-ebd6-08da6897cdef,离线ocr ,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,27.7 KB,2022-07-19 19:17,10,66,2024-08-08
-MD笔记本,https://getquicker.net/Sharedaction?code=1b67cb94-ab53-40de-13f7-08dcb55b45cc,简单的笔记记录，必须安装第三方markdown软件，建议typora,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,263.4 KB,2024-08-06 19:20,1,cnedeifvifewji,2024-08-08
 截图自动保存,https://getquicker.net/Sharedaction?code=f5e17504-3ebc-4bb0-13ff-08dcb55b45cc,截图后自动保存到指定目录,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,12.5 KB,2024-08-06 22:58,1,可在设置中自定是否在文件名中加时间,2024-08-08
 断舍离小助理,https://getquicker.net/Sharedaction?code=4dc7e738-8f4f-43e2-74f9-08dc9e8ef04d,——个人物品管理。辅助完成断舍离,通用,level1,https://getquicker.net/User/102977/level1,1.1 MB,2024-07-08 15:33,1,"【执行】
 1、执行动作，增加选项页面。支持打开不同的对象：网站、笔记、物品。
@@ -354,10 +353,7 @@ BUG：
 连续复制板,https://getquicker.net/Sharedaction?code=52fd2f8f-3c24-4072-8edc-08dcaeb3ff7a,"按下CTRL+C,自动收集复制文本",通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,12.3 KB,2024-07-29 12:53,7,文本处理优化,2024-08-08
 文本窗口,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,10.3 KB,2024-07-30 20:09,13,"新增功能-自动重新编号
 支持生成递增数字列表,可加前后缀",2024-08-08
-高能PS翻译,https://getquicker.net/Sharedaction?code=5f6dbb34-f710-4dca-13de-08dcb55b45cc,2024年8月6日09:56:06,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,24.8 KB,2024-08-06 09:56,2,新增右键设置，支持设置不弹窗项。,2024-08-08
 快速调时,https://getquicker.net/Sharedaction?code=1cbf855c-ea01-4967-8b1c-08dcb6550811,跳过调整时间的等待时间，配合快捷键使用更佳,原神,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,2.6 KB,2024-08-07 16:29,0,,2024-08-08
-分组短语,https://getquicker.net/Sharedaction?code=08d8ab38-0fa5-4b2d-9045-08db7a0bdd0c,本动作是【快捷短语】和【快捷短语（多行）】的升级版，可以收藏常用短语并快速调用，支持多行、分组等自定义功能。采用全新的【自定义窗口】功能，体验升级。,通用,i_orange,https://getquicker.net/User/97/i_orange,329.5 KB,2023-07-02 14:42,26,"V0.2.15更新说明
-【修复】修复依赖文件下载异常，感谢 @壹号首长 的反馈",2024-08-08
 PS文件菜单,https://getquicker.net/Sharedaction?code=dbfd51ca-34d3-4aeb-8b19-08dcb6550811,PS文件菜单（寒酸版）,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,41.6 KB,2024-08-07 16:11,0,,2024-08-08
 PS画板导出,https://getquicker.net/Sharedaction?code=d85153ea-fd25-48ac-cee8-08dc925151e4,通过快捷键设置的画板导出,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,27.2 KB,2024-06-22 17:23,13,2024年8月7日14:15:33,2024-08-08
 图片直压,https://getquicker.net/Sharedaction?code=e56d8585-94dd-4f1e-8ee0-08dcaeb3ff7a,纯粹压缩，主打高效，支持多线程和文件夹批量压缩,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,18.4 KB,2024-07-29 14:11,1,优化压缩文件完成判断,2024-08-08
