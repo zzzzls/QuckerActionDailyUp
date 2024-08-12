@@ -1,9 +1,7 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 参考线,https://getquicker.net/Sharedaction?code=f1168e2f-ea38-408b-a409-08dbf16456ca,整合多个参考线相关功能。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,12.5 KB,2023-11-30 17:25,1,整合多个参考线相关功能。,2024-08-12
-Doc2X识别（改）,https://getquicker.net/Sharedaction?code=d247a0e5-3b96-45c4-0077-08dc658bec70,公式识别，按住ctrl纯公式识别,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,154.9 KB,2024-04-26 18:29,25,选中文件、文件夹可识别其中的pdf文件,2024-08-12
 日期文件夹,https://getquicker.net/Sharedaction?code=54f03aab-bc2e-4728-8558-08dcb927a2ed,创建以日期为前缀或后缀的命名文件夹,Windows 资源管理器,MaskFox,https://getquicker.net/User/1121520/MaskFox,18.5 KB,2024-08-10 18:47,1,修正默认日期格式。,2024-08-12
 分句翻译,https://getquicker.net/Sharedaction?code=a8f4a3e9-482e-4e7b-857e-08dcb927a2ed,选中英文或中文内容，使用本动作，会先智能切分句子，再逐句翻译。每行一句，双语对照。,通用,Balrog,https://getquicker.net/User/235565/Balrog,13.2 KB,2024-08-11 22:30,0,,2024-08-12
-文本处理,https://getquicker.net/Sharedaction?code=d42764bc-4ec3-441d-be77-08dbdcf87739,整合多个文本相关动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,64.1 KB,2023-11-05 00:05,3,整合 Font Finder,2024-08-12
 巴德闪现,https://getquicker.net/Sharedaction?code=57d3b416-4e0b-45a9-65c7-08dc7f7256e7,你想摸鱼么？你想利用碎片化的时间学习么？来，巴德闪现给你无限可能！,通用,Bader,https://getquicker.net/User/135289/Bader,21.7 KB,2024-05-30 00:11,2,"强力更新：
 1. 功能模块化
 2. 提示UI优化
@@ -26,10 +24,9 @@ hollama,https://getquicker.net/Sharedaction?code=a0dada44-cc9b-4650-8577-08dcb92
 动作启动器,https://getquicker.net/Sharedaction?code=9b47a91f-48e1-47c9-856b-08dcb927a2ed,执行 Photoshop 内的动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,35.6 KB,2024-08-11 11:27,1,更多自定义,2024-08-12
 颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/微信公众号/Photoshop/Obsidian/WPS/Office/Illustrator,通用,考Fan,https://getquicker.net/User/478204/%E8%80%83Fan,288.1 KB,2023-04-10 17:25,106,优化文档上色,2024-08-12
 截屏绘OCR,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,考Fan,https://getquicker.net/User/478204/%E8%80%83Fan,381.1 KB,2024-06-06 00:01,60,优化识别处理,2024-08-12
-截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,截图识别文字/OCR后60种文本联动处理功能,通用,考Fan,https://getquicker.net/User/478204/%E8%80%83Fan,58.1 KB,2024-05-09 20:07,43,转换优化,2024-08-12
 文本窗口,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,考Fan,https://getquicker.net/User/478204/%E8%80%83Fan,10.3 KB,2024-07-30 20:09,18,转换优化,2024-08-12
 Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,考Fan,https://getquicker.net/User/478204/%E8%80%83Fan,345.2 KB,2023-03-25 00:27,272,小优化,2024-08-12
 快速Journal,https://getquicker.net/Sharedaction?code=f6145ad8-fe74-404b-a9c5-08db5f197f60,快速添加到今日journal,logseq,Sisyphe42,https://getquicker.net/User/396431/Sisyphe42,19.7 KB,2023-05-28 20:39,7,添加多个graphs的管理和切换的右键菜单项,2024-08-12
 Word设置行高,https://getquicker.net/Sharedaction?code=67e92de4-6399-4344-004e-08dcabde87f1,设置1-255磅内的任意行高,WPS Office,狄年牙,https://getquicker.net/User/816127/%E7%8B%84%E5%B9%B4%E7%89%99,2.7 KB,2024-07-24 21:51,2,v0810.进行了部分优化,2024-08-12
-透明度,https://getquicker.net/Sharedaction?code=b10d12ea-155d-46f8-e665-08dc8f5b9fbd,调整窗口透明度5,通用,里吉LlJ,https://getquicker.net/User/505758/%E9%87%8C%E5%90%89LlJ,96.1 KB,2024-06-19 02:17,7,重大更新:透明度5正式版,2024-08-12
+透明度,https://getquicker.net/Sharedaction?code=b10d12ea-155d-46f8-e665-08dc8f5b9fbd,调整窗口透明度,通用,里吉LlJ,https://getquicker.net/User/505758/%E9%87%8C%E5%90%89LlJ,96.1 KB,2024-06-19 02:17,7,重大更新:透明度5正式版,2024-08-12
 特殊符号,https://getquicker.net/Sharedaction?code=51dd9fb5-0141-4b92-2304-08d7ce35877d,分类清晰的特殊符号,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,41.4 KB,2020-03-23 10:48,21,调整窗口大小,2024-08-12
