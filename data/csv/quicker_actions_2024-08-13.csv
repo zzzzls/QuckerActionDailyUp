@@ -1,7 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,199.8 KB,2024-08-11 00:17,16,1.修复压缩bug,2024-08-14
+Deeplx|ChatGPT翻译并替换,https://getquicker.net/Sharedaction?code=e1515753-5e22-4e79-8ed4-08dcaeb3ff7a,使用前请自行设置快捷键并配置相关API，使用方法：“聊天框输入中文，然后按下快捷键后自动替换英文”,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,63.5 KB,2024-07-29 11:11,3,更新了，三击空格翻译的功能（选择开启）,2024-08-14
 网站收藏2.0,https://getquicker.net/Sharedaction?code=a653a1d1-6c52-4089-ba99-08dc61bfef39,"按住Ctrl启动动作可以添加网站,长按Esc会关闭窗口",通用,zdf153,https://getquicker.net/User/20184/zdf153,388 KB,2024-04-22 01:35,36,实时搜索增加历史搜索，增加了显示面板的自定义功能，添加网站移动到了第一行,2024-08-14
-AI播音员,https://getquicker.net/Sharedaction?code=adb57332-20db-484c-83ec-08dcbad77c24,通过OpenAI将文字转为语音-ChatGPT 接近真人发音，多款声音可选，也有地方口音。,通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,32.9 KB,2024-08-13 20:54,0,,2024-08-14
 引用统计,https://getquicker.net/Sharedaction?code=63f1098a-4e71-4166-f180-08db0605c661,统计Word或WPS文献引用次数，实现双向定位增减操作。,Microsoft Word,ttChen,https://getquicker.net/User/395924/ttChen,3.4 KB,2023-02-04 18:33,12,完善,2024-08-14
 Everything Pro,https://getquicker.net/Sharedaction?code=b651041a-4ec5-4d8f-bed0-08dc4ec30b16,在Everything地址栏填入不同内容（搜索语法/指定路径/选中文字）,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,64.5 KB,2024-03-29 12:28,8,优化步骤,2024-08-14
 复制文件名,https://getquicker.net/Sharedaction?code=40c4f4a6-ab0a-4602-13f8-08dcb55b45cc,复制选中文件(夹)的名称/路径、复制选中文件夹内子文件(夹)的路径,Windows 资源管理器,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,23.4 KB,2024-08-06 20:19,1,增加设置菜单,2024-08-14
@@ -115,7 +114,7 @@ BUG：
 Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,604.7 KB,2023-03-16 00:45,41,"1. 修复：尝试修复版本兼容性措施存在的bug
 2. 优化：动作结构-设置窗口
 【最近更新】全新的设置界面，更加直观、简洁、现代化！",2024-08-14
-全屏自动隐藏悬浮动作,https://getquicker.net/Sharedaction?code=a0dacc84-9e91-4ebf-e913-08dc88e3c2ea,"全屏自动隐藏悬浮动作,动作右键可以示隐藏悬浮动作,添加黑名单进程",通用,zdf153,https://getquicker.net/User/20184/zdf153,14.8 KB,2024-06-10 22:49,5,获取进程失败时自动隐藏,2024-08-14
+全屏自动隐藏悬浮动作,https://getquicker.net/Sharedaction?code=a0dacc84-9e91-4ebf-e913-08dc88e3c2ea,"全屏自动隐藏悬浮动作,动作右键可以显示隐藏悬浮动作,添加黑名单进程",通用,zdf153,https://getquicker.net/User/20184/zdf153,14.8 KB,2024-06-10 22:49,5,获取进程失败时自动隐藏,2024-08-14
 PSBcolor,https://getquicker.net/Sharedaction?code=c0fce3ef-5c97-4069-e270-08dcb832f8f0,最懂交互的色板，左键填充，右键描边，可收藏形状图层的描边色、描边宽度、填充色、可批量应用于选择的形状图层。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,127.2 KB,2024-08-10 15:51,1,"
 ~~1、修复去除操作时，图层选择紊乱问题。
 ~~2、在添加按钮上增加了停留时显示的备注信息。（alt键+点击去掉描边，ctrl键+点击去掉填充）",2024-08-14
