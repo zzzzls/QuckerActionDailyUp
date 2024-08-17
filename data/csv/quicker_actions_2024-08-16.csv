@@ -1,0 +1,15 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,178.3 KB,2024-07-15 17:32,24,新增：右键设置-基础设置-窗口定位,2024-08-17
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,162.8 KB,2023-05-29 20:30,35,修复大小写混用时纠错混乱的问题。,2024-08-17
+语音输入,https://getquicker.net/Sharedaction?code=0afa11ce-0571-4fcd-7950-08dc970018b2,简单易用的语音输入功能。【Quicker模块】,通用,M-cc,https://getquicker.net/User/521120/M-cc,50.5 KB,2024-06-28 19:54,10,~修复每次动作运行完毕后自动按下shift的错误，导致自动切换中英文输入模式。,2024-08-17
+效率办公助手,https://getquicker.net/Sharedaction?code=4c3fe8ba-c5e0-4158-7ea6-08dc251ced29,免费实用智能，财审、券商、投行打工人必备的效率办公助手！,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,402.5 KB,2024-02-05 11:54,33,【优化】优化按键鼠标录制功能,2024-08-17
+密码册子,https://getquicker.net/Sharedaction?code=49aa6141-f943-4e81-7fe6-08da7e73229a,记录常用密码，并快捷输入,通用,syhc,https://getquicker.net/User/64098/syhc,30.5 KB,2022-08-16 14:18,2,新增数据导入、导出功能，方便备份密码或多台设备间同步数据使用。,2024-08-17
+自定义接口拼音,https://getquicker.net/Sharedaction?code=ee07c30f-156f-4810-4128-08dcbd8a9e0a,Translator 配套动作,通用,南望山,https://getquicker.net/User/684393/%E5%8D%97%E6%9C%9B%E5%B1%B1,4.2 KB,2024-08-16 13:42,0,,2024-08-17
+视频搜索,https://getquicker.net/Sharedaction?code=28d37abb-8d5a-462f-52a0-08da8cb04b9b,视频搜索：抖音，哔哩哔哩，快手，,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,17.5 KB,2022-09-03 17:12,8,1,2024-08-17
+快速截图,https://getquicker.net/Sharedaction?code=236aa225-c6b1-4319-02c4-08dcbc7637c1,对【快速截图】功能的优化,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,34.6 KB,2024-08-16 01:55,2,~ 前一秒不显示提示，一秒后显示提示,2024-08-17
+剪切图层,https://getquicker.net/Sharedaction?code=42888f04-df47-4909-8ec8-08dcaeb3ff7a,让PS图层像文本一样可以剪切。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,31.9 KB,2024-07-29 09:25,3,优化启动速度。,2024-08-17
+诺亚2.0,https://getquicker.net/Sharedaction?code=b6a753a2-8405-4fd8-ad4c-08dbb89e3001,判断场景，匹配场景动作。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,32 KB,2023-09-19 21:04,13,优化启动时间。,2024-08-17
+智能复制,https://getquicker.net/Sharedaction?code=f88b6021-4ffd-4919-09b0-08dab667ae52,智能判断情景，复制纯文本、文件路径或窗口路径。,通用,Anlv,https://getquicker.net/User/392637/Anlv,33.5 KB,2022-10-26 11:43,9,"增加文件复制模式的默认设置.
+可在动作右键菜单进入设置选项.",2024-08-17
+论文排版Pro,https://getquicker.net/Sharedaction?code=8d8d6f34-a75d-45a4-d4bf-08db111f8bc2,一键全文调整格式、页码,Microsoft Word,唯我独黑,https://getquicker.net/User/640021/%E5%94%AF%E6%88%91%E7%8B%AC%E9%BB%91,52 KB,2023-02-18 10:39,6,微调,2024-08-17
+浏览器验证码,https://getquicker.net/Sharedaction?code=8ad2aeb8-3028-42af-6fe4-08db22290442,通过选择验证码图片识别验证码，可记录验证码CSS值，下次无需选择自动识别。如识别失败则根据记录的鼠标位置自动复制并识别。仍然失败（非浏览器验证码）则进入截图识别,Google Chrome,blanka,https://getquicker.net/User/667540/blanka,397.6 KB,2023-03-12 22:56,28,~修复蓝奏云解析,2024-08-17
