@@ -1,12 +1,15 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-MD笔记2,https://getquicker.net/Sharedaction?code=1b67cb94-ab53-40de-13f7-08dcb55b45cc,简单的笔记记录，必须安装第三方markdown软件，建议typora,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,271.7 KB,2024-08-06 19:20,5,fjewofije,2024-08-21
+图片拼接,https://getquicker.net/Sharedaction?code=a77121a9-3b39-40ac-4cfb-08db7181857e,拼图。截图或选图后拼接图片；宫格拼图，长截图。,通用,ASUNNY,https://getquicker.net/User/579075/ASUNNY,452.6 KB,2023-06-21 17:51,4,"取消了默认打开图片方式,需要提前设置",2024-08-21
+一次对话,https://getquicker.net/Sharedaction?code=7b7f43b9-51dc-4b6a-4dc7-08dcc04bd41a,编辑动作，设置OpenAI-Key,通用,李尚奥,https://getquicker.net/User/134690/%E6%9D%8E%E5%B0%9A%E5%A5%A5,25.5 KB,2024-08-20 13:52,3,显示方式更改,2024-08-21
 批量创建文件夹,https://getquicker.net/Sharedaction?code=11f58041-e517-492e-4dd5-08dcc04bd41a,在弹出的窗口输入或粘贴文件夹名称来批量创建文件夹,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,7.1 KB,2024-08-20 17:40,0,,2024-08-21
 导出转曲,https://getquicker.net/Sharedaction?code=eccf49c2-3072-468c-9fe5-08dc7d53f313,导出当前文档的轮廓版本.ai文件和.pdf文件.,Adobe Illustrator,Anlv,https://getquicker.net/User/392637/Anlv,10.4 KB,2024-05-27 19:11,1,"~.优化导出的命名方式,避免A_ver1.0被命名为A_ver1",2024-08-21
-窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,188.7 KB,2024-07-15 17:32,29,调整：转换公共子程序为本地子程序，以便大家自定义增添功能与保存版本,2024-08-21
 Csv转换Markdown表格,https://getquicker.net/Sharedaction?code=0f00aee1-3b0d-4ad7-4dcd-08dcc04bd41a,将Csv文本转换为markdown表格,通用,CL,https://getquicker.net/User/3/CL,1.9 KB,2024-08-20 15:49,0,,2024-08-21
+自动round,https://getquicker.net/Sharedaction?code=259d60dc-748c-4caa-3230-08dcbf54dccb,Excel中，为单元格自动添加round函数，右键设置保留的位数。,WPS Office,林青雀,https://getquicker.net/User/181402/%E6%9E%97%E9%9D%92%E9%9B%80,7.8 KB,2024-08-19 17:10,2,-,2024-08-21
+一键排版,https://getquicker.net/Sharedaction?code=837170bc-6b3c-4d2b-4dc6-08dcc04bd41a,页边距+标题正文+字体字号+段落,通用,用户PiHDQ0AoBQA,https://getquicker.net/User/1121311/%E7%94%A8%E6%88%B7PiHDQ0AoBQA,19.5 KB,2024-08-20 13:34,0,,2024-08-21
 创建文件副本,https://getquicker.net/Sharedaction?code=fc0f1960-442f-46fb-ffd7-08dcb1b1f7f4,创建文件副本并在重命名中加入时间及版本号,Windows 资源管理器,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,20.4 KB,2024-08-01 18:11,6,修复版本号无法正常增加的错误,2024-08-21
 ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"快速GPT AI问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,684.1 KB,2024-07-11 11:24,38,"优化SumatraPDF、福昕阅读器和文件资源管理器中的文件问答
 ",2024-08-21
+优书网,https://getquicker.net/Sharedaction?code=9df4015c-180c-4c8c-4dc0-08dcc04bd41a,自动获取选中文本、剪贴板文本、输入关键词执行搜索,Google Chrome,shuixifou,https://getquicker.net/User/597972/shuixifou,4.7 KB,2024-08-20 11:19,0,,2024-08-21
 Prompt,https://getquicker.net/Sharedaction?code=669e6986-5929-4ed5-94e6-08dc6f0c8aa6,发送 Prompt 到 ChatGPT对话窗。,通用,Anlv,https://getquicker.net/User/392637/Anlv,24.5 KB,2024-05-08 17:09,4,"~.不再固定标签页
 ~.不主动提交对话, 便于修改prompt,请通过enter发送对话",2024-08-21
 选中处理,https://getquicker.net/Sharedaction?code=efd54142-15cc-4027-4db9-08dcc04bd41a,选中要修改的文本进行处理,通用,李尚奥,https://getquicker.net/User/134690/%E6%9D%8E%E5%B0%9A%E5%A5%A5,135.3 KB,2024-08-19 23:02,1,增加选中分隔符，交换左右两侧文本。,2024-08-21
