@@ -1,9 +1,36 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+引用 & 回溯,https://getquicker.net/Sharedaction?code=d76ca089-0769-4a61-8a63-08d916bcf619,复制段落时自动加上设置好的引文信息并将段落发送到Ob，同时也可从ob中跳转到文献位置,PDF-XChange Editor,Ryooo,https://getquicker.net/User/66662/Ryooo,217.4 KB,2021-05-15 16:40,45,- 修复了bib最后一篇文献无法引用和溯源的问题,2024-08-23
 极算,https://getquicker.net/Sharedaction?code=c4185894-ea3e-460f-76d5-08dad8c1fe5e,极致计算器,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,16.8 KB,2022-12-08 21:32,3,允许编辑,2024-08-23
 Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,613.5 KB,2023-03-16 00:45,44,"1. 修复：翻译内容中出现“&”无法复制的bug（感谢@wsaddd）
 2. 新增：设置中可以控制【复制/朗读/发送】按钮的显隐
 【最近更新】全新的设置界面，更加直观、简洁、现代化！",2024-08-23
-高级重命名,https://getquicker.net/Sharedaction?code=4a8d977c-ae95-4376-39c5-08d7bfff7792,高级批量重命名,Windows 资源管理器,FanXiang,https://getquicker.net/User/27525/FanXiang,191.2 KB,2020-03-04 14:26,35,修复查找替换多词分割,2024-08-23
-Everything,https://getquicker.net/Sharedaction?code=cd20ddcd-c33c-45d3-320e-08dcbf54dccb,可自定义常用本地搜索文件的超强神器，速度超快，操作超简！,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,58.1 KB,2024-08-19 11:13,1,@湘喑 反馈说吸附窗【记忆位置等状态】会失效，我测试了一下确实会出现（不知道是不是软件本身的bug），指定一下窗口尺寸参数,2024-08-23
+动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,75.6 KB,2024-08-21 10:59,6,+ 选择文本互联网搜索功能！需在设置中开启,2024-08-23
+标签页整理,https://getquicker.net/Sharedaction?code=3c0694fe-f7a7-4f9e-6552-08dcc2455193,"关闭重复标签页,将未分组的标签页进行排序 (需要quicker浏览器扩展)",Microsoft Edge,IDongYou,https://getquicker.net/User/945782/IDongYou,11.5 KB,2024-08-22 18:13,0,,2024-08-23
+表格常用工具,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,40.2 KB,2024-05-08 14:47,10,增加功能,2024-08-23
+小程序网址,https://getquicker.net/Sharedaction?code=e247906d-8812-4869-654f-08dcc2455193,快速进入各平台小程序相关网址,通用,qkxw,https://getquicker.net/User/149019/qkxw,8.7 KB,2024-08-22 17:43,0,,2024-08-23
+快捷符号,https://getquicker.net/Sharedaction?code=12aec679-fd56-45cb-9d1e-08dbb6a8337d,鼠标键盘两种方式触发按钮，包含成对符号及简单文本、密码登录、动作启动,通用,色気米,https://getquicker.net/User/514153/%E8%89%B2%E6%B0%97%E7%B1%B3,208.4 KB,2023-09-17 04:43,7,"窗口设置增加3个参数：
+背景颜色和按钮颜色
+面板相对鼠标位置
+左键点击非按钮处关闭面板
+",2024-08-23
+只读/取消,https://getquicker.net/Sharedaction?code=0697c9d5-eef7-4638-6542-08dcc2455193,将选中文件和文件夹全部设置成只读 或 取消只读；文件夹递归包含所有子文件。,Windows 资源管理器,ZionC,https://getquicker.net/User/742932/ZionC,12.9 KB,2024-08-22 14:51,1,修正：提示的文件数量错误,2024-08-23
 记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,427.5 KB,2024-05-10 17:42,27,新增：支持多屏贴边，优化动画效果,2024-08-23
+文字颜色,https://getquicker.net/Sharedaction?code=0f7903ad-04d9-48e2-2765-08db791b24f5,选中范围字体切换颜色，可自行添加色值,Microsoft PowerPoint,dxassk,https://getquicker.net/User/222614/dxassk,2.8 KB,2023-06-30 16:39,3,调整为仅对选中内容切换颜色,2024-08-23
+回到顶部,https://getquicker.net/Sharedaction?code=76ace00a-4f9f-4681-322b-08dcbf54dccb,回到列表顶部,通用,peach_o_0,https://getquicker.net/User/1125823/peach_o_0,5.5 KB,2024-08-19 15:12,2,解决在轮盘最外层场景下，鼠标移出目标窗口可能导致滚动失效的问题,2024-08-23
+复制文字,https://getquicker.net/Sharedaction?code=6bf35a6d-eb65-4ffe-a4d9-08db2410aa98,直接复制文字，避免Excel谜之操作：复制单元格之后不能粘帖在内容框里,Microsoft Excel,ZionC,https://getquicker.net/User/742932/ZionC,2.6 KB,2023-03-14 10:37,2,之前的方式似乎失效了，修正了下。,2024-08-23
+切换壁纸,https://getquicker.net/Sharedaction?code=914d91af-d2dd-4bc1-bcf6-08dc9bca0acf,更换当前桌面壁纸为随机图片,通用,小布丁的大布丁,https://getquicker.net/User/723/%E5%B0%8F%E5%B8%83%E4%B8%81%E7%9A%84%E5%A4%A7%E5%B8%83%E4%B8%81,25.1 KB,2024-07-05 10:37,3,- 可以使用 「乐昂岚」【图库】 动作 作为图源,2024-08-23
+实时字幕翻译,https://getquicker.net/Sharedaction?code=145d237f-4ee3-4a24-653f-08dcc2455193,可以实时的把英文字母翻译成中文，可用于直播或视频观看,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,31.2 KB,2024-08-22 14:19,0,,2024-08-23
+增强搜索,https://getquicker.net/Sharedaction?code=f05bbf3b-a491-466a-653d-08dcc2455193,在多个搜索引擎中搜索同一个关键字对比,通用,qkxw,https://getquicker.net/User/149019/qkxw,10.4 KB,2024-08-22 12:04,0,,2024-08-23
+MD模板,https://getquicker.net/Sharedaction?code=b57c666c-c2ae-4410-653a-08dcc2455193,marodown输入语法模板,通用,qkxw,https://getquicker.net/User/149019/qkxw,6.1 KB,2024-08-22 11:41,1,调整顺序,2024-08-23
+更改Host,https://getquicker.net/Sharedaction?code=7faae741-8df2-46e6-4c90-08dcbbf5dc6c,更改host从而可以加快访问网站|github打不开可以试试|网站ip查询：ipw.cn,通用,suyeda,https://getquicker.net/User/559425/suyeda,22.1 KB,2024-08-14 21:37,5,优化,2024-08-23
+OneNote 搜索,https://getquicker.net/Sharedaction?code=57072a0f-e23a-432d-a055-08dc76aeba28,搜索 OneNote 笔记,通用,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,30.4 KB,2024-05-18 09:11,3,"- 移除了API搜索方式
+- 优化了搜索速度，即使不打开 OneNote 速度也很快
+- 结果项展示可以更多信息
+- 服务程改成依赖库，需要下载并配置依赖库",2024-08-23
+全文搜索,https://getquicker.net/Sharedaction?code=547fe5aa-03e5-4291-6532-08dcc2455193,全文搜索本地文件，使用软件anytxt search,通用,1xwx1,https://getquicker.net/User/966592/1xwx1,10.4 KB,2024-08-22 09:31,0,,2024-08-23
+ChatGPT账号速切,https://getquicker.net/Sharedaction?code=6c8dc217-a0ad-438b-6531-08dcc2455193,"无需麻烦的切换账号登录, 快速选择并直接使用对应账号",通用,IDongYou,https://getquicker.net/User/945782/IDongYou,8 KB,2024-08-22 09:26,0,,2024-08-23
 锁定键鼠测试,https://getquicker.net/Sharedaction?code=9f83f851-b8bc-4b39-b8d8-08d9ae2c0978,使用Block拦截键盘和鼠标输入。,通用,CL,https://getquicker.net/User/3/CL,4.2 KB,2021-11-24 10:46,1,更新特别,2024-08-23
+AI快改代码,https://getquicker.net/Sharedaction?code=208bf7af-3ede-464e-3221-08dcbf54dccb,在vscode中询问AI后直接修改项目代码 (目前只适用于vue),Visual Studio Code,IDongYou,https://getquicker.net/User/945782/IDongYou,148.3 KB,2024-08-19 13:55,1,"全新升级!
+1.新增跳转功能,操作更加便捷
+2.新增后台功能,自动询问后台浏览器的ChatGPT
+3.优化用户体验",2024-08-23
