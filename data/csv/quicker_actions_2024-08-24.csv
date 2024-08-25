@@ -1,14 +1,26 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+New:新建文件,https://getquicker.net/Sharedaction?code=d5ce8922-b1b0-4dae-0b6a-08dcc40d7cd7,新建docx、txt、pptx、xlsx(可自行添加其他格式的文件),File Explorer,阿微Alvin,https://getquicker.net/User/536821/%E9%98%BF%E5%BE%AEAlvin,13.5 KB,2024-08-24 23:58,0,,2024-08-25
 示例:一键安装python,https://getquicker.net/Sharedaction?code=e553cbdf-7a22-4927-0b64-08dcc40d7cd7,"注:安装完python后重启【quicker】能生效py模块。适合没有安装python的朋友一键安装python,，有请跳过此动作",通用,阿苏00131,https://getquicker.net/User/15824/%E9%98%BF%E8%8B%8F00131,8 KB,2024-08-24 20:50,0,,2024-08-25
-查看剪贴,https://getquicker.net/Sharedaction?code=afdcb880-e412-4be0-0b61-08dcc40d7cd7,查看剪贴板中复制了哪些内容,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,13 KB,2024-08-24 17:14,1,更新,2024-08-25
+Easy Pair,https://getquicker.net/Sharedaction?code=bfd1e048-7309-418e-0b63-08dcc40d7cd7,[成对符号；配对符号] 最综合的加对符动作，配合扩展热键使用！,通用,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,17.7 KB,2024-08-24 19:48,0,,2024-08-25
 杀死微信,https://getquicker.net/Sharedaction?code=1e1b768f-89a3-4151-0b60-08dcc40d7cd7,一旦启动，需要长按右shift才可以关闭动作。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,20.3 KB,2024-08-24 16:57,2,2024年8月24日17:02:20,2024-08-25
+发送到文件夹,https://getquicker.net/Sharedaction?code=440a8db8-cb57-43b0-9a91-08dca533070d,将文件移动到指定文件夹,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,23.2 KB,2024-07-16 13:46,1,+ 动态右键动作适配,2024-08-25
+动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,86.9 KB,2024-08-21 10:59,9,+ 发送到文件夹动作之间参数传递,2024-08-25
 文件分捡,https://getquicker.net/Sharedaction?code=d09c4008-c0bc-4d6f-fc91-08dcc31be9e1,对指定文件夹中的文件通过关键词检索，分类放到指定文件夹,通用,KBC,https://getquicker.net/User/5221/KBC,22.4 KB,2024-08-24 09:48,1,"场景一：对指定文件夹中的文件通过关键词检索，分类放到指定文件夹
 场景二：把包含部分关键词的文件，移入包含相同关键词的文件夹内",2024-08-25
+窗口贴边简易,https://getquicker.net/Sharedaction?code=187f00c3-2a3e-4574-0b5f-08dcc40d7cd7,无意中看到大佬动作受思路启发搞个简易的玩玩,通用,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,31.2 KB,2024-08-24 16:06,0,,2024-08-25
+文本比较,https://getquicker.net/Sharedaction?code=4413b718-969e-42ef-0b5d-08dcc40d7cd7,快速使用vscode进行文本比较,Visual Studio Code,IDongYou,https://getquicker.net/User/945782/IDongYou,17.2 KB,2024-08-24 15:51,0,,2024-08-25
 QQ快联,https://getquicker.net/Sharedaction?code=60d159d6-cfff-4803-fc96-08dcc31be9e1,"适用于QQNT版, 其它未测试, 需登录QQ, 快速唤醒指定联系人",腾讯QQ,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,33.7 KB,2024-08-24 12:32,1,添加预设使用提醒,2024-08-25
+MD模板,https://getquicker.net/Sharedaction?code=95db126d-ee8a-4db8-fc9a-08dcc31be9e1,右键菜单输入markdown,通用,qkxw,https://getquicker.net/User/149019/qkxw,3.2 KB,2024-08-24 13:59,0,,2024-08-25
+检测屏幕发生变化,https://getquicker.net/Sharedaction?code=36e1e3e5-45ff-49ca-fc97-08dcc31be9e1,需要安装python，安装pillow库和numpy库,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,7.6 KB,2024-08-24 13:03,0,,2024-08-25
 视频压缩,https://getquicker.net/Sharedaction?code=d6b39ee6-77ff-4177-fc8c-08dcc31be9e1,压缩视频体积/修改视频尺寸,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,31.4 KB,2024-08-24 00:58,3,~去除后缀名重复显示,2024-08-25
 QQ截图独立版,https://getquicker.net/Sharedaction?code=c940f77a-c71b-4e49-4c8f-08dcbbf5dc6c,不登录QQ甚至没有QQ也能用的QQ截图,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,39.5 KB,2024-08-14 21:30,6,预设一下延时,2024-08-25
 豆瓣书籍导入 Notion,https://getquicker.net/Sharedaction?code=639692aa-1039-48ba-2edc-08db2d92bfe7,在豆瓣读书网页中提取书籍信息，通过 Notion API 提交到 Notion 的书籍库中。,通用,Burgess_Hu,https://getquicker.net/User/17351/Burgess_Hu,17.8 KB,2023-03-26 17:55,1,修复了无豆瓣评分时导入失败的问题。,2024-08-25
 豆瓣影视导入 Notion,https://getquicker.net/Sharedaction?code=bbf690cf-945b-40c8-2edd-08db2d92bfe7,在豆瓣电影网页中提取影视信息，通过 Notion API 发送到 Notion 的影视库中。,通用,Burgess_Hu,https://getquicker.net/User/17351/Burgess_Hu,34.2 KB,2023-03-26 17:55,2,修复了无法正常导入时长的问题,2024-08-25
 巴德多国语言支持,https://getquicker.net/Sharedaction?code=116fe5ab-daeb-4322-fc90-08dcc31be9e1,提取选中的文本并调用GPT进行多国语言的支持,通用,Bader,https://getquicker.net/User/135289/Bader,17.8 KB,2024-08-24 08:46,6,1. 修改默认提示词,2024-08-25
 诺亚2.0,https://getquicker.net/Sharedaction?code=b6a753a2-8405-4fd8-ad4c-08dbb89e3001,判断场景，匹配场景动作。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,39.5 KB,2023-09-19 21:04,15,2024年8月24日10:14:00,2024-08-25
+一次对话,https://getquicker.net/Sharedaction?code=723d2798-9d05-4b25-6564-08dcc2455193,以选择内容为基础，按预定提示词进行一次对话。,通用,李尚奥,https://getquicker.net/User/134690/%E6%9D%8E%E5%B0%9A%E5%A5%A5,61.4 KB,2024-08-23 07:57,4,"bug：api信息无法保存
+修改：把菜单赋值移到了设置中。
+bug:历史记录赋值错误",2024-08-25
 场景自动搜索,https://getquicker.net/Sharedaction?code=aa800a11-23d6-4e02-e266-08dcb832f8f0,为Quicker的搜索功能添加与面板类似的场景识别功能,Quicker,H-D-G,https://getquicker.net/User/679811/H-D-G,45.7 KB,2024-08-09 22:37,10,~ 优化还原搜索状态的判断逻辑,2024-08-25
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"免费的多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,727.3 KB,2024-07-11 11:24,41,"修复当SumatraPDF阅读器的语言设置为英语时获取文献路径出错的问题
+",2024-08-25
