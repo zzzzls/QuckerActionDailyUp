@@ -1,0 +1,14 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例:一键安装python,https://getquicker.net/Sharedaction?code=e553cbdf-7a22-4927-0b64-08dcc40d7cd7,"注:安装完python后重启【quicker】能生效py模块。适合没有安装python的朋友一键安装python,，有请跳过此动作",通用,阿苏00131,https://getquicker.net/User/15824/%E9%98%BF%E8%8B%8F00131,8 KB,2024-08-24 20:50,0,,2024-08-25
+查看剪贴,https://getquicker.net/Sharedaction?code=afdcb880-e412-4be0-0b61-08dcc40d7cd7,查看剪贴板中复制了哪些内容,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,13 KB,2024-08-24 17:14,1,更新,2024-08-25
+杀死微信,https://getquicker.net/Sharedaction?code=1e1b768f-89a3-4151-0b60-08dcc40d7cd7,一旦启动，需要长按右shift才可以关闭动作。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,20.3 KB,2024-08-24 16:57,2,2024年8月24日17:02:20,2024-08-25
+文件分捡,https://getquicker.net/Sharedaction?code=d09c4008-c0bc-4d6f-fc91-08dcc31be9e1,对指定文件夹中的文件通过关键词检索，分类放到指定文件夹,通用,KBC,https://getquicker.net/User/5221/KBC,22.4 KB,2024-08-24 09:48,1,"场景一：对指定文件夹中的文件通过关键词检索，分类放到指定文件夹
+场景二：把包含部分关键词的文件，移入包含相同关键词的文件夹内",2024-08-25
+QQ快联,https://getquicker.net/Sharedaction?code=60d159d6-cfff-4803-fc96-08dcc31be9e1,"适用于QQNT版, 其它未测试, 需登录QQ, 快速唤醒指定联系人",腾讯QQ,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,33.7 KB,2024-08-24 12:32,1,添加预设使用提醒,2024-08-25
+视频压缩,https://getquicker.net/Sharedaction?code=d6b39ee6-77ff-4177-fc8c-08dcc31be9e1,压缩视频体积/修改视频尺寸,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,31.4 KB,2024-08-24 00:58,3,~去除后缀名重复显示,2024-08-25
+QQ截图独立版,https://getquicker.net/Sharedaction?code=c940f77a-c71b-4e49-4c8f-08dcbbf5dc6c,不登录QQ甚至没有QQ也能用的QQ截图,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,39.5 KB,2024-08-14 21:30,6,预设一下延时,2024-08-25
+豆瓣书籍导入 Notion,https://getquicker.net/Sharedaction?code=639692aa-1039-48ba-2edc-08db2d92bfe7,在豆瓣读书网页中提取书籍信息，通过 Notion API 提交到 Notion 的书籍库中。,通用,Burgess_Hu,https://getquicker.net/User/17351/Burgess_Hu,17.8 KB,2023-03-26 17:55,1,修复了无豆瓣评分时导入失败的问题。,2024-08-25
+豆瓣影视导入 Notion,https://getquicker.net/Sharedaction?code=bbf690cf-945b-40c8-2edd-08db2d92bfe7,在豆瓣电影网页中提取影视信息，通过 Notion API 发送到 Notion 的影视库中。,通用,Burgess_Hu,https://getquicker.net/User/17351/Burgess_Hu,34.2 KB,2023-03-26 17:55,2,修复了无法正常导入时长的问题,2024-08-25
+巴德多国语言支持,https://getquicker.net/Sharedaction?code=116fe5ab-daeb-4322-fc90-08dcc31be9e1,提取选中的文本并调用GPT进行多国语言的支持,通用,Bader,https://getquicker.net/User/135289/Bader,17.8 KB,2024-08-24 08:46,6,1. 修改默认提示词,2024-08-25
+诺亚2.0,https://getquicker.net/Sharedaction?code=b6a753a2-8405-4fd8-ad4c-08dbb89e3001,判断场景，匹配场景动作。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,39.5 KB,2023-09-19 21:04,15,2024年8月24日10:14:00,2024-08-25
+场景自动搜索,https://getquicker.net/Sharedaction?code=aa800a11-23d6-4e02-e266-08dcb832f8f0,为Quicker的搜索功能添加与面板类似的场景识别功能,Quicker,H-D-G,https://getquicker.net/User/679811/H-D-G,45.7 KB,2024-08-09 22:37,10,~ 优化还原搜索状态的判断逻辑,2024-08-25
