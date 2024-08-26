@@ -1,0 +1,27 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+实时显示按键,https://getquicker.net/Sharedaction?code=9d04c703-bf9e-496b-4de8-08d94db1a131,实时显示你键盘按下的内容,通用,HumbleCoder,https://getquicker.net/User/7748/HumbleCoder,57.8 KB,2021-07-24 17:35,13,~ 初始化数据的媒介由Rentry改为Quicker,2024-08-26
+超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,364.6 KB,2024-08-11 00:17,41,"1.优化一键更换桌面壁纸
+2.优化其他",2024-08-26
+一次对话,https://getquicker.net/Sharedaction?code=723d2798-9d05-4b25-6564-08dcc2455193,以选择内容为基础，按预定提示词进行一次对话。,通用,李尚奥,https://getquicker.net/User/134690/%E6%9D%8E%E5%B0%9A%E5%A5%A5,107.2 KB,2024-08-23 07:57,5,"根据传入参数展示不同菜单：menu选择场景，num指定第几个。
+菜单只有一个时，取消选择过程。
+提示词设置新增：对“name=运行动作”时的处理，需额外传入参数action_id
+右键直接设置：多场景模式、默认场景
+引文获取方式添加：再次选择
+其他忘了。",2024-08-26
+文本比较,https://getquicker.net/Sharedaction?code=4413b718-969e-42ef-0b5d-08dcc40d7cd7,快速使用vscode进行文本比较,Visual Studio Code,IDongYou,https://getquicker.net/User/945782/IDongYou,17.3 KB,2024-08-24 15:51,1,增加了一点提示,2024-08-26
+文件名启动,https://getquicker.net/Sharedaction?code=c57e46b1-bb8e-4c8f-bce5-08dc9bca0acf,适合家里、公司多台电脑的用户，不管软件装在C盘还是D盘，根据名字直接找到并运行,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,107.3 KB,2024-07-04 21:28,23,fix 联动外部动作导致的bug,2024-08-26
+实时搜索Emoji,https://getquicker.net/Sharedaction?code=23f6327b-9953-4766-4b58-08d9c1f3456f,通过搜索框实时搜索Emoji，支持中文英文和拼音首字母,通用,HumbleCoder,https://getquicker.net/User/7748/HumbleCoder,49.9 KB,2021-12-19 00:59,12,~ 初始化数据的媒介由Rentry改为Quicker,2024-08-26
+筛选,https://getquicker.net/Sharedaction?code=c0a8ee0c-be94-423a-0b76-08dcc40d7cd7,WPS内筛选（因自带快捷键经常时效，故另外编辑）,WPS Office,黄Sir,https://getquicker.net/User/69121/%E9%BB%84Sir,35 B,2024-08-25 11:02,0,,2024-08-26
+冻结首行,https://getquicker.net/Sharedaction?code=d18aa8b0-493b-41d1-0b6c-08dcc40d7cd7,WPS冻结首行功能，一键操作，让首行在滚动时始终显示，便于查看和编辑,WPS Office,黄Sir,https://getquicker.net/User/69121/%E9%BB%84Sir,35 B,2024-08-25 01:47,1,减少延迟时间,2024-08-26
+查看剪贴板,https://getquicker.net/Sharedaction?code=afdcb880-e412-4be0-0b61-08dcc40d7cd7,查看剪贴板中的内容,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,10.6 KB,2024-08-24 17:14,2,自动宽高,2024-08-26
+新建同名文件夹\n并移动原文件,https://getquicker.net/Sharedaction?code=eff8ebad-f586-4ffc-0b73-08dcc40d7cd7,新建『所有选中文件』的同名文件夹，并移动原文件,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,13.4 KB,2024-08-25 09:00,1,合并通知的文本,2024-08-26
+阿里云『搜』,https://getquicker.net/Sharedaction?code=a1ad7b69-58d4-4def-0b70-08dcc40d7cd7,一键搜索阿里云盘资源(懒人必备),通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,55.4 KB,2024-08-25 08:10,0,,2024-08-26
+结束进程(强力),https://getquicker.net/Sharedaction?code=0b4593a1-0138-433a-5355-08dcb4696e8b,强力结束进程，如果失败则自动调用管理员模式二次查杀,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,147.1 KB,2024-08-05 13:51,1,增加说明,2024-08-26
+复制文件名/路径,https://getquicker.net/Sharedaction?code=c0d19d06-979b-48c7-0b6e-08dcc40d7cd7,复制选中文件的文件名(去除扩展)/文件路径,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,46.5 KB,2024-08-25 06:04,0,,2024-08-26
+图片粘贴为单元格大小,https://getquicker.net/Sharedaction?code=5612e0eb-3d7c-4420-0b6d-08dcc40d7cd7,将剪贴板图片粘贴并调整为当前单元格大小,Microsoft Excel,sharklaka,https://getquicker.net/User/826879/sharklaka,1.5 KB,2024-08-25 02:13,0,,2024-08-26
+准星,https://getquicker.net/Sharedaction?code=7f3a07b3-09cb-4883-fc9c-08dcc31be9e1,游戏准星准心，屏幕有缩放比例调整的要手动修改偏移,通用,zdf153,https://getquicker.net/User/20184/zdf153,42 KB,2024-08-24 14:46,4,自动校准,2024-08-26
+PSCcolor,https://getquicker.net/Sharedaction?code=2c49c4e7-e432-4e20-0b6b-08dcc40d7cd7,设计师辅助神器，智能识别颜色，自动分析图片配色方案。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,125.4 KB,2024-08-25 00:20,0,,2024-08-26
+Everything,https://getquicker.net/Sharedaction?code=cd20ddcd-c33c-45d3-320e-08dcbf54dccb,可自定义常用本地搜索文件的超强神器，速度超快，操作超简！,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,80.2 KB,2024-08-19 11:13,5,"~修复记忆吸附窗口位置大小 感谢@湘喑 反馈
+~优化自定义路径 感谢@zdf153 建议
+~尝试修复绑定错乱问题
++尝试适配1.5版本 感谢@冰雷木子 反馈",2024-08-26
