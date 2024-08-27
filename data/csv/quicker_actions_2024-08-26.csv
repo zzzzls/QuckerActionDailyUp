@@ -1,0 +1,197 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+百变动作,https://getquicker.net/Sharedaction?code=857dc736-c5c9-4cda-7515-08dc9e8ef04d,复制一次需要模仿的动作，在运行一次此动作，以后每次都会变成被模仿的动作，直到右键清空,通用,sd309991,https://getquicker.net/User/341619/sd309991,35.8 KB,2024-07-08 18:52,4,"悬浮时滚轮切换
+不可复制自身
+修复:模仿当次没有更新徽标",2024-08-27
+超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,383.4 KB,2024-08-11 00:17,43,"1.增加动作联盟的匹配模式种类，目前有5种：
+
+模式1：匹配文件后缀格式|mode1
+模式2：匹配前台进程名称|mode2
+模式3：选中内容为文本时|mode3
+模式4：选中内容为文件或文件夹时|mode4
+模式5：当处于桌面时|mode5",2024-08-27
+超清壁纸,https://getquicker.net/Sharedaction?code=aa3b2c4a-1600-42c4-a99f-08dbe8e4b6e6,一键更换超清4K壁纸，每一张都是4K图，并支持分类,通用,喜气羊羊,https://getquicker.net/User/719958/%E5%96%9C%E6%B0%94%E7%BE%8A%E7%BE%8A,19.7 KB,2023-11-19 19:49,4,默认保存目录为系统图片目录，并支持自定义是否保存每张图片,2024-08-27
+AI智炼,https://getquicker.net/Sharedaction?code=9d0493a4-75bc-4b49-a26f-08dc0740f11f,功能：1.选中文字，快速根据设置的模型角色获得提炼结果。2.可管理多角色。3.当前模型支持：星火/ChatGPT,通用,YCHH,https://getquicker.net/User/738826/YCHH,320.3 KB,2023-12-28 22:50,27,在GPT模型设置页面添加好APPIKEY后，点击确认，重新进入本页面，在选择模型版本时会更新列出所有可用模型版本,2024-08-27
+计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,68 KB,2024-06-13 00:30,32,记录按钮布局,2024-08-27
+页面滚动,https://getquicker.net/Sharedaction?code=1bb72193-c8d0-43c4-a5b2-08dcc5002795,模拟鼠标进行页面滚动（上下左右）,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,41.7 KB,2024-08-26 20:08,0,,2024-08-27
+复制文件名,https://getquicker.net/Sharedaction?code=40c4f4a6-ab0a-4602-13f8-08dcb55b45cc,复制选中文件(夹)的名称/路径、复制选中文件夹内子文件(夹)的路径,Windows 资源管理器,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,23.3 KB,2024-08-06 20:19,2,优化步骤,2024-08-27
+多台电脑剪切板推送,https://getquicker.net/Sharedaction?code=02d19529-9b84-4046-a5b0-08dcc5002795,推送选中文本或者输入的文本,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,7.7 KB,2024-08-26 19:31,2,3,2024-08-27
+以时间创建文件夹,https://getquicker.net/Sharedaction?code=82101bf5-704c-4616-3219-08dcbf54dccb,以今天时间在当前目录创建文件夹，支持自定义格式,Windows 资源管理器,zdf153,https://getquicker.net/User/20184/zdf153,74.1 KB,2024-08-19 11:40,8,1,2024-08-27
+打开今天日期的文件夹,https://getquicker.net/Sharedaction?code=0755d827-7857-4a66-a5ad-08dcc5002795,打开今天日期的文件夹,通用,zdf153,https://getquicker.net/User/20184/zdf153,70.8 KB,2024-08-26 18:53,4,1,2024-08-27
+todo,https://getquicker.net/Sharedaction?code=410569a7-29d9-45a6-a5ae-08dcc5002795,uTools官方插件 - todo,通用,Joker_D,https://getquicker.net/User/891699/Joker_D,17.2 KB,2024-08-26 19:01,0,,2024-08-27
+按标题排序,https://getquicker.net/Sharedaction?code=e722241c-c384-42c6-6556-08dcc2455193,模拟排序快捷键,PotPlayer,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,53.8 KB,2024-08-22 22:24,4,增加PotPlayer内自定义排序快捷键的选项；优化还原焦点。,2024-08-27
+动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,97.8 KB,2024-08-21 10:59,11,+ 紧急更新 修复搜索引擎上传错误！,2024-08-27
+bydown,https://getquicker.net/Sharedaction?code=61515845-76e6-4575-8a56-08dc47297450,快速下载哔哩哔哩（bilibili）、油管（YouTube）视频以及抖音、小红书图片视频,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,97.5 KB,2024-03-19 21:01,30,"1. 配置增加分组，更清晰！
+2. 增加 BBDown 扩展下载，更方便！",2024-08-27
+断舍离小助理,https://getquicker.net/Sharedaction?code=4dc7e738-8f4f-43e2-74f9-08dc9e8ef04d,——个人物品管理。辅助完成断舍离,通用,level1,https://getquicker.net/User/102977/level1,1.7 MB,2024-07-08 15:33,4,"【首页】
+1、首页添加笔记，改为不定向笔记本。
+2、首页打开笔记本，默认不选中样式。
+3、首页增加物品分类入口。
+
+【动作右键】
+1、动作右键，增加添加笔记（未指定笔记本）。
+2、随机展示中的区域，改为物品一览。
+3、随机抽签，改变概率，提高物品、区域，降低URL、笔记。
+4、随机抽取，加上笔记本。
+5、随机抽取，优化抽取概率。
+6、右键添加笔记，增加网页摘录笔记功能。
+7、动作右键，增加待办表格入口。
+8、Ctrl点击右键“待办”，设置排序方式。
+9、动作右键，增加有效/过期表格入口。
+
+【设置】
+1、设置去掉“添加笔记-默认笔记本”。
+
+【区域操作窗】
+1、区域操作窗，增加区域主图、区域名称。
+2、区域操作窗，区域主图支持打开编辑窗。
+3、区域操作窗，的区域主图，点击改为打开相册。
+4、区域操作窗，上传照片遇到没有文件的文件夹，避免错误提示。
+5、区域操作窗，上传照片优化统计数量，去掉失败的文件夹。
+6、区域操作窗，返回提示，显示上一级的名称。
+7、区域操作窗，增加功能：物品的图片并入另一个物品。
+8、物品、区域编辑窗，坐标支持清空。
+9、物品、区域编辑窗，支持坐标为空，自动处理。
+10、区域操作窗，增加添加区域/物品待办。
+
+【物品编辑窗】
+1、物品的有效期默认为最大值。
+2、物品编辑器，修复当相关物品同名时报错的问题。
+
+【物品一览】
+1、物品一览，增加窗口高度。
+2、物品一览，优化高度更贴合。
+3、物品一览，物品右键支持打开区域。
+4、物品一览，增加添加区域/物品待办。
+5、物品一览，物品右键增加“合并物品”功能。
+
+【分类操作窗】
+1、增加分类操作窗，支持分类查看物品。
+2、分类操作窗，支持排序方式：名称、数量。
+3、分类操作窗，支持切换排序方式。
+4、分类操作窗，优化界面布局。
+5、分类去掉图标字段。
+6、分类操作窗，支持功能：批量添加、编辑、删除、排序。
+7、分类操作窗，顶层显示其他物品。
+
+【分类排序】
+1、分类排序，改为操作项编辑器，支持修改分类层级。
+2、分类排序，支持编辑名称。
+3、分类排序，支持删除分类。
+4、分类排序，支持添加分类。
+5、分类，加回图标字段。
+6、分类排序，支持编辑图标。
+
+【相关物品】
+1、相关物品、合并物品的物品列表，放大物品图标。
+
+【相册】
+1、对图片转物品，进行不可逆提示。
+2、优化相册的返回路径。
+3、相册，支持批量添加名称。
+4、相册，增加功能：物品的图片并入另一个物品。
+5、相册，合并物品后续处理。
+6、相册，相关物品标签增加线框。
+7、相册，增加添加区域/物品待办。
+
+【图片编辑窗】
+1、物品、区域、图片编辑窗，修改图片路径，不进行提亮处理，增加扩展功能“上传照片”，进行提亮处理。
+2、本地图片名称命名方式更改。
+
+【实时搜索物品】
+1、实时搜索物品，照片增加物品名称。
+2、实时搜索物品，右键增加删除功能。
+3、实时搜索物品，增加显示物品分类。
+4、实时搜索物品，增加锁定分类。
+5、实时搜索物品，物品右键支持锁定分类。
+6、实时搜索物品，锁定支持累计增加。
+7、实时搜索物品，优化右键选项。
+8、实时搜索物品，图片右键，编辑、删除改为针对图片。
+
+【笔记操作窗】
+1、笔记操作窗，由于Quicker无法默认展开指定分组，所以做一个临时置顶功能，方便持续编辑，不需要分组间来回切。
+2、相册操作窗，支持图片创建物品。原物品删除图片ID，跳转到区域界面。
+3、笔记本操作窗，支持指定笔记本。任何操作都可影响到笔记本。
+4、笔记本操作窗，在笔记列表顶部，增加一个添加笔记入口。
+
+【笔记编辑窗】
+1、添加笔记的标题选项，改为文本选项。
+
+【笔记排序】
+1、笔记排序，改为操作项编辑器，支持修改笔记层级。
+2、笔记排序，支持编辑标题。
+3、笔记排序，支持删除笔记。
+4、笔记排序，支持添加笔记。
+
+【实时搜索笔记】
+1、实时搜索物品，照片增加物品名称。
+2、实时搜索笔记，右键增加删除功能。
+
+【URL列表】
+1、URL列表，增加多选模式。
+2、URL列表，除了编辑，其他功能都增加批量操作功能。
+3、URL列表，窗口不置顶。
+4、URL列表，标记的后面自带空格。
+
+【处置记录表格】
+1、处置表格，点击确认关闭窗口。
+2、表格打开对象后，回到表格。
+
+【待办表格】
+1、新增待办表格。
+2、待办表格，选中行确定，可打开对象。
+3、待办表格，点击确认关闭窗口。
+4、待办支持置顶功能。
+5、待办表格，支持排序方式：创建时间、截止时间。
+6、表格打开对象后，回到表格。
+7、待办表格，支持添加待办。
+
+【过期物品表格】
+1、增加有效/过期物品表格。
+2、过期表格，筛选出符合条件的物品。
+3、过期表格，按日期规则排序。
+4、表格打开对象后，回到表格。
+5、过期表格，支持编辑物品有效期。
+6、过期表格，支持打开物品。
+
+BUG：
+1、修复URL列表标记后，计数没有增加的问题。
+2、解决当从首页进入文本窗时，从文本窗返回，将无法激活编辑的笔记本的问题。
+3、解决抽盲盒，由于URL有分隔线，导致打开空URL的问题。
+4、解决了物品一览，打开物品相册结果回到了区域，没有回到物品一览的情况。
+5、解决处置表格，物品不存在报错的问题。
+6、修复物品一览中，搜索物品时，提示已运行动作的问题。
+7、修复分类字段顺序编辑后，无效的问题。
+8、修复了物品编辑窗，当坐标多了奇怪的行后，编辑坐标保存后依然存在的问题。
+9、修复区域操作窗，点击顶层主图报错的问题。
+10、修复区域操作窗，有时候点击头图，会报错的问题。
+
+优化：
+1、笔记编辑窗口点击删除，取消后返回了。改成取消后回到编辑窗口。
+2、操作完成提示，交换“操作”和“对象”的顺序。",2024-08-27
+新建同名文件夹\n并移动原文件,https://getquicker.net/Sharedaction?code=eff8ebad-f586-4ffc-0b73-08dcc40d7cd7,新建『所有选中文件』的同名文件夹，并移动原文件,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,14.8 KB,2024-08-25 09:00,2,"1.优化移动逻辑
+2.使提示信息更加直观合理",2024-08-27
+禁用系统更新,https://getquicker.net/Sharedaction?code=31d6b082-436f-4357-e9e6-08db92f9f222,"禁用/恢复 系统更新, 自定义禁用时间",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,31.9 KB,2023-08-02 10:50,8,如下,2024-08-27
+常用语（新版）,https://getquicker.net/Sharedaction?code=1a8e7553-76e9-4527-66d7-08dbaa91cef1,快捷短语的极致操作，兼容原版数据。,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,397 KB,2023-09-02 08:18,19,"v1.7.0 (2024-08-26)
+- 功能：按钮右键支持复制标题、内容
+- 选项：按钮提示支持仅显示内容、注释
+- 选项：开放更多操作窗参数
+- 其他：内容默认不作trim处理",2024-08-27
+网络句子,https://getquicker.net/Sharedaction?code=20f899e7-a91b-44e6-a57d-08dcc5002795,每日一句，唤醒内心巨人,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,211.7 KB,2024-08-26 03:50,2,修正初始化提示,2024-08-27
+插入当前时间,https://getquicker.net/Sharedaction?code=1cf97554-e816-49c3-a589-08dcc5002795,Excel中快速插入当前时间,Microsoft Excel,Bader,https://getquicker.net/User/135289/Bader,22 B,2024-08-26 10:54,0,,2024-08-27
+integrate,https://getquicker.net/Sharedaction?code=b3a97874-5522-4d4d-a585-08dcc5002795,一键定积分,XMind,子空空,https://getquicker.net/User/791253/%E5%AD%90%E7%A9%BA%E7%A9%BA,1 KB,2024-08-26 10:00,0,,2024-08-27
+星陨计划,https://getquicker.net/Sharedaction?code=692c832f-01db-474f-a842-08dcafa4e6df,雷电模拟器平板1280x720,雷电模拟器,LJH_,https://getquicker.net/User/392903/LJH_,1.5 MB,2024-07-29 21:56,9,优化,2024-08-27
+PSCcolor,https://getquicker.net/Sharedaction?code=2c49c4e7-e432-4e20-0b6b-08dcc40d7cd7,设计师辅助神器，智能识别颜色，自动分析图片配色方案。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,125.4 KB,2024-08-25 00:20,1,【修复】因为之前自定义操作窗标识符与PSAcolor一致，导致2个动作窗口冲突的问题。,2024-08-27
+网址小窗,https://getquicker.net/Sharedaction?code=edf6a2a6-f497-4bc3-a583-08dcc5002795,常用的网址就那么几个，随手小窗切换预设网址,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,37.4 KB,2024-08-26 09:27,0,,2024-08-27
+Everything,https://getquicker.net/Sharedaction?code=cd20ddcd-c33c-45d3-320e-08dcbf54dccb,可自定义常用本地搜索文件的超强神器，速度超快，操作超简！,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,74.3 KB,2024-08-19 11:13,6,"~修复等待进程启动超时
+~修复绑定错乱问题
+~兼容1.5版本",2024-08-27
+视频压缩,https://getquicker.net/Sharedaction?code=d6b39ee6-77ff-4177-fc8c-08dcc31be9e1,压缩视频体积/修改视频尺寸,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,34.1 KB,2024-08-24 00:58,4,"+增加H265压缩方式
+~优化自定义后缀数量和默认",2024-08-27
+微软朗读无限用,https://getquicker.net/Sharedaction?code=32d398ba-6573-4944-a580-08dcc5002795,无限免费使用微软朗读,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,7.8 KB,2024-08-26 08:07,0,,2024-08-27
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"免费的多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,706.6 KB,2024-07-11 11:24,44,增加网页内容自动解读，且可对网页进行连续问答。需要在网页安装Quicker插件。,2024-08-27
+AI指令,https://getquicker.net/Sharedaction?code=5e46ec26-905a-415c-a57a-08dcc5002795,搜索 Illustrator 快捷键，或执行对应的命令,Adobe Illustrator,FanXiang,https://getquicker.net/User/27525/FanXiang,7.3 KB,2024-08-26 00:23,1,更新,2024-08-27
+ Pr指令,https://getquicker.net/Sharedaction?code=4b42b1c8-7280-4da6-b92a-08dc83042634,搜索 Premiere Pro 快捷键，或执行对应的命令,Adobe Premiere Pro CC,FanXiang,https://getquicker.net/User/27525/FanXiang,8.1 KB,2024-06-03 16:49,4,更新快捷键清单,2024-08-27
+批量标记断点,https://getquicker.net/Sharedaction?code=c73bd3b4-b6e4-4adf-a57c-08dcc5002795,在rider中批量标记断点,JetBrains Rider,Blanit,https://getquicker.net/User/252133/Blanit,3.6 KB,2024-08-26 01:17,0,,2024-08-27
+定位文件(夹),https://getquicker.net/Sharedaction?code=8482e4fa-4b4b-46c5-a57b-08dcc5002795,查找并高亮显示当前文件夹中最近修改的文件或子文件夹，支持TC和explorer,Total Commander,Joker_D,https://getquicker.net/User/891699/Joker_D,118.2 KB,2024-08-26 00:40,0,,2024-08-27
+ PS指令,https://getquicker.net/Sharedaction?code=abb913c0-1b93-4508-b8fc-08dc83042634,搜索Photoshop快捷键，或执行对应的命令,Adobe Photoshop,FanXiang,https://getquicker.net/User/27525/FanXiang,14.2 KB,2024-06-02 23:18,3,更新图标,2024-08-27
+Ae指令,https://getquicker.net/Sharedaction?code=5f56c9c5-f4ba-42a9-b92c-08dc83042634,搜索 After Effects 快捷键，或执行对应的命令,Adobe After Effects CC,FanXiang,https://getquicker.net/User/27525/FanXiang,15.2 KB,2024-06-03 16:56,1,更新图标,2024-08-27
