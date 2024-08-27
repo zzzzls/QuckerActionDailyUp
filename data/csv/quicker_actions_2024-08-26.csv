@@ -2,21 +2,11 @@
 百变动作,https://getquicker.net/Sharedaction?code=857dc736-c5c9-4cda-7515-08dc9e8ef04d,复制一次需要模仿的动作，在运行一次此动作，以后每次都会变成被模仿的动作，直到右键清空,通用,sd309991,https://getquicker.net/User/341619/sd309991,35.8 KB,2024-07-08 18:52,4,"悬浮时滚轮切换
 不可复制自身
 修复:模仿当次没有更新徽标",2024-08-27
-超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,383.4 KB,2024-08-11 00:17,43,"1.增加动作联盟的匹配模式种类，目前有5种：
-
-模式1：匹配文件后缀格式|mode1
-模式2：匹配前台进程名称|mode2
-模式3：选中内容为文本时|mode3
-模式4：选中内容为文件或文件夹时|mode4
-模式5：当处于桌面时|mode5",2024-08-27
-超清壁纸,https://getquicker.net/Sharedaction?code=aa3b2c4a-1600-42c4-a99f-08dbe8e4b6e6,一键更换超清4K壁纸，每一张都是4K图，并支持分类,通用,喜气羊羊,https://getquicker.net/User/719958/%E5%96%9C%E6%B0%94%E7%BE%8A%E7%BE%8A,19.7 KB,2023-11-19 19:49,4,默认保存目录为系统图片目录，并支持自定义是否保存每张图片,2024-08-27
-AI智炼,https://getquicker.net/Sharedaction?code=9d0493a4-75bc-4b49-a26f-08dc0740f11f,功能：1.选中文字，快速根据设置的模型角色获得提炼结果。2.可管理多角色。3.当前模型支持：星火/ChatGPT,通用,YCHH,https://getquicker.net/User/738826/YCHH,320.3 KB,2023-12-28 22:50,27,在GPT模型设置页面添加好APPIKEY后，点击确认，重新进入本页面，在选择模型版本时会更新列出所有可用模型版本,2024-08-27
 计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,68 KB,2024-06-13 00:30,32,记录按钮布局,2024-08-27
 页面滚动,https://getquicker.net/Sharedaction?code=1bb72193-c8d0-43c4-a5b2-08dcc5002795,模拟鼠标进行页面滚动（上下左右）,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,41.7 KB,2024-08-26 20:08,0,,2024-08-27
 复制文件名,https://getquicker.net/Sharedaction?code=40c4f4a6-ab0a-4602-13f8-08dcb55b45cc,复制选中文件(夹)的名称/路径、复制选中文件夹内子文件(夹)的路径,Windows 资源管理器,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,23.3 KB,2024-08-06 20:19,2,优化步骤,2024-08-27
 多台电脑剪切板推送,https://getquicker.net/Sharedaction?code=02d19529-9b84-4046-a5b0-08dcc5002795,推送选中文本或者输入的文本,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,7.7 KB,2024-08-26 19:31,2,3,2024-08-27
 以时间创建文件夹,https://getquicker.net/Sharedaction?code=82101bf5-704c-4616-3219-08dcbf54dccb,以今天时间在当前目录创建文件夹，支持自定义格式,Windows 资源管理器,zdf153,https://getquicker.net/User/20184/zdf153,74.1 KB,2024-08-19 11:40,8,1,2024-08-27
-打开今天日期的文件夹,https://getquicker.net/Sharedaction?code=0755d827-7857-4a66-a5ad-08dcc5002795,打开今天日期的文件夹,通用,zdf153,https://getquicker.net/User/20184/zdf153,70.8 KB,2024-08-26 18:53,4,1,2024-08-27
 todo,https://getquicker.net/Sharedaction?code=410569a7-29d9-45a6-a5ae-08dcc5002795,uTools官方插件 - todo,通用,Joker_D,https://getquicker.net/User/891699/Joker_D,17.2 KB,2024-08-26 19:01,0,,2024-08-27
 按标题排序,https://getquicker.net/Sharedaction?code=e722241c-c384-42c6-6556-08dcc2455193,模拟排序快捷键,PotPlayer,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,53.8 KB,2024-08-22 22:24,4,增加PotPlayer内自定义排序快捷键的选项；优化还原焦点。,2024-08-27
 动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,97.8 KB,2024-08-21 10:59,11,+ 紧急更新 修复搜索引擎上传错误！,2024-08-27
