@@ -8,9 +8,7 @@
 文献编辑,https://getquicker.net/Sharedaction?code=d7019edf-6be1-484c-9726-08dcc5fac3c3,更新Zotero当前引用,Microsoft Word,ttChen,https://getquicker.net/User/395924/ttChen,7.7 KB,2024-08-27 22:29,0,,2024-08-28
 去代码,https://getquicker.net/Sharedaction?code=7934f9dd-3258-4b09-9724-08dcc5fac3c3,适用于Word和WPS，一键去代码,Microsoft Word,ttChen,https://getquicker.net/User/395924/ttChen,7.7 KB,2024-08-27 22:26,0,,2024-08-28
 设置,https://getquicker.net/Sharedaction?code=37d1f703-53c0-420e-9723-08dcc5fac3c3,zotero 设置,Zotero,ttChen,https://getquicker.net/User/395924/ttChen,7.7 KB,2024-08-27 22:20,0,,2024-08-28
-结束进程(强力),https://getquicker.net/Sharedaction?code=0b4593a1-0138-433a-5355-08dcb4696e8b,强力结束进程，如果失败则自动调用管理员模式二次查杀,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,115.1 KB,2024-08-05 13:51,2,清理冗余程序段,2024-08-28
 网络句子,https://getquicker.net/Sharedaction?code=20f899e7-a91b-44e6-a57d-08dcc5002795,每日一句，唤醒内心巨人,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,197.1 KB,2024-08-26 03:50,3,修复api管理列表界面bug,2024-08-28
-PSDoto,https://getquicker.net/Sharedaction?code=2c1753cf-d553-48c4-2260-08dc1310ce90,PS高级图片导出——【PSDodo平行世界版】,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,83.7 KB,2024-01-12 10:46,12,2024年8月27日18:11:47,2024-08-28
 导出PNG/JPG,https://getquicker.net/Sharedaction?code=4272df52-439b-407f-971a-08dcc5fac3c3,批量选择图层，以图片所见导出,Adobe Photoshop,Leoboys,https://getquicker.net/User/917287/Leoboys,51.9 KB,2024-08-27 17:47,0,,2024-08-28
 Reference Extractor,https://getquicker.net/Sharedaction?code=8bfc534c-6d0c-4e03-a736-08dad3f6b04c,一键导入外部Word文档文献到Zotero库中,Microsoft Word,ttChen,https://getquicker.net/User/395924/ttChen,7.5 KB,2022-12-02 23:37,11,大更新,2024-08-28
 跳转列表,https://getquicker.net/Sharedaction?code=2f47b188-d884-43ad-be93-08dad4c69d2d,跳转到文献列表,Microsoft Word,ttChen,https://getquicker.net/User/395924/ttChen,7.3 KB,2022-12-03 12:05,9,大更新,2024-08-28
@@ -26,11 +24,6 @@ Reference Extractor,https://getquicker.net/Sharedaction?code=8bfc534c-6d0c-4e03-
 pre+1,https://getquicker.net/Sharedaction?code=23e8b127-acb4-406a-642a-08dbc86b2dc3,请注意切换到英文输入法，自动修尾部版本号，并唤起渲染。请注意用标准渲染器。,CINEMA 4D,落日画梁,https://getquicker.net/User/575190/%E8%90%BD%E6%97%A5%E7%94%BB%E6%A2%81,10.1 KB,2023-10-09 17:04,4,修改了体验，增加了动作成功率,2024-08-28
 超清壁纸,https://getquicker.net/Sharedaction?code=aa3b2c4a-1600-42c4-a99f-08dbe8e4b6e6,一键更换超清壁纸，每一张都是4K图，并支持分类,通用,喜气羊羊,https://getquicker.net/User/719958/%E5%96%9C%E6%B0%94%E7%BE%8A%E7%BE%8A,19.8 KB,2023-11-19 19:49,5,增加分类，减少提示信息,2024-08-28
 超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,384 KB,2024-08-11 00:17,45,1.修复PDF插入空页问题,2024-08-28
-文件日期前缀,https://getquicker.net/Sharedaction?code=09498738-1fd8-4966-4101-08dca6282cd9,选中文件后运行，增加文件创建日期或修改日期前缀（yymmdd格式），支持多文件批量处理，自动跳过已有 yymmdd 格式日期前缀的文件,Windows 资源管理器,大葱明子,https://getquicker.net/User/184821/%E5%A4%A7%E8%91%B1%E6%98%8E%E5%AD%90,18 KB,2024-07-18 14:24,2,"1. 增加设置文件修改日期前缀的功能；
-2. 修复 Office 元数据错误时使用错误日期或当前日期的问题；
-3. 增加首次使用动作时引导设置日期前缀添加模式的功能；
-4. 增加右键菜单切换日期前缀添加模式选项。",2024-08-28
-极速复制,https://getquicker.net/Sharedaction?code=ae97e9a9-c33a-4b47-970a-08dcc5fac3c3,快速的连续复制粘贴,通用,IDongYou,https://getquicker.net/User/945782/IDongYou,46.4 KB,2024-08-27 11:31,0,,2024-08-28
 亚马逊搜索,https://getquicker.net/Sharedaction?code=db3be30c-9331-4439-97c8-08dac9653534,"美国站专用, 搜索词自动转英文",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,21.8 KB,2022-11-19 16:04,3,除面板点击直接调用剪切板的内容搜索,2024-08-28
 筛选文件,https://getquicker.net/Sharedaction?code=d9eba567-72f1-47fa-9706-08dcc5fac3c3,360文件夹专用，筛选当前文件夹下符合关键字信息的文件或文件夹,360文件夹,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,37.6 KB,2024-08-27 10:13,0,,2024-08-28
 AI智炼,https://getquicker.net/Sharedaction?code=9d0493a4-75bc-4b49-a26f-08dc0740f11f,功能：1.选中文字，快速根据设置的模型角色获得提炼结果。2.可管理多角色。3.当前模型支持：星火/ChatGPT,通用,YCHH,https://getquicker.net/User/738826/YCHH,325.2 KB,2023-12-28 22:50,29,更新,2024-08-28
