@@ -1,0 +1,10 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+超级剪贴板,https://getquicker.net/Sharedaction?code=90c2b81b-cd9e-41cd-4892-08d86ad454b4,连续复制和多种高级方式的增强型文字剪贴板,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,76.7 KB,2020-10-08 20:36,11,优化标题长度,2024-08-31
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,427.8 KB,2024-05-10 17:42,28,优化：贴边隐藏时再次运行动作可激活窗口,2024-08-31
+超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,384.8 KB,2024-08-11 00:17,47,1.将截图ocr和截图自动保存改为全局功能,2024-08-31
+五笔速查（长期维护）,https://getquicker.net/Sharedaction?code=e67b4e47-82b1-4b3d-cfac-08dbb1e4c8fb,五笔编码查询，快速反查。本人（打字爱好者）长期维护。,通用,EC10010,https://getquicker.net/User/2997/EC10010,63.9 KB,2023-09-11 09:44,12,重大优化。,2024-08-31
+巴德文件版本号,https://getquicker.net/Sharedaction?code=71742f10-471c-4625-8e6c-08dc6685e603,经常需要给文件添加版本；从当前版本复制出新的版本等操作，因此写了这个动作,通用,Bader,https://getquicker.net/User/135289/Bader,19.2 KB,2024-04-28 10:29,9,1. 新增版本号风格,2024-08-31
+文本编辑器,https://getquicker.net/Sharedaction?code=7b41583d-0ca0-4d1c-d997-08d925610577,随用随关的记事本 or 一站式文本处理工具,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,393.3 KB,2021-06-02 12:50,34,"- 功能：新增「每N行合并为一行」
+- 功能：新增「清除Markdown标记」
+- 功能：新增“查询字符信息”
+- 功能：升级部分子程序",2024-08-31
