@@ -1,9 +1,24 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+裁剪画布到选区,https://getquicker.net/Sharedaction?code=66fad419-952d-4db9-d695-08dcc81fd814,裁剪画布到选择范围,Adobe Photoshop,Nian7i,https://getquicker.net/User/218805/Nian7i,3.2 KB,2024-08-30 23:45,0,,2024-08-31
+外卖优惠券,https://getquicker.net/Sharedaction?code=369dd506-8476-4344-3e88-08d8ef707881,每天领取饿了么的外卖红包，用微信扫码即可。,通用,Devin,https://getquicker.net/User/14722/Devin,9.2 KB,2021-03-26 17:49,6,跟新领券二维码,2024-08-31
+表格常用工具,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,106 KB,2024-05-08 14:47,13,修改小问题,2024-08-31
+固定截图OCR,https://getquicker.net/Sharedaction?code=4179ff38-fff9-44fd-d68f-08dcc81fd814,在固定位置连续截图OCR,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,14.1 KB,2024-08-30 17:29,0,,2024-08-31
+智能拼接图片,https://getquicker.net/Sharedaction?code=3de169f6-09a3-4f02-d688-08dcc81fd814,以最小矩形智能拼接图片\n自动添加编号、边框,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,50.5 KB,2024-08-30 16:05,2,支持对选择的图片文件进行拼接,2024-08-31
+选择工具,https://getquicker.net/Sharedaction?code=3a397b5c-c4e6-40ac-d68a-08dcc81fd814,一个多功能的选择动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,45 KB,2024-08-30 16:27,0,,2024-08-31
+对齐工具,https://getquicker.net/Sharedaction?code=75131d22-893a-4b03-d689-08dcc81fd814,一个简单的工具面板，特色功能是居中对齐和文本基线对齐。,Adobe Illustrator,Anlv,https://getquicker.net/User/392637/Anlv,35 KB,2024-08-30 16:05,0,,2024-08-31
+截图命名至目录,https://getquicker.net/Sharedaction?code=42c087a6-5738-49c6-9a1e-08dc72f0e55e,截图后可输入图片名称和选择要保存的文件夹（自动获取当前已打开的文件夹）,通用,原++,https://getquicker.net/User/189784/%E5%8E%9F__,13.9 KB,2024-05-13 15:22,6,更新,2024-08-31
 超级剪贴板,https://getquicker.net/Sharedaction?code=90c2b81b-cd9e-41cd-4892-08d86ad454b4,连续复制和多种高级方式的增强型文字剪贴板,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,76.7 KB,2020-10-08 20:36,11,优化标题长度,2024-08-31
+显示字体,https://getquicker.net/Sharedaction?code=54b8f328-5aab-4c7b-d683-08dcc81fd814,用于显示当前文档使用了多少种字体。,Adobe Illustrator,Anlv,https://getquicker.net/User/392637/Anlv,2.5 KB,2024-08-30 14:51,0,,2024-08-31
 记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,427.8 KB,2024-05-10 17:42,28,优化：贴边隐藏时再次运行动作可激活窗口,2024-08-31
+展开所有分组,https://getquicker.net/Sharedaction?code=c0384d3e-c5ab-4aef-d67b-08dcc81fd814,一键展开所有分组，方便查看及管理,Adobe Photoshop,Rugters,https://getquicker.net/User/950273/Rugters,1.3 KB,2024-08-30 14:01,1,弹窗提示,2024-08-31
+打开WT,https://getquicker.net/Sharedaction?code=6be76968-0076-40ec-8b6e-08d7c49ac07c,打开Windows Terminal,通用,AustinLee,https://getquicker.net/User/9024/AustinLee,3.8 KB,2020-03-10 17:50,5,获取地址失败后变为直接读取桌面地址，不会停止,2024-08-31
 超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,384.8 KB,2024-08-11 00:17,47,1.将截图ocr和截图自动保存改为全局功能,2024-08-31
-五笔速查（长期维护）,https://getquicker.net/Sharedaction?code=e67b4e47-82b1-4b3d-cfac-08dbb1e4c8fb,五笔编码查询，快速反查。本人（打字爱好者）长期维护。,通用,EC10010,https://getquicker.net/User/2997/EC10010,63.9 KB,2023-09-11 09:44,12,重大优化。,2024-08-31
 巴德文件版本号,https://getquicker.net/Sharedaction?code=71742f10-471c-4625-8e6c-08dc6685e603,经常需要给文件添加版本；从当前版本复制出新的版本等操作，因此写了这个动作,通用,Bader,https://getquicker.net/User/135289/Bader,19.2 KB,2024-04-28 10:29,9,1. 新增版本号风格,2024-08-31
+极速复制,https://getquicker.net/Sharedaction?code=ae97e9a9-c33a-4b47-970a-08dcc5fac3c3,快速的连续复制粘贴,通用,IDongYou,https://getquicker.net/User/945782/IDongYou,56 KB,2024-08-27 11:31,3,修复了部分问题,2024-08-31
+图标『搜』,https://getquicker.net/Sharedaction?code=20fb8767-ec07-4edb-d650-08dcc81fd814,轻松一键，开启 icon 图标搜索之旅~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,34.7 KB,2024-08-30 06:38,1,1,2024-08-31
+透明度,https://getquicker.net/Sharedaction?code=b10d12ea-155d-46f8-e665-08dc8f5b9fbd,调整窗口透明度5,通用,里吉LlJ,https://getquicker.net/User/505758/%E9%87%8C%E5%90%89LlJ,115.2 KB,2024-06-19 02:17,8,"UI更新；
+速度提升；
+增加主题；",2024-08-31
 文本编辑器,https://getquicker.net/Sharedaction?code=7b41583d-0ca0-4d1c-d997-08d925610577,随用随关的记事本 or 一站式文本处理工具,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,393.3 KB,2021-06-02 12:50,34,"- 功能：新增「每N行合并为一行」
 - 功能：新增「清除Markdown标记」
 - 功能：新增“查询字符信息”
