@@ -1,0 +1,124 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+吾爱破解自动签到,https://getquicker.net/Sharedaction?code=968899c5-7a0d-426b-a98f-08dab0af50de,基于WebView2,通用,zdf153,https://getquicker.net/User/20184/zdf153,12.5 KB,2022-10-19 01:06,10,修复cb提示为空的问题,2024-09-07
+文本处理(分组版),https://getquicker.net/Sharedaction?code=4fad09f9-386b-4d40-e624-08daec87275d,按住ctrl启动为用户选择模式可以搜索(一次性的),通用,zdf153,https://getquicker.net/User/20184/zdf153,313 KB,2023-01-02 19:33,11,修复对变量$开头的处理,2024-09-07
+Word/Excel工具箱,https://getquicker.net/Sharedaction?code=4c1b0b91-7a23-43d5-2f6d-08dcc919b3e2,全能工具箱，VBA宏/模板/字体/字号/颜色，常用收藏，一键修改！支持Word/Excel/WPS文字,Microsoft Word,Nian7i,https://getquicker.net/User/218805/Nian7i,74.1 KB,2024-08-31 14:01,12,"+新增四个常用VBA脚本
+   Word无格式粘贴：去掉所有格式，只粘贴文本内容
+   Excel规范表格：选择范围，根据内容自动调整宽高
+   Excel宋体/新罗马：中文字符为宋体，非中文为新罗马
+   Excel内细外粗边框
+~优化执行步骤，修复已知BUG",2024-09-07
+DiceBear-随机头像,https://getquicker.net/Sharedaction?code=ec4f470f-c510-4a9a-91c9-08dcce0e6778,获取 DiceBear 随机头像,通用,slowlyo,https://getquicker.net/User/215986/slowlyo,7.2 KB,2024-09-06 22:13,0,,2024-09-07
+巴德日记,https://getquicker.net/Sharedaction?code=fe09a606-2987-4b8e-52b4-08dc0cee7e1f,一键打开当天日记进行编写。,通用,Bader,https://getquicker.net/User/135289/Bader,16.5 KB,2024-01-05 10:36,5,1. 增加日志模板功能,2024-09-07
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,SimpleTex公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,139.6 KB,2023-06-12 00:47,18,更新公共API,2024-09-07
+文本清洗,https://getquicker.net/Sharedaction?code=5a2dd471-a1fc-44db-9722-08dcc5fac3c3,超全面超丝滑的字符窜处理，两种显示模式，可自定义规则批处理。,通用,Joker_D,https://getquicker.net/User/891699/Joker_D,771.9 KB,2024-08-27 22:11,2,"增加：
+·文本替换增加精准匹配；
+·文本替换增加正则；
+·增加对符；
+·增加生成日期行；
+·增加生成时间行；
+·增加克隆文本；
+·增加替换指定位置；
+·增加去指定位置；
+·增加截取；
+·增加调用功能，参数为按钮名称（包括自定义规则名称）；
+·增加筛选按钮功能；
+·自定义规则增加添加按钮；
+优化：
+·前缀后缀可添加多行不同内容；
+·文本替换窗口失焦不关闭；
+·优化插入内容；
+·解决js代码不能运行问题；
+·执行规则预设输入改多行文本；
+·按钮位置调整；
+·菜单模式优化；
+·分组改为按行数分组；
+·获取括号内容改为获取对符内容；
+·左右对齐改为补齐长度；
+·日期时间改为当前日期时；
+·删除计算；",2024-09-07
+ai自动审核动作技术,https://getquicker.net/Sharedaction?code=c4ff155e-412c-4f04-29af-08dccbee7fd4,基于ai的动作自动审核思路demo.,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,20.5 KB,2024-09-03 20:08,9,a,2024-09-07
+断舍离小助理,https://getquicker.net/Sharedaction?code=4dc7e738-8f4f-43e2-74f9-08dc9e8ef04d,——个人物品管理。辅助完成断舍离,通用,level1,https://getquicker.net/User/102977/level1,1.7 MB,2024-07-08 15:33,5,"【动作右键】
+1、动作右键增加一些指引图标。
+2、对捕获网页物品，补充字段。
+
+【传递参数】
+1、传递参数，支持物品/区域的图片的打开和编辑。
+2、传递参数，支持纯图片的打开和编辑。
+
+【区域操作窗】
+1、上传照片，自动提取图片颜色。（划掉）
+
+【物品编辑窗】
+1、完成图片提取颜色功能。
+2、物品编辑窗，颜色栏改为输入框。增加扩展功能，图片提取颜色。
+3、物品编辑窗，颜色输出框改为下拉+输入组合形式。
+4、物品编辑窗，颜色输入框，增加扩展功能：自动获取主图颜色、屏幕取色。
+
+【相册】
+1、支持区域照片，转为物品。
+
+【实时搜索物品】
+1、实时搜索物品，区域的图片打开对象为区域相册。
+
+【笔记操作窗】
+1、笔记操作窗，窗口尺寸加大。
+
+【笔记文本窗】
+1、笔记文本窗，改为不置顶。
+
+【待办表格】
+1、待办表格，优化字段顺序。
+2、待办表格，截止时间排序改为顺序。
+3、待办表格，增加天数、过期状态字段。
+3、待办表格，排在底下，全是天数绝对值的顺序排列。
+4、待办表格，截止时间为“9999-12-31T00:00:00”时，状态显示为“不限期”。
+5、待办表格，支持添加图片待办.
+6、待办表格，支持打开图片待办的对象（相册）。
+7、添加待办，增加开关：有限期。
+8、待办表格，添加待办增加开关：有限期。
+10、待办表格，表格中不显示创建时间。
+11、待办表格，有效期第0天，显示成“今天”，并且置顶。
+12、待办表格，计算日期改为向上取整。
+
+【过期物品】
+1、有效、过期表格，信息提示：有效/过期。
+2、过期，排在底下，全是天数绝对值的顺序排列。
+3、过期物品表格，将到期时间当天算在有效期内，将到期当天显示成“今天”。
+4、过期物品，计算日期改为向上取整。
+
+BUG：
+1、修复待办表格，选中一条没有对象的待办会报错的问题。
+2、修复待办表格，打开（直接添加的）待办报错的问题。
+3、修复区域上传照片，报错的问题。
+4、修复实时搜索笔记，搜页由于内容换行导致错位的问题。
+5、修复物品上传照片后，无法获取物品颜色的问题。
+6、修复图片转为物品时报错的问题。
+7、修复删除区域后，房间的排序打乱了的问题。
+8、修复删除分类后，的物品处理问题。
+9、修复实时搜索结果，打开照片所属的相册，点击返回，直接就结束进程了。
+
+优化：
+1、将系统数据中的时间最大值改“00:00:00”。",2024-09-07
+拼长图,https://getquicker.net/Sharedaction?code=de61a1d5-e38c-4e7c-8e57-08dc6685e603,——按文件名顺序合并，统一图片宽度，输出图片高度。,通用,level1,https://getquicker.net/User/102977/level1,20.9 KB,2024-04-27 16:44,1,"功能：
+1、拼图完成后，图片写入剪贴板，而不是高度。
+2、右键拼横图，支持快捷键：Ctrl。
+
+优化：
+1、优化拼图完成后的提示文字。",2024-09-07
+Quicker工具,https://getquicker.net/Sharedaction?code=b5d87667-1b8e-4bf3-83a7-08d91ff4f414,——Quicker开发者助手。动作统计、站内信、上架通知、版本更新Quicker、动作备注、个人中心、云数据。网友最新动作、子程序、动作单、论坛讨论区、提BUG。开发者工具：Json格式化、HTML格式化、字数统计、正则校验、正则字典。搜索：动作库、子程序、动作单、开发文档、论坛、官网、搜索用户、搜索作者。动作统计：点赞、日活、评论留言。,通用,level1,https://getquicker.net/User/102977/level1,412.4 KB,2021-05-26 22:44,48,1、修复由于论坛升级，导致判断动作已上架的功能报错了的问题。提示说网页节点不存在。,2024-09-07
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,266.1 KB,2023-05-29 20:30,40,动作右键菜单可设置出现输入法候选框时是否触发此动作。,2024-09-07
+动作面板拓展,https://getquicker.net/Sharedaction?code=01c80ad5-cd8d-47e0-7c73-08dbeef8975e,"动作版的动作面板, 可容纳非常多的动作,可自定义添加删除和分类以及外观参数等",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,62.6 KB,2023-11-27 14:30,4,更新子程序,2024-09-07
+超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,386.8 KB,2024-08-11 00:17,50,1.动作联盟可以设置参数了，调用其他动作时可以传递自定义参数,2024-09-07
+Zotero菜单,https://getquicker.net/Sharedaction?code=4f6c26c0-8f5c-422a-cb92-08dccce7aaee,利用菜单快速选择zotero侧栏图标及打开多层菜单选项,Zotero,BrainKE,https://getquicker.net/User/199719/BrainKE,82 KB,2024-09-05 16:22,5,给Magic插件增加独立的坐标（需要右键菜单中重新截取图标）,2024-09-07
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,347.2 KB,2023-03-25 00:27,274,支持一键Everything常用配置设置,2024-09-07
+替换文本,https://getquicker.net/Sharedaction?code=ca1cb981-6d24-4307-9da6-08da8bbc4eeb,替换文本中的指定内容 到剪贴板,通用,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,8.8 KB,2022-09-01 10:52,13,1,2024-09-07
+快捷面板,https://getquicker.net/Sharedaction?code=16d3c238-2527-4c2a-02a7-08dcbc7637c1,快速输入保存的内容、打开网页或动作,通用,Evelynal,https://getquicker.net/User/340469/Evelynal,248 KB,2024-08-15 13:35,6,"【Beta】新增[主题]功能
+
+·可以通过主题界面自定义分组方式、各项颜色、按钮间距等数值。
+·该功能尚不完善，可能会出现无法启动/结束动作的问题，可以通过重启Quicker + 右键动作-重置当前主题 恢复
+·当前设置主题默认保存为临时主题使用，创建新主题功能将在后续更新
+",2024-09-07
+弹窗拦截,https://getquicker.net/Sharedaction?code=a868f973-442f-4056-cb70-08dccce7aaee,自动拦截电脑广告弹窗,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,37 KB,2024-09-05 00:59,8,默认配置增加FormatFactory；优化代码,2024-09-07
+EC短语V2,https://getquicker.net/Sharedaction?code=3155fad4-97e9-4af3-817f-08db0f37142a,以实时搜索或菜单的形式发送短语，运行命令等。,通用,EC10010,https://getquicker.net/User/2997/EC10010,243.8 KB,2023-02-15 18:35,45,升级子程序。,2024-09-07
+Todo Little,https://getquicker.net/Sharedaction?code=422d8f31-72b9-403c-29f5-08dccbee7fd4,容易忘得事情，记一下吧！一个非常轻量的待办清单,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,20 KB,2024-09-04 19:56,1,+添加角标，显示待办条数,2024-09-07
+求和剪贴板,https://getquicker.net/Sharedaction?code=7735542b-34c0-40e5-cb9c-08dccce7aaee,求和剪贴板历史记录中连续数字内容，直到不是数字为止,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,17.7 KB,2024-09-06 00:52,0,,2024-09-07
