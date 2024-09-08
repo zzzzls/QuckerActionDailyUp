@@ -2,7 +2,7 @@
 动作菜单,https://getquicker.net/Sharedaction?code=44038d9d-976c-4d05-737a-08dcced15765,筛选本地动作，并用菜单显示,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,52.2 KB,2024-09-07 08:09,11,~ 常驻菜单添加到开头（避免动作太多时不方便选择）,2024-09-08
 便捷WIFI切换,https://getquicker.net/Sharedaction?code=e62774c0-0535-4433-737f-08dcced15765,在已保存的WIFI之间切换(暂不支持Win11系统),通用,Cold_Air,https://getquicker.net/User/577696/Cold_Air,37.8 KB,2024-09-07 10:49,1,"+ 新增系统兼容性判断
 注：当前及以前版本暂不支持Win11系统",2024-09-08
-智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,AI，智能，效能。原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),746.4 KB,2023-06-26 19:07,191,增加传参调用模块，方便和其它动作联动，在智核一次配置，多处使用AI能力。 https://getquicker.net/Sharedaction?code=71761973-a2d4-468b-d408-08dccf0b1d74&fromMyShare=true,2024-09-08
+WPS调整行高设置,https://getquicker.net/Sharedaction?code=94d6d161-0644-4ede-d407-08dccf0b1d74,快速调出行高设置窗口，可以查看当前行高数值，将其应用到其他行,WPS Office,小陈240904,https://getquicker.net/User/1129764/%E5%B0%8F%E9%99%88240904,33 B,2024-09-07 18:30,0,,2024-09-08
 京东自动回复,https://getquicker.net/Sharedaction?code=d36e4039-0b88-4490-e264-08dcb832f8f0,自动检测京麦回复消息并回复,京东-京麦,R-VIP,https://getquicker.net/User/950650/R-VIP,8.2 KB,2024-08-09 18:26,4,从新优化了消息检测功能,2024-09-08
 可以点击的自定义提示窗,https://getquicker.net/Sharedaction?code=ef9cd7d5-bdc1-480f-e1b8-08db8b5e73ed,带图标、带提示音、带文字，UI好看的提示窗,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,24.3 KB,2023-07-24 12:44,1,优化了冗余的代码量。,2024-09-08
 Zotero菜单,https://getquicker.net/Sharedaction?code=4f6c26c0-8f5c-422a-cb92-08dccce7aaee,利用菜单快速选择zotero侧栏图标及打开多层菜单选项,Zotero,BrainKE,https://getquicker.net/User/199719/BrainKE,96.4 KB,2024-09-05 16:22,8,修复BUG,2024-09-08
