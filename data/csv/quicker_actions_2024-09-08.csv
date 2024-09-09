@@ -1,0 +1,41 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+影视库,https://getquicker.net/Sharedaction?code=910e7f51-1466-4e03-a43f-08dc435c8f91,喜欢用网站看电视的快捷启动器,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,50.8 KB,2024-03-14 14:56,12,"逻辑算法全面重做效率更高内容更丰富
+修复已知bug
+添加超多新源
+后续改版更新",2024-09-09
+AI编辑助手,https://getquicker.net/Sharedaction?code=412726f3-94a1-45ca-4e99-08dcd00012c5,在编辑时调用文本指令，显示提示词列表，并快捷调用AI,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,23.7 KB,2024-09-08 22:23,0,,2024-09-09
+GPT-SoVITS-V2,https://getquicker.net/Sharedaction?code=3a92c279-75e8-46e4-4e97-08dcd00012c5,接入GPT-SoVITS接口，朗读文本 ,通用,刘悦的技术博客,https://getquicker.net/User/1037284/%E5%88%98%E6%82%A6%E7%9A%84%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2,3 KB,2024-09-08 21:28,0,,2024-09-09
+EVER重命名,https://getquicker.net/Sharedaction?code=19fe14e5-ff6d-46fb-efcb-08d72c3bd710,批量重命名文件（夹），带后悔药功能，可在everything修改。加前后缀，加日期、数字，替换部分，修改结果预览。,通用,Ever,https://getquicker.net/User/2774/Ever,348.7 KB,2019-08-29 16:59,58,"查找替换直接显示替换
+改名时从最里层开始改，也就是先改文件，再改文件夹。
+不建议同时对同一条线（同时改A/B/C三者）上的文件进行重命名，此种情况只在使用ev修改时可能会出现，详情请看底部说明。",2024-09-09
+Word/Excel工具箱,https://getquicker.net/Sharedaction?code=4c1b0b91-7a23-43d5-2f6d-08dcc919b3e2,全能工具箱，VBA宏/模板/字体/字号/颜色，常用收藏，一键修改！支持Word/Excel/WPS文字,Microsoft Word,Nian7i,https://getquicker.net/User/218805/Nian7i,108.2 KB,2024-08-31 14:01,14,"上一版界面颜色自定义出错，紧急修复！
+ 
++新增内容
+---VBA测试（右键使用，可循环测试VBA，可直接保存测试后的VBA）
+---VBA管理-删除/排序（增加了排序，可排序自己添加的宏）
+---批量编辑（葫芦画瓢），VBA之外的内容，可手动编辑，方便批量操作
+---增加暗色模式，可一键改为暗色界面
+---新增两个默认VBA（Word首行缩进2字符，Excel设置宽高）
+---添加默认中文字号选项
+
+~ 修复执行中已知的BUG~",2024-09-09
+示例：文本备注窗口,https://getquicker.net/Sharedaction?code=945fa7f3-d006-49b6-d42b-08dccf0b1d74,一个比较美观的文本备注窗口,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,13 KB,2024-09-08 17:56,0,,2024-09-09
+示例:表格行排序,https://getquicker.net/Sharedaction?code=2a839a54-3e6a-4b4d-d42a-08dccf0b1d74,表格行排序,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,14.9 KB,2024-09-08 17:24,0,,2024-09-09
+安娜档案搜索,https://getquicker.net/Sharedaction?code=effb4c03-b029-43b2-b0e3-08db304dc861,选中搜索,通用,ganganghara,https://getquicker.net/User/3154/ganganghara,3 KB,2023-03-30 18:22,3,更新网址,2024-09-09
+文件夹批量重命名,https://getquicker.net/Sharedaction?code=9409cc3d-40d2-4071-d41d-08dccf0b1d74,批量更改清单中最低层级的文件夹名称,Windows 资源管理器,Mr.M,https://getquicker.net/User/26163/Mr.M,30.2 KB,2024-09-08 12:10,2,更新计数器,2024-09-09
+AI小窗,https://getquicker.net/Sharedaction?code=595496c0-0063-42ab-d420-08dccf0b1d74,在鼠标旁边弹出一个小窗来显示AI的回复,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,36.3 KB,2024-09-08 15:23,2,+ 支持设置字体大小,2024-09-09
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,AI，智能，效能。原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),747.2 KB,2023-06-26 19:07,192,提供了一键分享参数的接口,2024-09-09
+pdf操作,https://getquicker.net/Sharedaction?code=2ce36e6a-19d1-4767-d40f-08dccf0b1d74,简单的pdf处理，包括图片转换pdf、合并文件、提取页面、提取图片。纯Quicker实现，无依赖项,通用,FaniX,https://getquicker.net/User/52603/FaniX,22.9 KB,2024-09-08 00:13,1,"修复合并pdf默认文件名错误
+增加提取页面结果文件页面数预览",2024-09-09
+菜单补全值,https://getquicker.net/Sharedaction?code=7ab46593-8b16-417f-d41c-08dccf0b1d74,[图标]名称  补全为 [图标]名称|名称,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,5.3 KB,2024-09-08 11:43,0,,2024-09-09
+视频压缩,https://getquicker.net/Sharedaction?code=d6b39ee6-77ff-4177-fc8c-08dcc31be9e1,简单的视频压缩/修改视频尺寸,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,26 KB,2024-08-24 00:58,5,"+直链失效，去除了FFmpeg下载
+~优化了执行逻辑
+~更新图标",2024-09-09
+动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,127.3 KB,2024-08-21 10:59,15,+ 增加筛选选择邮箱地址并自动打开发信界面,2024-09-09
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 文章书籍AI问答、多文件AI问答,连续问答；ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,900.8 KB,2024-07-11 11:24,56,增加逆向AI构建和启动指南,2024-09-09
+EXCEL 只读打开,https://getquicker.net/Sharedaction?code=dafa7196-6d32-4a2a-d412-08dccf0b1d74,"文件下里选中文件, 然后运行动作只读打开, 避免冲突",Windows 资源管理器,偶然奇怪,https://getquicker.net/User/400908/%E5%81%B6%E7%84%B6%E5%A5%87%E6%80%AA,4.1 KB,2024-09-08 02:10,0,,2024-09-09
+Galgame助手,https://getquicker.net/Sharedaction?code=c1be5f2b-2f87-415e-fc79-08dcc31be9e1,不停按空格/点击鼠标（0.1s），跳过剧情，解放你的双手,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,6.2 KB,2024-08-23 19:14,1,"加入单击模式
+",2024-09-09
+微信OCR,https://getquicker.net/Sharedaction?code=47573941-69dc-409b-2f5a-08dcc919b3e2,python独立版，可无需安装微信，会自动配置环境和依赖文件。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,28.1 KB,2024-08-31 09:15,1,"抽空修复一下@EC10010和@cckk88反馈的问题，在此表示感谢。
+识别结果直接写入剪贴板，后面有空再增加其他的功能。",2024-09-09
+chaTchaT,https://getquicker.net/Sharedaction?code=55cb0621-3033-475c-d410-08dccf0b1d74,开箱即用，用完就溜。简简单单地，只想随时问AI几个问题而已,通用,Joker_D,https://getquicker.net/User/891699/Joker_D,109 KB,2024-09-08 00:15,0,,2024-09-09
