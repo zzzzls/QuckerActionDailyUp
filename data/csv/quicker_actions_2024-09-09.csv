@@ -1,0 +1,20 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+晓ai,https://getquicker.net/Sharedaction?code=ec7c04ef-6465-424a-4eda-08dcd00012c5,一个简单的解释ai，调用网页版豆包跟智谱清言。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,65.8 KB,2024-09-09 22:52,0,,2024-09-10
+全屏/退出全屏,https://getquicker.net/Sharedaction?code=0ad94a74-3640-4b48-4ed8-08dcd00012c5,potplayer全屏退出全屏,PotPlayer,ofe1,https://getquicker.net/User/1137763/ofe1,4.5 KB,2024-09-09 20:42,0,,2024-09-10
+切换窗口V2,https://getquicker.net/Sharedaction?code=9d92ad03-f6d8-46f8-4e94-08dcd00012c5,悬浮动作在动作滚动鼠标就可以切换窗口，不同软件之间切窗口换(进程名识别 不支持同一个进程名窗口),通用,zdf153,https://getquicker.net/User/20184/zdf153,84.7 KB,2024-09-08 20:24,11,修复bug,2024-09-10
+动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,131.8 KB,2024-08-21 10:59,17,+ 增加分类菜单返回公共菜单按键（仅支持返回一次）,2024-09-10
+关机/重启,https://getquicker.net/Sharedaction?code=9740a177-4d58-4d93-4ecf-08dcd00012c5,关机或重启,通用,ofe1,https://getquicker.net/User/1137763/ofe1,4.1 KB,2024-09-09 17:06,1,输入时间部分，加上关机/重启的文字提示,2024-09-10
+摸鱼最小化,https://getquicker.net/Sharedaction?code=e4f334fb-b0ce-4ae4-4ecb-08dcd00012c5,设置需要最小化的窗口、网页标题，以及需要移动到前台的窗口,通用,flyskyz,https://getquicker.net/User/220509/flyskyz,25.8 KB,2024-09-09 16:43,0,,2024-09-10
+超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,394.3 KB,2024-08-11 00:17,56,1.修复问题：修复删除收藏夹置顶条目失效的问题,2024-09-10
+一键安装python,https://getquicker.net/Sharedaction?code=e553cbdf-7a22-4927-0b64-08dcc40d7cd7,"注:安装完python后重启【quicker】能生效py模块。适合没有安装python的朋友一键安装python,，有请跳过此动作",通用,阿苏00131,https://getquicker.net/User/15824/%E9%98%BF%E8%8B%8F00131,9.7 KB,2024-08-24 20:50,2,安装命令使用管理员的方式进行,2024-09-10
+洛雪音乐,https://getquicker.net/Sharedaction?code=aeceeed1-bba5-4f8e-4ec4-08dcd00012c5,一键开关洛雪音乐,lx-music-desktop,ofe1,https://getquicker.net/User/1137763/ofe1,3.2 KB,2024-09-09 15:44,0,,2024-09-10
+AListSearch,https://getquicker.net/Sharedaction?code=0404ea2f-afeb-47a9-4ec2-08dcd00012c5,调用Alist内置索引和搜索API集成到实时搜索框中,通用,用户1R_rE_jxBAA,https://getquicker.net/User/1080054/%E7%94%A8%E6%88%B71R_rE_jxBAA,18.9 KB,2024-09-09 15:40,0,,2024-09-10
+obsidian字体颜色盘,https://getquicker.net/Sharedaction?code=e4418b80-c48f-4e7c-cd57-08dbf3670a31,简单的obsidian颜色盘动作，按+号添加新的颜色，选中文本后点击选项框中的颜色生成CSS颜色代码,Obsidian,Turningbell,https://getquicker.net/User/845365/Turningbell,86.9 KB,2023-12-03 16:56,10,"更新
+1.添加字体大小功能
+2.添加字体大小和字体颜色和背景颜色的兼容
+注意：需要初始化后才会显示
+按下灰色的按钮，在弹窗中输入想要的字体大小即可，同时设置字体大小和字体颜色以及背景颜色不会冲突直接使用即可，不过如果有其他更复杂的样式需求可能会冲突，注意",2024-09-10
+移动窗口透明,https://getquicker.net/Sharedaction?code=a943acc4-7e56-49ea-4ebd-08dcd00012c5,将鼠标正在拖动的窗口设为半透明/置顶，类似AquaSnap的AquaGlass,通用,FaniX,https://getquicker.net/User/52603/FaniX,22.8 KB,2024-09-09 14:18,0,,2024-09-10
+软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,114.9 KB,2022-12-27 16:23,23,增加写入判断,2024-09-10
+裁切图片空白,https://getquicker.net/Sharedaction?code=6963d820-9683-418a-4ea4-08dcd00012c5,裁切图片空白的地方，只支持png,通用,zdf153,https://getquicker.net/User/20184/zdf153,8.4 KB,2024-09-09 11:33,0,,2024-09-10
+拾色器,https://getquicker.net/Sharedaction?code=183424ce-1c03-43d4-a071-08d9ac50b9f2,取色，调色，管理颜色,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,81.6 KB,2021-11-21 12:54,13,更新收藏夹,2024-09-10
