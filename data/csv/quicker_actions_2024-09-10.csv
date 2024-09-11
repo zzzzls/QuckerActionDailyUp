@@ -1,22 +1,18 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,147.8 KB,2024-08-21 10:59,18,"+ 增加字号、图标设置
-  增加程序列表当前分组仅有一个匹配结果时，自动执行（目前仅支持可执行文件！）
-  程序编辑外放至动作右键，简化操作",2024-09-11
-EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,270 KB,2023-05-29 20:30,41,动作右键菜单可设置CapsLock键锁定时是否强制手动选择文本。,2024-09-11
 合并文件夹,https://getquicker.net/Sharedaction?code=3aaabb5a-1b67-4a90-ebd7-08dc84f6bb0e,将多个文件夹内子文件合并,Windows 资源管理器,Win_Wen,https://getquicker.net/User/717787/Win_Wen,24.9 KB,2024-06-06 09:47,1,新增按数量合并,2024-09-11
 表格常用工具2.1,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,122.1 KB,2024-05-08 14:47,20,更新菜单界面,2024-09-11
-7-zip智能打(解)包,https://getquicker.net/Sharedaction?code=b5d24b8d-601e-47ab-d6f0-08da49b25a9a,只需要你安装了7-zip，第一次设置后就能够在不打开7-zip的情况下静默的进行文件的压缩打包。目前版本分为两种模式：集合打包和单独打包。支持7z、zip格式；支持批量加密打包；支持固始压缩（仅7z格式）；支持多线程；可选1~9个压缩级别；另外具有自选功能：添加为压缩包名称密码标签（能防止自己加密后的文件忘记密码）。,通用,Cold_Air,https://getquicker.net/User/577696/Cold_Air,252.8 KB,2022-06-09 19:37,17,"1、优化解压重名时的重命名逻辑
-2、调整解压重名时的提示窗口",2024-09-11
+Sy-2-Anki,https://getquicker.net/Sharedaction?code=1edb1db5-2dc0-423d-fbe7-08dcc730f642,同步思源卡片至anki,SiYuan,mmjj,https://getquicker.net/User/155852/mmjj,160 KB,2024-08-28 22:40,5,整理不必要的步骤,2024-09-11
+Pack And Go,https://getquicker.net/Sharedaction?code=d86d087c-6fb2-485f-9aa8-08dcd1153ca4,在SolidWorks中快速打开“打包窗口”,SOLIDWORKS,Cold_Air,https://getquicker.net/User/577696/Cold_Air,942 B,2024-09-10 17:31,0,,2024-09-11
 折旧计算器,https://getquicker.net/Sharedaction?code=0f435f5f-9271-4473-8b23-08dcb6550811,对于三包产品需要折旧的情况下快速计算折价费用,通用,雨梦娴,https://getquicker.net/User/991630/%E9%9B%A8%E6%A2%A6%E5%A8%B4,6.6 KB,2024-08-07 17:20,2,"1.更新显示应扣金额
 2.更新显示应退金额
 3.选中年月日后输入金额即可计算",2024-09-11
-巴德AI快搜,https://getquicker.net/Sharedaction?code=208d0d8d-82aa-46d0-f127-08dca16ac556,定义提示词；调用AI引擎进行快速搜索。,通用,Bader,https://getquicker.net/User/135289/Bader,11.3 KB,2024-07-11 23:07,10,1. 去除冗餘代碼,2024-09-11
 自选搜索,https://getquicker.net/Sharedaction?code=4878b9df-a7ca-4fac-9aa0-08dcd1153ca4,多种搜索自选,通用,小熊er,https://getquicker.net/User/492800/%E5%B0%8F%E7%86%8Aer,5.1 KB,2024-09-10 14:05,0,,2024-09-11
 随机写真v3,https://getquicker.net/Sharedaction?code=61c09f4e-9058-4fca-613d-08dccaf85cd2,随机显示一张写真,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,287 KB,2024-09-03 09:13,8,"新增本地随机；
 新增可选开启关闭的显示下一张，自动关闭上一张功能，默认关闭，如需开启请面板中右键选择运行开始菜单；
 现在月明有两个功能，点一次月明，是当前，点两次，是上一次的，点三次，是当前，轮番切换；
 收藏管理，删除，重命名，操作逻辑优化。
 修复bug",2024-09-11
+有外无内框,https://getquicker.net/Sharedaction?code=47f4a3dd-c01e-437a-9a99-08dcd1153ca4,让所选框线只有外框线，没有内框线,Microsoft Excel,olmo,https://getquicker.net/User/120789/olmo,1.5 KB,2024-09-10 11:32,0,,2024-09-11
 智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,AI，智能，效能。原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),763.4 KB,2023-06-26 19:07,193,增加了obsidian联动，配合obsidian中的thino和local rest api 插件使用，可在文本窗口一键发送保存到当日thino中，本地笔记，无忧跑路。,2024-09-11
 FFmpeg视频处理,https://getquicker.net/Sharedaction?code=6c87faeb-78f2-450c-fbe0-08dcc730f642,视频剪辑，转换，提取音频，ffmpeg命令,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,216.2 KB,2024-08-28 19:50,16,更新正则表达式,2024-09-11
 7z分别压缩,https://getquicker.net/Sharedaction?code=069ba6be-b75e-4caa-acb5-08dcc1378ee1,分别压缩选中文件为7z格式，请参见使用说明,Windows 资源管理器,ZionC,https://getquicker.net/User/742932/ZionC,7.6 KB,2024-08-21 10:56,2,修正进度条错误,2024-09-11
