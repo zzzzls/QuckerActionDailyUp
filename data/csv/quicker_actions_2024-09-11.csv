@@ -1,0 +1,41 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+巴德卜一卦,https://getquicker.net/Sharedaction?code=41b2b6d1-8f24-4f2c-9a0e-08dca25b1344,64卦 卜卦 一键占卜 AI解卦,通用,Bader,https://getquicker.net/User/135289/Bader,13.6 KB,2024-07-13 09:57,9,1. 更换默认AI引擎为秘塔AI搜索,2024-09-12
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,AI，智能，效能。原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),778.7 KB,2023-06-26 19:07,194,"增加文本对话框出内容后的发送菜单两个选项，方便把暂时需要参考的内容贴在桌面查看，不影响多次ai对话：
+1. 桌面贴图(感谢CL佬的动作示例)
+2. 悬浮窗口(感谢HDG佬的动作示例)",2024-09-12
+移除窗口圆角,https://getquicker.net/Sharedaction?code=3b726cab-d9b1-4d30-6040-08dcd225a467,移除选定窗口的Win11窗口圆角效果,通用,FaniX,https://getquicker.net/User/52603/FaniX,3.2 KB,2024-09-11 22:30,0,,2024-09-12
+无水印解析,https://getquicker.net/Sharedaction?code=caaf75e4-9ce2-43d3-53d4-08dbf9f189d3,小红书无水印解析，视频图集一键下载,通用,昔枫沐杰,https://getquicker.net/User/496278/%E6%98%94%E6%9E%AB%E6%B2%90%E6%9D%B0,41.4 KB,2023-12-11 18:30,3,由于服务器被抖音风控，已停止抖音解析。,2024-09-12
+彩云天气,https://getquicker.net/Sharedaction?code=05f42a2c-8b97-42a0-f2ba-08da67a99d9b,彩云api，天气通知,通用,技艺,https://getquicker.net/User/81814/%E6%8A%80%E8%89%BA,188.1 KB,2022-07-17 15:54,3,-fix 修复获取地区，感谢@ai56，@逆行者,2024-09-12
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,344 KB,2023-03-25 00:27,275,"感谢用户反馈 @qwee333 
+OCR优化",2024-09-12
+极速摘录,https://getquicker.net/Sharedaction?code=0b5a268a-d8f0-41da-35f1-08db28db7b72,"灵感出现,极速/记录/摘字/摘图/连续摘录/编辑/无需运行Obsidian",Obsidian,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,170.8 KB,2023-03-20 15:40,48,"优化用户文件名变更后，无法识别obsidian的路径
+感谢用户反馈 @XYY4545 @用户xBK0gWxWBAA ",2024-09-12
+7-zip智能打(解)包,https://getquicker.net/Sharedaction?code=b5d24b8d-601e-47ab-d6f0-08da49b25a9a,只需要你安装了7-zip，第一次设置后就能够在不打开7-zip的情况下静默的进行文件的压缩打包。目前版本分为两种模式：集合打包和单独打包。支持7z、zip格式；支持批量加密打包；支持固始压缩（仅7z格式）；支持多线程；可选1~9个压缩级别；另外具有自选功能：添加为压缩包名称密码标签（能防止自己加密后的文件忘记密码）。,通用,Cold_Air,https://getquicker.net/User/577696/Cold_Air,262.9 KB,2022-06-09 19:37,20,"1、修复时造成打包覆盖的bug
+2、修复特殊路径下定位错误的bug
+3、修复“单独打包”表单中的细微bug",2024-09-12
+极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,189.4 KB,2023-07-28 23:43,107,跳出wolai指导取消,2024-09-12
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,截图识别文字/OCR后60种文本联动处理功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,79 KB,2024-05-09 20:07,51,优化,2024-09-12
+移动窗口透明,https://getquicker.net/Sharedaction?code=a943acc4-7e56-49ea-4ebd-08dcd00012c5,将鼠标正在拖动的窗口设为半透明/置顶，类似AquaSnap的AquaGlass,通用,FaniX,https://getquicker.net/User/52603/FaniX,22.8 KB,2024-09-09 14:18,1,~支持LayeredWindowAttribute带有透明色的窗口,2024-09-12
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,293.4 KB,2023-05-29 20:30,47,窗口左上角显示纠错耗时。,2024-09-12
+Excel选区生成文件,https://getquicker.net/Sharedaction?code=28242199-20e0-4104-6034-08dcd225a467,将Excel选定区域内容保留原格式生成为文件,Microsoft Excel,sharklaka,https://getquicker.net/User/826879/sharklaka,5.5 KB,2024-09-11 16:09,0,,2024-09-12
+微信图片自动旋转,https://getquicker.net/Sharedaction?code=7e8a5909-c4cc-4cf0-6024-08dcd225a467,自动旋转微信打开的图片到正确角度,WeChat,sharklaka,https://getquicker.net/User/826879/sharklaka,23.9 KB,2024-09-11 14:13,3,右键可设置自定义图标、阈值,2024-09-12
+PS分组导出,https://getquicker.net/Sharedaction?code=5cc17f9c-ad0c-4814-6026-08dcd225a467,用于每组导出新psd，并导出图片,Adobe Photoshop,York0,https://getquicker.net/User/156504/York0,8 KB,2024-09-11 14:34,0,,2024-09-12
+思源同步感知与远程管理,https://getquicker.net/Sharedaction?code=9c5deff5-970a-48b2-9aab-08dcd1153ca4,使用quicker的推送服务进行思源笔记同步感知与远程管理,SiYuan,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,61.9 KB,2024-09-10 18:04,2,优化子程序,2024-09-12
+PDF工具,https://getquicker.net/Sharedaction?code=0e24c256-07a9-4cd4-a97f-08dab0af50de,PDF按比例缩小 PDF设置出血 骑马钉 单张单双面 叠堆单双面 混拼,通用,jialan75home,https://getquicker.net/User/631091/jialan75home,360.8 KB,2022-10-18 16:06,99,文字说明,2024-09-12
+操作最近文件,https://getquicker.net/Sharedaction?code=42fb3cb7-b04c-424d-e581-08dcd1e7ecd1,对最新产生的文件快速进行复制、移动、打开、删除等操作,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,70.9 KB,2024-09-11 09:50,4,init,2024-09-12
+进入最深层文件夹,https://getquicker.net/Sharedaction?code=78e53b1f-788c-4502-e587-08dcd1e7ecd1,当一个文件夹有很多层嵌套的子文件夹，且每层都只有一个文件夹时，直接跳转到最深层的文件夹内,Windows 资源管理器,柳桥风起,https://getquicker.net/User/2089/%E6%9F%B3%E6%A1%A5%E9%A3%8E%E8%B5%B7,4.8 KB,2024-09-11 11:15,0,,2024-09-12
+自动复制到表格,https://getquicker.net/Sharedaction?code=cc001b8f-73dd-41a1-5b85-08da34faf1d5,须先打开Excel或WPS表格，选中文字，运行动作，自动复制文本到Excel。建议绑定快捷键使用。,通用,EC10010,https://getquicker.net/User/2997/EC10010,326.1 KB,2022-05-14 12:56,31,优化。,2024-09-12
+文本分词合并,https://getquicker.net/Sharedaction?code=fa0289d1-c2e0-4286-44e4-08dba7ba3b5d,对指定文本进行分词后选择特定词合并。ctrl+C可以快速复制选中内容。Enter可快速发送内容到窗口。,通用,flyskyz,https://getquicker.net/User/220509/flyskyz,71.5 KB,2023-08-29 16:38,11,"- 选项更新：不常用选项全部集中于设置面板中；
+- 新增快捷键：通过快捷键，可以快速将动作页面移动到前台；
+- 新增刷新按钮：不用担心连续复制，手动清空；
+- 发送后可以最小化窗口：在使用Enter/点击【发送到该窗口】发送内容后，将动作页面最小化而不是退出，配合快捷键可重新将页面移动到前台。",2024-09-12
+LOL无限火力-自动按技能,https://getquicker.net/Sharedaction?code=c0cc3007-a7cd-422e-9ab2-08dcd1153ca4,LOL无限火力-自动按技能QWER 一键停止,通用,∞∞∞,https://getquicker.net/User/995582/%E2%88%9E%E2%88%9E%E2%88%9E,34.6 KB,2024-09-10 20:52,1,增加alt系列,2024-09-12
+克隆移动,https://getquicker.net/Sharedaction?code=e61863e4-d9e3-4452-d503-08dc8210ab87,"用于一比一复制克隆文件夹目录,参考现有文件夹路径移动该文件",Windows 资源管理器,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,14.4 KB,2024-06-02 17:25,4,1,2024-09-12
+动态右键,https://getquicker.net/Sharedaction?code=e3885c5d-3004-45b6-acb6-08dcc1378ee1,根据文件扩展名生成菜单，仿Runany文件类型菜单,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,152.9 KB,2024-08-21 10:59,19,"+增加搜索动作变量，指定变量后会优先检测动作变量信息，并打开指定的搜索引擎展示结果
+ 格式为#{文本搜索引擎标题} 允许重复叠加。",2024-09-12
+Word/Excel工具箱,https://getquicker.net/Sharedaction?code=4c1b0b91-7a23-43d5-2f6d-08dcc919b3e2,全能工具箱，VBA宏/模板/字体/字号/颜色，常用收藏，一键修改！支持Word/Excel/WPS文字,Microsoft Word,Nian7i,https://getquicker.net/User/218805/Nian7i,102.6 KB,2024-08-31 14:01,15,"~修复已知BUG
+~优化界面",2024-09-12
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,1013.3 KB,2024-07-11 11:24,60,"优化逆向AI提示
+参数设置重布局",2024-09-12
+AI播音员,https://getquicker.net/Sharedaction?code=adb57332-20db-484c-83ec-08dcbad77c24,通过OpenAI将文字转为语音-ChatGPT 接近真人发音，多款声音可选，也有地方口音。,通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,130.5 KB,2024-08-13 20:54,7,修复安装逆向服务时乱码的问题--路径尽量设置为英文路径,2024-09-12
+截图搜索文字,https://getquicker.net/Sharedaction?code=2c7429b9-04cc-4ce7-83c5-08dcbad77c24,直接文字搜浏览器,通用,耿耿于,https://getquicker.net/User/917007/%E8%80%BF%E8%80%BF%E4%BA%8E,15.1 KB,2024-08-13 03:44,1,更新搜索优化,2024-09-12
