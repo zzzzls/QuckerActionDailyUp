@@ -1,0 +1,35 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,147 KB,2022-12-27 16:23,24,增加右键,2024-09-13
+替换-V2(脚本),https://getquicker.net/Sharedaction?code=773d60ec-d1b9-4389-ff48-08dc8b985333,替换对象-V2,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,24.8 KB,2024-06-14 14:23,1,按Enter键直接执行脚本功能，不用鼠标点击确定按钮,2024-09-13
+定时任务,https://getquicker.net/Sharedaction?code=ee574ebe-f541-42a7-9fe3-08dc7d53f313,可以用于处理一些重复且需要固定时间做到的事情，比如游戏抢道具，自动保存等等。,通用,huasio,https://getquicker.net/User/20962/huasio,272.5 KB,2024-05-27 19:01,16,fix:bug,2024-09-13
+Word/Excel工具箱,https://getquicker.net/Sharedaction?code=4c1b0b91-7a23-43d5-2f6d-08dcc919b3e2,全能工具箱，VBA宏/模板/字体/字号/颜色，常用收藏，一键修改！支持Word/Excel/WPS文字,Microsoft Word,Nian7i,https://getquicker.net/User/218805/Nian7i,116.6 KB,2024-08-31 14:01,17,"+新增按住shift点击，适合同一个按键不同效果的操作
+~修复云恢复缺少shift执行结果",2024-09-13
+直播源2.0,https://getquicker.net/Sharedaction?code=6315a2f6-a727-4efc-300a-08da0492bb96,根据需要看喜欢的节目，定时更新直播源,通用,KBC,https://getquicker.net/User/5221/KBC,218.9 KB,2022-03-14 09:41,264,去除失效源,2024-09-13
+MD笔记2,https://getquicker.net/Sharedaction?code=1b67cb94-ab53-40de-13f7-08dcb55b45cc,简单的笔记记录，必须安装第三方markdown软件，建议typora,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,270.7 KB,2024-08-06 19:20,11,efewgerg,2024-09-13
+移除窗口圆角,https://getquicker.net/Sharedaction?code=3b726cab-d9b1-4d30-6040-08dcd225a467,移除窗口Win11圆角效果,通用,FaniX,https://getquicker.net/User/52603/FaniX,4.6 KB,2024-09-11 22:30,2,允许同时运行多个动作实例,2024-09-13
+Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,624.8 KB,2023-03-16 00:45,46,"1. 新增：OpenAI和GoogleAI的自定义api允许定义完整后缀
+2. 新增：动作参数允许临时指定查词/查句模式，详细介绍见动作网页",2024-09-13
+AI生成quicker动作,https://getquicker.net/Sharedaction?code=7eacfb3e-0fad-46cc-6036-08dcd225a467,基于AI生成quicker动作,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,16 KB,2024-09-11 17:37,7,修复了导致模型无法切换的bug,2024-09-13
+文件名启动,https://getquicker.net/Sharedaction?code=c57e46b1-bb8e-4c8f-bce5-08dc9bca0acf,适合家里、公司多台电脑的用户，不管软件装在C盘还是D盘，根据名字直接找到并运行,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,118.1 KB,2024-07-04 21:28,27,"+ 允许添加动作
+  增加外观设置",2024-09-13
+7-zip智能打(解)包,https://getquicker.net/Sharedaction?code=b5d24b8d-601e-47ab-d6f0-08da49b25a9a,只需要你安装了7-zip，第一次设置后就能够在不打开7-zip的情况下静默的进行文件的压缩打包。目前版本分为两种模式：集合打包和单独打包。支持7z、zip格式；支持批量加密打包；支持固始压缩（仅7z格式）；支持多线程；可选1~9个压缩级别；另外具有自选功能：添加为压缩包名称密码标签（能防止自己加密后的文件忘记密码）。,通用,Cold_Air,https://getquicker.net/User/577696/Cold_Air,263.4 KB,2022-06-09 19:37,21,fix,2024-09-13
+拾录记事本,https://getquicker.net/Sharedaction?code=c686b17d-b40d-4631-ee74-08d9ffe2991a,替代电脑记事本，可重复获取选中文本并进行筛选、替换、翻译等等操作的文本处理工具。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,455.9 KB,2022-03-07 13:59,42,"~更换翻译接口（效率更快）
++截图OCR（增加目录下）
++提取网址参数（编码目录下）
++尝试支持外部参数传入文本（感谢@Melina 指点）",2024-09-13
+调整插入签字页图片格式,https://getquicker.net/Sharedaction?code=57de5558-72ba-4eb1-6070-08dcd225a467,投行工作必备，用于在word中插入签字盖章页，调整格式使其浮于文字上方、大小完全覆盖页面，居中,Microsoft Word,Dylan123,https://getquicker.net/User/401833/Dylan123,8.5 KB,2024-09-12 16:35,0,,2024-09-13
+连接/断开 蓝牙耳机,https://getquicker.net/Sharedaction?code=1f780ad0-9fdc-42be-a9b6-08dbe8e4b6e6,一键 连接/断开 蓝牙耳机，准确判断设备连接状态,通用,一叶之秋_,https://getquicker.net/User/114043/%E4%B8%80%E5%8F%B6%E4%B9%8B%E7%A7%8B_,54.6 KB,2023-11-20 11:33,7,新增设备选择功能，免手动输入耳机名,2024-09-13
+全能窗口调整器,https://getquicker.net/Sharedaction?code=c3715e2a-aa83-42b8-eb81-08daa107cacc,调整窗口的大小、位置、透明度、置顶状态。,通用,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,269.8 KB,2022-09-28 13:25,36,[~] 修复无法新建方案的 bug，感谢 @In丶。,2024-09-13
+策略组（家庭版）,https://getquicker.net/Sharedaction?code=60654119-0d1f-41c9-6068-08dcd225a467,快捷打开策略组，未安装则自动安装,通用,Aimony,https://getquicker.net/User/507794/Aimony,5.7 KB,2024-09-12 15:11,0,,2024-09-13
+巴德卜一卦,https://getquicker.net/Sharedaction?code=41b2b6d1-8f24-4f2c-9a0e-08dca25b1344,64卦 卜卦 一键占卜 AI解卦,通用,Bader,https://getquicker.net/User/135289/Bader,13.6 KB,2024-07-13 09:57,10,1. 更新引擎調用,2024-09-13
+PSCoke,https://getquicker.net/Sharedaction?code=333365f5-7d51-407d-f36d-08dbdac4c3da,多平台图片导入PS,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,155.7 KB,2023-11-02 12:40,45,2024年9月12日13:49:52,2024-09-13
+星陨计划,https://getquicker.net/Sharedaction?code=692c832f-01db-474f-a842-08dcafa4e6df,雷电模拟器平板1280x720,雷电模拟器,LJH_,https://getquicker.net/User/392903/LJH_,1.6 MB,2024-07-29 21:56,11,优化,2024-09-13
+转GIF,https://getquicker.net/Sharedaction?code=32f52e47-f208-46b8-29d1-08dccbee7fd4,1、场景一：将多个图片转GIF 2、将视频文件转GIF,通用,KBC,https://getquicker.net/User/5221/KBC,35.4 KB,2024-09-04 10:27,4,转GIF,2024-09-13
+背景色切换,https://getquicker.net/Sharedaction?code=a74881f3-da5a-43d3-6055-08dcd225a467,背景色从在黑白之间切换，使用24位颜色表示(对模型/局部生效，但对块编辑器无效....）,AutoCAD Application,mylink,https://getquicker.net/User/691311/mylink,2.1 KB,2024-09-12 11:18,0,,2024-09-13
+微信图片自动旋转,https://getquicker.net/Sharedaction?code=7e8a5909-c4cc-4cf0-6024-08dcd225a467,自动旋转微信打开的图片到正确角度,WeChat,sharklaka,https://getquicker.net/User/826879/sharklaka,30.7 KB,2024-09-11 14:13,5,优化,2024-09-13
+Prompt,https://getquicker.net/Sharedaction?code=669e6986-5929-4ed5-94e6-08dc6f0c8aa6,发送 Prompt 到 ChatGPT对话窗。,Google Chrome,Anlv,https://getquicker.net/User/392637/Anlv,29.3 KB,2024-05-08 17:09,7,~. 修复无法更新输入框内容的问题.,2024-09-13
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,293.6 KB,2023-05-29 20:30,48,修复了一些已知问题。,2024-09-13
+窗口对齐,https://getquicker.net/Sharedaction?code=ab871426-7442-4f52-604e-08dcd225a467,依次选择多个窗口，最终对齐至首个窗口,通用,SoloShine/Field,https://getquicker.net/User/402701/SoloShine_Field,21 KB,2024-09-12 09:32,0,,2024-09-13
+utf-8转成GBK,https://getquicker.net/Sharedaction?code=f5b9c37b-6420-4a6a-6037-08dcd225a467,可用于csv文件 从UTF-8转成GBK，便于Excel打开,Windows 资源管理器,星翔,https://getquicker.net/User/17805/%E6%98%9F%E7%BF%94,2.6 KB,2024-09-11 18:43,1,修改动作名,2024-09-13
+WORD字体颜色,https://getquicker.net/Sharedaction?code=57802dc1-8ae7-4a62-a12d-08dc6ffecc18,修改word所选文字颜色，可自定义颜色,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,11.6 KB,2024-05-09 18:40,2,增加易用性，动作左上角徽标图标改为动作右上角的徽标文字,2024-09-13
+巴德AI快搜,https://getquicker.net/Sharedaction?code=208d0d8d-82aa-46d0-f127-08dca16ac556,定义提示词；调用AI引擎进行快速搜索。,通用,Bader,https://getquicker.net/User/135289/Bader,30.4 KB,2024-07-11 23:07,14,1. 修复提示词对$$支持异常的问题,2024-09-13
