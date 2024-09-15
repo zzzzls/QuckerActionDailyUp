@@ -1,0 +1,33 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+iconfont图标库,https://getquicker.net/Sharedaction?code=f8ded035-31fa-4a39-d4c9-08dcd4148096,使用WebView2窗口创建一个阿里巴巴图标库，可快速导入PS。,通用,北部烙茶,https://getquicker.net/User/416410/%E5%8C%97%E9%83%A8%E7%83%99%E8%8C%B6,24.9 KB,2024-09-14 11:22,3,修复导入无反应的问题。,2024-09-15
+图片翻译保格式,https://getquicker.net/Sharedaction?code=c2688ad5-73af-40da-d4d7-08dcd4148096,"mac版-有道翻译图片并且保留原图格式, 选中图片运行直接翻译， 不选中则截图翻译",macos.exe,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,16.5 KB,2024-09-14 12:58,2,,2024-09-15
+固比单元格贴图,https://getquicker.net/Sharedaction?code=35d66ec5-e9e2-477f-4420-08dcd318a5f5,截图后选中单元格运行动作,Microsoft Excel,折幽寄远,https://getquicker.net/User/553197/%E6%8A%98%E5%B9%BD%E5%AF%84%E8%BF%9C,2.2 KB,2024-09-13 23:12,1,图片居中,2024-09-15
+排序 PRO,https://getquicker.net/Sharedaction?code=8adae715-4f53-4312-d4f1-08dcd4148096,TC多种排序方式,Total Commander,Joker_D,https://getquicker.net/User/891699/Joker_D,9.4 KB,2024-09-14 21:52,0,,2024-09-15
+文本清洗,https://getquicker.net/Sharedaction?code=5a2dd471-a1fc-44db-9722-08dcc5fac3c3,超全面超丝滑的字符窜处理，两种显示模式，可自定义规则批处理。,通用,Joker_D,https://getquicker.net/User/891699/Joker_D,821 KB,2024-08-27 22:11,6,"增加筛选
+修复按行数分组的逻辑错误
+优化断字",2024-09-15
+巴德规范Commit,https://getquicker.net/Sharedaction?code=278feb0c-e63e-4e38-ca7d-08dc99cfb00d,给Git commit经常写得不规范的小伙伴的动作。参考Angular Commit Message Conventions,通用,Bader,https://getquicker.net/User/135289/Bader,6.5 KB,2024-07-02 09:12,3,1. 类型支持自定义,2024-09-15
+yt-dlp,https://getquicker.net/Sharedaction?code=2c0756cc-c6fb-4030-d4eb-08dcd4148096,实用yt-dlp下载youtube视频,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,14.7 KB,2024-09-14 19:00,2,bug,2024-09-15
+摸鱼最小化,https://getquicker.net/Sharedaction?code=e4f334fb-b0ce-4ae4-4ecb-08dcd00012c5,设置需要最小化的窗口、网页标题，以及需要移动到前台的窗口,通用,flyskyz,https://getquicker.net/User/220509/flyskyz,26.4 KB,2024-09-09 16:43,1,修复了部分情况下窗口最小化后又打开的情况。,2024-09-15
+星穹连点,https://getquicker.net/Sharedaction?code=b7875eed-5fb2-4af3-7cc4-08dc009a2ba3,用于星穹铁道，智能快速地过完全部剧情（参考“原神连点”）,Star Rail,小豪l,https://getquicker.net/User/448566/%E5%B0%8F%E8%B1%AAl,60.3 KB,2023-12-21 01:23,20,优化点赞,2024-09-15
+AI生成quicker动作,https://getquicker.net/Sharedaction?code=7eacfb3e-0fad-46cc-6036-08dcd225a467,基于AI生成quicker动作1,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,22.4 KB,2024-09-11 17:37,15,1,2024-09-15
+因文,https://getquicker.net/Sharedaction?code=fd54458c-745b-4985-e511-08d8bce5d18f,快速处理、整理、记录、收集碎片文字,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,211.4 KB,2021-01-20 18:44,18,更新逻辑,2024-09-15
+表格常用工具2.2,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,148 KB,2024-05-08 14:47,22,修复bug：这个bug在自定义菜单样式后新建菜单会反复循环显示自定义菜单设置页面。,2024-09-15
+窗口移动控制,https://getquicker.net/Sharedaction?code=9f5240f2-3bb9-40e7-43f4-08dcd318a5f5,窗口移动、置顶、大小调节、透明度调节,通用,用户Dn7ftOoCBQA,https://getquicker.net/User/1096044/%E7%94%A8%E6%88%B7Dn7ftOoCBQA,269.6 KB,2024-09-13 14:48,1,"·修复：最大化后，移动或调整大小失效问题。
+·新特性：移动或调整大小后，短时间内可以再次移动或调整大小。",2024-09-15
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,357 KB,2023-05-29 20:30,51,小修复。,2024-09-15
+添加豆瓣信息到思源数据库,https://getquicker.net/Sharedaction?code=9736e7c1-c500-4588-ffa3-08dcb1b1f7f4,支持书籍与电影,Microsoft Edge,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,90.5 KB,2024-08-01 09:25,8,"1、修复制片国家地区添加失败的问题。之前版本的电影数据库建议放弃，不然会有一点点小问题。
+2、修复因页面名称含有特殊字符导致的图片不显示的问题。",2024-09-15
+软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,147.1 KB,2022-12-27 16:23,26,修复打开软件路径为快捷方式,2024-09-15
+FFmpeg视频处理,https://getquicker.net/Sharedaction?code=6c87faeb-78f2-450c-fbe0-08dcc730f642,视频剪辑，转换，提取音频，ffmpeg命令,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,219.7 KB,2024-08-28 19:50,18,"完善：封装多音轨MKV
+优化：抽帧导出图片",2024-09-15
+公文页边距、页码,https://getquicker.net/Sharedaction?code=31d10d01-6fff-465b-d4cb-08dcd4148096,调整为公文页边距和页码,Microsoft Word,阿华动作库,https://getquicker.net/User/1025281/%E9%98%BF%E5%8D%8E%E5%8A%A8%E4%BD%9C%E5%BA%93,259 B,2024-09-14 11:38,0,,2024-09-15
+操作最近文件,https://getquicker.net/Sharedaction?code=42fb3cb7-b04c-424d-e581-08dcd1e7ecd1,对最新产生的文件快速进行复制、移动、打开、删除等操作,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,82.2 KB,2024-09-11 09:50,5,按住Ctrl启动动作，直接重复上次设置的操作（但文件列表是新的）,2024-09-15
+取消双联垂直/水平,https://getquicker.net/Sharedaction?code=a0aa012c-6da1-4710-d4c8-08dcd4148096,注意输入法要在英文上，注意鼠标不要误触下拉菜单,Adobe Photoshop,青木~,https://getquicker.net/User/1074829/%E9%9D%92%E6%9C%A8~,4.6 KB,2024-09-14 11:10,0,,2024-09-15
+双联垂直,https://getquicker.net/Sharedaction?code=99de1919-1b80-4a52-d4c7-08dcd4148096,注意需要有两个画布，注意输入法需要为英文，注意鼠标误触菜单,Adobe Photoshop,青木~,https://getquicker.net/User/1074829/%E9%9D%92%E6%9C%A8~,2.6 KB,2024-09-14 11:07,0,,2024-09-15
+IP扫描工具,https://getquicker.net/Sharedaction?code=35f405e9-ad4b-4e66-d4c4-08dcd4148096,IP扫描工具  扫描网段存活的主机,通用,KBC,https://getquicker.net/User/5221/KBC,24 KB,2024-09-14 11:03,0,,2024-09-15
+青梨查询DOI,https://getquicker.net/Sharedaction?code=54540f35-6839-49f4-43e7-08dcd318a5f5,选中DOI或者标题即可发送到青梨,Google Chrome,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,10.1 KB,2024-09-13 12:38,6,修复剪切板bug，增加打开之后的延时,2024-09-15
+载入选区,https://getquicker.net/Sharedaction?code=8fbab72d-66a0-462c-d4c2-08dcd4148096,载入形状/文本/像素图层选区,Adobe Photoshop,Taitun,https://getquicker.net/User/854987/Taitun,4.4 KB,2024-09-14 10:20,0,,2024-09-15
+大纲序号,https://getquicker.net/Sharedaction?code=72b30190-bc80-4ee4-a64e-08db363ab19b,自动按序输出大纲序号，右键可以查看帮助,通用,Ranfou,https://getquicker.net/User/108076/Ranfou,51.4 KB,2023-04-06 10:10,10,修复样式复制的BUG,2024-09-15
+MD笔记2,https://getquicker.net/Sharedaction?code=1b67cb94-ab53-40de-13f7-08dcb55b45cc,简单的笔记记录，必须安装第三方markdown软件，建议typora,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,278.1 KB,2024-08-06 19:20,13,fjweiofwejffi,2024-09-15
+移除窗口圆角,https://getquicker.net/Sharedaction?code=3b726cab-d9b1-4d30-6040-08dcd225a467,移除窗口Win11圆角效果,通用,FaniX,https://getquicker.net/User/52603/FaniX,7 KB,2024-09-11 22:30,3,优化事件触发，防止按下ctrl键时弹出的窗口触发窗口选择,2024-09-15
