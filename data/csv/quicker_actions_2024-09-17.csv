@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+另存为PNG/JPG,https://getquicker.net/Sharedaction?code=d86d9a2a-e98b-4ae0-0448-08d9bd35a6e4,直接保存为PNG/JPG，可自定义保存命名,Adobe Photoshop,Nian7i,https://getquicker.net/User/218805/Nian7i,142.1 KB,2021-12-13 15:31,23,+新增三个动作传递（另存PNG，另存JPG，切片PNG）,2024-09-18
+移动\复制文件到收藏的目录,https://getquicker.net/Sharedaction?code=c6e1820e-5ffd-4ab6-91a2-08d7f4244f43,按下ctrl启动动作为收藏，在另存为窗口为跳转到选择的目录，其他窗口为打开文件夹,Windows 资源管理器,zdf153,https://getquicker.net/User/20184/zdf153,39.4 KB,2020-05-10 00:25,46,用户选择为鼠标周围,2024-09-18
+切换窗口V2,https://getquicker.net/Sharedaction?code=9d92ad03-f6d8-46f8-4e94-08dcd00012c5,悬浮动作在动作滚动鼠标就可以切换窗口，不同软件之间切窗口换(进程名识别 不支持同一个进程名窗口),通用,zdf153,https://getquicker.net/User/20184/zdf153,87.1 KB,2024-09-08 20:24,12,优化,2024-09-18
+软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,179.4 KB,2022-12-27 16:23,29,添加失败自动弹出窗口手动添加,2024-09-18
+合并所有贴图,https://getquicker.net/Sharedaction?code=b7024a6a-470e-4bf0-929a-08dcd6e4f4f5,将多个Quicker贴图合并为一张图片,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,18.6 KB,2024-09-17 19:24,0,,2024-09-18
+添加豆瓣信息到思源数据库,https://getquicker.net/Sharedaction?code=9736e7c1-c500-4588-ffa3-08dcb1b1f7f4,支持书籍、电影、电视剧,Microsoft Edge,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,119.5 KB,2024-08-01 09:25,12,新增行时为多选、单选列设置颜色，需使用思源笔记3.1.7 dev4 及以上版本方能生效。,2024-09-18
+IP扫描工具,https://getquicker.net/Sharedaction?code=35f405e9-ad4b-4e66-d4c4-08dcd4148096,IP扫描工具,通用,KBC,https://getquicker.net/User/5221/KBC,35.7 KB,2024-09-14 11:03,2,优化,2024-09-18
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,14.9 KB,2024-09-17 16:03,1,"增加历史记录
+优化一下",2024-09-18
+Bandizip解(压)缩,https://getquicker.net/Sharedaction?code=ee3b6ddd-ee9b-4545-43d0-08dcd318a5f5,调用已安装的Bandizip提供的API实现的快捷解(压)缩动作,Windows 资源管理器,Cold_Air,https://getquicker.net/User/577696/Cold_Air,173.8 KB,2024-09-13 00:31,6,"1、新增保留顶层目录选项;
+2、优化步骤;",2024-09-18
+表格常用工具2.2,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,148 KB,2024-05-08 14:47,23,停用下载方式合并新菜单，经反复测试下载链接不靠谱，后面再上架新功能,2024-09-18
+文件收藏,https://getquicker.net/Sharedaction?code=0b225526-03f9-43fe-d4f5-08dcd4148096,收藏常用的文件或文件夹，方便再次打开,Windows 资源管理器,吉他及她,https://getquicker.net/User/109101/%E5%90%89%E4%BB%96%E5%8F%8A%E5%A5%B9,24.6 KB,2024-09-14 23:15,4,"更换更简洁的方式实现图标显示；
+更换检测重复的方式以修复bug。",2024-09-18
+桌面整理,https://getquicker.net/Sharedaction?code=f0cd72b9-0c79-4d3a-95fa-08dcd5f4c73d,桌面整理,通用,KBC,https://getquicker.net/User/5221/KBC,43.1 KB,2024-09-17 12:52,2,其他 ,2024-09-18
+积分历史,https://getquicker.net/Sharedaction?code=27544c1f-ee3d-4426-b170-08dcd509a79f,查询会员中心：积分历史、总获得积分、最近一天的动作积分；统计：最近七天的动作积分等,通用,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,41.4 KB,2024-09-15 22:07,2,V2 对齐显示窗口，徽标增加显示近两天推荐,2024-09-18
+Demo：WinForm接受拖拽文件,https://getquicker.net/Sharedaction?code=552bcdd4-51bb-4903-95f8-08dcd5f4c73d,参考https://getquicker.net/Sharedaction?code=a8000319-7a02-4bb2-3be4-08d97b88c89f,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,14.1 KB,2024-09-17 11:36,0,,2024-09-18
+Zotero7菜单,https://getquicker.net/Sharedaction?code=4f6c26c0-8f5c-422a-cb92-08dccce7aaee,利用菜单快速选择zotero侧栏图标及打开多层菜单选项,Zotero,BrainKE,https://getquicker.net/User/199719/BrainKE,91.4 KB,2024-09-05 16:22,9,增加图标间距倍数的细微自定义调整,2024-09-18
