@@ -8,7 +8,6 @@ Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db
 2. 优化：优化几项服务的请求代码",2024-09-19
 计算,https://getquicker.net/Sharedaction?code=11a85dfb-3603-4dba-5a4f-08dc97ed6dcb,通用计算器,通用,FaniX,https://getquicker.net/User/52603/FaniX,140.5 KB,2024-06-29 20:12,6,增加python和C字符串格式化函数format和sprintf,2024-09-19
 图标搜索,https://getquicker.net/Sharedaction?code=150ef724-ee76-416c-275d-08db791b24f5,快速搜索图标进行下载或复制链接,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,45.1 KB,2023-06-30 15:45,4,去除http内head的ua信息,2024-09-19
-EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,378.3 KB,2023-05-29 20:30,52,动作右键菜单增加百度付费纠错功能“智能文本纠错”。当选中的文本末尾为中文字时，若ScrollLock键已锁定，则触发此功能。,2024-09-19
 表格常用工具2.2,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,148 KB,2024-05-08 14:47,24,修复bug：这个bug会影响新增VBA的运行，特别是VBA中在包含某些中文字符的时候,2024-09-19
 断舍离小助理,https://getquicker.net/Sharedaction?code=4dc7e738-8f4f-43e2-74f9-08dc9e8ef04d,——个人物品管理。辅助完成断舍离,通用,level1,https://getquicker.net/User/102977/level1,1.9 MB,2024-07-08 15:33,6,"【动作右键】
 1、右键增加使用频率、导出使用频率入口。
@@ -102,7 +101,6 @@ BUG：
 2、优化实时搜索右键菜单顺序。
 3、优化操作窗对象右键菜单顺序。",2024-09-19
 中键单击，关闭任务栏窗口,https://getquicker.net/Sharedaction?code=73082226-6ddc-4574-92cb-08dcd6e4f4f5,"通过""高级鼠标触发""设置，可实现鼠标中键点击关闭任务栏窗口",通用,用户l4XG5wFHBQA,https://getquicker.net/User/1141848/%E7%94%A8%E6%88%B7l4XG5wFHBQA,4.5 KB,2024-09-18 15:56,0,,2024-09-19
-青梨查询DOI,https://getquicker.net/Sharedaction?code=54540f35-6839-49f4-43e7-08dcd318a5f5,选中或者复制DOI或者标题即可发送到青梨,Google Chrome,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,12.1 KB,2024-09-13 12:38,8,处理已经打开的网页,2024-09-19
 喝水提醒,https://getquicker.net/Sharedaction?code=9c324846-beb5-40a0-9b46-08dcb09936a7,"好看版, 通过自行设置定时任务提醒喝水",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,37.3 KB,2024-07-31 11:35,4,"修复自定义内容替换显示不成功问题
 新增右键菜单预览提示窗",2024-09-19
 谷歌APP小窗,https://getquicker.net/Sharedaction?code=b2c95590-c241-4cfa-95ea-08dcd5f4c73d,默认打开youtube，按住Alt可选择网站打开，按住Ctrl以当前网址打开,Google Chrome,色気米,https://getquicker.net/User/514153/%E8%89%B2%E6%B0%97%E7%B1%B3,73.2 KB,2024-09-16 16:56,1,修复,2024-09-19
@@ -110,7 +108,6 @@ BUG：
 快速计算,https://getquicker.net/Sharedaction?code=22e52928-5f00-481e-e967-08d851fff498,快速计算,通用,Shelby_,https://getquicker.net/User/69754/Shelby_,5.4 KB,2020-09-06 09:40,3,选中或不选中都可以使用,2024-09-19
 离线 法定节假日 /工作日 定时关机,https://getquicker.net/Sharedaction?code=21fd0018-fafa-474f-92b4-08dcd6e4f4f5,通过Quicker的定时运行功能定时启动，启动时候截获当前日期，通过Excel检索是否工作日/休息日，如果是则关机。这个主要是给离线电脑或者网络不稳定的电脑用的。在线的方法更简单。我不会编程，只能用这个笨一点Windows快捷键的方式啦。「感觉好用的小伙伴可以填写一下我的推荐码哦 推荐码：FE6oqQYz8I」,通用,生物仔,https://getquicker.net/User/642467/%E7%94%9F%E7%89%A9%E4%BB%94,8.6 KB,2024-09-18 11:19,0,,2024-09-19
 网页编辑开关,https://getquicker.net/Sharedaction?code=13c279f8-c332-4a62-a156-08dc6ffecc18,自动识别编辑状态并切换,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,1.7 KB,2024-05-10 14:10,1,增加状态提醒,2024-09-19
-软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,179.1 KB,2022-12-27 16:23,30,去除添加的提示,2024-09-19
 常用语搜索,https://getquicker.net/Sharedaction?code=09f6a3da-0111-4948-92b3-08dcd6e4f4f5,实时搜索与列表展示；支持发送文本、文件、图片；本地表格管理话术短语，数据安全无忧；无需导入导出，管理方便快捷,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,176.3 KB,2024-09-18 10:39,0,,2024-09-19
 复制上一行并插入,https://getquicker.net/Sharedaction?code=e3fca3a0-d66d-4964-92b2-08dcd6e4f4f5,Excel复制上一行并插入,通用,Bader,https://getquicker.net/User/135289/Bader,2.7 KB,2024-09-18 10:35,0,,2024-09-19
 微信自动回复,https://getquicker.net/Sharedaction?code=f939e34e-0c3e-45c6-c280-08dc7b86d2da,可以按照关键词自动回复微信消息,WeChat,颜晓筱,https://getquicker.net/User/698346/%E9%A2%9C%E6%99%93%E7%AD%B1,37.1 KB,2024-05-24 17:02,3,更新了忽略订阅号和服务通知消息列表的逻辑；,2024-09-19
