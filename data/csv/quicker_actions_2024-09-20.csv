@@ -16,7 +16,6 @@
 固比单元格贴图,https://getquicker.net/Sharedaction?code=35d66ec5-e9e2-477f-4420-08dcd318a5f5,截图后选中单元格运行动作,Microsoft Excel,折幽寄远,https://getquicker.net/User/553197/%E6%8A%98%E5%B9%BD%E5%AF%84%E8%BF%9C,2.2 KB,2024-09-13 23:12,2,上下居中,2024-09-21
 窗口移动控制,https://getquicker.net/Sharedaction?code=9f5240f2-3bb9-40e7-43f4-08dcd318a5f5,窗口移动、置顶、大小调节、透明度调节,通用,Liiink,https://getquicker.net/User/1096044/Liiink,307.3 KB,2024-09-13 14:48,4,"1. 移动窗口或变更窗口大小时，窗口透明
 2. 优化动作逻辑",2024-09-21
-本地表情包,https://getquicker.net/Sharedaction?code=06b5aaa7-78ed-40b7-e26a-08dcb832f8f0,主要用于聊天快速使用本地表情包图片粘贴到窗口,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,23.7 KB,2024-08-10 10:08,2,"使用新的动图预览, 不占用焦点, 10s自动关闭, 多次预览不出现多个窗口",2024-09-21
 复制工作表,https://getquicker.net/Sharedaction?code=47268b77-f67d-4226-b62a-08da7b994987,不再受限于xls与xlsx格式，复制当前工作表到一个选定的工作簿中,Microsoft Excel,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,14.8 KB,2022-08-12 09:55,12,"1.取消等待10秒未按ESC键后的提示
 2.在工作簿列表右键增加自定义复制次数",2024-09-21
 Dinox,https://getquicker.net/Sharedaction?code=a1d89eec-b689-4102-fc6e-08dcc31be9e1,用于 Dinox 笔记的创建（注意官方api限流），可复用 obsidian 的 token，直接写入变量token的默认值即可。,通用,MUTE的大多数,https://getquicker.net/User/34191/MUTE%E7%9A%84%E5%A4%A7%E5%A4%9A%E6%95%B0,45.4 KB,2024-08-23 16:55,4,更新表单状态下的tag说明,2024-09-21
