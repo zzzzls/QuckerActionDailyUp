@@ -1,7 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,49.1 KB,2024-09-17 16:03,13,"大更新，三个模式可选。
 更新其他",2024-09-27
-高级重命名,https://getquicker.net/Sharedaction?code=4a8d977c-ae95-4376-39c5-08d7bfff7792,高级批量重命名,Windows 资源管理器,FanXiang,https://getquicker.net/User/27525/FanXiang,205.2 KB,2020-03-04 14:26,42,更新-,2024-09-27
 巴德文本查找输出,https://getquicker.net/Sharedaction?code=b593deb7-887d-4827-c6f1-08dc1baf171d,查找文件中的某字符串所在行，并将其输出到新文件中。,通用,Bader,https://getquicker.net/User/135289/Bader,45.4 KB,2024-01-23 16:45,15,1. 优化使用剪贴板文本逻辑,2024-09-27
 灵搜,https://getquicker.net/Sharedaction?code=dd2fa2b4-46dc-48f8-b6da-08db782fe3a2,高效搜索，网站、浏览器书签、浏览器历史记录、安装应用、本地文件、图片等等；提供选中文件处理；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,305.8 KB,2023-06-29 11:12,264,连贯搜索，当网址搜索文本未变动时，再现搜索文本,2024-09-27
 计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,68.2 KB,2024-06-13 00:30,33,替换,2024-09-27
@@ -60,7 +59,6 @@ BUG：
 OneNote 搜索,https://getquicker.net/Sharedaction?code=57072a0f-e23a-432d-a055-08dc76aeba28,搜索 OneNote 笔记,通用,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,31.9 KB,2024-05-18 09:11,7,Bug修复,2024-09-27
 > Plugins,https://getquicker.net/Sharedaction?code=7fd2652c-5a5e-4417-fb1f-08db512831c2,打开 Photoshop Plugins 插件目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,101.3 KB,2023-05-11 11:03,19,"+. 支持通过动作右键菜单快速安装扩展/增效工具(.ccx/.zxp)
 使用方法:选择扩展文件,执行动作右键菜单的""安装扩展/增效工具""",2024-09-27
-智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,AI，智能，效能。原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),842.2 KB,2023-06-26 19:07,205,进一步修改了AI生成音乐歌单的功能，改成通过自然语言的描述来生成适合的音乐。,2024-09-27
 转GIF,https://getquicker.net/Sharedaction?code=32f52e47-f208-46b8-29d1-08dccbee7fd4,1、场景一：将多个图片转GIF 2、将视频文件转GIF,通用,KBC,https://getquicker.net/User/5221/KBC,41.8 KB,2024-09-04 10:27,5,1、可自定义文件名，不设置也有默认值,2024-09-27
 表格批量前后缀,https://getquicker.net/Sharedaction?code=e3f15860-2030-4f5f-697d-08dcdd0ca208,"为表格选中区域的单元格内容批量添加前后缀, 无法撤销",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,7.3 KB,2024-09-26 09:41,1,新增跳过空值选项,2024-09-27
 表格常用工具2.2,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,148 KB,2024-05-08 14:47,25,增加一个小功能:在图标设置后面增加颜色选项，颜色代码前需要加上冒号没具体看输入框帮助提示。,2024-09-27
