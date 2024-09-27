@@ -1,0 +1,68 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,49.1 KB,2024-09-17 16:03,13,"大更新，三个模式可选。
+更新其他",2024-09-27
+高级重命名,https://getquicker.net/Sharedaction?code=4a8d977c-ae95-4376-39c5-08d7bfff7792,高级批量重命名,Windows 资源管理器,FanXiang,https://getquicker.net/User/27525/FanXiang,205.2 KB,2020-03-04 14:26,42,更新-,2024-09-27
+巴德文本查找输出,https://getquicker.net/Sharedaction?code=b593deb7-887d-4827-c6f1-08dc1baf171d,查找文件中的某字符串所在行，并将其输出到新文件中。,通用,Bader,https://getquicker.net/User/135289/Bader,45.4 KB,2024-01-23 16:45,15,1. 优化使用剪贴板文本逻辑,2024-09-27
+灵搜,https://getquicker.net/Sharedaction?code=dd2fa2b4-46dc-48f8-b6da-08db782fe3a2,高效搜索，网站、浏览器书签、浏览器历史记录、安装应用、本地文件、图片等等；提供选中文件处理；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,305.8 KB,2023-06-29 11:12,264,连贯搜索，当网址搜索文本未变动时，再现搜索文本,2024-09-27
+计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,68.2 KB,2024-06-13 00:30,33,替换,2024-09-27
+SM.MS图床,https://getquicker.net/Sharedaction?code=ae6c202e-0d81-465d-b66e-08dcde001292,"图床, 上传大小不超过5M",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,15.9 KB,2024-09-26 21:09,0,,2024-09-27
+RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,218.7 KB,2024-09-15 18:35,10,+ 增加 京东 德邦 顺丰 三家快递公司快递单号自动查询,2024-09-27
+Json-format,https://getquicker.net/Sharedaction?code=329340a4-f447-404e-b65d-08dcde001292,格式化json，若当前窗口可输入则直接替换为格式化后的文本，若不可输入则弹出文本框展示格式化后的文本,通用,lyfZhixing,https://getquicker.net/User/364454/lyfZhixing,3.5 KB,2024-09-26 17:33,0,,2024-09-27
+短信接收,https://getquicker.net/Sharedaction?code=3e56bbb3-2206-443f-697f-08dcdd0ca208,快捷填写验证码或接收其他短信,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,29.6 KB,2024-09-26 10:09,3,更新,2024-09-27
+断舍离小助理,https://getquicker.net/Sharedaction?code=4dc7e738-8f4f-43e2-74f9-08dc9e8ef04d,——个人物品管理。辅助完成断舍离,通用,level1,https://getquicker.net/User/102977/level1,1.9 MB,2024-07-08 15:33,7,"【区域操作窗】
+1、多个照片对应1个区域，后面照片为相册。
+2、删除子区域后，停留在父区域，而不是再上一级。
+3、优化区域操作窗，对上传照片添加对象的解释。
+4、优化物品相册中编辑区域后，返回回到的是物品的区域。
+
+【使用频率】
+1、使用频率，支持查看上一个功能。
+2、使用频率，最开头的几个物品，为最近一次标记的物品（置顶）。
+3、使用频率，增加查看只看闲置/用过。
+4、增加使用状态列表，可以切换使用状态。
+5、使用频率，优化其他功能返回后，物品图片变化的问题。
+
+【笔记实时搜索】
+1、笔记实时搜索，增加添加笔记选项。
+
+BUG：
+1、修复使用频率额输入添加，如果空行，会把所有都添加进来的问题。
+2、修复在相册删除区域后，返回过程中报错的问题。
+3、修复使用频率，当访问物品相册后，回来会到下一个物品的问题。
+4、解决使用频率，当返回上一个，再到下一个时候，前后的物品照片都会切换的情况。（让随机照片不再随机，根据确定的结果展示）
+
+优化：
+1、操作窗，针对屏幕缩放125%进行适配。",2024-09-27
+当前文档路径,https://getquicker.net/Sharedaction?code=ccb19de5-2fdd-42d5-e26a-08daf70dc81e,——定位当前文件位置。如果找到多个同名文件，打开everything。可识别软件：Office、Word、Excel、PPT、WPS、Photoshop、Illustrator（Ai）、Notepad2、记事本、XMind、Axure、Typora、Visual Studio、网易云音乐、360浏览器、2345看图王、PDF阅读器、画图等常用软件。,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,126 KB,2023-01-16 15:48,12,"功能：
+1、支持Infix、PDF-XChange Editor。
+2、增加WindowsApp特殊处理：电影和电视。由于截图位置，底部叠了视频，所以误入字符容易失败。
+3、增加动作数据的导入导出。
+4、电影和电视，专门进行提示。
+5、新支持软件：迅雷影音、哔哩哔哩、爱奇艺。
+
+优化：
+1、处理WPS Excel特殊情况。
+2、优化截图识别标题，的模糊匹配搜索语法。
+3、自动截图识别匹配失败，进行提示。
+4、增加“电影和电视”支持的视频格式。
+5、优化识别标题匹配，更加模糊。
+6、清空自动识别标题默认坐标，让用户每次自己操作，否则都意识不到需要框选标题。",2024-09-27
+另存窗口快速切换,https://getquicker.net/Sharedaction?code=dfccca6b-9432-4c2a-8da1-08dc64c8b533,——仿Listary,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,55.2 KB,2024-04-25 16:12,6,"功能：
+1、支持没有输入框的树形目录，自动展开到指定路径。（限制较多，只支持简中语境）
+
+优化：
+1、在Directory Opus中不运行此动作。因为当前就是资源管理器，但不想跳转到此。
+2、在触发条件里，当前窗口是dopus不运行。
+3、Everything选项窗口不激活。
+4、针对CAD输入框没有回填文件名，进行了优化。",2024-09-27
+学生证生成器,https://getquicker.net/Sharedaction?code=f9b188cb-abfe-41a0-b659-08dcde001292,生成学生证，功能你懂得，该功能仅用于合法用途,通用,笔战人生,https://getquicker.net/User/1090721/%E7%AC%94%E6%88%98%E4%BA%BA%E7%94%9F,1.7 KB,2024-09-26 16:10,0,,2024-09-27
+巴德JSON格式化,https://getquicker.net/Sharedaction?code=40e9bff8-2592-4016-9fcf-08dc7d53f313,支持单实例/多实例的JSON格式化动作。,通用,Bader,https://getquicker.net/User/135289/Bader,8.7 KB,2024-05-27 11:39,1,1. 多實例運行的JSON格式化,2024-09-27
+OneNote 搜索,https://getquicker.net/Sharedaction?code=57072a0f-e23a-432d-a055-08dc76aeba28,搜索 OneNote 笔记,通用,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,31.9 KB,2024-05-18 09:11,7,Bug修复,2024-09-27
+> Plugins,https://getquicker.net/Sharedaction?code=7fd2652c-5a5e-4417-fb1f-08db512831c2,打开 Photoshop Plugins 插件目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,101.3 KB,2023-05-11 11:03,19,"+. 支持通过动作右键菜单快速安装扩展/增效工具(.ccx/.zxp)
+使用方法:选择扩展文件,执行动作右键菜单的""安装扩展/增效工具""",2024-09-27
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,AI，智能，效能。原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),842.2 KB,2023-06-26 19:07,205,进一步修改了AI生成音乐歌单的功能，改成通过自然语言的描述来生成适合的音乐。,2024-09-27
+转GIF,https://getquicker.net/Sharedaction?code=32f52e47-f208-46b8-29d1-08dccbee7fd4,1、场景一：将多个图片转GIF 2、将视频文件转GIF,通用,KBC,https://getquicker.net/User/5221/KBC,41.8 KB,2024-09-04 10:27,5,1、可自定义文件名，不设置也有默认值,2024-09-27
+表格批量前后缀,https://getquicker.net/Sharedaction?code=e3f15860-2030-4f5f-697d-08dcdd0ca208,"为表格选中区域的单元格内容批量添加前后缀, 无法撤销",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,7.3 KB,2024-09-26 09:41,1,新增跳过空值选项,2024-09-27
+表格常用工具2.2,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和EXCEL通用。基于VBA，无法CTRL Z撤销，无填充需要右键动作选择.,WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,148 KB,2024-05-08 14:47,25,增加一个小功能:在图标设置后面增加颜色选项，颜色代码前需要加上冒号没具体看输入框帮助提示。,2024-09-27
+按键锁定提示,https://getquicker.net/Sharedaction?code=92c84571-a3ec-45e6-fa27-08dcdc2c1d1a,提示Caps Lock键/Num Lock键/Scroll Lock键的状态（基于事件触发功能）,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,49.2 KB,2024-09-24 08:02,1,优化步骤,2024-09-27
+指定所有图片大小,https://getquicker.net/Sharedaction?code=3bf8b673-ff9d-4551-fa55-08dcdc2c1d1a,会改变所有图片的大小，慎用。PS：目前没找到重置图片为原始大小的方法，求助各位路过的好心人,Microsoft Excel,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,9.9 KB,2024-09-25 09:58,1,ScaleHeight 在vba和vbs中存在差异，改变实现方式。希望能找到新的办法。这样增加了用户的权限,2024-09-27
