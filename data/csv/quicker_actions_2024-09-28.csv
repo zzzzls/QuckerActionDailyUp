@@ -1,0 +1,32 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,50.8 KB,2024-09-17 16:03,18,结果和大写金额都能复制,2024-09-29
+Steam 库搜索,https://getquicker.net/Sharedaction?code=6f846d49-5697-4d46-df7c-08dcdef79362,实时搜索并启动 Steam 库中已安装的游戏,通用,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,8.7 KB,2024-09-28 23:12,0,,2024-09-29
+关灯,https://getquicker.net/Sharedaction?code=abc95110-dfb5-4e33-1dfd-08dba1189b3c,专注于前台窗口、指定窗口或固定区域，可选后台运行，绑定前台进程，除选中区域外变暗，可自定义背景颜色、透明度，支持多个扩展屏。,通用,hustrjh,https://getquicker.net/User/449681/hustrjh,106.6 KB,2023-08-20 21:44,9,"【新增】
+1、支持多个扩展屏，屏幕选择【仅扩展屏】时将识别鼠标所在扩展屏。
+感谢网友 格物致理 的建议。",2024-09-29
+拖拽穿越,https://getquicker.net/Sharedaction?code=3189b215-d003-4ef0-fc87-08dcc31be9e1,拖拽任何东西后切换鼠标当前位置的窗口,通用,Joker_D,https://getquicker.net/User/891699/Joker_D,49.2 KB,2024-08-23 23:04,2,增加指定进程模式,2024-09-29
+准星,https://getquicker.net/Sharedaction?code=7f3a07b3-09cb-4883-fc9c-08dcc31be9e1,游戏准星准心，屏幕有缩放比例调整的要手动修改偏移,通用,zdf153,https://getquicker.net/User/20184/zdf153,46.3 KB,2024-08-24 14:46,8,对新版本的支持 颜色选择框、字体选择框，支持触发表单更新。,2024-09-29
+自动登录,https://getquicker.net/Sharedaction?code=2b669069-aace-4245-a092-08dc60e24918,右键添加多账号,通用,LJH_,https://getquicker.net/User/392903/LJH_,173.1 KB,2024-04-20 20:25,14,"右键新增 引用共用进程名数据
+（B进程名被替换为A进程名）",2024-09-29
+自动复制单次版,https://getquicker.net/Sharedaction?code=1a0243e8-09d3-4388-df77-08dcdef79362,不在后台连续触发ctrlC，每次按下左键停留0.5秒复制一次，继续复制要先松开,通用,StevenRogers,https://getquicker.net/User/159003/StevenRogers,13.8 KB,2024-09-28 19:12,2,修改没有选中文字也提示复制的bug,2024-09-29
+保存剪贴板图片,https://getquicker.net/Sharedaction?code=239cf1c4-0ebf-4341-c8ce-08d8642b4c39,保存剪贴板图片到指定文件夹,通用,CL,https://getquicker.net/User/3/CL,9.1 KB,2020-09-30 14:51,3,增加文件名前缀设置,2024-09-29
+聚合快捷键,https://getquicker.net/Sharedaction?code=fa146896-9e3a-4751-df6e-08dcdef79362,可将多个快捷键聚合到该动作，并使用数字键快速触发,通用,Explos_Ziyun,https://getquicker.net/User/1144232/Explos_Ziyun,47.7 KB,2024-09-28 16:21,1,修复了快捷触发的提示数量会超过10条的问题，将提示数量（快捷触发）数量限制到10条,2024-09-29
+Bandizip解(压)缩,https://getquicker.net/Sharedaction?code=ee3b6ddd-ee9b-4545-43d0-08dcd318a5f5,单独压缩、整合压缩、快速解压、分卷压缩、加密压缩、多种格式。所有功能均是通过调用Bandizip的命令行API实现,Windows 资源管理器,AzureHearted,https://getquicker.net/User/577696/AzureHearted,83 KB,2024-09-13 00:31,16,"1、将几个较大""公共子程序""转为""网络共享子程序""(目的是为了减小动作大小)",2024-09-29
+语录,https://getquicker.net/Sharedaction?code=20f899e7-a91b-44e6-a57d-08dcc5002795,每日一句，唤醒内心巨人,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,484.9 KB,2024-08-26 03:50,19,修改了逻辑顺序：在选择 不发送文本到窗口 时(也就是纯通知模式)，本动作不会恢复上一个窗口的焦点,2024-09-29
+日期文件名,https://getquicker.net/Sharedaction?code=17aa4be2-08b5-41b4-df6f-08dcdef79362,文件(夹)名称添加/更新日期前(后)缀或新建文件夹,Windows 资源管理器,MaskFox,https://getquicker.net/User/1121520/MaskFox,93.8 KB,2024-09-28 16:26,0,,2024-09-29
+左键选中后停留自动复制,https://getquicker.net/Sharedaction?code=7124974f-ae4d-42c9-df6d-08dcdef79362,左键选中后停留0.1秒，提示复制成功松手即可。在网页里不能同时按下左键和滑动滚轮，会导致网页放大缩小,通用,StevenRogers,https://getquicker.net/User/159003/StevenRogers,9.2 KB,2024-09-28 15:39,0,,2024-09-29
+GOT-OCR-2.0,https://getquicker.net/Sharedaction?code=eb28d15a-0ea6-45f8-df65-08dcdef79362,通过统一的端到端模型实现 OCR-2.0(format multi-crop OCR),通用,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,11.3 KB,2024-09-28 14:20,1,避免截图过快,2024-09-29
+Demo：AnimationPath,https://getquicker.net/Sharedaction?code=192e7be5-a982-4dab-df67-08dcdef79362,HC的AnimationPath控件,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,23.3 KB,2024-09-28 14:44,0,,2024-09-29
+网页修改,https://getquicker.net/Sharedaction?code=a27b82b1-4352-4bcd-df66-08dcdef79362,批量修改网页特定字段元素，禁止用于非法行为,通用,SoloShine/Field,https://getquicker.net/User/402701/SoloShine_Field,21.5 KB,2024-09-28 14:32,0,,2024-09-29
+桌面小贴士,https://getquicker.net/Sharedaction?code=a37fef23-9f39-4d14-fa59-08dcdc2c1d1a,以文本悬浮框形式显示小贴士,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,32.8 KB,2024-09-25 10:29,3,支持以传参内容启动,2024-09-29
+离散文件整理,https://getquicker.net/Sharedaction?code=d1d80c6b-11e5-4788-df63-08dcdef79362,运行后可随时标记不同目录下的文件(文件夹)，并移动/复制这些标记的文件(文件夹)到当前目录,Windows 资源管理器,唐家二少,https://getquicker.net/User/104162/%E5%94%90%E5%AE%B6%E4%BA%8C%E5%B0%91,16.7 KB,2024-09-28 14:18,0,,2024-09-29
+我来常用语,https://getquicker.net/Sharedaction?code=d6f5e0c7-5fe5-4d28-83ce-08dcbad77c24,显示菜单，wolai常用快捷命令/快捷键,我来wolai,Taitun,https://getquicker.net/User/854987/Taitun,37.1 KB,2024-08-13 10:39,1,常用快捷命令分类整理，更加人性化,2024-09-29
+复制或调试变量,https://getquicker.net/Sharedaction?code=bde1b2fc-6f21-4abc-df61-08dcdef79362,编辑器里面选择变量，然后点击按钮就能写入剪贴板\n按Ctrl可调试变量,Quicker,sharklaka,https://getquicker.net/User/826879/sharklaka,51.9 KB,2024-09-28 13:07,0,,2024-09-29
+复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,534.8 KB,2021-10-02 00:25,65,优化悬停复制Quicker网页中的动作名与子程序名的方式。,2024-09-29
+微信搜一搜,https://getquicker.net/Sharedaction?code=8ecb199b-2ff0-4558-df5d-08dcdef79362,快速用微信搜文章、公众号、视频号等,通用,大鹏山哥,https://getquicker.net/User/16566/%E5%A4%A7%E9%B9%8F%E5%B1%B1%E5%93%A5,12.1 KB,2024-09-28 11:33,0,,2024-09-29
+添加到微软待办,https://getquicker.net/Sharedaction?code=d57e7643-bf91-4850-d1ed-08dc2ded8ab2,通过 API 添加任务到微软待办,通用,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,39.1 KB,2024-02-15 14:15,5,feat: 添加链接为任务时，会建立一个以网页标题为标题，同时附上链接的任务,2024-09-29
+WinRAR解压缩,https://getquicker.net/Sharedaction?code=fec4bc5b-a95b-4255-c16b-08dc3cd0cba5,WinRAR 解压或压缩.,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,34.3 KB,2024-03-06 09:44,5,"+. 添加权限设置，如果经常出现弹出UAC，请尝试关闭“以管理员身份运行”选项。
+Tips: 管理员身份运行是为了在系统目录压缩/解压缩时避免创建压缩包或文件解压失败的问题情况。",2024-09-29
+窗口参考线,https://getquicker.net/Sharedaction?code=b6a66c10-8f04-4de2-df57-08dcdef79362,"分割屏幕, 再次运行或右键关闭",通用,sharklaka,https://getquicker.net/User/826879/sharklaka,47.7 KB,2024-09-28 02:45,0,,2024-09-29
+巴德闪现-曹操诗集,https://getquicker.net/Sharedaction?code=b8edccd4-002b-4f41-df55-08dcdef79362,曹操喜欢用诗歌、散文来抒发自己政治抱负，反映民生疾苦，是魏晋文学的代表人物，其文学成就，,通用,Bader,https://getquicker.net/User/135289/Bader,13.7 KB,2024-09-28 01:24,0,,2024-09-29
+果核剥壳,https://getquicker.net/Sharedaction?code=9dc95dfb-abe9-420a-fa2a-08dcdc2c1d1a,在线实时搜索果核剥壳内容,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,10.2 KB,2024-09-24 11:03,2,修复,2024-09-29
