@@ -1,0 +1,34 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,51.7 KB,2024-09-17 16:03,19,网页标题判断，不同浏览器，显示不同标题,2024-09-30
+桌面模糊,https://getquicker.net/Sharedaction?code=c5a724ad-4c27-4977-ee29-08dce01897ea,摸鱼，适度模糊，用于瞬间覆盖桌面信息,通用,紫cm煞,https://getquicker.net/User/168537/%E7%B4%ABcm%E7%85%9E,3.6 KB,2024-09-29 22:38,0,,2024-09-30
+Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,625.7 KB,2023-03-16 00:45,49,1. 新增：部分翻译服务添加可见性表达式设置，允许用户根据实际条件判断是否在面板上显示该服务（感谢@HDG）,2024-09-30
+一键最低/加5,https://getquicker.net/Sharedaction?code=6605a816-3503-4f9d-946a-08dc0bfef0d0,差价≥5的改最低价，差价＜5的加5元，加5元后若超过300则直接填399,,fodawn,https://getquicker.net/User/971127/fodawn,2.5 KB,2024-01-04 13:39,5,差价≥5的改最低价，差价＜5的加5元，加5元后若超过300则直接填399,2024-09-30
+关灯,https://getquicker.net/Sharedaction?code=abc95110-dfb5-4e33-1dfd-08dba1189b3c,专注于前台窗口、指定窗口或固定区域，可选后台运行，绑定前台进程，除选中区域外变暗，可自定义背景颜色、透明度，支持多个扩展屏。,通用,hustrjh,https://getquicker.net/User/449681/hustrjh,107.1 KB,2023-08-20 21:44,10,"【修复】
+1、修复固定区域模式下且存在负数坐标屏幕时，高亮区域显示位置不对的问题。
+感谢网友 格物致理 的耐心测试和反馈！[撒花]",2024-09-30
+启动程序时隐藏窗口,https://getquicker.net/Sharedaction?code=f19c151d-5672-4bcf-b68d-08dcde001292,启动程序时隐藏窗口,通用,onlyclxy,https://getquicker.net/User/595242/onlyclxy,13.8 KB,2024-09-27 13:42,2,"增加edge和chrome浏览器的识别
+根据@原++反馈. edge会先打开插件后退出.导致轮询失败
+这里单独对edge和chrome做标题搜索处理,其他exe的仍是轮询",2024-09-30
+远景论坛签到,https://getquicker.net/Sharedaction?code=a713ac75-9073-4bba-ee24-08dce01897ea,RT,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,9.2 KB,2024-09-29 17:50,0,,2024-09-30
+窗口移动控制,https://getquicker.net/Sharedaction?code=9f5240f2-3bb9-40e7-43f4-08dcd318a5f5,窗口移动、置顶、大小调节、透明度调节,通用,Liiink,https://getquicker.net/User/1096044/Liiink,322.1 KB,2024-09-13 14:48,7,窗口缩放，根据鼠标位置确定窗口的固定点,2024-09-30
+不透明度,https://getquicker.net/Sharedaction?code=cabcb52d-b951-4969-ee21-08dce01897ea,一键切换选中图层的不透明度,通用,Taitun,https://getquicker.net/User/854987/Taitun,3.6 KB,2024-09-29 16:54,0,,2024-09-30
+文科助手,https://getquicker.net/Sharedaction?code=6447a308-2847-49c9-ee1d-08dce01897ea,针对部编版教材，联动智谱清言查询句子所在教材,通用,wkx,https://getquicker.net/User/290754/wkx,2.4 KB,2024-09-29 15:33,0,,2024-09-30
+50%柔光灰,https://getquicker.net/Sharedaction?code=c20f22a5-f3e8-42d1-93cd-08d8f39d5a4c,新建混合模式为柔光的图层，并自动填充50%中性灰。,Adobe Photoshop,红海老茶,https://getquicker.net/User/4937/%E7%BA%A2%E6%B5%B7%E8%80%81%E8%8C%B6,2.3 KB,2021-03-31 09:41,3,更新为在当前图层的上一层创建，并自动添加剪切。,2024-09-30
+go折叠代办,https://getquicker.net/Sharedaction?code=b2b5753d-3f35-446b-eb98-08daa107cacc,将现有的块类型转换为折叠代办,我来wolai,阿颜坊的阿颜,https://getquicker.net/User/126094/%E9%98%BF%E9%A2%9C%E5%9D%8A%E7%9A%84%E9%98%BF%E9%A2%9C,4.3 KB,2022-09-28 22:24,1,修正错误,2024-09-30
+折叠标题,https://getquicker.net/Sharedaction?code=a951448f-4121-445b-7bcf-08db42e60514,当前块转换为折叠标题,我来wolai,阿颜坊的阿颜,https://getquicker.net/User/126094/%E9%98%BF%E9%A2%9C%E5%9D%8A%E7%9A%84%E9%98%BF%E9%A2%9C,5.7 KB,2023-04-23 09:11,2,修正错误,2024-09-30
+文件日期前缀,https://getquicker.net/Sharedaction?code=09498738-1fd8-4966-4101-08dca6282cd9,选中文件后运行，增加文件创建日期或修改日期前缀（yymmdd格式），支持多文件批量处理，自动跳过已有 yymmdd 格式日期前缀的文件,Windows 资源管理器,大葱明子,https://getquicker.net/User/184821/%E5%A4%A7%E8%91%B1%E6%98%8E%E5%AD%90,18 KB,2024-07-18 14:24,5,修复因条件判断的逻辑错误导致「添加修改日期前缀」模式下以创建日期加前缀的问题,2024-09-30
+喝水提醒,https://getquicker.net/Sharedaction?code=9c324846-beb5-40a0-9b46-08dcb09936a7,"好看版, 通过自行设置定时任务提醒喝水",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,55.7 KB,2024-07-31 11:35,5,"新增自定义窗口位置
+模式新增自动运行选项, 避免修改数据要重置数据",2024-09-30
+撤销,https://getquicker.net/Sharedaction?code=3a76d273-0a62-4439-ee18-08dce01897ea,撤销上一步操作的快捷键，适配macos；支持windows使用；,macos.exe,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,2 KB,2024-09-29 13:55,0,,2024-09-30
+切换程序,https://getquicker.net/Sharedaction?code=24fe470f-7197-45b3-ee17-08dce01897ea,切换程序，模拟command+tab,macos.exe,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,452 B,2024-09-29 13:55,0,,2024-09-30
+移到废纸篓,https://getquicker.net/Sharedaction?code=aeeb8444-f738-4398-ee16-08dce01897ea,MAC使用，在访达中将所选项目移至废纸篓。模拟：Command + Delete,macos.exe,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,452 B,2024-09-29 13:55,0,,2024-09-30
+强行退出程序,https://getquicker.net/Sharedaction?code=0164b55a-9f2b-4971-ee15-08dce01897ea,MAC使用，强行退出程序，模拟按键Commadn+Q,macos.exe,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,378 B,2024-09-29 13:55,0,,2024-09-30
+动作启动器,https://getquicker.net/Sharedaction?code=9b47a91f-48e1-47c9-856b-08dcb927a2ed,执行 Photoshop 内的动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,54.6 KB,2024-08-11 11:27,3,+. 当你录制了新的PS动作，现在不需要重新执行动作来刷新窗口，可以直接窗口右键进行刷新。,2024-09-30
+文本+,https://getquicker.net/Sharedaction?code=7f2433ad-4380-4a45-e981-08dafac3acc5,整合了一些常用的excel文本处理功能,Microsoft Excel,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,275.1 KB,2023-01-20 18:13,23,"1.清除多余字符更改为文本清洗
+2.增加删除空行功能",2024-09-30
+Pixpin快速截图,https://getquicker.net/Sharedaction?code=754c1bdd-49b0-495b-ee0c-08dce01897ea,"在未打开软件Pixpin软件的情况下调用Pixpin快速截图，需安装Pixpin,且将Pixpin的截图快捷键设置为Print Screen。",通用,蓝山先生,https://getquicker.net/User/636107/%E8%93%9D%E5%B1%B1%E5%85%88%E7%94%9F,1.3 KB,2024-09-29 11:11,0,,2024-09-30
+固定时间点击屏幕,https://getquicker.net/Sharedaction?code=89fd9ce4-fcbc-4e87-e7d8-08d7c55a2f8d,两种模式：①设置默认的点击信息长期执行 ②自己选择位置、点击次数、间隔时间，可以同时运行多个任务,通用,veni,https://getquicker.net/User/36454/veni,23.7 KB,2020-03-11 17:21,3,又一次大更新，增加模式选择。如果选择默认本地点击模式，则可以一次性设置好点击信息后长期使用。,2024-09-30
+封装 SuspendHistory,https://getquicker.net/Sharedaction?code=8d3eecd9-b9e6-4eaf-ee05-08dce01897ea,将多个动作步骤代码，封装成一个历史操作记录。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,7.5 KB,2024-09-29 09:32,1,~. 无法获取焦点文本时弹出手动粘贴代码的对话窗。,2024-09-30
+改盘工具,https://getquicker.net/Sharedaction?code=90d726ae-e9b9-4700-ee06-08dce01897ea,将系统默认磁盘的「我的文档」、「下载」目录修改到指定磁盘根目录,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,18 KB,2024-09-29 10:13,0,,2024-09-30
+常用语 v2.0,https://getquicker.net/Sharedaction?code=06fadd68-1fcd-40e3-fa47-08dcdc2c1d1a,链接MySQL数据库存储常用语更靠谱,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,65.8 KB,2024-09-24 21:35,2,修复重复启动bug,2024-09-30
+选项编辑器2,https://getquicker.net/Sharedaction?code=6f0d1ff7-1e78-4de2-df53-08dcdef79362,适合快速编辑图标表达式,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,165.8 KB,2024-09-28 00:37,4,调整发送图标逻辑,2024-09-30
