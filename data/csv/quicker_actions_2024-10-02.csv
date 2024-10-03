@@ -1,0 +1,13 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,394.3 KB,2024-08-11 00:17,58,1.允许通过方向键上下选择功能,2024-10-03
+启动程序时隐藏窗口,https://getquicker.net/Sharedaction?code=f19c151d-5672-4bcf-b68d-08dcde001292,启动程序时隐藏窗口,通用,onlyclxy,https://getquicker.net/User/595242/onlyclxy,19.8 KB,2024-09-27 13:42,3,"完全查找窗口逻辑.现在逻辑改为:先遍历任务栏的窗口.打开exe后.持续监控任务栏的窗口是否有新增,然后判断新增窗口是否为此exe的窗口.然后得出最终窗口.",2024-10-03
+连续文字识别,https://getquicker.net/Sharedaction?code=b5c66dda-2f2b-4bf3-8e59-08dc6685e603,连续使用OCR文字识别，并将识别结果输出到指定位置（默认桌面）的同一个txt文件中，不会覆盖之前保存的内容,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,24 KB,2024-04-27 17:47,7,添加自定义保存位置功能,2024-10-03
+OCR-加减乘除,https://getquicker.net/Sharedaction?code=1b6df97b-e09b-407d-19c1-08dcda336f81,对 OCR 识别结果进行加减乘除或求平均值、最大值、最小值,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,107.7 KB,2024-09-22 23:25,4,[~]右键菜单-增加OCR引擎切换页面,2024-10-03
+加对符,https://getquicker.net/Sharedaction?code=19dec029-cf51-4770-694e-08dcdd0ca208,给 选中文本 首尾添加对符 并发送到当前窗口；未选中文本时，直接发送对符,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,96.9 KB,2024-09-25 12:51,2,[+]增加内置代码对符种类,2024-10-03
+识别验证码,https://getquicker.net/Sharedaction?code=30f9460a-63ce-4907-9567-08dce0ed4ae4,参考 darcyc 调用python方式，调用ddddocr识别验证码,通用,nihk001,https://getquicker.net/User/1141908/nihk001,51 KB,2024-09-30 19:05,6,隐藏命令行窗口，可自行设置,2024-10-03
+选项编辑器2,https://getquicker.net/Sharedaction?code=6f0d1ff7-1e78-4de2-df53-08dcdef79362,适合快速编辑图标表达式,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,169.7 KB,2024-09-28 00:37,5,"修复预览界面；
+增加层级切换功能；",2024-10-03
+快捷锁屏,https://getquicker.net/Sharedaction?code=8053bbab-1132-48c8-ee25-08dce01897ea,快捷锁定电脑，仅需按下一个键即可解锁。如果别人乱动键盘就锁屏（鼠标被暂时禁用，不会被使用）。,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,20.6 KB,2024-09-29 18:43,3,"修改了提示文字，优化了“修改 锁屏时显示的内容”的操作逻辑。
+应该是最后一版修改了。",2024-10-03
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,64 KB,2024-09-17 16:03,22,功能完善一下,2024-10-03
+常用语 v2.0,https://getquicker.net/Sharedaction?code=06fadd68-1fcd-40e3-fa47-08dcdc2c1d1a,链接MySQL数据库存储常用语更靠谱,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,70.8 KB,2024-09-24 21:35,3,新增MySQL下载教程,2024-10-03
