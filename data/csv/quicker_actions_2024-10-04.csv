@@ -1,0 +1,22 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+高级重命名,https://getquicker.net/Sharedaction?code=4a8d977c-ae95-4376-39c5-08d7bfff7792,高级批量重命名,Windows 资源管理器,FanXiang,https://getquicker.net/User/27525/FanXiang,205.3 KB,2020-03-04 14:26,45,"1.重构使用随机字符串重命名
+2.修复读取旧版本模板失败
+3.优化逻辑",2024-10-05
+颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/微信公众号/Photoshop/Obsidian/WPS/Office/Illustrator,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,287.8 KB,2023-04-10 17:25,107,"感谢用户反馈@嘻嘻嘻qwer
+在PPT,按下CTRL时,支持对选中形状设置颜色",2024-10-05
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,60.3 KB,2024-09-17 16:03,24,把网站语言设置为中文,2024-10-05
+RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,230.7 KB,2024-09-15 18:35,11,"fix 清空缓存无效的问题
++ 增加特定网页选中文本直接打开指定条目的功能（网页指定搜索功能）",2024-10-05
+单位换算,https://getquicker.net/Sharedaction?code=4e54d8a8-4bd2-4ebb-c653-08dc5758db9d,PS文本图层，单位换算,Adobe Photoshop,阿良666,https://getquicker.net/User/596532/%E9%98%BF%E8%89%AF666,16.1 KB,2024-04-08 15:08,2,修复bug,2024-10-05
+文献更新 (DBLP + Google Scholar),https://getquicker.net/Sharedaction?code=e1553bba-54eb-41f0-2253-08dc1310ce90,部分解决了无DOI情况更新文献信息的问题。,Zotero,shandianchengzi,https://getquicker.net/User/970091/shandianchengzi,11.4 KB,2024-01-12 09:50,8,新增新旧文档标题匹配性检查，免得不小心搜到的结果和需求有偏差；另外增加更新后的新旧文献关联,2024-10-05
+巴德批量解压缩,https://getquicker.net/Sharedaction?code=7a68d235-6e33-45ec-0753-08dce3b37c04,批量解压缩选中的每一个.zip压缩包,通用,Bader,https://getquicker.net/User/135289/Bader,7.6 KB,2024-10-04 14:08,0,,2024-10-05
+以字搜图,https://getquicker.net/Sharedaction?code=8b67e4ea-5086-48c7-cf50-08dce2c29e2a,本地图片搜索 / 搜索图片上的文字,Windows 资源管理器,lanyuer,https://getquicker.net/User/20158/lanyuer,46.3 KB,2024-10-03 09:56,1,增加OCR方式的选择：可选百度OCR或Windows内置OCR-----来自@比奥第二奥的建议,2024-10-05
+随机字符串生成器,https://getquicker.net/Sharedaction?code=ec6119da-761e-4298-4b42-08dbd5b983ad,生成自定义长度随机字符串,通用,瓜皮瓜瓜,https://getquicker.net/User/276236/%E7%93%9C%E7%9A%AE%E7%93%9C%E7%93%9C,15.5 KB,2023-10-26 14:57,5,用户许可设置，重新分类,2024-10-05
+巴德Quicker动作推广词,https://getquicker.net/Sharedaction?code=cf85d8ff-bdf6-4c31-ca84-08dc99cfb00d,利用GPT创作Quicker动作推广词,通用,Bader,https://getquicker.net/User/135289/Bader,12.8 KB,2024-07-02 09:53,7,1. 增加高级配置项,2024-10-05
+交互直译,https://getquicker.net/Sharedaction?code=78ab37a2-9b2b-4af0-eb44-08db18860216,免费无需登陆 ，翻译并替换选中文本，截图翻译,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,41 KB,2023-02-28 13:27,7,"+未选中文本则截图翻译
++点击翻译结果可以联动指定动作",2024-10-05
+巴德批量文本替换,https://getquicker.net/Sharedaction?code=704c4d39-20e3-4384-0751-08dce3b37c04,批量替换多个选中文件中的多个替换内容,通用,Bader,https://getquicker.net/User/135289/Bader,10.1 KB,2024-10-04 10:23,0,,2024-10-05
+巴德Git子模块助手,https://getquicker.net/Sharedaction?code=557ad280-5d4b-4ef7-0750-08dce3b37c04,查看、更新子模块,通用,Bader,https://getquicker.net/User/135289/Bader,5.5 KB,2024-10-04 10:10,0,,2024-10-05
+实时AI翻译,https://getquicker.net/Sharedaction?code=d494c1cf-e398-4905-cf5d-08dce2c29e2a,快捷AI翻译/一次性问答,通用,BrainKE,https://getquicker.net/User/199719/BrainKE,47.7 KB,2024-10-03 18:26,2,修复BUG,2024-10-05
+用Notepad4打开,https://getquicker.net/Sharedaction?code=d5736d1f-3f7f-4975-4b00-08dcca2b353c,用Notepad4打开【文件】或【选择的文本】或【剪贴板内容】,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,13.1 KB,2024-09-01 14:39,1,支持步骤和子程序,2024-10-05
+词典批量取值赋值,https://getquicker.net/Sharedaction?code=995805a0-b0a7-47c3-ee2b-08dce01897ea,词典批量取值赋值,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,16.3 KB,2024-09-30 00:24,3,1,2024-10-05
