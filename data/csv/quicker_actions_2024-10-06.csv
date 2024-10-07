@@ -1,4 +1,9 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+双击右键,https://getquicker.net/Sharedaction?code=53acd9e3-40c0-4d1e-1df4-08dc7c5ed873,双击右键，弹出菜单。,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,14.6 KB,2024-05-25 21:25,8,增加：在文件夹时，右键双击空白位置，可以返回上一层,2024-10-07
+语录,https://getquicker.net/Sharedaction?code=20f899e7-a91b-44e6-a57d-08dcc5002795,每日一句，唤醒内心巨人,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,492.4 KB,2024-08-26 03:50,22,"[+]本地语录添加内容时，支持将被 前后空行 包围的内容单独作为一项
+
+   需注意：第一行或最后一行要想启用此功能，前后也都必须要有空行",2024-10-07
+统一单页字体,https://getquicker.net/Sharedaction?code=709bf518-3211-423d-874b-08dce5862d41,统一PPT的单页字体,Microsoft PowerPoint,shandianchengzi,https://getquicker.net/User/970091/shandianchengzi,7.7 KB,2024-10-06 21:51,1,修改了一下等待时延的设置,2024-10-07
 计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,65 KB,2024-09-17 16:03,26,"大更新：选择的文本为单行时，可复制到计算器计算。
 选择的文本为多行时，则每行都自动计算出结果，并提示结果，和显示结果。",2024-10-07
 Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,347.9 KB,2023-03-25 00:27,277,"多词检索 ""|""  符BUG优化",2024-10-07
