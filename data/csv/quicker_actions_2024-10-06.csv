@@ -1,0 +1,8 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,65 KB,2024-09-17 16:03,26,"大更新：选择的文本为单行时，可复制到计算器计算。
+选择的文本为多行时，则每行都自动计算出结果，并提示结果，和显示结果。",2024-10-07
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,347.9 KB,2023-03-25 00:27,277,"多词检索 ""|""  符BUG优化",2024-10-07
+文本比较,https://getquicker.net/Sharedaction?code=b3bfd34f-4011-48db-8741-08dce5862d41,运行本动作，选中原始文本按1，选中新文本按2，自动比较两段文本。（删除的地方标灰，更改的地方标红）,通用,Balrog,https://getquicker.net/User/235565/Balrog,12.5 KB,2024-10-06 15:02,0,,2024-10-07
+AI高精度OCR,https://getquicker.net/Sharedaction?code=aaddfdf0-6828-41b6-d88d-08dce4de09ed,基于llm，精度更好,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,1.6 KB,2024-10-05 14:03,1,更新了格式识别,2024-10-07
+菜单收藏,https://getquicker.net/Sharedaction?code=10297b26-1512-4d8c-ee28-08dce01897ea,按住ctrl，解析图标，默认是自动获取，右键可以备份,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,114.2 KB,2024-09-29 20:03,2,改为本地获取矢量图，修改生成公共路径的方法,2024-10-07
+文字排版,https://getquicker.net/Sharedaction?code=ab1bf473-44a9-4fb8-694f-08dcdd0ca208,适用于中英文、希腊字母、拼音字母、罗马数字、链接之间的混合排版,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,85.2 KB,2024-09-25 13:33,4,"取消在""@""后加空格",2024-10-07
