@@ -1,0 +1,31 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+巴德随机输入,https://getquicker.net/Sharedaction?code=c2423f86-f22c-4cb4-e356-08dc7e4881b3,生成随机数、颜色、人名、手机号、邮箱、URL等,通用,Bader,https://getquicker.net/User/135289/Bader,107.2 KB,2024-05-28 08:43,12,1. 增加随机JSON对象,2024-10-12
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,72.9 KB,2024-09-17 16:03,33,完善选中的文本，输入到公式输入框内,2024-10-12
+冻结运行的程序,https://getquicker.net/Sharedaction?code=59f5c8a7-3fe1-4ff5-c928-08dce860f595,结合Freezer软件，可一键冻结当前正在打开的软件，达到省电、释放资源的效果。,通用,用户o8raNI9NBQA,https://getquicker.net/User/1146040/%E7%94%A8%E6%88%B7o8raNI9NBQA,1.2 KB,2024-10-10 14:02,1,更新为软件原快捷键,2024-10-12
+OCR命名,https://getquicker.net/Sharedaction?code=42f126ac-03ea-4496-9a9b-08dca533070d,选中一个图片OCR后自动命名(以最合适的尺寸显示),Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,15.8 KB,2024-07-16 15:41,1,.,2024-10-12
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,353.6 KB,2023-03-25 00:27,278,支持强制搜索前缀词,2024-10-12
+示例:自定义元素封装,https://getquicker.net/Sharedaction?code=07b0f4f8-35c9-4a28-3009-08dce95259a9,"摸索学习,自定义组件",Google Chrome,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,16.9 KB,2024-10-11 19:30,0,,2024-10-12
+> Plugins,https://getquicker.net/Sharedaction?code=7fd2652c-5a5e-4417-fb1f-08db512831c2,打开 Photoshop Plugins 插件目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,104.1 KB,2023-05-11 11:03,22,~. 选中文件不是ccx;zxp扩展文件时，跳过安装，并按默认执行，避免错误选中文件时无法运行动作。,2024-10-12
+指定命令启动PixPin截图,https://getquicker.net/Sharedaction?code=028c40f1-82a7-4c7d-b5c9-08dc06761152,通过给PixPin传递命令行参数来调用不同的功能，不需要快捷键,pixpin.exe,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,27.5 KB,2023-12-27 20:02,9,选中文件后运行动作，会显示文件贴图窗口，可当作文件中转站使用，详见 https://pixpinapp.com/pin/file.html,2024-10-12
+关闭重复资管,https://getquicker.net/Sharedaction?code=99d2ffdf-7bad-4652-66ca-08dbaa91cef1,win10测试，win11请谨慎使用。（使用C#模块）,通用,Anlv,https://getquicker.net/User/392637/Anlv,13 KB,2023-09-01 18:26,4,"+. 增加设置项
+1. 关闭重复的资源管理器窗口（去除重复）默认
+2. 关闭所有资源管理器窗口
+3. 关闭所有资源管理窗口，但保留前台窗口。",2024-10-12
+这动作安装过没,https://getquicker.net/Sharedaction?code=83779484-e44d-49eb-4a20-08d9c10181e6,不知道某个分享动作是否已安装？这个动作能帮到你。在动作主页运行动作。,通用,EC10010,https://getquicker.net/User/2997/EC10010,461.5 KB,2021-12-17 19:02,64,优化。,2024-10-12
+微信打开二维码,https://getquicker.net/Sharedaction?code=f974f5ed-a6fa-4c27-4dbf-08dcc04bd41a,适用于网站、程序等需要微信扫码登录的场景。由PC端微信帮你打开二维码进行登录。,通用,peach_o_0,https://getquicker.net/User/1125823/peach_o_0,7.4 KB,2024-08-20 10:35,2,更新启动、打开微信方式,2024-10-12
+word剪贴板1.0,https://getquicker.net/Sharedaction?code=7c239087-af8a-498c-3003-08dce95259a9,word中，快速查找、替换文本。,Microsoft Word,希曼,https://getquicker.net/User/149976/%E5%B8%8C%E6%9B%BC,13.5 KB,2024-10-11 16:04,0,,2024-10-12
+快速编辑,https://getquicker.net/Sharedaction?code=ef8ef7aa-4683-43e6-c913-08dce860f595,快速编辑文件、剪贴板内容、选中文本、步骤、子程序等,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,361 KB,2024-10-10 02:27,2,"add: PotPlayer
+fix: 选择文本时的bug",2024-10-12
+自动填验证码,https://getquicker.net/Sharedaction?code=41191eff-6aab-4623-4478-08dce7722144,识别和填写验证码,Microsoft Edge,侧耳倾听&,https://getquicker.net/User/565162/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC%26,34.8 KB,2024-10-09 20:06,9,1,2024-10-12
+增量备份,https://getquicker.net/Sharedaction?code=7f8c7056-763c-4d0c-3000-08dce95259a9,为选中文件/文件夹创建备份，自动增量备份。,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,14.6 KB,2024-10-11 15:15,0,,2024-10-12
+虚拟驱动器管理,https://getquicker.net/Sharedaction?code=059667dd-0ecb-4387-b9d1-08dc7226251f,将文件夹映射为虚拟驱动器、删除虚拟驱动器,Windows 资源管理器,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,12.2 KB,2024-05-12 19:23,2,增加对启动方式的判断，如果是自动启动会重新映射虚拟驱动器，不需要传参了。,2024-10-12
+微信截图翻译,https://getquicker.net/Sharedaction?code=a26d2079-205d-4d3e-ca3d-08dc5d069310,微信截图并自动点击翻译按钮。,通用,EC10010,https://getquicker.net/User/2997/EC10010,225.7 KB,2024-04-15 16:22,7,优化。,2024-10-12
+kimi-zetero,https://getquicker.net/Sharedaction?code=92972d11-1192-43dd-2ff9-08dce95259a9,上传PDF到Kimi，AI阅读,Zotero,xbdfg,https://getquicker.net/User/1121775/xbdfg,6.9 KB,2024-10-11 13:55,0,,2024-10-12
+阅读点三合一,https://getquicker.net/Sharedaction?code=7caff82e-da18-41f7-2ff8-08dce95259a9,设置，读取，取消sm阅读点,SuperMemo 18,小墨ink,https://getquicker.net/User/173735/%E5%B0%8F%E5%A2%A8ink,3.5 KB,2024-10-11 13:37,0,,2024-10-12
+随机抽奖,https://getquicker.net/Sharedaction?code=0beb34b4-ffb0-42e5-2ff7-08dce95259a9,设置范围，随机抽奖一个数字，即为中奖结果,Google Chrome,笔战人生,https://getquicker.net/User/1090721/%E7%AC%94%E6%88%98%E4%BA%BA%E7%94%9F,5.1 KB,2024-10-11 13:14,0,,2024-10-12
+Zotero7菜单,https://getquicker.net/Sharedaction?code=4f6c26c0-8f5c-422a-cb92-08dccce7aaee,利用菜单快速选择zotero侧栏图标及打开多层菜单选项,Zotero,BrainKE,https://getquicker.net/User/199719/BrainKE,94.1 KB,2024-09-05 16:22,12,"Referfence插件以前是点击图标即可刷新出列表，现在需要先点击图标，在点击很小的一个刷新图标。
+
+更新reference相关动作，增加点击插件图标再点击刷新⭕️图标的过程，无需手动再次点击刷新。要增加这个连续点击，需要再右键菜单 > 截取图标 > reference，截取刷新图标",2024-10-12
+筛选文字输入,https://getquicker.net/Sharedaction?code=0880103b-9a3a-474a-fa2d-08dcdc2c1d1a,置入常用文字/快捷文字筛选版,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,84.4 KB,2024-09-24 12:27,2,1.修改连续字母如dz的时候，匹配问题,2024-10-12
+B站直播间,https://getquicker.net/Sharedaction?code=38e251a6-4997-4fa6-2fef-08dce95259a9,搜寻直播间，展示直播间的标题、网址和封面，选择确认后打开直播间！,Google Chrome,尤格泡泡,https://getquicker.net/User/635813/%E5%B0%A4%E6%A0%BC%E6%B3%A1%E6%B3%A1,16.6 KB,2024-10-11 10:32,0,,2024-10-12
+滚轮切换窗口,https://getquicker.net/Sharedaction?code=0b9e8c0e-7238-4756-4442-08dce7722144,自动生成【高级鼠标触发】配置，实现滚轮贴边切换ALT+TAB窗口,通用,blanka,https://getquicker.net/User/667540/blanka,131.1 KB,2024-10-08 23:04,2,+可选【仅当前虚拟桌面】,2024-10-12
