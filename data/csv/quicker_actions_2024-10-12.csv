@@ -5,11 +5,8 @@
 source=${word}
 的方式直接进行翻译
 *测试中的功能,可能会有问题",2024-10-13
-计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,71.8 KB,2024-09-17 16:03,34,大写金额完善,2024-10-13
 高能物理论文检索,https://getquicker.net/Sharedaction?code=8ca91b60-807f-4ee3-f95f-08dabe0047bb,简单的论文检索工具,通用,小胡杨,https://getquicker.net/User/685250/%E5%B0%8F%E8%83%A1%E6%9D%A8,18.1 KB,2022-11-04 20:12,1,增加了arxiv号的检索,2024-10-13
 Quicker托盘,https://getquicker.net/Sharedaction?code=2eb8dfac-51cc-4299-2317-08d7ce35877d,使用AHK脚本点击托盘图标，快速打开Quicker托盘右键菜单,通用,Ever,https://getquicker.net/User/2774/Ever,15.6 KB,2020-03-23 19:05,8,更新蓝奏下载,2024-10-13
-定位新文件,https://getquicker.net/Sharedaction?code=c4fc0218-acf3-4154-8749-08dce5862d41,快速定位到新创建、新修改的文件，比如打开刚下载、刚解压缩的文件,通用,Ever,https://getquicker.net/User/2774/Ever,31.7 KB,2024-10-06 20:48,6,修改设置示例,2024-10-13
-左键【双击+长按】2,https://getquicker.net/Sharedaction?code=a0d1892c-977e-4a5e-a36c-08dca9f17889,双击或者长按，打开不同动作,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,31 KB,2024-07-23 08:40,2,优化,2024-10-13
 OCR图片命名,https://getquicker.net/Sharedaction?code=42f126ac-03ea-4496-9a9b-08dca533070d,选中一个图片OCR后自动命名(以最合适的尺寸显示),Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,18.8 KB,2024-07-16 15:41,2,优化,2024-10-13
 一键清除,https://getquicker.net/Sharedaction?code=81946aa8-f87e-45d9-eb27-08db18860216,一键进入清除/清爽/高效,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,27.6 KB,2023-02-27 18:10,8,优化,2024-10-13
 网页编辑开关,https://getquicker.net/Sharedaction?code=da83d885-5599-4b7f-6027-08dcd225a467,通过浏览器脚本，实现可视化编辑当前网页。编辑状态的开关以徽标显示,Google Chrome,Xanwus,https://getquicker.net/User/278308/Xanwus,2.4 KB,2024-09-11 15:04,2,"+补充提示消息！
