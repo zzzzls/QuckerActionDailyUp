@@ -2,14 +2,8 @@
 Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,极致UI！ChatGPT、谷歌镜像、免费DeepL；14+5个翻译引擎；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,626.6 KB,2023-03-16 00:45,51,"1. 修复：尝试修复长时间打开翻译面板，面板无法唤醒问题（感谢@vv12138）
 2. 新增：翻译后自动操作新增“复制原文”（感谢@Luuxcyz）
 3. 新增：翻译后自动操作可以设置不显示通知（如复制后的通知）",2024-10-17
-粘贴音标或释义,https://getquicker.net/Sharedaction?code=fc2c1d38-8e38-49bd-87e0-08dcea511bda,选中单词后，获取并粘贴音标,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,58.9 KB,2024-10-13 02:12,3,"之前有些单词没有音标会获取释义失败，现在不会了
-之前是获取搜索到的第一个释义，现在增加了全部释义选项
-增加了不包含音标的仅释义选项
-根据反馈，以上下文菜单的方式打开本动作会失效，但没有找到解决办法",2024-10-17
-计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,74.8 KB,2024-09-17 16:03,39,"默认版本优化
-大写金额优化",2024-10-17
-清理log文件,https://getquicker.net/Sharedaction?code=83b3ca32-3f75-4c9e-801c-08dced27f08a,清理ug或者Pro|E、CREO等软件转换格式过程中产生的无用log文件,Windows 资源管理器,alloys,https://getquicker.net/User/665517/alloys,7.9 KB,2024-10-16 18:51,0,,2024-10-17
 WPS单页视图,https://getquicker.net/Sharedaction?code=56ef5ed1-5b39-4f14-8017-08dced27f08a,WPS单页视图,WPS Office,dzhsmc,https://getquicker.net/User/18863/dzhsmc,15 B,2024-10-16 17:19,0,,2024-10-17
+vocabulary自动下载读音,https://getquicker.net/Sharedaction?code=9ae1d596-9046-4d75-8009-08dced27f08a,自动下载选中的单词-美式读音,通用,金熙是何年,https://getquicker.net/User/718736/%E9%87%91%E7%86%99%E6%98%AF%E4%BD%95%E5%B9%B4,7.4 KB,2024-10-16 14:35,5,1,2024-10-17
 WPS多页视图,https://getquicker.net/Sharedaction?code=b17e2143-3e87-4add-8016-08dced27f08a,WPS多页视图,WPS Office,dzhsmc,https://getquicker.net/User/18863/dzhsmc,15 B,2024-10-16 17:14,0,,2024-10-17
 收发地址涂抹,https://getquicker.net/Sharedaction?code=916ba571-d835-4ac7-40e6-08dcec2bc78e,"用于亚马逊外箱标签的收货和发货地址涂抹, 可选中文件运行",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,34.4 KB,2024-10-15 14:11,7,1,2024-10-17
 设置书签动作注册表,https://getquicker.net/Sharedaction?code=1f304869-fb88-4209-8000-08dced27f08a,修改浏览器注册表，以便丝滑地打开收藏在浏览器书签的Quicker动作。,通用,EC10010,https://getquicker.net/User/2997/EC10010,27.4 KB,2024-10-16 12:17,2,公开。,2024-10-17
@@ -17,7 +11,6 @@ WPS多页视图,https://getquicker.net/Sharedaction?code=b17e2143-3e87-4add-8016
 PDF处理,https://getquicker.net/Sharedaction?code=be7e658a-e1c5-4642-50f9-08dabc15aa8f,共28种PDF处理方式！合并、删页、分割、解密、pdf转图片及图片转pdf等功能,Windows 资源管理器,M-cc,https://getquicker.net/User/521120/M-cc,382.1 KB,2022-11-02 15:54,68,~修复（图片转PDF）图片路径中包含转义字符会出错的问题。,2024-10-17
 压缩备份,https://getquicker.net/Sharedaction?code=a3f865b0-965c-423c-9464-08dc0bfef0d0,将当前文件夹中的所有文件备份到压缩包中,Windows 资源管理器,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,29 KB,2024-01-04 11:58,6,+ 压缩完成后提醒,2024-10-17
 添加 Eagle 视频(公开),https://getquicker.net/Sharedaction?code=9a41d9d3-aacc-4d30-b0e1-08db304dc861,快速获取 tiktok、快手的视频到 eagle。需要搭配 https://greasyfork.org/zh-CN/scripts/469521-%E6%87%92%E4%BA%BA%E4%B8%93%E7%94%A8%E7%B3%BB%E5%88%97-%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD 使用。,通用,张立行,https://getquicker.net/User/2923/%E5%BC%A0%E7%AB%8B%E8%A1%8C,39.7 KB,2023-03-30 17:12,2,增加剪贴板复制信息的提示,2024-10-17
-复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,536.5 KB,2021-10-02 00:25,69,获取浏览器文本为空时，通过控件来获取。,2024-10-17
 皓拓标签,https://getquicker.net/Sharedaction?code=54c628fd-068a-40c9-40e7-08dcec2bc78e,制作标签用的,通用,jialan75home,https://getquicker.net/User/631091/jialan75home,14 KB,2024-10-15 14:24,1,新增加框选项,2024-10-17
 快速复制专利号,https://getquicker.net/Sharedaction?code=4067835e-f2bb-4bbf-7ff9-08dced27f08a,一键复制选中文件或选中文本中的专利号到剪贴板，并删除其中的多余字符。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,8.5 KB,2024-10-16 10:29,0,,2024-10-17
 > Plugins,https://getquicker.net/Sharedaction?code=7fd2652c-5a5e-4417-fb1f-08db512831c2,打开 Photoshop Plugins 插件目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,105.2 KB,2023-05-11 11:03,23,"~. 备份工作区时, 同时备份已修改的工作区.",2024-10-17
