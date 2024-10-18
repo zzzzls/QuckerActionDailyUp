@@ -1,0 +1,32 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+GOT-OCR-2.0,https://getquicker.net/Sharedaction?code=eb28d15a-0ea6-45f8-df65-08dcdef79362,通过统一的端到端模型实现 OCR-2.0(format multi-crop OCR),通用,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,15.2 KB,2024-09-28 14:20,4,改善排版问题,2024-10-18
+复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,547.3 KB,2021-10-02 00:25,74,获取任务管理器界面的文字。,2024-10-18
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,75 KB,2024-09-17 16:03,40,"修复bug
+优化格式",2024-10-18
+Markdown笔记仓库,https://getquicker.net/Sharedaction?code=e664f2c3-afcf-4b95-2f97-08dcee3d04e6,"使用git仓库，存储Markdown等格式笔记,此动作需要安装GitBash，并设置环境变量，同时需要会使用git创建远程仓库。如何使用git请自行搜索安装，构建远程仓库方法",通用,清风小道君,https://getquicker.net/User/650811/%E6%B8%85%E9%A3%8E%E5%B0%8F%E9%81%93%E5%90%9B,118.4 KB,2024-10-17 17:53,0,,2024-10-18
+这动作安装过没,https://getquicker.net/Sharedaction?code=83779484-e44d-49eb-4a20-08d9c10181e6,不知道某个分享动作是否已安装？这个动作能帮到你。在动作主页运行动作。,Quicker,EC10010,https://getquicker.net/User/2997/EC10010,334.6 KB,2021-12-17 19:02,74,优化。,2024-10-18
+青梨查询DOI,https://getquicker.net/Sharedaction?code=54540f35-6839-49f4-43e7-08dcd318a5f5,选中或者复制DOI或者标题即可发送到青梨,Google Chrome,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,15.5 KB,2024-09-13 12:38,14,修正已打开的网址错误,2024-10-18
+更新动作窗口,https://getquicker.net/Sharedaction?code=e9a32b4d-0562-4d20-86f8-08dceb3bdfc8,更新Quicker动作时，自动勾选必要选项与聚焦输入框。,Quicker,EC10010,https://getquicker.net/User/2997/EC10010,27.3 KB,2024-10-13 16:19,7,优化。,2024-10-18
+粘贴音标或释义,https://getquicker.net/Sharedaction?code=fc2c1d38-8e38-49bd-87e0-08dcea511bda,选中单词后，获取并粘贴音标或释义；右键设置默认选项,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,84.7 KB,2024-10-13 02:12,4,"感谢 @EC10010 反馈，现在可以通过上下文菜单的方式触发动作了
+但上下文菜单无法使用手动输入的方式，只能选中文本触发
+-------动作说明-------
+右键设置默认选项：仅音标/释义/音标+释义等
+选中单词获取并粘贴
+未选中则弹出输入框手动输入
+动作右键临时改变获取选项",2024-10-18
+超级重命名,https://getquicker.net/Sharedaction?code=bcf33eda-9427-45cc-f6c5-08dae2ffb129,超级强大灵活的文件批量重命名工具。支持保存更名规则、插入文件元数据、普通/正则替换、批量替换、列表替换、重名检测、自动编号、C#表达式处理 . . .,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,389.2 KB,2022-12-21 18:23,31,- 优化遍历模式的排序,2024-10-18
+快捷ps1,https://getquicker.net/Sharedaction?code=c4eb717f-14b4-44a2-2f8b-08dcee3d04e6,生成所选ps1脚本的双击启动快捷方式,Windows 资源管理器,全麦,https://getquicker.net/User/189139/%E5%85%A8%E9%BA%A6,14.8 KB,2024-10-17 11:20,1,更新了生成的快捷方式的描述,2024-10-18
+单词发音,https://getquicker.net/Sharedaction?code=88f4f351-3124-41e6-4c8b-08dcbbf5dc6c,,通用,HAFEN,https://getquicker.net/User/72505/HAFEN,6.1 KB,2024-08-14 20:31,1,"- 不再需要python
+- 允许传值调用其他动作",2024-10-18
+下移N格,https://getquicker.net/Sharedaction?code=dcf5e424-05c1-42b4-2f8f-08dcee3d04e6,选定的单元格下移N格,通用,alloys,https://getquicker.net/User/665517/alloys,1.2 KB,2024-10-17 11:31,0,,2024-10-18
+左移N格,https://getquicker.net/Sharedaction?code=1ffaa217-2ae0-492e-2f8e-08dcee3d04e6,选定的单元格左移N格,通用,alloys,https://getquicker.net/User/665517/alloys,1.1 KB,2024-10-17 11:31,0,,2024-10-18
+右移N格,https://getquicker.net/Sharedaction?code=849ab54d-14af-476b-2f8d-08dcee3d04e6,选定的单元格右移N格,通用,alloys,https://getquicker.net/User/665517/alloys,1.1 KB,2024-10-17 11:30,0,,2024-10-18
+上移N格,https://getquicker.net/Sharedaction?code=c494f025-d6c8-44e4-2f8c-08dcee3d04e6,选定的单元格上移N格,通用,alloys,https://getquicker.net/User/665517/alloys,1.2 KB,2024-10-17 11:30,0,,2024-10-18
+内容识别,https://getquicker.net/Sharedaction?code=6ffa3b5c-132f-4387-956b-08dce0ed4ae4,自动判断是否为智能对象，再内容识别填充,Adobe Photoshop,Taitun,https://getquicker.net/User/854987/Taitun,8.2 KB,2024-09-30 20:14,2,优化部分代码，提升速度,2024-10-18
+字体调整,https://getquicker.net/Sharedaction?code=caeb9902-9802-40cc-2f87-08dcee3d04e6,快速调整字体格式和大小,WPS Spreadsheets,alloys,https://getquicker.net/User/665517/alloys,52.9 KB,2024-10-17 09:41,0,,2024-10-18
+颜色调整,https://getquicker.net/Sharedaction?code=7faf2572-e36d-4e1c-2f86-08dcee3d04e6,快速调整表格和文字的颜色,WPS Spreadsheets,alloys,https://getquicker.net/User/665517/alloys,38 KB,2024-10-17 09:40,0,,2024-10-18
+写-图片说明,https://getquicker.net/Sharedaction?code=0f396468-c574-4be8-b88f-08da9f273988,将剪贴板获取的文本写入图片的说明文字,我来wolai,阿颜坊的阿颜,https://getquicker.net/User/126094/%E9%98%BF%E9%A2%9C%E5%9D%8A%E7%9A%84%E9%98%BF%E9%A2%9C,3.8 KB,2022-09-26 16:34,1,根据wolai的1.2.3版本，更新,2024-10-18
+清理log、bak文件,https://getquicker.net/Sharedaction?code=83b3ca32-3f75-4c9e-801c-08dced27f08a,清理ug或者Pro|E、CREO等软件转换格式过程中产生的无用log文件;增加了清理CAD的bak备份文件的清理功能,Windows 资源管理器,alloys,https://getquicker.net/User/665517/alloys,8.6 KB,2024-10-16 18:51,1,增加了清理CAD的bak备份文件的清理功能,2024-10-18
+HTML表转MD,https://getquicker.net/Sharedaction?code=cab1abff-7f03-491c-8015-08dced27f08a,HTML表格转MarkDown表格,通用,大葱明子,https://getquicker.net/User/184821/%E5%A4%A7%E8%91%B1%E6%98%8E%E5%AD%90,17.2 KB,2024-10-16 16:51,1,增加去除空行的功能,2024-10-18
+OCR+,https://getquicker.net/Sharedaction?code=c1c0369e-89a5-45fa-40dc-08dcec2bc78e,截图识别文本，整合百度、腾讯、Quicker、Win系统自带等接口，便于统一调用,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,121.1 KB,2024-10-15 08:40,2,文本窗口增加工具栏和设置选项,2024-10-18
+WS滚动图片,https://getquicker.net/Sharedaction?code=f2432444-3d42-4b02-801f-08dced27f08a,QQ图片查看界面按W/S进行上下滚动,腾讯QQ,sharklaka,https://getquicker.net/User/826879/sharklaka,5.5 KB,2024-10-17 02:10,0,,2024-10-18
