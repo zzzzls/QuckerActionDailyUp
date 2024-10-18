@@ -1,11 +1,8 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 GOT-OCR-2.0,https://getquicker.net/Sharedaction?code=eb28d15a-0ea6-45f8-df65-08dcdef79362,通过统一的端到端模型实现 OCR-2.0(format multi-crop OCR),通用,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,15.2 KB,2024-09-28 14:20,4,改善排版问题,2024-10-18
 复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,547.3 KB,2021-10-02 00:25,74,获取任务管理器界面的文字。,2024-10-18
-计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,75 KB,2024-09-17 16:03,40,"修复bug
-优化格式",2024-10-18
 Markdown笔记仓库,https://getquicker.net/Sharedaction?code=e664f2c3-afcf-4b95-2f97-08dcee3d04e6,"使用git仓库，存储Markdown等格式笔记,此动作需要安装GitBash，并设置环境变量，同时需要会使用git创建远程仓库。如何使用git请自行搜索安装，构建远程仓库方法",通用,清风小道君,https://getquicker.net/User/650811/%E6%B8%85%E9%A3%8E%E5%B0%8F%E9%81%93%E5%90%9B,118.4 KB,2024-10-17 17:53,0,,2024-10-18
 这动作安装过没,https://getquicker.net/Sharedaction?code=83779484-e44d-49eb-4a20-08d9c10181e6,不知道某个分享动作是否已安装？这个动作能帮到你。在动作主页运行动作。,Quicker,EC10010,https://getquicker.net/User/2997/EC10010,334.6 KB,2021-12-17 19:02,74,优化。,2024-10-18
-青梨查询DOI,https://getquicker.net/Sharedaction?code=54540f35-6839-49f4-43e7-08dcd318a5f5,选中或者复制DOI或者标题即可发送到青梨,Google Chrome,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,15.5 KB,2024-09-13 12:38,14,修正已打开的网址错误,2024-10-18
 更新动作窗口,https://getquicker.net/Sharedaction?code=e9a32b4d-0562-4d20-86f8-08dceb3bdfc8,更新Quicker动作时，自动勾选必要选项与聚焦输入框。,Quicker,EC10010,https://getquicker.net/User/2997/EC10010,27.3 KB,2024-10-13 16:19,7,优化。,2024-10-18
 粘贴音标或释义,https://getquicker.net/Sharedaction?code=fc2c1d38-8e38-49bd-87e0-08dcea511bda,选中单词后，获取并粘贴音标或释义；右键设置默认选项,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,84.7 KB,2024-10-13 02:12,4,"感谢 @EC10010 反馈，现在可以通过上下文菜单的方式触发动作了
 但上下文菜单无法使用手动输入的方式，只能选中文本触发
