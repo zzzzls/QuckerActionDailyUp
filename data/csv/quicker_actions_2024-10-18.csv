@@ -1,0 +1,24 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+更新助手,https://getquicker.net/Sharedaction?code=2e830e19-e18e-406d-20c2-08dcef0e437a,更新动作时自动勾选并聚焦更新日志文本框,Quicker,H-D-G,https://getquicker.net/User/679811/H-D-G,41.8 KB,2024-10-18 22:54,1,"v1
+~ 修复使用纯文本时依然作为表达式解析的bug",2024-10-19
+弹出超级菜单,https://getquicker.net/Sharedaction?code=362ef925-6343-4ab6-e9f8-08db92f9f222,不同程序，弹出不同菜单【使用者少，但是用量大，说明该方式易用好用。】,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,80.2 KB,2023-08-02 15:35,34,在wps里，也可以直接填入预设内容。,2024-10-19
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,78.8 KB,2024-09-17 16:03,42,优化备注格式,2024-10-19
+本地表情包,https://getquicker.net/Sharedaction?code=06b5aaa7-78ed-40b7-e26a-08dcb832f8f0,主要用于聊天快速使用本地表情包图片粘贴到窗口,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,50.9 KB,2024-08-10 10:08,7,更新使用说明,2024-10-19
+常用语 v2.0,https://getquicker.net/Sharedaction?code=06fadd68-1fcd-40e3-fa47-08dcdc2c1d1a,链接MySQL数据库存储常用语更靠谱,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,79.2 KB,2024-09-24 21:35,4,"本次更新功能：
+	1、添加新内容时标题后面跟英文括号，括号内内容可变为鼠标悬浮提示内容
+	例如：
+		标题:title(鼠标悬浮到选项后显示该文本)
+		内容:test
+		分组:test
+	添加后当鼠标悬浮到这个选项上时将出现括号内文本",2024-10-19
+EVER解压缩,https://getquicker.net/Sharedaction?code=d5a563fb-c6d6-4b01-3287-08d7103c7f72,一键解压、压缩。如果全部是压缩文件就解压，不是就压缩。,通用,Ever,https://getquicker.net/User/2774/Ever,68.6 KB,2019-07-24 22:50,39,增加解压缩前确认的弹窗，默认不开启，可在设置处修改。,2024-10-19
+微信截图翻译,https://getquicker.net/Sharedaction?code=a26d2079-205d-4d3e-ca3d-08dc5d069310,微信截图并自动点击翻译按钮。,通用,EC10010,https://getquicker.net/User/2997/EC10010,230.3 KB,2024-04-15 16:22,11,自动框选时，单击也能翻译。,2024-10-19
+Zotero7菜单,https://getquicker.net/Sharedaction?code=4f6c26c0-8f5c-422a-cb92-08dccce7aaee,利用菜单快速选择zotero侧栏图标及打开多层菜单选项,Zotero,BrainKE,https://getquicker.net/User/199719/BrainKE,94.8 KB,2024-09-05 16:22,13,增加【颜色容差】设置，提高图标识别能力。图标被点击后会轻度变灰，有些电脑可能比较明显，造成识别困难，可以把这个数字提高，模糊识别即可。,2024-10-19
+拼合透明度(动作),https://getquicker.net/Sharedaction?code=81416309-0906-4a58-20ac-08dcef0e437a,对所选对象拼合透明度,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,2.6 KB,2024-10-18 16:19,0,,2024-10-19
+清理旧文件,https://getquicker.net/Sharedaction?code=a087c819-f40c-400a-8003-08dced27f08a,CREO清理低版本文件,Windows 资源管理器,alloys,https://getquicker.net/User/665517/alloys,15.7 KB,2024-10-16 13:51,1,优化程序步骤，提升整理速度,2024-10-19
+目录浏览器,https://getquicker.net/Sharedaction?code=05d4a112-9087-421d-40fb-08dcec2bc78e,目录浏览器,通用,KBC,https://getquicker.net/User/5221/KBC,30.1 KB,2024-10-15 21:15,2,目录浏览器,2024-10-19
+PDF翻译,https://getquicker.net/Sharedaction?code=145b5d53-b71d-4485-c2e3-08dc74bc40ca,将任意语言PDF文件翻译成中文PDF文件。或将中文PDF翻译成英文。,通用,M-cc,https://getquicker.net/User/521120/M-cc,307.1 KB,2024-05-15 20:24,7,"~目前仅支持单个PDF进行翻译,如果对批量处理有需求可以讨论区留言，视需求量而定。",2024-10-19
+系统工具集,https://getquicker.net/Sharedaction?code=42da3d12-4d9e-4fcf-8720-08dceb3bdfc8,主打一个方便,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,82.5 KB,2024-10-14 15:41,1,"+若干功能
++支持外部参数调用（如绑定手势/基础动作等）",2024-10-19
+AI高精度OCR,https://getquicker.net/Sharedaction?code=aaddfdf0-6828-41b6-d88d-08dce4de09ed,基于llm，精度更好,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,1.6 KB,2024-10-05 14:03,2,优化了速度，使用请关闭并发识别,2024-10-19
+WPS 表格清除单元格式,https://getquicker.net/Sharedaction?code=0b399dff-5b8e-4256-2fa0-08dcee3d04e6,清除选中单元格全部格式,WPS Spreadsheets,Krul_Camael,https://getquicker.net/User/1137543/Krul_Camael,1.3 KB,2024-10-18 00:20,0,,2024-10-19
