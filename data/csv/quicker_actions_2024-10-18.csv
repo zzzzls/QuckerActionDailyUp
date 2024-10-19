@@ -1,8 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 更新助手,https://getquicker.net/Sharedaction?code=2e830e19-e18e-406d-20c2-08dcef0e437a,更新动作时自动勾选并聚焦更新日志文本框,Quicker,H-D-G,https://getquicker.net/User/679811/H-D-G,41.8 KB,2024-10-18 22:54,1,"v1
 ~ 修复使用纯文本时依然作为表达式解析的bug",2024-10-19
-弹出超级菜单,https://getquicker.net/Sharedaction?code=362ef925-6343-4ab6-e9f8-08db92f9f222,不同程序，弹出不同菜单【使用者少，但是用量大，说明该方式易用好用。】,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,80.2 KB,2023-08-02 15:35,34,在wps里，也可以直接填入预设内容。,2024-10-19
-计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,78.8 KB,2024-09-17 16:03,42,优化备注格式,2024-10-19
 本地表情包,https://getquicker.net/Sharedaction?code=06b5aaa7-78ed-40b7-e26a-08dcb832f8f0,主要用于聊天快速使用本地表情包图片粘贴到窗口,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,50.9 KB,2024-08-10 10:08,7,更新使用说明,2024-10-19
 常用语 v2.0,https://getquicker.net/Sharedaction?code=06fadd68-1fcd-40e3-fa47-08dcdc2c1d1a,链接MySQL数据库存储常用语更靠谱,通用,BxiaoQi,https://getquicker.net/User/683057/BxiaoQi,79.2 KB,2024-09-24 21:35,4,"本次更新功能：
 	1、添加新内容时标题后面跟英文括号，括号内内容可变为鼠标悬浮提示内容
