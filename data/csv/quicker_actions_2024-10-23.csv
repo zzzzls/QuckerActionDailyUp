@@ -1,0 +1,43 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,84.7 KB,2024-09-17 16:03,48,增加帮助提示功能,2024-10-24
+软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,210.1 KB,2022-12-27 16:23,43,修复悬浮时提示错误的bug,2024-10-24
+QShot,https://getquicker.net/Sharedaction?code=4817fe9c-15b3-42ca-cf5a-08dce2c29e2a,可扩展性强的截图组件：QuickerScreenShot,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,97.7 KB,2024-10-03 15:23,41,"v41
+~ 优化自由选择模式下窗口锁定的逻辑：前台窗口（或鼠标下窗口）优先",2024-10-24
+关灯,https://getquicker.net/Sharedaction?code=abc95110-dfb5-4e33-1dfd-08dba1189b3c,专注于前台窗口、指定窗口或固定区域，可选后台运行，绑定前台进程，除选中区域外变暗，可自定义背景颜色、透明度，支持多个扩展屏。,通用,hustrjh,https://getquicker.net/User/449681/hustrjh,109.1 KB,2023-08-20 21:44,11,"【新增】
+1、高亮部分可在动作设置中调节亮度，避免聚焦区域过于扎眼，暂时仅支持固定区域模式和上次区域模式。
+感谢网友 Ismar 的建议。",2024-10-24
+DNS和HOST切换,https://getquicker.net/Sharedaction?code=f45dc8e7-7c1d-4655-5633-08d9eec3922c,修改当前网络的DNS,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,41.6 KB,2022-02-14 16:44,12,修复正则,2024-10-24
+Steam 库搜索,https://getquicker.net/Sharedaction?code=6f846d49-5697-4d46-df7c-08dcdef79362,搜索 Steam 库中已安装的游戏,通用,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,15.2 KB,2024-09-28 23:12,2,fix,2024-10-24
+复制板,https://getquicker.net/Sharedaction?code=52fd2f8f-3c24-4072-8edc-08dcaeb3ff7a,"按下CTRL+C,自动收集复制文本",通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,12.3 KB,2024-07-29 12:53,8,优化,2024-10-24
+图片处理,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,381.1 KB,2024-06-06 00:01,61,**优化,2024-10-24
+本地表情包,https://getquicker.net/Sharedaction?code=06b5aaa7-78ed-40b7-e26a-08dcb832f8f0,主要用于聊天快速使用本地表情包图片粘贴到窗口,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,73.4 KB,2024-08-10 10:08,11,"开放双击间隔的设置
+新增预览窗口最大尺寸限制",2024-10-24
+极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,189.5 KB,2023-07-28 23:43,109,yh,2024-10-24
+文本窗口,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,11.8 KB,2024-07-30 20:09,24,优化,2024-10-24
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,截图识别文字/OCR后60种文本联动处理功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,85.7 KB,2024-05-09 20:07,57,功能优化,2024-10-24
+青梨查询DOI,https://getquicker.net/Sharedaction?code=54540f35-6839-49f4-43e7-08dcd318a5f5,选中或者复制DOI或者标题即可发送到青梨,Google Chrome,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,14.1 KB,2024-09-13 12:38,16,整理代码清理不需要的变量,2024-10-24
+单词发音,https://getquicker.net/Sharedaction?code=88f4f351-3124-41e6-4c8b-08dcbbf5dc6c, ,通用,HAFEN,https://getquicker.net/User/72505/HAFEN,7.9 KB,2024-08-14 20:31,2, ,2024-10-24
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,1.1 MB,2024-07-11 11:24,68,修复开机自启动逆向服务后，逆向服务运行出错的问题,2024-10-24
+窗口神器,https://getquicker.net/Sharedaction?code=d0ef47fd-be70-4b19-3f87-08dbc2d4852c,也许是最好用的窗口调节神器,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,284 KB,2023-10-02 23:09,64,"感谢用户反馈@lnf920
+支持快捷键操作窗口",2024-10-24
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,367.3 KB,2023-03-25 00:27,283,优化菜单云备份,2024-10-24
+字段表生成,https://getquicker.net/Sharedaction?code=7ca5ad96-759b-4634-80a5-08dcf2fec074,根据变量生成字段表，不用一个个变量手动添加,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,13.6 KB,2024-10-23 17:54,0,,2024-10-24
+企业查询(天眼查)V2,https://getquicker.net/Sharedaction?code=36dc788d-11e5-4001-76ff-08dc5df52912,企业查询的升级版本，采用无头浏览器技术，使用之前，务必详细阅读使用说明,通用,SoloShine/Field,https://getquicker.net/User/402701/SoloShine_Field,53.9 KB,2024-04-17 17:50,1,"添加有效期时间、数据更新时间、数据校验时间；
+添加参保人数；",2024-10-24
+企业查询,https://getquicker.net/Sharedaction?code=f9963209-c56c-48b5-c379-08db2ab3ed80,调用天眼查接口进行企业查询（by field）,通用,SoloShine/Field,https://getquicker.net/User/402701/SoloShine_Field,33.7 KB,2023-03-23 16:44,4,"添加有效时间、更新时间、校准时间；
+添加参保人数；",2024-10-24
+单元格填充编号,https://getquicker.net/Sharedaction?code=82f420aa-5437-4d6d-91ba-08dc79843f34,按照选择顺序为所选单元格区域填充序号，支持纯数字、中文数字（一-一千）、英文字母（Excel编号）、自定义数字格式、日期。,Microsoft Excel,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,151.4 KB,2024-05-21 19:43,2,V2 增加“不再弹出”选择类型（右键重选），增加日期输出。,2024-10-24
+小日期,https://getquicker.net/Sharedaction?code=2b4a7168-bfed-48b1-80a0-08dcf2fec074,适合在表格里，使用鼠标操作的日期发送,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,17.6 KB,2024-10-23 16:52,1,2024年10月23日16:53:00,2024-10-24
+网页编辑开关,https://getquicker.net/Sharedaction?code=da83d885-5599-4b7f-6027-08dcd225a467,通过浏览器脚本，实现可视化编辑当前网页。编辑状态的开关以徽标显示,Google Chrome,Xanwus,https://getquicker.net/User/278308/Xanwus,2.8 KB,2024-09-11 15:04,3,"~优化代码
+当前网页初次运行（包括网页刷新后）时，默认“开”状态",2024-10-24
+黄金比例,https://getquicker.net/Sharedaction?code=4f027f50-d192-47c8-ac01-08dcf1e0d0d4,辅以黄金比例，按照用户指定的缩放比，调节窗口尺寸,通用,Sunsh,https://getquicker.net/User/156062/Sunsh,38.1 KB,2024-10-22 23:49,2,完善动作说明,2024-10-24
+邮编查询,https://getquicker.net/Sharedaction?code=5975f5f2-f071-4898-1c4e-08dceffdf6a6,精准查到区县、乡镇甚至街道的邮编号。,通用,M-cc,https://getquicker.net/User/521120/M-cc,94.4 KB,2024-10-19 14:55,1,~修复测试内容未删除导致的失败错误。,2024-10-24
+EVER录精灵,https://getquicker.net/Sharedaction?code=e44f7f2d-ba96-47e6-da60-08d7880f80dc,把需要重复的鼠标键盘操作录制成流程，一键做到。自带鼠标连点、快速点选。,通用,Ever,https://getquicker.net/User/2774/Ever,102.3 KB,2019-12-25 10:30,43,"增加每次运行是否都弹出修改速度重复次数的功能与设置
+增加重复执行后是否在右上角弹出重复执行次数的功能与设置。",2024-10-24
+企业信息查询V2,https://getquicker.net/Sharedaction?code=f397d0aa-a304-4f2b-809b-08dcf2fec074,通过天眼查网页进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,90.3 KB,2024-10-23 15:00,0,,2024-10-24
+企业信息查询V1,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,91.2 KB,2024-10-23 14:52,0,,2024-10-24
+复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,550.7 KB,2021-10-02 00:25,80,在浏览器复制失败时打开更多功能。,2024-10-24
+弹出超级菜单,https://getquicker.net/Sharedaction?code=362ef925-6343-4ab6-e9f8-08db92f9f222,不同程序，弹出不同菜单【使用者少，但是用量大，说明该方式易用好用。】,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,90.6 KB,2023-08-02 15:35,43,qq空白颜色判断,2024-10-24
+标注框,https://getquicker.net/Sharedaction?code=cbe19215-7e04-4548-807f-08dcf2fec074,添加/删除Obsidian的各种类型的标注框,Obsidian,松木风,https://getquicker.net/User/1157754/%E6%9D%BE%E6%9C%A8%E9%A3%8E,6.3 KB,2024-10-23 10:39,0,,2024-10-24
+快速网页,https://getquicker.net/Sharedaction?code=f31c8a48-1080-4afd-807e-08dcf2fec074,网页收藏快速打开，支持APP模式，默认浏览器正常打开，Quicker WebView2打开。,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,20.3 KB,2024-10-23 10:14,0,,2024-10-24
+右键菜单调试,https://getquicker.net/Sharedaction?code=2c8b0c78-e66a-4853-ac02-08dcf1e0d0d4,自动获取当前动作的菜单进行调试，按住ctrl启动动作可以输入参数,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,8.8 KB,2024-10-23 01:05,0,,2024-10-24
