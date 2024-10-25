@@ -1,0 +1,39 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,85.2 KB,2024-09-17 16:03,49,"分割线不用连续多条了
+修复在wps空白内容时出错。",2024-10-25
+ZoteroToObsidian,https://getquicker.net/Sharedaction?code=b7727e44-4933-4ec5-8103-08dbc1cb1ea7,发送Zotero的标注信息到Obsidian笔记库中,Zotero,熊猫别熬夜,https://getquicker.net/User/634327/%E7%86%8A%E7%8C%AB%E5%88%AB%E7%86%AC%E5%A4%9C,29.5 KB,2023-10-01 21:36,10,"使用时激活zotero窗口,防止快捷键触发失败",2024-10-25
+装饰选中文字,https://getquicker.net/Sharedaction?code=d6a1ae9b-69d3-4bfe-8856-08dacd30e1b5,设定模板装饰选中文字然后复制或运行,通用,sd309991,https://getquicker.net/User/341619/sd309991,41.5 KB,2022-11-23 20:39,9,"如果参数中含有{1},会使用隐私模式打开：",2024-10-25
+超级重命名,https://getquicker.net/Sharedaction?code=bcf33eda-9427-45cc-f6c5-08dae2ffb129,超级强大灵活的文件批量重命名工具。支持保存更名规则、插入文件元数据、普通/正则替换、批量替换、列表替换、重名检测、自动编号、C#表达式处理 . . .,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,389.8 KB,2022-12-21 18:23,32,- 修复状态默认值的问题,2024-10-25
+设置书签动作注册表,https://getquicker.net/Sharedaction?code=1f304869-fb88-4209-8000-08dced27f08a,修改浏览器注册表，以便丝滑地打开收藏在浏览器书签的Quicker动作。,通用,EC10010,https://getquicker.net/User/2997/EC10010,29.5 KB,2024-10-16 12:17,4, ,2024-10-25
+表格/文字常用工具2.4,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和Office常用VBA宏指令集[Excel/Word/PPT],WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,178.3 KB,2024-05-08 14:47,33,"更新功能:在每次更新版本后会检测是否与本地菜单功能是否一致，如果不一致需要选择是合并还是按照最新版菜单。
+更新功能：在排序的时候增加图标显示。
+更新功能：增加一键切换背景色。",2024-10-25
+命令行,https://getquicker.net/Sharedaction?code=85bcc2b4-27c6-423a-695a-08dcf3c64be6,在当前路径以管理员身份打开命令行\n支持第三方资源管理器,Windows 资源管理器,sharklaka,https://getquicker.net/User/826879/sharklaka,1.6 KB,2024-10-24 16:39,0,,2024-10-25
+智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,翱翔,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94,301.8 KB,2024-05-22 14:21,163,修复子程序。,2024-10-25
+直达常用网址,https://getquicker.net/Sharedaction?code=454924a3-7f7e-4d00-ca94-08dc99cfb00d,选中商品ID，即可直达常用网址,通用,Gavin_2024,https://getquicker.net/User/985961/Gavin_2024,99 KB,2024-07-02 15:41,9,新增,2024-10-25
+谷歌APP小窗,https://getquicker.net/Sharedaction?code=b2c95590-c241-4cfa-95ea-08dcd5f4c73d,默认打开youtube，按住Alt可选择网站打开，按住Ctrl以当前网址打开,Google Chrome,色気米,https://getquicker.net/User/514153/%E8%89%B2%E6%B0%97%E7%B1%B3,180.2 KB,2024-09-16 16:56,3,"更新20241024：
+0. 删除位置百分比设置
+1. 获取到的文本不包含链接时以临时窗口打开百度搜索或者豆瓣搜索选中文本，还可以自定义搜索网址。
+2. 在任务栏或者桌面运行动作，直接显示自定义菜单网址（同按住Alt的作用一样）。
+3. 增加临时窗口按Esc（可自定义）取消 失去焦点关闭窗口。
+4.1 右侧固定类的窗口弹出前，不再是关闭所有的app窗口，改为关闭上一次的弹窗。不想关闭上一次的窗口需要按住Alt。
+4.2 Alt弹出的菜单，在桌面弹出的菜单，如果再按住Alt点击菜单将不会关闭上一次的弹窗；以及在当前网页按Ctrl打开的方式，现在同时按住Ctrl+Alt运行动作也不会关闭上一次的弹窗。
+
+",2024-10-25
+远程指令,https://getquicker.net/Sharedaction?code=6315ed76-8b5d-43c9-6955-08dcf3c64be6,利用事件触发功能，控制局域网内另一设备执行Quicker动作等,通用,一粒菜鸟蛋,https://getquicker.net/User/335514/%E4%B8%80%E7%B2%92%E8%8F%9C%E9%B8%9F%E8%9B%8B,20.5 KB,2024-10-24 16:07,0,,2024-10-25
+OCR+,https://getquicker.net/Sharedaction?code=c1c0369e-89a5-45fa-40dc-08dcec2bc78e,截图识别文本，整合百度、腾讯、Quicker、Win系统自带等接口，便于统一调用,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,177.8 KB,2024-10-15 08:40,5,增加写入剪贴板时是否提示的选项,2024-10-25
+企业信息查询V1,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,91.2 KB,2024-10-23 14:52,1,查询结果增加“营业期限”字段。,2024-10-25
+搜索高亮文本,https://getquicker.net/Sharedaction?code=d921dba6-2546-4fa2-6951-08dcf3c64be6,搜索Word和WPS文字里的高亮文本，支持指定颜色,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,17.6 KB,2024-10-24 14:38,0,,2024-10-25
+本地以图搜图/以字搜图,https://getquicker.net/Sharedaction?code=597434d8-414d-44bc-7951-08dbd032918c,使用rclip脚本，实现对本地图片库【查找相似图片】和【选出符合描述的图片】的功能,通用,blanka,https://getquicker.net/User/667540/blanka,122.2 KB,2023-10-19 22:04,6,~修复双击选择无动作->默认为查看图片,2024-10-25
+反选,https://getquicker.net/Sharedaction?code=f832a5f9-c869-4fdc-693e-08dcf3c64be6,对屏幕内容进行反选,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,17.1 KB,2024-10-24 12:40,0,,2024-10-25
+极速复制,https://getquicker.net/Sharedaction?code=ae97e9a9-c33a-4b47-970a-08dcc5fac3c3,快速的连续复制粘贴,通用,IDongYou,https://getquicker.net/User/945782/IDongYou,148.7 KB,2024-08-27 11:31,9,"修复了使用Esc有时无法立即退出的问题
+修复了连续多次撤销时撤销数量不准的问题",2024-10-25
+润色精灵GPT,https://getquicker.net/Sharedaction?code=006947d0-b333-4273-1c5e-08dceffdf6a6,选中原始文本，使用本动作，自动让网页版ChatGPT润色，自动复制润色后的内容，自动显示润色前后的不同。需要翻墙。,通用,Balrog,https://getquicker.net/User/235565/Balrog,17.1 KB,2024-10-19 22:06,1,改成临时聊天模式,2024-10-25
+拆分单元格,https://getquicker.net/Sharedaction?code=fac3d88d-9771-44bd-6933-08dcf3c64be6,把合并后的单元格内容拆分到每一个单元格,WPS Spreadsheets,alloys,https://getquicker.net/User/665517/alloys,1.3 KB,2024-10-24 10:13,0,,2024-10-25
+合并相同单元格,https://getquicker.net/Sharedaction?code=2bf3aed1-f78b-49fc-6932-08dcf3c64be6,把相同内容的单元格分别合并到一起,WPS Spreadsheets,alloys,https://getquicker.net/User/665517/alloys,1.5 KB,2024-10-24 10:12,0,,2024-10-25
+编辑文本,https://getquicker.net/Sharedaction?code=541573dd-482c-4d8f-593e-08db837051fc,随时编辑选中文本或者剪贴板内的文本,通用,Edison8985,https://getquicker.net/User/342391/Edison8985,50.8 KB,2023-07-13 17:29,5,优化UI,2024-10-25
+DNS和HOST切换,https://getquicker.net/Sharedaction?code=f45dc8e7-7c1d-4655-5633-08d9eec3922c,修改当前网络的DNS,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,41.6 KB,2022-02-14 16:44,13,微调,2024-10-25
+系统工具集,https://getquicker.net/Sharedaction?code=42da3d12-4d9e-4fcf-8720-08dceb3bdfc8,主打一个方便,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,108.2 KB,2024-10-14 15:41,3,"+ 此电脑、垃圾桶（资源管理器下）
+~ 注册表不重启资源管理器
+~ 屏保等",2024-10-25
+视频小工具,https://getquicker.net/Sharedaction?code=c571c9f3-989a-4aa8-adb6-08da6e569e28,批量去片头片尾，裁剪视频，视频转码，音频提取，合并视频等；自动配置FFmpeg,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,199.8 KB,2022-07-26 10:47,24,@epodak建议允许多个实例,2024-10-25
