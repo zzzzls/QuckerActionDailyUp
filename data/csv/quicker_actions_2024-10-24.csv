@@ -1,17 +1,14 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,85.2 KB,2024-09-17 16:03,49,"分割线不用连续多条了
-修复在wps空白内容时出错。",2024-10-25
 ZoteroToObsidian,https://getquicker.net/Sharedaction?code=b7727e44-4933-4ec5-8103-08dbc1cb1ea7,发送Zotero的标注信息到Obsidian笔记库中,Zotero,熊猫别熬夜,https://getquicker.net/User/634327/%E7%86%8A%E7%8C%AB%E5%88%AB%E7%86%AC%E5%A4%9C,29.5 KB,2023-10-01 21:36,10,"使用时激活zotero窗口,防止快捷键触发失败",2024-10-25
 装饰选中文字,https://getquicker.net/Sharedaction?code=d6a1ae9b-69d3-4bfe-8856-08dacd30e1b5,设定模板装饰选中文字然后复制或运行,通用,sd309991,https://getquicker.net/User/341619/sd309991,41.5 KB,2022-11-23 20:39,9,"如果参数中含有{1},会使用隐私模式打开：",2024-10-25
 超级重命名,https://getquicker.net/Sharedaction?code=bcf33eda-9427-45cc-f6c5-08dae2ffb129,超级强大灵活的文件批量重命名工具。支持保存更名规则、插入文件元数据、普通/正则替换、批量替换、列表替换、重名检测、自动编号、C#表达式处理 . . .,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,389.8 KB,2022-12-21 18:23,32,- 修复状态默认值的问题,2024-10-25
-设置书签动作注册表,https://getquicker.net/Sharedaction?code=1f304869-fb88-4209-8000-08dced27f08a,修改浏览器注册表，以便丝滑地打开收藏在浏览器书签的Quicker动作。,通用,EC10010,https://getquicker.net/User/2997/EC10010,29.5 KB,2024-10-16 12:17,4, ,2024-10-25
 表格/文字常用工具2.4,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和Office常用VBA宏指令集[Excel/Word/PPT],WPS Office,SCT-D,https://getquicker.net/User/675682/SCT-D,178.3 KB,2024-05-08 14:47,33,"更新功能:在每次更新版本后会检测是否与本地菜单功能是否一致，如果不一致需要选择是合并还是按照最新版菜单。
 更新功能：在排序的时候增加图标显示。
 更新功能：增加一键切换背景色。",2024-10-25
 命令行,https://getquicker.net/Sharedaction?code=85bcc2b4-27c6-423a-695a-08dcf3c64be6,在当前路径以管理员身份打开命令行\n支持第三方资源管理器,Windows 资源管理器,sharklaka,https://getquicker.net/User/826879/sharklaka,1.6 KB,2024-10-24 16:39,0,,2024-10-25
 智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,翱翔,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94,301.8 KB,2024-05-22 14:21,163,修复子程序。,2024-10-25
 直达常用网址,https://getquicker.net/Sharedaction?code=454924a3-7f7e-4d00-ca94-08dc99cfb00d,选中商品ID，即可直达常用网址,通用,Gavin_2024,https://getquicker.net/User/985961/Gavin_2024,99 KB,2024-07-02 15:41,9,新增,2024-10-25
-谷歌APP小窗,https://getquicker.net/Sharedaction?code=b2c95590-c241-4cfa-95ea-08dcd5f4c73d,默认打开youtube，按住Alt可选择网站打开，按住Ctrl以当前网址打开,Google Chrome,色気米,https://getquicker.net/User/514153/%E8%89%B2%E6%B0%97%E7%B1%B3,180.2 KB,2024-09-16 16:56,3,"更新20241024：
+谷歌APP小窗,https://getquicker.net/Sharedaction?code=b2c95590-c241-4cfa-95ea-08dcd5f4c73d,按住Alt可选择网站以弹窗的方式打开，默认打开youtube，按住Ctrl以当前网址打开,Google Chrome,色気米,https://getquicker.net/User/514153/%E8%89%B2%E6%B0%97%E7%B1%B3,180.2 KB,2024-09-16 16:56,3,"更新20241024：
 0. 删除位置百分比设置
 1. 获取到的文本不包含链接时以临时窗口打开百度搜索或者豆瓣搜索选中文本，还可以自定义搜索网址。
 2. 在任务栏或者桌面运行动作，直接显示自定义菜单网址（同按住Alt的作用一样）。
