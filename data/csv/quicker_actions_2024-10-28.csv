@@ -4,14 +4,9 @@ SM格式化代码,https://getquicker.net/Sharedaction?code=3891419c-1b01-4f2c-ef
 1、排序、批量删除配置时仅显示配置名。",2024-10-29
 OCR识别PDF改名,https://getquicker.net/Sharedaction?code=7b9a1735-da1e-4993-faed-08dcf4b7eea3,通过OCR识别预览窗口的pdf标题对文件进行重命名，需要结合wps软件实现文件预览。,Windows 资源管理器,wen12,https://getquicker.net/User/945541/wen12,25.4 KB,2024-10-26 13:07,3,修复了已知问题,2024-10-29
 音响启动动作,https://getquicker.net/Sharedaction?code=3f0aaec8-ad48-4821-e3ac-08dcf5ac8d55,可以通过小爱音响、天猫精灵或者语音助手等启动动作,通用,zdf153,https://getquicker.net/User/20184/zdf153,49.6 KB,2024-10-27 22:39,3,增加调试输出,2024-10-29
-内外网切换,https://getquicker.net/Sharedaction?code=acbb48d7-f6d5-42c1-1769-08da89d86f6b,内外网切换  openVpn 快捷方式 目标添加         --connect gs.ovpn,通用,和光同尘2022,https://getquicker.net/User/626435/%E5%92%8C%E5%85%89%E5%90%8C%E5%B0%982022,5.6 KB,2022-08-30 11:08,6,1,2024-10-29
 在VSCode中打开,https://getquicker.net/Sharedaction?code=4a2f5662-f17c-4eb4-fad0-08dcf4b7eea3,可以用快速搜索打开VSCode工作区,Visual Studio Code,Emptylight,https://getquicker.net/User/1161607/Emptylight,28.7 KB,2024-10-25 15:29,6,解决了会打开命令行窗口的问题。,2024-10-29
 更新动作窗口,https://getquicker.net/Sharedaction?code=e9a32b4d-0562-4d20-86f8-08dceb3bdfc8,更新Quicker动作时，自动勾选必要选项与聚焦输入框。,Quicker,EC10010,https://getquicker.net/User/2997/EC10010,39.7 KB,2024-10-13 16:19,11,更新时间转为本地时间。,2024-10-29
 挂机锁,https://getquicker.net/Sharedaction?code=345205a4-b59f-4bf1-ef7e-08dcf6a4acc1,不熄屏挂机，动作运行后，再次操作键盘或者鼠标就会触发锁屏,通用,lyfZhixing,https://getquicker.net/User/364454/lyfZhixing,3.1 KB,2024-10-28 14:00,1,icon更换,2024-10-29
-UG快捷命令,https://getquicker.net/Sharedaction?code=f3a6ab2c-8b63-4c3a-ef75-08dcf6a4acc1,UG建模常用命令集合,NX 10,比忒以下,https://getquicker.net/User/1127900/%E6%AF%94%E5%BF%92%E4%BB%A5%E4%B8%8B,25 KB,2024-10-28 10:56,1,"1.提升反应速度，
-2.增加动作的兼容性",2024-10-29
-导航灵,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,网页收藏/导航/搜索/标签管理网页,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,143 KB,2023-07-04 13:05,42,优化,2024-10-29
-本地表情包,https://getquicker.net/Sharedaction?code=06b5aaa7-78ed-40b7-e26a-08dcb832f8f0,主要用于聊天快速使用本地表情包图片粘贴到窗口,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,62.7 KB,2024-08-10 10:08,18,更新使用说明,2024-10-29
 摸鱼大法师,https://getquicker.net/Sharedaction?code=3ffdceaa-415e-4649-ef74-08dcf6a4acc1,让你摸鱼不被抓,通用,摸鱼大法师,https://getquicker.net/User/963788/%E6%91%B8%E9%B1%BC%E5%A4%A7%E6%B3%95%E5%B8%88,106 KB,2024-10-28 10:42,0,,2024-10-29
 企业信息查询V1,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,94 KB,2024-10-23 14:52,2,"1、优化步骤逻辑，并删除多余变量；
 2、将邮编查询修改为默认本地查询，如果查询失败则自动打开网页查询，并且删除网页查询选项；
