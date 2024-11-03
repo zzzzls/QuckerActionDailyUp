@@ -1,7 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 划词朗读,https://getquicker.net/Sharedaction?code=c4c618b8-eaf2-4171-3185-08dcfad1e82e,划词朗读/免费/61种音色/晓晓/晓伊/云健/云希/云夏/云扬,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,36.4 KB,2024-11-02 23:44,1,.,2024-11-03
 截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,截图识别文字/OCR后60种文本联动处理功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,119.5 KB,2024-05-09 20:07,68,.,2024-11-03
-起手式,https://getquicker.net/Sharedaction?code=40f7f02d-3aaf-408a-317f-08dcfad1e82e,Stable Diffusion 起手式,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,14.9 KB,2024-11-02 20:33,1,无需按空格，输入完正向提示词以后只需将光标定位到反向提示词即可,2024-11-03
 极简吸附,https://getquicker.net/Sharedaction?code=ff7d1f3e-aea6-4bff-28e8-08dcf9adc402,极简待办微信版吸附启动器,WeChat,Mrshuang,https://getquicker.net/User/238117/Mrshuang,20.7 KB,2024-11-01 00:58,3,【优化】微信未启动的提示。,2024-11-03
 文本转语音,https://getquicker.net/Sharedaction?code=1555f784-53a3-4846-e916-08dc88e3c2ea,划词朗读/免费/61种音色/试听可停/100条生成历史/晓晓/晓伊/云健/云希/云夏/云扬,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,75.8 KB,2024-06-11 06:50,27,优化外部启动和划词冲突bug,2024-11-03
 文本处理,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,11.8 KB,2024-07-30 20:09,28,优化显示,2024-11-03
@@ -16,14 +15,11 @@
 定位新文件,https://getquicker.net/Sharedaction?code=c4fc0218-acf3-4154-8749-08dce5862d41,快速定位到新创建、新修改的文件，比如打开刚下载、刚解压缩的文件,通用,Ever,https://getquicker.net/User/2774/Ever,41.2 KB,2024-10-06 20:48,8,除了定位还可根据文件名规则有选择性的直接打开部分文件。,2024-11-03
 区域闪烁颜色,https://getquicker.net/Sharedaction?code=8b6937fc-8922-48bf-3170-08dcfad1e82e,高亮颜色位置显示,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,10.5 KB,2024-11-02 14:47,4,2024年11月2日15:50:27,2024-11-03
 eudic查词,https://getquicker.net/Sharedaction?code=d02851f4-df67-4865-316f-08dcfad1e82e,调用命令行，查询选中内容，未选中则弹出输入框，跳转eudic查询,欧路词典,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,7.2 KB,2024-11-02 14:11,0,,2024-11-03
-网站收藏2.0,https://getquicker.net/Sharedaction?code=a653a1d1-6c52-4089-ba99-08dc61bfef39,"按住Ctrl启动动作可以添加网站,鼠标离开窗口关闭(可以设置那修改)",通用,zdf153,https://getquicker.net/User/20184/zdf153,432.3 KB,2024-04-22 01:35,43,修复设置显示的bug,2024-11-03
 Obsidian,https://getquicker.net/Sharedaction?code=ad604798-a77d-4595-a1b8-08db9e3a5ebf,"启动Obsidian神器,打开或小化Obsidian窗口",Obsidian,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,11.8 KB,2023-08-17 16:03,8,优化,2024-11-03
 轻松画包装2.0,https://getquicker.net/Sharedaction?code=2764e29d-8634-4cb6-3169-08dcfad1e82e,轻松画包装2.0,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,109.2 KB,2024-11-02 12:07,0,,2024-11-03
 简单连续复制粘贴,https://getquicker.net/Sharedaction?code=500777d2-2891-46a5-e68d-08db2045b077,运行动作后，请开始复制文本(推荐使用快捷键 Ctrl+C)。复制完后点击屏幕上方的「完成复制」。后按p键可以按顺序依次粘贴到输入框。,通用,bling-yshs,https://getquicker.net/User/205358/bling-yshs,26.6 KB,2023-03-10 11:41,7,步骤全部重写，支持复制结束快捷键,2024-11-03
 图标管理,https://getquicker.net/Sharedaction?code=75702463-b358-4bed-3165-08dcfad1e82e,元素聚合。可收藏动作、文件夹、软件、网页、文本等。,通用,591,https://getquicker.net/User/36130/591,582.8 KB,2024-11-02 08:53,1,1,2024-11-03
 颜色收藏,https://getquicker.net/Sharedaction?code=1738fe8b-ecda-4584-3164-08dcfad1e82e,元素聚合。可收藏动作、文件夹、软件、网页、文本等。,通用,591,https://getquicker.net/User/36130/591,582.8 KB,2024-11-02 08:14,2,1,2024-11-03
 收藏夹【自动云同步版】,https://getquicker.net/Sharedaction?code=5f1db129-d6ae-4bc7-4ff8-08dcf7c36419,比较适合专业版用户。,通用,591,https://getquicker.net/User/36130/591,550.9 KB,2024-10-29 20:52,3,1,2024-11-03
-uMinis【自动云同步版】,https://getquicker.net/Sharedaction?code=d08fc7b9-c872-435c-0eba-08dcfa78c549,比较适合专业版用户。,通用,591,https://getquicker.net/User/36130/591,585.6 KB,2024-11-02 02:09,2,1,2024-11-03
-uMinis,https://getquicker.net/Sharedaction?code=6b39606a-e2f9-4785-849d-08daf13f5a77,元素聚合。可收藏动作、文件夹、软件、网页、文本等。,通用,591,https://getquicker.net/User/36130/591,578.7 KB,2023-01-09 07:54,115,做了一些优化，准备当作大量常用动作的面板。quicker的默认面板上只能放12个动作，不够用，需要翻页，手一抖就不好找了。,2024-11-03
 随时记录,https://getquicker.net/Sharedaction?code=e6f3a733-209a-4fc2-0eb9-08dcfa78c549,快速在 OB 的笔记里传递今天临时记录,通用,Moy,https://getquicker.net/User/771/Moy,18.7 KB,2024-11-02 01:08,0,,2024-11-03
 字符信息,https://getquicker.net/Sharedaction?code=d90dcdb0-06ad-4d9a-8844-08da94650f0e,查询 Unicode 字符信息,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,239.4 KB,2022-09-13 11:18,3,- 优化计算步骤,2024-11-03
