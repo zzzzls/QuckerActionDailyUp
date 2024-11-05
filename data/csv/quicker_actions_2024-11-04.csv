@@ -5,10 +5,8 @@
 自动填验证码,https://getquicker.net/Sharedaction?code=41191eff-6aab-4623-4478-08dce7722144,识别和填写验证码,Microsoft Edge,侧耳倾听&,https://getquicker.net/User/565162/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC%26,35.3 KB,2024-10-09 20:06,11,bug修复.0.0.,2024-11-05
 微信截图翻译,https://getquicker.net/Sharedaction?code=a26d2079-205d-4d3e-ca3d-08dc5d069310,微信截图并自动点击翻译按钮。,通用,EC10010,https://getquicker.net/User/2997/EC10010,265.5 KB,2024-04-15 16:22,17,兼容微信4.0自动切换深浅模式的情况。,2024-11-05
 网站收藏2.0,https://getquicker.net/Sharedaction?code=a653a1d1-6c52-4089-ba99-08dc61bfef39,"按住Ctrl启动动作可以添加网站,鼠标离开窗口关闭(可以设置那修改)",通用,zdf153,https://getquicker.net/User/20184/zdf153,435 KB,2024-04-22 01:35,46,修复书签导出的bug,2024-11-05
-RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,243.9 KB,2024-09-15 18:35,15,fix 修复计算式结果，修改为简单模式,2024-11-05
 文章格式排版,https://getquicker.net/Sharedaction?code=74e75f18-0c89-4828-a0c1-08dc75b3231d,自定义正文、摘要、标题、图表、注释脚注格式,Microsoft Word,1xwx1,https://getquicker.net/User/966592/1xwx1,94.4 KB,2024-05-16 22:19,3,"1.新增固定值行距
 2.固定选择窗口，直到不再修改格式",2024-11-05
-专利信息下载,https://getquicker.net/Sharedaction?code=81593229-0b19-4044-501f-08dcf7c36419,快速获取并下载多国官网的专利查询结果的全部信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,18.8 KB,2024-10-30 14:01,3,调整等待网页加载的时间。,2024-11-05
 Anki挖空助手,https://getquicker.net/Sharedaction?code=9dd2d81b-0622-43c3-304f-08dcfbc8d3fa,同序或异序挖空；或取消挖空,Anki,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,127 KB,2024-11-03 23:36,2,"增加了一些快捷操作，省去打开设置面板了（注意不要多选，小写）
 如果选中c1   归零
 如果选中c1以外任意数字  保持此值挖空
@@ -26,7 +24,6 @@ Anki挖空助手,https://getquicker.net/Sharedaction?code=9dd2d81b-0622-43c3-304
 增加默认指定目录桌面",2024-11-05
 青梨查询DOI,https://getquicker.net/Sharedaction?code=54540f35-6839-49f4-43e7-08dcd318a5f5,选中或者复制DOI或者标题即可发送到青梨,Google Chrome,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,18.2 KB,2024-09-13 12:38,18,设置了一个是否打开查询标签的变量，不用每次都去打开查询标签,2024-11-05
 起手式,https://getquicker.net/Sharedaction?code=40f7f02d-3aaf-408a-317f-08dcfad1e82e,Stable Diffusion 起手式,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,21.1 KB,2024-11-02 20:33,4,更新列表,2024-11-05
-专利信息下载(本页),https://getquicker.net/Sharedaction?code=4bdb4339-0610-45ae-290a-08dcf9adc402,快速获取并下载多国官网的专利查询结果的当前页信息。,Google Chrome,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,10.8 KB,2024-11-01 15:06,2,修复bug,2024-11-05
 企业信息查询V1,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,94 KB,2024-10-23 14:52,3,修复在“代理机构”模式下，查询结果处理失败的问题。,2024-11-05
 eudic查词,https://getquicker.net/Sharedaction?code=d02851f4-df67-4865-316f-08dcfad1e82e,调用命令行，查询选中内容，未选中则弹出输入框，跳转golden查询,欧路词典,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,8.2 KB,2024-11-02 14:11,1,查词窗口可能会被遮挡，增加了使其显示在前台的功能,2024-11-05
 golden查词,https://getquicker.net/Sharedaction?code=282a1d39-046c-4db0-0eb5-08dcfa78c549,调用命令行，查询选中内容，未选中则弹出输入框，跳转golden查询,GoldenDict dictionary lookup program,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,4.3 KB,2024-11-01 22:17,2,查词窗口可能会被遮挡，增加了使其显示在前台的功能,2024-11-05
@@ -38,8 +35,7 @@ vue组件库查询,https://getquicker.net/Sharedaction?code=8aac1b72-8540-4708-3
 客服工作台,https://getquicker.net/Sharedaction?code=63dd96df-b0ee-44e1-2900-08dcf9adc402,各平台接待窗口，快速切换,千牛,山那边的姑娘,https://getquicker.net/User/684393/%E5%B1%B1%E9%82%A3%E8%BE%B9%E7%9A%84%E5%A7%91%E5%A8%98,28.7 KB,2024-11-01 13:54,1,....,2024-11-05
 新建文件夹,https://getquicker.net/Sharedaction?code=df39b8aa-d6fa-4d35-71ff-08dcdb2f793c,常用的6种新建文件夹,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,76.2 KB,2024-09-23 13:30,4,增加模板文件夹的排序,2024-11-05
 设置书签动作注册表,https://getquicker.net/Sharedaction?code=1f304869-fb88-4209-8000-08dced27f08a,修改浏览器注册表，以便丝滑地打开收藏在浏览器书签的Quicker动作。,注册表编辑器,EC10010,https://getquicker.net/User/2997/EC10010,29.4 KB,2024-10-16 12:17,7,修复了一些已知问题。,2024-11-05
-变量命名转换,https://getquicker.net/Sharedaction?code=e9e800a4-f13a-47d6-305f-08dcfbc8d3fa,大驼峰、小驼峰、下划线、前下划线、横线、常量之间的命名方式转换,通用,是正确的,https://getquicker.net/User/1149524/%E6%98%AF%E6%AD%A3%E7%A1%AE%E7%9A%84,13.2 KB,2024-11-04 10:41,0,,2024-11-05
-微信快送,https://getquicker.net/Sharedaction?code=734b2937-9969-4438-fad8-08dcf4b7eea3,发送微信消息给好友或搜索好友,WeChat,火焱水牛,https://getquicker.net/User/1112793/%E7%81%AB%E7%84%B1%E6%B0%B4%E7%89%9B,88.5 KB,2024-10-25 17:19,6,更新：增加一个左键点击功能，点击动作时会同时打开微信主界面和动作菜单。,2024-11-05
+变量命名转换,https://getquicker.net/Sharedaction?code=e9e800a4-f13a-47d6-305f-08dcfbc8d3fa,大驼峰、小驼峰、下划线、前下划线、横线、常量之间的命名方式转换,通用,CoderLee,https://getquicker.net/User/1149524/CoderLee,13.2 KB,2024-11-04 10:41,0,,2024-11-05
 分图工具,https://getquicker.net/Sharedaction?code=2553f6d3-43ac-47f9-6f9c-08dc11244c92,W功能简化,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,30.9 KB,2024-01-10 17:15,4,1.修复名字中汉字夹带英文的情况下，写出报错的问题；,2024-11-05
 Everything+,https://getquicker.net/Sharedaction?code=b651041a-4ec5-4d8f-bed0-08dc4ec30b16,在Everything地址栏填入搜索语法/指定路径/选中文字,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,70 KB,2024-03-29 12:28,9,"1.修改动作名称，便于被其他动作调用
 2.优化步骤",2024-11-05
