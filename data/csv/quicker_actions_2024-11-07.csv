@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+保持自然段按字数切片,https://getquicker.net/Sharedaction?code=c5b31c23-ee5c-4b0c-264a-08dcfec647f8,按字符数给一篇文章切片，保持自然段不拆分,通用,南风,https://getquicker.net/User/284464/%E5%8D%97%E9%A3%8E,12 KB,2024-11-07 22:08,0,,2024-11-08
+微信ESC,https://getquicker.net/Sharedaction?code=d8c53d2a-a16d-42fc-0e4b-08dcfda43a6d,ESC键关闭微信窗口。须将“WeChat;Weixin;WeChatAppEx”设为快捷键ESC的白名单。,WeChat,EC10010,https://getquicker.net/User/2997/EC10010,16.6 KB,2024-11-06 21:20,1,WeChatAppEx进程执行Ctrl+W。,2024-11-08
+RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,247.4 KB,2024-09-15 18:35,21,fix 增加wps表格对当网页直达搜索的兼容性,2024-11-08
+工标网批量搜索,https://getquicker.net/Sharedaction?code=d0b8e080-0ec2-49b6-262e-08dcfec647f8,选中内容进行搜索，不选中内容直接打开。增加：选中多行批量搜索，搜索前去除书名号,通用,waiting945,https://getquicker.net/User/160879/waiting945,4.5 KB,2024-11-07 14:54,0,,2024-11-08
+换浏览器打开,https://getquicker.net/Sharedaction?code=cd0ba3c6-b4a9-436b-2627-08dcfec647f8,"提取当前网址,换指定的浏览器打开",Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,6.2 KB,2024-11-07 14:13,0,,2024-11-08
+OneNote 搜索,https://getquicker.net/Sharedaction?code=57072a0f-e23a-432d-a055-08dc76aeba28,搜索 OneNote 笔记,Microsoft OneNote,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,44.6 KB,2024-05-18 09:11,11,修复修改依赖位置后报错的问题,2024-11-08
+图片命名,https://getquicker.net/Sharedaction?code=42f126ac-03ea-4496-9a9b-08dca533070d,选中一个图片OCR识别后自动命名(以最合适的尺寸显示)支持保留原始名、支持加入时间参数,Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,23.1 KB,2024-07-16 15:41,6,优化,2024-11-08
+EC文字纠错,https://getquicker.net/Sharedaction?code=913f9d7b-fb93-41e7-67c1-08d9dd486ad5,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,185.9 KB,2022-01-22 18:43,23,处理破折号。,2024-11-08
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,319.9 KB,2023-05-29 20:30,62,处理破折号的转换。,2024-11-08
+Everything实时搜索,https://getquicker.net/Sharedaction?code=89e41379-3954-4cdb-de07-08d8fb39c256,用于Quicker搜索框的Everything实时搜索,通用,FaniX,https://getquicker.net/User/52603/FaniX,128.6 KB,2021-04-10 10:17,18,"+增加隐藏历史记录设置
++增加历史记录筛选功能",2024-11-08
+ppt红框虚框,https://getquicker.net/Sharedaction?code=0be9f6dd-860a-49ef-261f-08dcfec647f8,PPT形状转为虚线红框,Microsoft PowerPoint,老狐狸,https://getquicker.net/User/705420/%E8%80%81%E7%8B%90%E7%8B%B8,5.4 KB,2024-11-07 10:48,0,,2024-11-08
+解散子文件夹,https://getquicker.net/Sharedaction?code=8fb65437-0dc9-4ed7-20ba-08dcef0e437a,全部解散选中的文件夹下的子文件夹。,通用,Ever,https://getquicker.net/User/2774/Ever,33 KB,2024-10-18 19:54,1,增加进度条,2024-11-08
+表格/文字常用工具2.4,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和Office常用VBA宏指令集[Excel/Word/PPT],WPS Office,Ulookperfect...,https://getquicker.net/User/675682/Ulookperfecttonight,254.6 KB,2024-05-08 14:47,38,"修复bug:这个bug不能移动Excel工具内的子菜单，原因是如果某个 child 的 Menu 属性是空的或者不存在，那么尝试访问 child[""Menu""] 将会导致异常，因为这将返回 null 而不是一个 JArray。",2024-11-08
+最新文件,https://getquicker.net/Sharedaction?code=87cdfdcb-f30f-4e2d-caaa-08d7ef2106c6,打开刚下载的文件，打开指定目录下最新的文件或刚创建xx分钟内的文件,通用,Ever,https://getquicker.net/User/2774/Ever,36.4 KB,2020-05-04 16:58,13,"增加黑名单
+增加最大查找数
+默认查找包含子目录
+默认找到后自动",2024-11-08
