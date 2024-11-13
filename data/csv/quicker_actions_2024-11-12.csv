@@ -4,7 +4,6 @@
 1、新增切换图片显示/隐藏，可以临时隐藏所有图片，需要时再显示。
 【Note】
 1、选中图片文件批量贴图后立即左对齐将异常，Quicker1.43.41版已修复此问题。",2024-11-13
-智能联网,https://getquicker.net/Sharedaction?code=031fef42-8bad-434c-2a1e-08dd02675474,启动后自动连接默认WIFI,通用,卓尔伤,https://getquicker.net/User/476508/%E5%8D%93%E5%B0%94%E4%BC%A4,19.3 KB,2024-11-12 20:00,1,新增菜单-重连默认WIFI,2024-11-13
 全能窗口调整器,https://getquicker.net/Sharedaction?code=c3715e2a-aa83-42b8-eb81-08daa107cacc,调整窗口的大小、位置、透明度、置顶状态。,通用,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,300.5 KB,2022-09-28 13:25,42,"[~] 修复有关方案设置和配对设置的 bug
 [=] 多次新增时会清空上次输入",2024-11-13
 "TTS朗读文本,文本转语音",https://getquicker.net/Sharedaction?code=18c41ca4-3b44-41b7-99b9-08dcff9008ea,"大声朗读,文本转语音",通用,onlyclxy,https://getquicker.net/User/595242/onlyclxy,65.2 KB,2024-11-09 02:44,2,"增加中英翻译功能,文本框为中文时,会翻译为英文. 文本框内为英文时,会翻译成中文. 注意这个不太能支持中英混排, 会分不清. ",2024-11-13
@@ -22,14 +21,12 @@ OCR-加减乘除,https://getquicker.net/Sharedaction?code=1b6df97b-e09b-407d-19c
 
   3. 长按 ESC 可结束取图流程",2024-11-13
 屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,387.7 KB,2023-12-05 00:57,59,~移除上一个版本更新后出现的：在录制开始时会出现奇怪弹窗提示的问题。【因测试的模块忘记移除，现已修复】,2024-11-13
-查询专利费/费减,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,查询专利应缴费信息和专利费减信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,42 KB,2024-11-04 14:16,21,增加自动查询公司信用代码已达上限的提醒,2024-11-13
 替换翻译（驼峰版）,https://getquicker.net/Sharedaction?code=80dd6c7c-d806-438d-ad53-08dbb89e3001,（自用，主要用于编程命名时，英文替换中文）别人的代码，又不能用了，缝缝补补勉强用。仅第五项可用，需要自己填写百度翻译API,通用,anodiy,https://getquicker.net/User/177366/anodiy,55 KB,2023-09-20 08:18,1,腾讯翻译君也挂了，仅第五项可用，需要自己填写百度翻译API。,2024-11-13
 表格/文字常用工具2.4,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和Office常用VBA宏指令集[Excel/Word/PPT],WPS Office,Ulookperfect...,https://getquicker.net/User/675682/Ulookperfecttonight,286.7 KB,2024-05-08 14:47,40,无,2024-11-13
 标题一键制卡,https://getquicker.net/Sharedaction?code=c9cf4c2c-a603-4603-f171-08dd017145d1,根据标题一键制作闪卡,SiYuan,Runos,https://getquicker.net/User/250742/Runos,21.1 KB,2024-11-11 14:29,2,update：支持自定义标题修改,2024-11-13
 图标『搜』,https://getquicker.net/Sharedaction?code=20fb8767-ec07-4edb-d650-08dcc81fd814,轻松一键，开启 icon 图标搜索之旅~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,45.4 KB,2024-08-30 06:38,3,[=]：优化提示信息,2024-11-13
 阿里云『搜』,https://getquicker.net/Sharedaction?code=a1ad7b69-58d4-4def-0b70-08dcc40d7cd7,一键搜索阿里云盘资源(懒人必备),通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,46.6 KB,2024-08-25 08:10,5,"  [-]：删除一些不必要的功能
   [=]：修改某些云盘的搜索步骤，能直达阿里云盘类的搜索结果",2024-11-13
-Office提取,https://getquicker.net/Sharedaction?code=848006d2-bf04-40a8-b15c-08dcd509a79f,可以提取Word、PPT、Excel中的图片,通用,KBC,https://getquicker.net/User/5221/KBC,48.9 KB,2024-09-15 15:50,1,提取的图片按文件内的顺序排列,2024-11-13
 快捷切换输入,https://getquicker.net/Sharedaction?code=b4db0279-d6d9-41c8-29fd-08dd02675474,快速切换到指定窗口后发送一段键盘组合，然后再切换回来，用以解决“消息发送”无法成功的问题,通用,SoloShine/Field,https://getquicker.net/User/402701/SoloShine_Field,6.7 KB,2024-11-12 10:50,0,,2024-11-13
 文件夹助手,https://getquicker.net/Sharedaction?code=72a6d10c-c52e-4d68-f177-08dd017145d1,常用的20种文件夹功能,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,318.4 KB,2024-11-11 15:20,3,操作窗默认尺寸调整,2024-11-13
 解除文件占用,https://getquicker.net/Sharedaction?code=2874b285-946f-4c1c-29f8-08dd02675474,选中文件，运行动作，使用 lObit Unlocke 解除文件占用。,Windows 资源管理器,Voltaう,https://getquicker.net/User/548126/Volta%E3%81%86,19.1 KB,2024-11-12 09:35,0,,2024-11-13
