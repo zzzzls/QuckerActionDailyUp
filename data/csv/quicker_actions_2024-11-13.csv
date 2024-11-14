@@ -5,8 +5,6 @@ Office提取,https://getquicker.net/Sharedaction?code=848006d2-bf04-40a8-b15c-08
 1、单个文件支持通过选择文件来获取、支持选中文件、支持下拉选择文件
 2、批量提取支持通过选择文件、支持选中文件
 3、代码优化",2024-11-14
-企业信息查询V1,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,111.7 KB,2024-10-23 14:52,8,修复bug,2024-11-14
-复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,552.5 KB,2021-10-02 00:25,82,优化。,2024-11-14
 极简待办,https://getquicker.net/Sharedaction?code=ddeb8109-f17b-43e1-8912-08dc5a32504a,一个极简的待办清单，极简版GTD。现在新增【微信模式】。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,398 KB,2024-04-12 23:22,27,"【优化】操作时界面中显示对勾提示图标。
 【建议】设置：高级鼠标触发 > 双击左键，位置工作区，进程白名单WeChat.exe > 运行本动作",2024-11-14
 创建文件夹,https://getquicker.net/Sharedaction?code=5b1d7606-6d06-4bec-56e3-08dd03832fac,创建指定名称文件夹,Windows 资源管理器,鲸鱼白菜,https://getquicker.net/User/961166/%E9%B2%B8%E9%B1%BC%E7%99%BD%E8%8F%9C,5.3 KB,2024-11-13 15:39,0,,2024-11-14
@@ -14,10 +12,8 @@ AD-搜启动,https://getquicker.net/Sharedaction?code=5672dcf5-56ff-448a-e156-08
 下标 (word365版本),https://getquicker.net/Sharedaction?code=5d03c2dc-ed78-48ef-56e1-08dd03832fac, 快捷键 ctrl + shift + - ，将选中文字下标,Microsoft Word,用户rDRhXJJRAwA,https://getquicker.net/User/718515/%E7%94%A8%E6%88%B7rDRhXJJRAwA,24 B,2024-11-13 15:19,0,,2024-11-14
 eudic查词,https://getquicker.net/Sharedaction?code=d02851f4-df67-4865-316f-08dcfad1e82e,调用命令行，查询选中内容，未选中则弹出输入框，跳转eudic查询,欧路词典,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,18.6 KB,2024-11-02 14:11,2,增加查词历史记录功能,2024-11-14
 golden查词,https://getquicker.net/Sharedaction?code=282a1d39-046c-4db0-0eb5-08dcfa78c549,调用命令行，查询选中内容，未选中则弹出输入框，跳转golden查询,GoldenDict dictionary lookup program,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,11.1 KB,2024-11-01 22:17,3,增加查词历史记录功能,2024-11-14
-查询专利费/费减,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,查询专利应缴费信息和专利费减信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,45.1 KB,2024-11-04 14:16,24,"1、增加申请号错误的提醒。
-2、增加申请号超过10个的提醒。",2024-11-14
 WizTree,https://getquicker.net/Sharedaction?code=5eb5f355-53b8-48d5-0e9a-08dd0080705b,WizTree 是一个非常高速的磁盘空间分析工具。它可以扫描你的硬盘，并显示哪些文件和文件夹使用了最多的硬盘空间。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,128.9 KB,2024-11-10 15:27,1,[=] 修改获取程序完整路径的方法（智能）,2024-11-14
-图片翻译,https://getquicker.net/Sharedaction?code=62ea3958-9233-4a49-56c2-08dd03832fac,使用百度图片API进行图片翻译，保留原图排版格式，支持截图翻译、图片文件批量翻译和多种目标语言,通用,Voltaう,https://getquicker.net/User/548126/Volta%E3%81%86,34.9 KB,2024-11-13 09:33,3,【新增】百度API填写判断,2024-11-14
+图片翻译,https://getquicker.net/Sharedaction?code=62ea3958-9233-4a49-56c2-08dd03832fac,使用百度图片API进行图片翻译，保留原图排版格式，支持截图翻译、图片文件批量翻译和多语种翻译,通用,Voltaう,https://getquicker.net/User/548126/Volta%E3%81%86,34.9 KB,2024-11-13 09:33,3,【新增】百度API填写判断,2024-11-14
 在VSCode中打开,https://getquicker.net/Sharedaction?code=4a2f5662-f17c-4eb4-fad0-08dcf4b7eea3,可以用快速搜索打开VSCode工作区,Visual Studio Code,Emptylight,https://getquicker.net/User/1161607/Emptylight,31.1 KB,2024-10-25 15:29,9,优化代码，添加 上次打开工作区 功能,2024-11-14
 摸鱼大法师,https://getquicker.net/Sharedaction?code=3ffdceaa-415e-4649-ef74-08dcf6a4acc1,让你摸鱼不被抓,通用,摸鱼大法师,https://getquicker.net/User/963788/%E6%91%B8%E9%B1%BC%E5%A4%A7%E6%B3%95%E5%B8%88,108 KB,2024-10-28 10:42,2,更好用了。添加右键恢复窗口，在动作停止后，可以恢复已经隐藏的窗口。,2024-11-14
 思源笔记图片OCR,https://getquicker.net/Sharedaction?code=f4668cfd-70d1-4d38-5022-08dcf7c36419,打开思源笔记，运行本动作,SiYuan,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,89.3 KB,2024-10-30 15:16,9,修复未填写token的bug,2024-11-14
