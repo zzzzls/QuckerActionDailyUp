@@ -1,8 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 一键移动,https://getquicker.net/Sharedaction?code=4e346b24-e861-433d-f172-08dd017145d1,移动最新下载的文件到指定文件夹,通用,Meggie76,https://getquicker.net/User/126149/Meggie76,19.7 KB,2024-11-11 14:37,3,（1）美化了UI界面；（2）简化了使用逻辑。,2024-11-15
 Obsidian 搜索,https://getquicker.net/Sharedaction?code=4ae71821-e30d-497f-b2e5-08dc39f7d1f3,搜索 Obsidian,Obsidian,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,42.4 KB,2024-03-02 23:16,6,bug fix,2024-11-15
-发送至微信,https://getquicker.net/Sharedaction?code=6e96194a-801d-4a0d-3048-08dcfbc8d3fa,发送截图、选择的文本、选中的文件、剪贴板文本和图片至微信联系人（微信好友、微信群、微信公众号、自己、文件传输助手）,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,114.7 KB,2024-11-03 19:30,1,"1. Alt 键会改变焦点，因此更改为按住右 ctrl 键运行动作可以打开微信并回车
-2. 更改文件传输助手的发送方式（在手机浏览文件时，旧动作寻找“手机”控件的方式会失败）",2024-11-15
 Anki制卡助手,https://getquicker.net/Sharedaction?code=28c25894-499d-40a7-29ed-08dd02675474,Anki快速制卡，可以保存四个配置，来回切换，多个字段随意添加,Anki,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,303 KB,2024-11-11 23:41,2,"增加了添加图片、音视频的功能
 增加了使用剪贴板中而不是选中内容添加卡片的功能
 优化了追加空选时打开的文本窗中的内容显示
@@ -18,9 +16,6 @@ EX函数L,https://getquicker.net/Sharedaction?code=cb6b720c-7e17-4c7f-29fc-08dd0
 复制粘贴提示,https://getquicker.net/Sharedaction?code=bb1a3d23-0541-46fa-5421-08d98467374f,复制粘贴，一个动作就够了。,通用,EC10010,https://getquicker.net/User/2997/EC10010,552.5 KB,2021-10-02 00:25,83,“粘贴纯文本”功能增加过滤 [数字]。,2024-11-15
 企业信息查询V1,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,178 KB,2024-10-23 14:52,12,修复bug,2024-11-15
 EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,330.1 KB,2023-05-29 20:30,66,优化。,2024-11-15
-表格识别,https://getquicker.net/Sharedaction?code=d15b27d5-57cb-4f60-9916-08dcff9008ea,"选中图片直接提取表格,未选中则截图识别，内置Quicker表格识别、百度表格识别接口。",通用,Voltaう,https://getquicker.net/User/548126/Volta%E3%81%86,26.5 KB,2024-11-08 14:38,3,【新增】百度表格识别（同步接口）,2024-11-15
-复制文件名/路径,https://getquicker.net/Sharedaction?code=c0d19d06-979b-48c7-0b6e-08dcc40d7cd7,复制选中文件的文件名 (去除扩展)/文件路径 or 当前窗口路径,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,85.5 KB,2024-08-25 06:04,2,"[+] 新增：当未选中文件(夹)时，则 复制当前窗口路径
-[+] 新增：自动重命名（仅当为 复制去除扩展的文件名 时有效），带【后悔药】功能",2024-11-15
 用PS打开,https://getquicker.net/Sharedaction?code=eeec43ac-7ac5-4b9f-6ee9-08d65c46d3f1,用Photoshop打开选择的文件,通用,CL,https://getquicker.net/User/3/CL,5.6 KB,2018-12-07 21:20,4,修复变量默认值错误。,2024-11-15
 新建文件夹,https://getquicker.net/Sharedaction?code=df39b8aa-d6fa-4d35-71ff-08dcdb2f793c,常用的6种新建文件夹,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,77.8 KB,2024-09-23 13:30,6,优化表单字段名称。,2024-11-15
 元素HTML,https://getquicker.net/Sharedaction?code=11ab2d7e-7461-4df6-fada-08dcf4b7eea3,获取网页元素的「内部文本」、「内部HTML」及「全部HTML」,Google Chrome,绿橘子233,https://getquicker.net/User/1135126/%E7%BB%BF%E6%A9%98%E5%AD%90233,15.6 KB,2024-10-25 20:10,3,格式化api失效，停用格式化步骤,2024-11-15
