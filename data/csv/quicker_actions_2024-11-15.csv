@@ -1,0 +1,45 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+PDF工具,https://getquicker.net/Sharedaction?code=0e24c256-07a9-4cd4-a97f-08dab0af50de,",PDF叠加,PDF去白边(支持图片),PDF转PNG(注意不要有中文),PDF转曲,按父文件夹合并PDF,按父文件夹合并图片,拆分页面,分割,复制页面,复制页面根据尾数,复制正面,根据表格复制页面,合并PDF,合并PDF根据名称,截图生成条码(只支持二维码),提取图片,提取文字,添加文字,图片转PDF,页面百分比缩小,页面缩小扩大,页面指定尺寸",通用,jialan75home,https://getquicker.net/User/631091/jialan75home,363.9 KB,2022-10-18 16:06,101,"删除无效动作
+增加教程按钮
+点击教程即可打开哔哩哔哩对应视频",2024-11-16
+轮廓字效,https://getquicker.net/Sharedaction?code=9ed035a1-4b01-450d-de69-08dc223fd30b,在PPT中一键生成轮廓字效,Microsoft PowerPoint,微尘PPT,https://getquicker.net/User/695883/%E5%BE%AE%E5%B0%98PPT,3.3 KB,2024-02-01 14:09,1,完善了不管使用的情况,2024-11-16
+计算器,https://getquicker.net/Sharedaction?code=4e6ff5a9-f1f3-4742-d671-08d8d34a0efa,一个集成了各种单位/汇率转换的随手计算器,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,331 KB,2021-02-19 01:10,19,"- 修复乘方问题
+- % 默认表示百分号，可改为取模运算
+- 支持批量算式计算
+- 默认自动复制计算结果
+- 其他细节优化",2024-11-16
+PDF小工具,https://getquicker.net/Sharedaction?code=e0872ced-fa64-425a-57b5-08dac0d38e97,批量PDF分割、合并、转图片、转HTML，删除、提取PDF页码；文档、图片转PDF,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,239.9 KB,2022-11-08 14:33,28,修复按页数分割，感谢@Root1024 的反馈,2024-11-16
+PDF批量\nOCR重命名,https://getquicker.net/Sharedaction?code=0da9fc79-6bb8-4c60-a927-08dd053c3ee0,通过OCR识别PDF中固定区域的文本给PDF重命名，支持批量操作。,通用,M-cc,https://getquicker.net/User/521120/M-cc,302.8 KB,2024-11-15 16:30,5,~更改动作名,2024-11-16
+连续文字识别,https://getquicker.net/Sharedaction?code=b5c66dda-2f2b-4bf3-8e59-08dc6685e603,连续使用OCR文字识别，并将识别结果输出到桌面的同一个txt文件中，不会覆盖之前的内容,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,29.3 KB,2024-04-27 17:47,9,修改右键菜单图标，使其更加美观,2024-11-16
+文件正则分类,https://getquicker.net/Sharedaction?code=99630bf8-974b-4d4e-a931-08dd053c3ee0,提供一个正则 将选择的文件根据正则创建文件夹后分类移动,Windows 资源管理器,超频雪糕,https://getquicker.net/User/610346/%E8%B6%85%E9%A2%91%E9%9B%AA%E7%B3%95,7.5 KB,2024-11-15 17:24,0,,2024-11-16
+搬运:获取dll/exe内图标,https://getquicker.net/Sharedaction?code=08458d7d-912e-4013-a92f-08dd053c3ee0,纯搬运,通用,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,5.1 KB,2024-11-15 17:19,0,,2024-11-16
+淘宝搜索,https://getquicker.net/Sharedaction?code=450cd828-a2ef-4908-9c6a-08d9f836c603,先搜索选中文本，没有则弹出输入框。输入关键词后进行淘宝搜索,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,12.9 KB,2022-02-26 11:42,7,"新增可以切换,用指定的浏览器打开,或者是默认的浏览器打开.
+方便用个人账号登录浏览器,查看竞品的宝贝链接.
+因为目前不让店铺账号看竞品链接",2024-11-16
+Unicode数学形式,https://getquicker.net/Sharedaction?code=df6a3063-7aab-4518-a92c-08dd053c3ee0,将加减乘除等符号转换为Unicode字符，并自动识别科学计数法,通用,拾北桐,https://getquicker.net/User/296107/%E6%8B%BE%E5%8C%97%E6%A1%90,5.1 KB,2024-11-15 17:11,0,,2024-11-16
+Unicode上下标,https://getquicker.net/Sharedaction?code=90c6241f-3d4a-4333-a921-08dd053c3ee0,将数字与正负号在常规形式、上标、下标之间转换,通用,拾北桐,https://getquicker.net/User/296107/%E6%8B%BE%E5%8C%97%E6%A1%90,5.5 KB,2024-11-15 15:30,0,,2024-11-16
+PDF处理,https://getquicker.net/Sharedaction?code=be7e658a-e1c5-4642-50f9-08dabc15aa8f,共28种PDF处理方式！合并、删页、分割、解密、pdf转图片及图片转pdf等功能,Windows 资源管理器,M-cc,https://getquicker.net/User/521120/M-cc,380.8 KB,2022-11-02 15:54,70,-移除“图片转PDF”功能运行时后出现一个包含参数内容的文本窗口的问题。【测试所用模块忘记移除，现已移除修复】,2024-11-16
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,591,https://getquicker.net/User/36130/591,552.9 KB,2021-05-23 17:54,131,"关机前的贴图可以在开机后自动显示出来。
+
+需要同时启用：开机启动和定时提醒，设置方法详见动作主页。",2024-11-16
+表格识别,https://getquicker.net/Sharedaction?code=d15b27d5-57cb-4f60-9916-08dcff9008ea,"选中图片直接提取表格,未选中则截图识别，内置Quicker表格识别、百度表格识别接口。",通用,Voltaう,https://getquicker.net/User/548126/Volta%E3%81%86,27.1 KB,2024-11-08 14:38,4,【优化】设置选项优化，体验更好,2024-11-16
+取色输出,https://getquicker.net/Sharedaction?code=a0fd04ca-d697-42fe-76b1-08dad8c1fe5e,支持输出rgb、同时针对cad、gismap、gispro、excel等软件增加取色功能，会持续完善,通用,ronghqu,https://getquicker.net/User/706755/ronghqu,18.1 KB,2022-12-08 11:39,6,再优化,2024-11-16
+自动锁定,https://getquicker.net/Sharedaction?code=542219e1-bde6-4f0c-05bb-08dbe0cd3bdc,配合事件触发，通过判断无操作、蓝牙等状态，自动锁定微信、QQ等程序,通用,山那边的姑娘,https://getquicker.net/User/684393/%E5%B1%B1%E9%82%A3%E8%BE%B9%E7%9A%84%E5%A7%91%E5%A8%98,12.7 KB,2023-11-09 20:51,3,优化代码,2024-11-16
+复制文件名/路径,https://getquicker.net/Sharedaction?code=c0d19d06-979b-48c7-0b6e-08dcc40d7cd7,复制选中文件的文件名 (去除扩展)/文件路径 or 当前窗口路径,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,87.3 KB,2024-08-25 06:04,3,"[=] 修改功能：
+
+当未选中文件(夹)时，则 复制当前窗口路径
+
+1.如果前台窗口为资源管理器，则复制当前打开的路径
+2.如果前台窗口为其他程序，则复制当前程序的完整路径（D:\TIM\Bin\TIM.exe）",2024-11-16
+图片翻译,https://getquicker.net/Sharedaction?code=62ea3958-9233-4a49-56c2-08dd03832fac,使用百度图片API进行图片翻译，保留原图排版格式，支持截图翻译、图片文件批量翻译和多语种翻译,通用,Voltaう,https://getquicker.net/User/548126/Volta%E3%81%86,38.3 KB,2024-11-13 09:33,4,【修复】目标语言选择时默认模式和选择模式的冲突,2024-11-16
+文件夹助手,https://getquicker.net/Sharedaction?code=72a6d10c-c52e-4d68-f177-08dd017145d1,常用的20种文件夹功能,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,319.2 KB,2024-11-11 15:20,4,"~.新建文件夹：多字段表单名称。
+~.文件夹标记：增加图标。
+~.文件夹备注：增加图标。
+~.新建剪贴板：可批量新建，一行文本，一个文件夹。",2024-11-16
+关闭当前页,https://getquicker.net/Sharedaction?code=20da6b0b-2e3e-4520-d5bc-08dd044ac920,关闭当前浏览的页面,千牛,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,14 B,2024-11-15 09:14,0,,2024-11-16
+工作台刷新,https://getquicker.net/Sharedaction?code=f16f4604-cb39-4930-d5bb-08dd044ac920,刷新千牛当前页面,千牛,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,14 B,2024-11-15 09:09,0,,2024-11-16
+智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,轻便强大快速",通用,翱翔~,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94~,302.6 KB,2024-05-22 14:21,165,优化下载超时问题,2024-11-16
+今日特朗普,https://getquicker.net/Sharedaction?code=abbc0c6d-83cd-4c95-2a25-08dd02675474,关注特朗普2.0时代走向。,通用,591,https://getquicker.net/User/36130/591,66.4 KB,2024-11-12 22:22,6, ,2024-11-16
+《求是》,https://getquicker.net/Sharedaction?code=6e83c294-4552-4e65-2a18-08dd02675474,《求是》杂志。,通用,591,https://getquicker.net/User/36130/591,45.6 KB,2024-11-12 17:44,5, ,2024-11-16
+《人民日报》,https://getquicker.net/Sharedaction?code=1f6d216f-11fc-40f9-d5fe-08d8c568e0cd,风云变幻，沧海孤舟。,通用,591,https://getquicker.net/User/36130/591,63.2 KB,2021-01-31 12:27,14, ,2024-11-16
+网址发送到豆包,https://getquicker.net/Sharedaction?code=8c488748-0eee-4eb6-d5b4-08dd044ac920,将网址发送到豆包打开,通用,清水蓝,https://getquicker.net/User/17624/%E6%B8%85%E6%B0%B4%E8%93%9D,14.2 KB,2024-11-15 03:04,0,,2024-11-16
