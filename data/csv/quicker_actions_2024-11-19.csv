@@ -1,0 +1,34 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例：选择Windows系统图标,https://getquicker.net/Sharedaction?code=6814c6ab-10bc-4b66-8c2f-08dd08375ef0,"因不知道怎么调用更改图标窗口,因此借助Quicker文档说的图标使用来借助操作窗做个简易的",通用,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,8.8 KB,2024-11-19 19:40,0,,2024-11-20
+直达常用网址,https://getquicker.net/Sharedaction?code=454924a3-7f7e-4d00-ca94-08dc99cfb00d,选中商品ID，即可直达常用网址,通用,Gavin_2024,https://getquicker.net/User/985961/Gavin_2024,120.6 KB,2024-07-02 15:41,13,新增编码查商品名功能,2024-11-20
+快速预设重命名,https://getquicker.net/Sharedaction?code=08b288f1-8fb3-451b-2856-08dc86d0f421,快速选择renamer预设方案重命名选中文件,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,21.8 KB,2024-06-08 12:52,4,+ 增加自动检测renamer是否存在,2024-11-20
+表格/文字常用工具2.5,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和Office常用VBA宏指令集[Excel/Word/PPT],WPS Office,Ulookperfect...,https://getquicker.net/User/675682/Ulookperfecttonight,294 KB,2024-05-08 14:47,42,增加一个功能:新增子程序，详说明,2024-11-20
+巴德GPT翻译,https://getquicker.net/Sharedaction?code=f4ba5c43-ceae-40ca-8c16-08dd08375ef0,调用GPT进行翻译,通用,Bader,https://getquicker.net/User/135289/Bader,5.9 KB,2024-11-19 16:41,0,,2024-11-20
+极简待办,https://getquicker.net/Sharedaction?code=ddeb8109-f17b-43e1-8912-08dc5a32504a,一个极简的待办清单，极简版GTD。现在新增【微信模式】。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,443.6 KB,2024-04-12 23:22,30,【新增】@结尾标记为可循环重置事项，完成后可一件全恢复（右键菜单）。,2024-11-20
+秒表,https://getquicker.net/Sharedaction?code=3e684463-42ab-4fd1-08dc-08dcd7d7f40a,简洁&小巧的秒表,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,31.3 KB,2024-09-19 07:11,1,[=] 修改 右键菜单 图标和显示文字,2024-11-20
+新建同名文件夹,https://getquicker.net/Sharedaction?code=eff8ebad-f586-4ffc-0b73-08dcc40d7cd7,新建『所有选中文件』的同名文件夹，并移动原文件,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,16.9 KB,2024-08-25 09:00,3,[=] 更新说明提示,2024-11-20
+下柜,https://getquicker.net/Sharedaction?code=d556d869-844a-4015-8c13-08dd08375ef0,筑木替换下柜,SketchUp Application,觉海梵音,https://getquicker.net/User/980421/%E8%A7%89%E6%B5%B7%E6%A2%B5%E9%9F%B3,1.6 KB,2024-11-19 16:11,0,,2024-11-20
+上柜,https://getquicker.net/Sharedaction?code=8b3428d3-5a31-44a2-8c12-08dd08375ef0,筑木默认上柜替换,SketchUp Application,觉海梵音,https://getquicker.net/User/980421/%E8%A7%89%E6%B5%B7%E6%A2%B5%E9%9F%B3,1.6 KB,2024-11-19 16:08,0,,2024-11-20
+IP-GEO查询,https://getquicker.net/Sharedaction?code=1a4fa7ce-1316-472c-8c11-08dd08375ef0,查询选中IP地址(包括ipv4/ipv6),通用,用户6785041564...,https://getquicker.net/User/519060/%E7%94%A8%E6%88%B7678504156447523,8.8 KB,2024-11-19 16:00,0,,2024-11-20
+智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,翱翔~,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94~,308.5 KB,2024-05-22 14:21,169,优化截图效果,2024-11-20
+重命名,https://getquicker.net/Sharedaction?code=93df12aa-c901-4eb4-d59c-08dd044ac920,使用『 剪贴板文本』 快速重命名，自带 『后悔药』 功能,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,55.3 KB,2024-11-14 14:34,2,"[+] 按住 Ctrl 启动动作后，可对剪贴板文本进行【再修改】后用于批量重命名
+
+ （当然，前提是获取文本成功）",2024-11-20
+添加门板,https://getquicker.net/Sharedaction?code=b14fac12-73c8-440d-8c0c-08dd08375ef0,筑木添加门板,SketchUp Application,觉海梵音,https://getquicker.net/User/980421/%E8%A7%89%E6%B5%B7%E6%A2%B5%E9%9F%B3,11.1 KB,2024-11-19 15:04,0,,2024-11-20
+交互OCR,https://getquicker.net/Sharedaction?code=bd65c819-6658-4186-5347-08dcb4696e8b,QuickerOCR，有道OCR，微信OCR调用本地接口无需登录。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,36.9 KB,2024-08-05 09:25,10,更新微信识别方式,2024-11-20
+复制文件名/路径,https://getquicker.net/Sharedaction?code=c0d19d06-979b-48c7-0b6e-08dcc40d7cd7,复制选中文件的文件名 (去除扩展)/文件路径 or 当前窗口的程序路径,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,100.4 KB,2024-08-25 06:04,4,"[+] 新增  复制 去除扩展的文件名 成功后，可任选一个名称（可二次修改）进行批量重命名：
+
+- 右键选项-可进行名称的【再修改】
+- 按住 Ctrl 启动动作则在选择名称后自动进入【再修改】模式",2024-11-20
+微信OCR,https://getquicker.net/Sharedaction?code=47573941-69dc-409b-2f5a-08dcc919b3e2,可无需安装微信，会自动配置环境和依赖文件。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,32.5 KB,2024-08-31 09:15,3,去依赖python环境，可独立运行,2024-11-20
+倒计时,https://getquicker.net/Sharedaction?code=58b6c4a2-3d85-4b68-e23e-08d98740997c,分钟倒计时,通用,Poto,https://getquicker.net/User/137838/Poto,21.7 KB,2021-10-05 09:26,8,优化,2024-11-20
+PDF批量\nOCR重命名,https://getquicker.net/Sharedaction?code=0da9fc79-6bb8-4c60-a927-08dd053c3ee0,通过OCR识别PDF中固定区域的文本给PDF重命名，支持批量操作。,通用,M-cc,https://getquicker.net/User/521120/M-cc,308.6 KB,2024-11-15 16:30,6,"~修改ocr识别接口顺序及选项。
++增加识别为同名的文件不再覆盖，而是增加后缀后进行重命名。",2024-11-20
+Hifini签到,https://getquicker.net/Sharedaction?code=82881f61-8b62-4cf3-8c05-08dd08375ef0,打开Hifini网站并自动签到,Google Chrome,用户CAN37e4wBAA,https://getquicker.net/User/924549/%E7%94%A8%E6%88%B7CAN37e4wBAA,3.9 KB,2024-11-19 12:12,0,,2024-11-20
+Pastebin,https://getquicker.net/Sharedaction?code=a4e68775-e1ef-4ca2-120c-08dd062f9162,用于快速将剪贴板内容上传至 Pastebin,通用,lllei,https://getquicker.net/User/782476/lllei,11.3 KB,2024-11-16 19:12,1,"1. 添加手动输入语言
+2. 完善帮助",2024-11-20
+层板立板比例,https://getquicker.net/Sharedaction?code=0d0de806-d454-4255-8c03-08dd08375ef0,筑木层板立板比例输入替换,SketchUp Application,觉海梵音,https://getquicker.net/User/980421/%E8%A7%89%E6%B5%B7%E6%A2%B5%E9%9F%B3,8.1 KB,2024-11-19 11:27,0,,2024-11-20
+RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,258.8 KB,2024-09-15 18:35,25,fix 修复bug,2024-11-20
+企业信息查询V2,https://getquicker.net/Sharedaction?code=f397d0aa-a304-4f2b-809b-08dcf2fec074,通过天眼查网页进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,93.5 KB,2024-10-23 15:00,3,公告,2024-11-20
+文件名启动,https://getquicker.net/Sharedaction?code=c57e46b1-bb8e-4c8f-bce5-08dc9bca0acf,适合家里、公司多台电脑的用户，不管软件装在C盘还是D盘，根据名字直接找到并运行,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,139.6 KB,2024-07-04 21:28,28,+ 右键菜单增加多选批量启动模式,2024-11-20
+计算器Pro Max,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,106.6 KB,2024-09-17 16:03,61,多行计算，更换方式,2024-11-20
