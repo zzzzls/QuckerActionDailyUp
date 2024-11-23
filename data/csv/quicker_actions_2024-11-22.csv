@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+专利信息下载,https://getquicker.net/Sharedaction?code=81593229-0b19-4044-501f-08dcf7c36419,快速获取并下载多国官网的专利查询结果的全部信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,32.4 KB,2024-10-30 14:01,11,增加显示查询进度,2024-11-23
+窗口聚焦,https://getquicker.net/Sharedaction?code=2950d3b0-9cb3-4229-5872-08db38e9bfaa,高亮前台窗口，其他窗口变暗，以达到“专注”的效果,通用,M-cc,https://getquicker.net/User/521120/M-cc,436.9 KB,2023-04-10 19:00,12,+增加第二次运行动作自动关闭窗口聚焦功能。,2024-11-23
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,440.8 KB,2023-12-05 00:57,61,~修复下载失败的错误问题。,2024-11-23
+小初高教科书,https://getquicker.net/Sharedaction?code=99f1bfcb-50bc-4599-3bd8-08db97b2e402,小学到高中所有版本教科书,通用,M-cc,https://getquicker.net/User/521120/M-cc,552.2 KB,2023-08-09 11:06,23,~修复配置文件下载失败的问题。,2024-11-23
+微信快送,https://getquicker.net/Sharedaction?code=734b2937-9969-4438-fad8-08dcf4b7eea3,发送微信消息给好友或搜索好友,WeChat,火焱水牛,https://getquicker.net/User/1112793/%E7%81%AB%E7%84%B1%E6%B0%B4%E7%89%9B,86.8 KB,2024-10-25 17:19,15,增加了一个简单的调速功能。将其与【设置找图目标】放置在【设置】的二级菜单下。,2024-11-23
+PDF处理,https://getquicker.net/Sharedaction?code=be7e658a-e1c5-4642-50f9-08dabc15aa8f,共28种PDF处理方式！合并、删页、分割、解密、pdf转图片及图片转pdf等功能,Windows 资源管理器,M-cc,https://getquicker.net/User/521120/M-cc,390.7 KB,2022-11-02 15:54,74,"-彻底移除123盘所有下载链接。【原本会员每月100G的直链还够用，现在会员只给10G已经完全不够了，弃用123盘所以目前所有使用123盘的动作都需要更新修改下载链接】
++增加新的备用链接。",2024-11-23
+PDF翻译,https://getquicker.net/Sharedaction?code=145b5d53-b71d-4485-c2e3-08dc74bc40ca,将任意语言PDF文件翻译成中文PDF文件。或将中文PDF翻译成英文。,通用,M-cc,https://getquicker.net/User/521120/M-cc,313.6 KB,2024-05-15 20:24,8,~修复配置文件下载失败的问题。,2024-11-23
+多国查询(测试版),https://getquicker.net/Sharedaction?code=7ba6536d-da49-481d-e32e-08dd0733f195,模拟人工操作，通过多国官网查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,65.2 KB,2024-11-18 14:30,8,增加专利基本信息的批量查询,2024-11-23
+智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,翱翔~,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94~,340 KB,2024-05-22 14:21,192,新增数据统计功能，按住CTRL启动动作即可对选择的文本进行数据统计,2024-11-23
+企业信息快查,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口或浏览器进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,178.1 KB,2024-10-23 14:52,16,修复自适应模式下，不会启动浏览器模式的bug,2024-11-23
+下载图片,https://getquicker.net/Sharedaction?code=cabf0ece-1ba7-460c-11a7-08db8c4f03af,目前最好的网页图片下载工具！支持任意图片，只需鼠标点击图片即可下载至本地，支持单选、多选两种模式！,Google Chrome,山那边的姑娘,https://getquicker.net/User/684393/%E5%B1%B1%E9%82%A3%E8%BE%B9%E7%9A%84%E5%A7%91%E5%A8%98,94.2 KB,2023-07-24 22:47,23,修复添加序号时效的问题,2024-11-23
+onenote快速捕获内容,https://getquicker.net/Sharedaction?code=16edf7ff-ad0b-417c-66ca-08dbac31b4e9, 按住ctrl键 打开软件,通用,ASUNNY,https://getquicker.net/User/579075/ASUNNY,40.5 KB,2023-09-03 23:01,11,"- 联动动作:onenote 搜索 (可全局搜索并且打开onenote笔记)
+- 添加获取当前网页标签与内容
+- 自动匹配url",2024-11-23
+Everything,https://getquicker.net/Sharedaction?code=cd20ddcd-c33c-45d3-320e-08dcbf54dccb,可自定义常用本地搜索文件的超强神器，速度超快，操作超简！,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,73.6 KB,2024-08-19 11:13,9,~尝试修复辅助窗口尺寸、固定大小,2024-11-23
+网址小窗,https://getquicker.net/Sharedaction?code=edf6a2a6-f497-4bc3-a583-08dcc5002795,常用的网址就那么几个，随手小窗切换预设网址,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,36.5 KB,2024-08-26 09:27,3,~尝试修复窗口尺寸、固定大小,2024-11-23
+yt-dlp,https://getquicker.net/Sharedaction?code=80878eae-5441-489c-f9e3-08dc50b4b80a,目前只测试YouTube/BiliBili视频下载，需要提前适配好ffmpeg环境,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,21.8 KB,2024-03-31 22:41,2,~简化,2024-11-23
