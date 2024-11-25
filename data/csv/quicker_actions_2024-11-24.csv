@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例：简易版步骤断点查看,https://getquicker.net/Sharedaction?code=deb5f85e-d48a-48f0-1a22-08dd09fc4d1b,简易实现思路，应该是最容易就能做到的断点,Quicker,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,6.3 KB,2024-11-22 17:58,1,添加对代码调试的演示,2024-11-25
+GPT 回答复制,https://getquicker.net/Sharedaction?code=2eccc3e3-1391-415d-0504-08dd0c331ec6,"""有啥 quicker 动作能在复制gpt的公式时不原地重复么""",Google Chrome,偶然奇怪,https://getquicker.net/User/400908/%E5%81%B6%E7%84%B6%E5%A5%87%E6%80%AA,10.8 KB,2024-11-24 22:37,1,1,2024-11-25
+打开图片,https://getquicker.net/Sharedaction?code=4e2244cd-1473-4d80-04fd-08dd0c331ec6,打开新图片,光影魔术手,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,14 B,2024-11-24 19:17,0,,2024-11-25
+另存为,https://getquicker.net/Sharedaction?code=6098c009-c532-454d-04fc-08dd0c331ec6,另存为快捷键,光影魔术手,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,14 B,2024-11-24 19:15,0,,2024-11-25
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,368.5 KB,2023-03-25 00:27,284,"基于用户epodak反馈
+支持外部参数启动""SSCT=搜索词""
+支持剪切板启动""SSCT""   ",2024-11-25
+音标助手,https://getquicker.net/Sharedaction?code=fc2c1d38-8e38-49bd-87e0-08dcea511bda,选中/输入单词后，获取并查询/粘贴  音标/释义,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,77 KB,2024-10-13 02:12,5,"增加了默认选项:是否写入   不写入则弹出窗口显示查询内容
+增加了历史记录，未选中运行动作下拉框可选
+改了下名字",2024-11-25
+Demo：动态更新操作窗外观,https://getquicker.net/Sharedaction?code=7de08bef-adad-4c3a-04fa-08dd0c331ec6,多字段表单改变选项时动态更新操作窗外观,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,5.9 KB,2024-11-24 16:40,0,,2024-11-25
+汉字转拼音大写,https://getquicker.net/Sharedaction?code=d9930817-ba6b-434c-312d-08dd0af731a9,针对 海事局转换MSA 汉字转拼音大写,通用,qianfanmos,https://getquicker.net/User/1164035/qianfanmos,10.2 KB,2024-11-23 21:01,1,换图标,2024-11-25
+文本编辑器,https://getquicker.net/Sharedaction?code=7b41583d-0ca0-4d1c-d997-08d925610577,随用随关的记事本 or 一站式文本处理工具,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,403.1 KB,2021-06-02 12:50,38,- 优化「按标点拆分为多行」,2024-11-25
+定位到未读消息,https://getquicker.net/Sharedaction?code=c715eba5-5aff-4495-2843-08d7c2f149a5,微信红色未读消息自动点击读取(建议设置成快捷键很方便),WeChat,shere,https://getquicker.net/User/58152/shere,2.1 KB,2020-03-08 15:51,1,优化了一下步骤，因为不同电脑分辨率不同，强调了需要修改鼠标定位的xy位置，即可使用,2024-11-25
+发送至微信,https://getquicker.net/Sharedaction?code=6e96194a-801d-4a0d-3048-08dcfbc8d3fa,发送截图、选择的文本、选中的文件、剪贴板文本和图片至微信联系人（微信好友、微信群、微信公众号、自己）,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,142.6 KB,2024-11-03 19:30,6,~,2024-11-25
+预算拆分v1,https://getquicker.net/Sharedaction?code=f78b57e9-17b9-4b8f-3117-08dd0af731a9,根据三级数据内容，自动填写一列数据,广联达预算计价,用户2523134863...,https://getquicker.net/User/240486/%E7%94%A8%E6%88%B7252313486336008,44.9 KB,2024-11-23 05:12,3,修复bug,2024-11-25
+360清理Pro,https://getquicker.net/Sharedaction?code=a0d173cc-449b-464d-0e7b-08dd0080705b,360清理Pro是一款清理软件，涵盖了四大类型的清理场景，分别为：微信、QQ的垃圾扫描及清理，系统盘中的大文件、重复文件扫描及清理以及系统软件使用痕迹的清理。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,133.4 KB,2024-11-09 16:01,1,[=] 优化程序逻辑结构,2024-11-25
+TrafficMonitor,https://getquicker.net/Sharedaction?code=950a8bef-efc8-4e8e-99c4-08dcff9008ea,TrafficMonitor 是一款用于Windows平台的开源网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,133.4 KB,2024-11-09 11:38,1,[=] 优化程序逻辑结构,2024-11-25
