@@ -1,11 +1,8 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 示例：简易版步骤断点查看,https://getquicker.net/Sharedaction?code=deb5f85e-d48a-48f0-1a22-08dd09fc4d1b,简易实现思路，应该是最容易就能做到的断点,Quicker,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,6.3 KB,2024-11-22 17:58,1,添加对代码调试的演示,2024-11-25
-GPT 回答复制,https://getquicker.net/Sharedaction?code=2eccc3e3-1391-415d-0504-08dd0c331ec6,"""有啥 quicker 动作能在复制gpt的公式时不原地重复么""",Google Chrome,偶然奇怪,https://getquicker.net/User/400908/%E5%81%B6%E7%84%B6%E5%A5%87%E6%80%AA,10.8 KB,2024-11-24 22:37,1,1,2024-11-25
+GPT 回答复制,https://getquicker.net/Sharedaction?code=2eccc3e3-1391-415d-0504-08dd0c331ec6,"""有啥 quicker 动作能在复制gpt的公式时不原地重复么""",通用,偶然奇怪,https://getquicker.net/User/400908/%E5%81%B6%E7%84%B6%E5%A5%87%E6%80%AA,10.8 KB,2024-11-24 22:37,1,1,2024-11-25
 打开图片,https://getquicker.net/Sharedaction?code=4e2244cd-1473-4d80-04fd-08dd0c331ec6,打开新图片,光影魔术手,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,14 B,2024-11-24 19:17,0,,2024-11-25
 另存为,https://getquicker.net/Sharedaction?code=6098c009-c532-454d-04fc-08dd0c331ec6,另存为快捷键,光影魔术手,小兵李,https://getquicker.net/User/329447/%E5%B0%8F%E5%85%B5%E6%9D%8E,14 B,2024-11-24 19:15,0,,2024-11-25
-Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,368.5 KB,2023-03-25 00:27,284,"基于用户epodak反馈
-支持外部参数启动""SSCT=搜索词""
-支持剪切板启动""SSCT""   ",2024-11-25
 音标助手,https://getquicker.net/Sharedaction?code=fc2c1d38-8e38-49bd-87e0-08dcea511bda,选中/输入单词后，获取并查询/粘贴  音标/释义,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,77 KB,2024-10-13 02:12,5,"增加了默认选项:是否写入   不写入则弹出窗口显示查询内容
 增加了历史记录，未选中运行动作下拉框可选
 改了下名字",2024-11-25
