@@ -21,7 +21,7 @@ Visio2PDF,https://getquicker.net/Sharedaction?code=2bf77a55-a983-4c4e-9e5e-08dc7
 ③优化了程序逻辑和部分变量命名，新增了步骤注释，可读性更高",2024-11-26
 轻计算器,https://getquicker.net/Sharedaction?code=e704873f-83cd-4399-85a5-08dcaae510d0,计算快人一步(开放版),通用,翱翔~,https://getquicker.net/User/178545/%E7%BF%B1%E7%BF%94~,117 KB,2024-07-23 23:08,6,优化,2024-11-26
 横竖版图片分包,https://getquicker.net/Sharedaction?code=dec2867a-a6b0-418d-945c-08dd0cee64cd,对比图片长宽判断横版或竖版，分别放入单独文件夹,Windows 资源管理器,之乎者也吧,https://getquicker.net/User/789041/%E4%B9%8B%E4%B9%8E%E8%80%85%E4%B9%9F%E5%90%A7,23.4 KB,2024-11-25 14:48,1,现在可以同时选中多个图片和多个文件夹，会自动识别并进行分包，自动对重名文件添加后缀,2024-11-26
-表格识别,https://getquicker.net/Sharedaction?code=d15b27d5-57cb-4f60-9916-08dcff9008ea,"选中图片直接提取表格,未选中则截图识别，内置Quicker表格识别、百度表格识别、腾讯表格识别接口。",通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,32.5 KB,2024-11-08 14:38,5,【新增】腾讯表格识别接口,2024-11-26
+表格识别,https://getquicker.net/Sharedaction?code=d15b27d5-57cb-4f60-9916-08dcff9008ea,"选中图片直接提取表格,未选中则截图识别，内置Quicker、百度和腾讯表格识别接口。",通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,32.5 KB,2024-11-08 14:38,5,【新增】腾讯表格识别接口,2024-11-26
 删除特定整行（数字）,https://getquicker.net/Sharedaction?code=92eab7fd-0b1a-4709-9457-08dd0cee64cd,点击列，然后执行程序。删除选择列所有数字单元格所在行的整行,WPS Office,MinKing,https://getquicker.net/User/542704/MinKing,8.1 KB,2024-11-25 14:04,0,,2024-11-26
 最适合行高,https://getquicker.net/Sharedaction?code=deed8053-3fdb-49fe-9456-08dd0cee64cd,一键调整最合适行高,WPS Office,MinKing,https://getquicker.net/User/542704/MinKing,2.4 KB,2024-11-25 13:31,0,,2024-11-26
 筛选,https://getquicker.net/Sharedaction?code=abba46d6-cff5-4328-9455-08dd0cee64cd,wps表格，点击行号，一键筛选,WPS Office,MinKing,https://getquicker.net/User/542704/MinKing,21 B,2024-11-25 13:14,0,,2024-11-26
