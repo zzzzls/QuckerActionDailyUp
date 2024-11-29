@@ -1,0 +1,55 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+截图侠,https://getquicker.net/Sharedaction?code=c0310cb9-f725-4cff-f8e3-08dd0fae75f2,丝滑切换截图命令/Snipaste/PixPin/Quicker,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,77.7 KB,2024-11-28 21:13,12,.,2024-11-29
+贴图管理,https://getquicker.net/Sharedaction?code=02572c19-bf32-46a8-85fb-08dcf8c7ad5e,贴图对齐、平移等，并可批量关闭及显示。,通用,hustrjh,https://getquicker.net/User/449681/hustrjh,56.6 KB,2024-10-30 22:47,4,"【新增】
+1、新增将贴图移至屏幕左、右、上、下边缘的功能。
+2、将动作关联到图片上下文菜单。",2024-11-29
+APP模式,https://getquicker.net/Sharedaction?code=2f0b73a9-a8db-4e79-c1c9-08dd0ebad0d8,APP 模式和普通网页模式相互切换,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,12.8 KB,2024-11-28 20:55,3,细节优化,2024-11-29
+搜索记录,https://getquicker.net/Sharedaction?code=21d875cf-20c0-4c57-9461-08dd0cee64cd,搜索当前联系人的聊天记录,WeChat,Kenhalid,https://getquicker.net/User/977787/Kenhalid,27.7 KB,2024-11-25 15:41,2,"1. 将延迟添加到右键菜单，方便用户自行调整
+2. 增加了找图失败重复寻找的次数",2024-11-29
+小快记,https://getquicker.net/Sharedaction?code=02bd9eba-8aaa-4856-ce18-08dd0dc8eae4,快捷键太难记，就找小快记。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,61.7 KB,2024-11-26 17:46,3,"【优化】云同步逻辑，仅每日首次运行进行云同步下载。感谢
+『扪』的建议。",2024-11-29
+【云朔】文件夹美化,https://getquicker.net/Sharedaction?code=eefa2487-12b9-4367-310e-08dd0af731a9,快捷设置文件夹的图标、显示名称、标记、备注,Windows 资源管理器,白云朔,https://getquicker.net/User/1144232/%E7%99%BD%E4%BA%91%E6%9C%94,186 KB,2024-11-22 21:11,6,"更新优化：
+1.完善了文件夹图标缓存刷新机制，现在无论在什么文件夹视图都能够完美刷新文件夹图标缓存
+2.完善了“设置属性”中的“显示详细属性”功能的运行，目前该功能已能正常使用",2024-11-29
+Anki挖空助手,https://getquicker.net/Sharedaction?code=9dd2d81b-0622-43c3-304f-08dcfbc8d3fa,同序或异序挖空；或取消挖空,Anki,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,186 KB,2024-11-03 23:36,6,"修复: 摘录历史
+	1. 修复历史记录不全的问题
+	2.修复不会自动清除历史记录的问题(之前的历史记录自己清除下吧,动作右键菜单-信息-动作数据-删除动作数据)
+	
+新增: 摘录窗口按钮
+	1. 可以在摘录窗口中修改挖空设置,打开历史记录了
+	2. 可以在摘录窗口中进行标识符添加(标识符用于Anki制卡助手快速制卡)
+	3.alt+按钮名称末尾的键 就是对应按钮的快捷键 ",2024-11-29
+示例：获取动作菜单,https://getquicker.net/Sharedaction?code=9e230d59-0f2c-4a87-c1c3-08dd0ebad0d8,是否固定都能获取,通用,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,7.9 KB,2024-11-28 19:36,1,改下动作名,2024-11-29
+专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,91.1 KB,2024-11-04 14:16,41,调整表单内容,2024-11-29
+文本悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本悬浮，点击后快速复制。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,15.7 KB,2024-11-27 16:20,6,修复bug,2024-11-29
+大写计算器,https://getquicker.net/Sharedaction?code=d4690e52-7c65-49d5-d056-08dd090a5bee,可计算包含文字的公式，并可输出大写结果。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,17.1 KB,2024-11-20 14:59,5,修改图标,2024-11-29
+工作区展开,https://getquicker.net/Sharedaction?code=4e81267a-e064-41c3-85ed-08dcf8c7ad5e,一键打开多个软件/文件/网页，支持单/多虚拟桌面，支持分组工作区，,通用,Yokior,https://getquicker.net/User/1040030/Yokior,315.1 KB,2024-10-30 20:27,4,"[feat]添加悬浮图片操作
+[feat]添加打开文本操作
+[feat]添加搜索功能
+[feat]添加持续模式
+[feat]添加修改分组信息
+[feat]添加分组排序和组内排序
+[feat]添加操作窗界面设置
+[feat]添加文本窗界面设置
+[feat]添加图片窗口设置
+[feat]添加独立表格存储图片
+[feat]添加大量文本选择工具
+[feat]添加显示GIF
+[feat]添加左右滑动选择图片
+[style]界面美化",2024-11-29
+商标快查,https://getquicker.net/Sharedaction?code=94c2ab15-2c5d-4438-ce2a-08dd0dc8eae4,输入关键词快速查询商标。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,8.1 KB,2024-11-27 10:21,4,调整选中文本后为自动识别,2024-11-29
+KMS系统激活,https://getquicker.net/Sharedaction?code=afeda4d3-bda8-4fdf-d6f4-08da49b25a9a,KMS系统激活V52,通用,神经蛙,https://getquicker.net/User/25635/%E7%A5%9E%E7%BB%8F%E8%9B%99,325.2 KB,2022-06-09 20:45,2,同步更新V52,2024-11-29
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,468.3 KB,2024-05-10 17:42,29,"调整：开启静默同步时，增加少许延迟，等待数据读写；
+新增：找回系统注销时忘记关闭文本窗口所丢失的部分笔记内容（需同一设备启动动作）",2024-11-29
+示例：自制筛选动作,https://getquicker.net/Sharedaction?code=71f264a1-ff4f-4a36-c1ae-08dd0ebad0d8,获取选择的动作ID,通用,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,5 KB,2024-11-28 15:08,0,,2024-11-29
+多国查询(测试版),https://getquicker.net/Sharedaction?code=7ba6536d-da49-481d-e32e-08dd0733f195,模拟人工操作，通过多国官网查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,61.4 KB,2024-11-18 14:30,9,调整登录检测的逻辑,2024-11-29
+短信接收,https://getquicker.net/Sharedaction?code=3e56bbb3-2206-443f-697f-08dcdd0ca208,快捷填写验证码或接收其他短信,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,62 KB,2024-09-26 10:09,5,"+ 前台窗口全屏时不进行通知弹窗
+~ 移除超时未按键时的报错",2024-11-29
+示例:表达式注册自定义类,https://getquicker.net/Sharedaction?code=9aed3526-0ed3-476a-c198-08dd0ebad0d8,注册自定义类，注册完成后可在后续表达式中直接使用,通用,Yokior,https://getquicker.net/User/1040030/Yokior,3.3 KB,2024-11-28 00:34,1,[change]转公开,2024-11-29
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",Zotero,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,1.2 MB,2024-07-11 11:24,76,在结果文本窗口文本处理中，增加去除文本换行符回车符的功能，即将多行文本转变成单行文本。,2024-11-29
+KBLAutoSwitch,https://getquicker.net/Sharedaction?code=f90ce41d-75fc-43eb-0e77-08dd0080705b,KBLAutoSwitch 是一款基于AutoHotkey的中英文输入法自动切换工具,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,133.4 KB,2024-11-09 13:55,1,[=] 优化程序逻辑结构,2024-11-29
+Anki制卡助手,https://getquicker.net/Sharedaction?code=28c25894-499d-40a7-29ed-08dd02675474,Anki快速制卡，可以保存四个配置，来回切换，多个字段随意添加,Anki,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,433.5 KB,2024-11-11 23:41,6,"新增: 每段制卡(标识符面板)
+说明: 对每段文本批量添加【X_1】【X_1】//// ,如某生词表1000词,每个单词一行,
+选中后点击""每段制卡"",则会全部添加标识符,然后批量制卡即可一次添加1000张卡
+
+优化: 标识符面板,增加了一些其他按钮",2024-11-29
