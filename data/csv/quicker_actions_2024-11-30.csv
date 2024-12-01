@@ -1,4 +1,5 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例：权限声明,https://getquicker.net/Sharedaction?code=9a96d8c0-3bcf-4248-f19e-08dd10b8461d,"一种对权限的简单思考，检测获取了什么信息然后弹出权限设置,让用户可以掌握功能执行,也能避免模块获取到用户不想开放的信息,当然这只是一种基本演示,正式实现肯定不会这样简单",Quicker,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,29.1 KB,2024-11-30 21:47,1,修复bug,2024-12-01
 程序便签,https://getquicker.net/Sharedaction?code=022fdcb9-4318-49cd-d06a-08dd090a5bee,支持markdown格式语法渲染的程序便签,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,86.1 KB,2024-11-20 20:31,10,+ 增加关闭编辑窗口时是否关闭预览窗口的设置选项，默认为同时关闭,2024-12-01
 计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,70.3 KB,2024-06-13 00:30,35,浮点精度：6419-6380.8,2024-12-01
 短语助手,https://getquicker.net/Sharedaction?code=141484dc-2e0f-480b-946d-08dd0cee64cd,添加短语，快捷输入，可导出qq、搜狗输入法格式短语,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,76.5 KB,2024-11-25 17:08,4,"优化:
@@ -18,13 +19,9 @@ Anki制卡助手,https://getquicker.net/Sharedaction?code=28c25894-499d-40a7-29e
 可视化复制,https://getquicker.net/Sharedaction?code=a7541a4a-ef30-4172-e334-08dd0733f195,Ctrl+C。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,112.7 KB,2024-11-18 16:13,10,ok,2024-12-01
 【云朔】文件夹美化,https://getquicker.net/Sharedaction?code=eefa2487-12b9-4367-310e-08dd0af731a9,快捷设置文件夹的图标、显示名称、标记、备注,Windows 资源管理器,白云朔,https://getquicker.net/User/1144232/%E7%99%BD%E4%BA%91%E6%9C%94,224.9 KB,2024-11-22 21:11,12,"更新优化：
 1.增加了外部调用动作并附加参数的功能（详见动作内部的【外部调用指引】步骤组），可让动作按预定参数直接运行，省去繁琐的点击与选中",2024-12-01
-Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,喵~喵~喵~\n\n集成搜索、切换、启动、关机、收藏、关闭等功能，\n致力于打造Windows系统的Assistive Button。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,722 KB,2021-06-14 21:07,342,窗口切换： 检测到手动方向键（上下左右）时，就停止自动。,2024-12-01
-复制编写笔记,https://getquicker.net/Sharedaction?code=82311a74-c501-4df8-f19c-08dd10b8461d,复制编写笔记zotero,通用,利姆露,https://getquicker.net/User/322875/%E5%88%A9%E5%A7%86%E9%9C%B2,32.4 KB,2024-11-30 20:05,0,,2024-12-01
 启动Steam游戏,https://getquicker.net/Sharedaction?code=c09c47e8-daaa-408a-4b6b-08dbd5b983ad,实时搜索启动Steam游戏与应用。支持在库中查看、成就、创意工坊等快捷操作。,通用,Ansuz,https://getquicker.net/User/225839/Ansuz,31.3 KB,2023-10-27 11:21,2,"根据反馈增加了对复数个Steam游戏库存储文件夹的支持以及手动输入Steam目录的功能。
 感谢用户""我的梦想捐钱修路建学校""的反馈！",2024-12-01
 PS格式刷,https://getquicker.net/Sharedaction?code=c36b2569-519f-4ed9-f194-08dd10b8461d,右键使用，可传参。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,35.9 KB,2024-11-30 16:06,3,2024年11月30日18:31:54,2024-12-01
-一键启动,https://getquicker.net/Sharedaction?code=c111e9e6-e715-4763-5393-08da4b7774bd,一键启动，工作环境瞬间到位。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,54.5 KB,2022-06-12 09:14,23,"有些软件希望启动后直接最小化运行。
-改成可以编辑。",2024-12-01
 示例：跳转到最后发言,https://getquicker.net/Sharedaction?code=b81e0653-4324-4f39-f195-08dd10b8461d,Quciker论坛用,Microsoft Edge,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,6.1 KB,2024-11-30 16:35,3,忘了把获取元素定位从匹配元素改为整个内容区域元素,2024-12-01
 EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,333.5 KB,2023-05-29 20:30,67,“niHao”只转换“Hao”。,2024-12-01
 软件面板V2,https://getquicker.net/Sharedaction?code=36ad0aaf-b6c5-496e-4cba-08dae7c52912,选中软件按住CTRL启动动作添加软件，双击背景或点击窗口外面可以关闭窗口，按住alt点击软件可以删除,通用,zdf153,https://getquicker.net/User/20184/zdf153,210 KB,2022-12-27 16:23,45,修复上次更新造成的按钮点击颜色不会改变的问题,2024-12-01
