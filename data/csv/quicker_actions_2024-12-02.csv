@@ -1,10 +1,7 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-可视化复制,https://getquicker.net/Sharedaction?code=a7541a4a-ef30-4172-e334-08dd0733f195,Ctrl+C。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,131.4 KB,2024-11-18 16:13,17,【忽略】一处标题。,2024-12-03
 搜索记录,https://getquicker.net/Sharedaction?code=21d875cf-20c0-4c57-9461-08dd0cee64cd,搜索当前联系人的聊天记录,WeChat,Kenhalid,https://getquicker.net/User/977787/Kenhalid,19.5 KB,2024-11-25 15:41,3,修改了实现步骤，已安装的用户更新后需要删除动作数据，根据动作介绍重新初始化（个人刚发现主窗口就有“聊天记录”控件，实在不好意思）,2024-12-03
 巴德繁简,https://getquicker.net/Sharedaction?code=05bc6aee-0764-4f26-43d6-08dcd318a5f5,繁体转简体、简体转繁体、互转,通用,Bader,https://getquicker.net/User/135289/Bader,61 KB,2024-09-13 01:20,3,1. 修复自定义此表不生效的问题,2024-12-03
 ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",Zotero,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,1.2 MB,2024-07-11 11:24,77,在帮助中增加《最新版使用和配置详细介绍》,2024-12-03
-记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,431.6 KB,2024-05-10 17:42,30,优化：优化步骤，无感同步，不再闪烁（需开启静默同步）。,2024-12-03
-RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,265 KB,2024-09-15 18:35,29,fix 修复url匹配和ping指令比重,2024-12-03
 【云朔】文件夹美化,https://getquicker.net/Sharedaction?code=eefa2487-12b9-4367-310e-08dd0af731a9,快捷设置文件夹的图标、显示名称、标记、备注,Windows 资源管理器,白云朔,https://getquicker.net/User/1144232/%E7%99%BD%E4%BA%91%E6%9C%94,224.1 KB,2024-11-22 21:11,14,"本次更新内容
 更新优化：
 1.在目标文件夹下的图标文件将使用相对路径进行保存，便于移动文件夹
@@ -13,7 +10,6 @@ RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79
 2.修复了校验历史与收藏图标是否存在时的错误报错问题",2024-12-03
 正则测试,https://getquicker.net/Sharedaction?code=9256ca7f-61c5-4519-3675-08dd1295b1db,测试下正则匹配结果是否正确,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,22.1 KB,2024-12-02 18:39,0,,2024-12-03
 Excel 计算星期,https://getquicker.net/Sharedaction?code=f1854c62-a90b-4813-3671-08dd1295b1db,在 Excel 中计算日期所对应的星期,Microsoft Excel,themeyou,https://getquicker.net/User/1166236/themeyou,1.8 KB,2024-12-02 17:19,0,,2024-12-03
-文本悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本悬浮，点击后快速复制。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,20 KB,2024-11-27 16:20,9,修复bug,2024-12-03
 多国查询,https://getquicker.net/Sharedaction?code=7ba6536d-da49-481d-e32e-08dd0733f195,模拟人工操作，通过多国官网查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,76.2 KB,2024-11-18 14:30,16,修复bug,2024-12-03
 专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,94.8 KB,2024-11-04 14:16,43,"1、修复bug
 2、调整右键选项",2024-12-03
@@ -26,5 +22,4 @@ MINI剪贴板,https://getquicker.net/Sharedaction?code=efd833d4-0813-4c54-da5c-0
 以字搜图,https://getquicker.net/Sharedaction?code=8b67e4ea-5086-48c7-cf50-08dce2c29e2a,本地图片搜索/搜索图片上的文字,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,110 KB,2024-10-03 09:56,7,完善：选择使用everything搜索时，也支持给其他动作传回参数,2024-12-03
 大写计算器,https://getquicker.net/Sharedaction?code=d4690e52-7c65-49d5-d056-08dd090a5bee,可计算包含文字的公式，并可输出大写结果。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,28.3 KB,2024-11-20 14:59,7,修复无法关闭的bug,2024-12-03
 包围框,https://getquicker.net/Sharedaction?code=2f04f510-c88b-4a16-1a36-08dd1194f069,创建一个包裹模型物体的BOX，方便位移与定位模型中心,Rhino,谁是帝,https://getquicker.net/User/51309/%E8%B0%81%E6%98%AF%E5%B8%9D,29 B,2024-12-02 09:06,1,更好用,2024-12-03
-移至剪贴板,https://getquicker.net/Sharedaction?code=6e95b043-1f95-4f56-f8f0-08dd0fae75f2,将选中的文件移动至以剪贴板内容命名的新建文件夹。,Windows 资源管理器,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,11.6 KB,2024-11-29 09:47,3,修复bug,2024-12-03
 聆听,https://getquicker.net/Sharedaction?code=5c144bb3-aaae-4c63-9f58-08d8ff04bb1d,聆听浠沥沥的声音-白噪音。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,55.6 KB,2021-04-14 18:00,11,.,2024-12-03
