@@ -1,0 +1,52 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+短语助手,https://getquicker.net/Sharedaction?code=141484dc-2e0f-480b-946d-08dd0cee64cd,添加触发词，快捷输入对应内容；可转换搜狗qq拼音格式；自动备份,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,249.9 KB,2024-11-25 17:08,5,"新增:
+	1.添加有换行符的长短语
+	2.自动本地备份、上传云端
+	3.搜狗qq拼音短语格式转本动作格式
+	4.导入备份恢复数据
+	5.词频统计
+	6.解除最多5个相同触发词限制
+	7.自定义短语顺序；A-Z自动排序
+修复：
+	一个错误转换的时间变量名
+	点击取消下一次时间不更新
+	",2024-12-04
+一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,PNG/JPG/TIF/PSD/图层/圆角/描边/切片/等一键快存 ( 拒绝弹窗低效率保存 ),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,251.7 KB,2023-03-19 16:39,68,"感谢用户@Homjie
+已新增保存后定位是否打开设置(右键可设置)",2024-12-04
+截图,https://getquicker.net/Sharedaction?code=c0310cb9-f725-4cff-f8e3-08dd0fae75f2,丝滑切12种截图命令/长截图/GIF/识别/Snipaste/PixPin/Quicker,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,95.6 KB,2024-11-28 21:13,21,优化,2024-12-04
+微信多开,https://getquicker.net/Sharedaction?code=e5c59bf8-50b9-4322-88f2-08dc5a32504a,微信多开，支持微信、企业微信、钉钉,通用,ikay,https://getquicker.net/User/7897/ikay,10.9 KB,2024-04-12 15:00,2,优化依赖下载规则，依赖缓存到Quicker\_packages目录下,2024-12-04
+Obsidian,https://getquicker.net/Sharedaction?code=ad604798-a77d-4595-a1b8-08db9e3a5ebf,"启动Obsidian神器,打开或小化Obsidian窗口",Obsidian,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,17.1 KB,2023-08-17 16:03,12,.,2024-12-04
+截图并手绘,https://getquicker.net/Sharedaction?code=e328ee9e-66d1-4ebe-096c-08dbd6a53889,截图并在图片上进行手绘编辑,通用,小锴,https://getquicker.net/User/585186/%E5%B0%8F%E9%94%B4,9.7 KB,2023-10-27 21:19,10,-增加自动复制,2024-12-04
+划词朗读,https://getquicker.net/Sharedaction?code=c4c618b8-eaf2-4171-3185-08dcfad1e82e,划词朗读/免费/61种音色/晓晓/晓伊/云健/云希/云夏/云扬,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,38.9 KB,2024-11-02 23:44,5,取消科学上网模式,2024-12-04
+F5-TTS,https://getquicker.net/Sharedaction?code=b3be8b9a-e7e4-45d9-f900-08dd0fae75f2,接入F5-TTS接口，朗读文本 ,通用,刘悦的技术博客,https://getquicker.net/User/1037284/%E5%88%98%E6%82%A6%E7%9A%84%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2,2.9 KB,2024-11-29 13:52,2,"基于本人最新制作的F5-TTS整合包:F5-TTS新版整合包一键包:https://pan.quark.cn/s/5e424164b78d
+视频攻略:https://www.bilibili.com/video/BV1pjz1YTEaj/",2024-12-04
+Logseq导入思源笔记,https://getquicker.net/Sharedaction?code=5af0ef6a-19a3-433c-04ef-08dd0c331ec6,对Logseq笔记进行处理，丝滑导入思源,SiYuan,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,94.3 KB,2024-11-24 11:45,1,优化流程,2024-12-04
+示例：权限声明 2.0,https://getquicker.net/Sharedaction?code=9a96d8c0-3bcf-4248-f19e-08dd10b8461d,"一种对权限的简单思考，检测获取了什么信息然后弹出权限设置,让用户可以掌握功能执行,也能避免模块获取到用户不想开放的信息,当然这只是一种基本演示,正式实现肯定不会这样简单",Quicker,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,69.5 KB,2024-11-30 21:47,2,"整理了下结构,加入一定时间不使用在下次使用自动移除授权,以及作者权限,以及统合的表单",2024-12-04
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,163.6 KB,2024-05-09 20:07,88,优化,2024-12-04
+多Ai搜索,https://getquicker.net/Sharedaction?code=0bec974a-fe67-4b23-36a3-08dd1295b1db,使用选中文本执行多个ai搜索（kimi，天工，文心一言，豆包）,Microsoft Edge,芸yume,https://getquicker.net/User/1178702/%E8%8A%B8yume,11.4 KB,2024-12-03 17:03,0,,2024-12-04
+公式转数值,https://getquicker.net/Sharedaction?code=b286407a-422e-487f-369a-08dd1295b1db,将wps表里所有的公式转换为其计算结果并保存,WPS Spreadsheets,^V^,https://getquicker.net/User/1183150/%5EV%5E,68 B,2024-12-03 16:03,0,,2024-12-04
+企业快查,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口或浏览器进行企业信息查询并可以快速填充到文本窗口。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,186.5 KB,2024-10-23 14:52,18,"增加“设置强制按键”功能，可自定义一个按键，在按下该按键时执行动作，则跳转第三方网站搜索选中文本,建议设置为F1~F10键。",2024-12-04
+截图(Save),https://getquicker.net/Sharedaction?code=17298f74-b8a4-4a9a-76b6-08d7e6958c1f,截图并自动保存（位置选择可选）、自动显示（可选）、保存格式（可选）,通用,Edgar.Fok,https://getquicker.net/User/91927/Edgar.Fok,11.7 KB,2020-04-22 16:28,3,动作右键菜单添加可选功能配置选项。,2024-12-04
+PixPin截图,https://getquicker.net/Sharedaction?code=7e5703ef-2698-40cb-991b-08dc7a77392c,通过命令行执行PixPin截图操作，内置多种截图模式,pixpin.exe,seekう,https://getquicker.net/User/548126/seek%E3%81%86,55.8 KB,2024-05-23 20:39,15,"【修复】在贴图界面运行动作，会触发复制的问题
+【优化】增加贴图功能开关，避免误触",2024-12-04
+RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,265 KB,2024-09-15 18:35,30,fix 修改Url正则表达式,2024-12-04
+巴德GPT变量名,https://getquicker.net/Sharedaction?code=84bd2ea4-8594-4b9c-368b-08dd1295b1db,调用GPT起变量名,通用,Bader,https://getquicker.net/User/135289/Bader,4.3 KB,2024-12-03 11:35,0,,2024-12-04
+移至剪贴板,https://getquicker.net/Sharedaction?code=6e95b043-1f95-4f56-f8f0-08dd0fae75f2,将选中的文件移动至以剪贴板内容命名的新建文件夹。,Windows 资源管理器,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,13.9 KB,2024-11-29 09:47,5,修复bug,2024-12-04
+复制保格式,https://getquicker.net/Sharedaction?code=58f71c80-7e9e-4828-3688-08dd1295b1db,剪贴伴侣：连续复制，一次性粘贴；倒序粘贴、分行粘贴、模拟输入、保格式粘贴,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,33.5 KB,2024-12-03 11:14,0,,2024-12-04
+关掉CAD,https://getquicker.net/Sharedaction?code=2644cd40-620c-45df-100d-08dc0460f3d4,不同方式关闭AutoCAD文件及程序,AutoCAD Application,maihuar,https://getquicker.net/User/480197/maihuar,107.3 KB,2023-12-25 12:56,14,图标,2024-12-04
+ChatGPT,https://getquicker.net/Sharedaction?code=1bfd1944-2e97-4800-d088-08dd090a5bee,Quicker版 ChatGPT 客户端,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,63 KB,2024-11-21 14:26,4,修复某些细节的问题,2024-12-04
+Mistral AI,https://getquicker.net/Sharedaction?code=30635d77-b231-40c1-3683-08dd1295b1db,Quicker版 Mistral AI 客户端,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,34.1 KB,2024-12-03 10:08,1,修复某些细节的问题,2024-12-04
+Gemini,https://getquicker.net/Sharedaction?code=a68f2b08-544a-41b4-3684-08dd1295b1db,Quicker版 Gemini 客户端,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,20.5 KB,2024-12-03 10:12,2,修复某些细节的问题,2024-12-04
+批量缩小,https://getquicker.net/Sharedaction?code=0e5c6733-9917-40b5-ba26-08dba2f9bd4e,对图片进行批量缩小，缩小为原图片的15%,Windows 资源管理器,颜晓筱,https://getquicker.net/User/698346/%E9%A2%9C%E6%99%93%E7%AD%B1,5.9 KB,2023-08-23 14:43,1,可自选缩放比例，默认15，自动记忆上一次输入比例；,2024-12-04
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,435.6 KB,2024-05-10 17:42,31,新增：将鼠标选中的文字添加到当前笔记中，动作参数为：摘录。,2024-12-04
+文本悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本悬浮，点击后快速复制。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,20.4 KB,2024-11-27 16:20,10,增加显示复制内容的数量,2024-12-04
+cpolar本地端口映射,https://getquicker.net/Sharedaction?code=19f1f846-de59-4e7f-990a-08dcff9008ea,cpolar内网穿透更改网址很麻烦，使用netsh快速映射到本地端口,Google Chrome,Edison8985,https://getquicker.net/User/342391/Edison8985,14.7 KB,2024-11-08 11:15,4,增加提示说明,2024-12-04
+可视化复制,https://getquicker.net/Sharedaction?code=a7541a4a-ef30-4172-e334-08dd0733f195,Ctrl+C。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,131.4 KB,2024-11-18 16:13,18,【忽略】一处标题有误。,2024-12-04
+窗口归去来,https://getquicker.net/Sharedaction?code=f8fea4e6-fab9-45be-7179-08d92d64b24a,记忆时间内一键返回原窗口。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,29.6 KB,2021-06-12 22:49,23,"恢复原版，并做一下改进：
+【改进】便于单手操作：
+在屏幕上选取出“记忆生效区”（右键菜单➟设置）。
+在“记忆生效区”之外，则为“强制失忆区”。实现的效果：
+执行动作时，若鼠标在“记忆生效区”内，则可在记忆时间内返回原窗口；若鼠标在“强制失忆区”，则强制失忆。
+-----
+【忽略】优化描述，有错字。",2024-12-04
+复制文件名/路径,https://getquicker.net/Sharedaction?code=c0d19d06-979b-48c7-0b6e-08dcc40d7cd7,复制选中文件(夹)的文件名/文件路径 or 当前窗口的程序路径,Windows 资源管理器,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,100 KB,2024-08-25 06:04,5,[+] 新增 点击提示消息可跳转至程序安装路径 功能（前台窗口为其他程序时）,2024-12-04
