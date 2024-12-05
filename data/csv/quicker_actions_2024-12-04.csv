@@ -1,12 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 居中于页面（脚本）,https://getquicker.net/Sharedaction?code=2f444d22-d3f6-4ac5-f1b8-08dd1471b37f,将所选对象居中于当前页面，类似于CDR中的P键,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,2.4 KB,2024-12-04 23:45,0,,2024-12-05
 预览文件夹图片,https://getquicker.net/Sharedaction?code=c327c6d2-a976-4412-f1b7-08dd1471b37f,预览文件夹下的图片，不包含子文件夹,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,24.9 KB,2024-12-04 22:41,0,,2024-12-05
-【云朔】文件夹美化,https://getquicker.net/Sharedaction?code=eefa2487-12b9-4367-310e-08dd0af731a9,快捷设置文件夹的图标、显示名称、标记、备注,Windows 资源管理器,白云朔,https://getquicker.net/User/1144232/%E7%99%BD%E4%BA%91%E6%9C%94,231.4 KB,2024-11-22 21:11,17,"本次更新内容
-更新优化：
-1.增加了在检索图标数量过大时，跳转到指定页的功能。
-解决问题：
-1.修复了检索图标文件只选中一个格式时，无法检索到对应格式的问题。
-2.修复了文件夹视图的非详细信息时，无法执行显示详细功能的问题。",2024-12-05
 Zotero7菜单,https://getquicker.net/Sharedaction?code=4f6c26c0-8f5c-422a-cb92-08dccce7aaee,利用菜单快速选择zotero侧栏图标及打开多层菜单选项,Zotero,BrainKE,https://getquicker.net/User/199719/BrainKE,96.7 KB,2024-09-05 16:22,14,菜单增加“展示子分类条目”,2024-12-05
 待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,615.2 KB,2021-05-23 17:54,137,【忽略】取消默认云同步。,2024-12-05
 LOL自动接受,https://getquicker.net/Sharedaction?code=6ea75ab2-8405-40ed-0625-08dd1381ea3c,LOL自动点击接受,通用,【推荐使用】-接动作定制,https://getquicker.net/User/718736/%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E3%80%91-%E6%8E%A5%E5%8A%A8%E4%BD%9C%E5%AE%9A%E5%88%B6,8.8 KB,2024-12-04 17:15,0,,2024-12-05
@@ -24,7 +18,6 @@ sm19一键高亮,https://getquicker.net/Sharedaction?code=fe188936-0ca8-418c-061
 EVER话术,https://getquicker.net/Sharedaction?code=0b7e480d-5c12-4510-47b9-08d720bda2d4,⏎话术模板，快速收藏，快速输入发送常用交流句子、短语、文件、号码等信息（支持多行）。,通用,Ever,https://getquicker.net/User/2774/Ever,70.4 KB,2019-08-14 22:57,48,增加匹配模式，可设置更严格的开始匹配、包含匹配与默认的模糊匹配。,2024-12-05
 极简待办,https://getquicker.net/Sharedaction?code=ddeb8109-f17b-43e1-8912-08dc5a32504a,一个极简的待办清单，极简版GTD。现在新增【微信模式】。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,453.7 KB,2024-04-12 23:22,35,【优化】微信模式下联系人待办全部完成后删除跳转菜单。,2024-12-05
 两区域交换内容,https://getquicker.net/Sharedaction?code=e67b60ea-6a67-4404-0601-08dd1381ea3c,注意：VBA操作不可撤销！！！使用前建议创建副本（按住CTRL键可以选择2个区域）,Microsoft Excel,MinKing,https://getquicker.net/User/542704/MinKing,37.6 KB,2024-12-04 10:48,0,,2024-12-05
-文本悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本悬浮，点击后快速复制。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,23.3 KB,2024-11-27 16:20,11,可通过右键菜单查看历史记录,2024-12-05
 PixPin截图,https://getquicker.net/Sharedaction?code=7e5703ef-2698-40cb-991b-08dc7a77392c,通过命令行执行PixPin截图操作，内置多种截图模式,pixpin.exe,seekう,https://getquicker.net/User/548126/seek%E3%81%86,55.8 KB,2024-05-23 20:39,16,【优化】默认模式加入图片翻译,2024-12-05
 大写计算器,https://getquicker.net/Sharedaction?code=d4690e52-7c65-49d5-d056-08dd090a5bee,可计算包含文字的公式，并可输出大写结果。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,30.5 KB,2024-11-20 14:59,8,可通过右键菜单查看历史记录,2024-12-05
 快速计算,https://getquicker.net/Sharedaction?code=22e52928-5f00-481e-e967-08d851fff498,快速计算,通用,Shelby_,https://getquicker.net/User/69754/Shelby_,8.2 KB,2020-09-06 09:40,4,表达式中的字母不影响计算,2024-12-05
