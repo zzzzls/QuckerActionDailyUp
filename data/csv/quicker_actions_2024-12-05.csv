@@ -7,7 +7,6 @@ Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db
 快速复制专利号,https://getquicker.net/Sharedaction?code=4067835e-f2bb-4bbf-7ff9-08dced27f08a,一键复制选中文件或选中文本中的专利号到剪贴板，并删除其中的多余字符。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,8.9 KB,2024-10-16 10:29,3,修复bug,2024-12-06
 选中单元格无填充,https://getquicker.net/Sharedaction?code=3c7dfd11-3dcb-46ae-e664-08db2045b077,将选中单元格的背景色设置为默认填充,Microsoft Excel,Ulookperfect...,https://getquicker.net/User/675682/Ulookperfecttonight,339 B,2023-03-09 16:24,1,改了个图标,2024-12-06
 填充选中单元格为红色,https://getquicker.net/Sharedaction?code=c3913389-e249-4cc9-e663-08db2045b077,填充选中的单元格为红色,Microsoft Excel,Ulookperfect...,https://getquicker.net/User/675682/Ulookperfecttonight,343 B,2023-03-09 16:23,2,改了个图标,2024-12-06
-预处理Q&A文件,https://getquicker.net/Sharedaction?code=139e56d6-4e37-4bba-f1e3-08dd1471b37f,因某些AI自动生成的英文Q&A文件包含中文标点符号，导入super memo 出现错误。故通过本动作一次性将同目录下的Q&A文本文件进行符号替换,Windows 资源管理器,lysic,https://getquicker.net/User/52299/lysic,4.5 KB,2024-12-05 15:54,1,增加一个符号,2024-12-06
 Copy小助手,https://getquicker.net/Sharedaction?code=6dba764f-3d36-4fe7-19e3-08dd09fc4d1b,专为复制专利xml文件设计的Copy小助手。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,4.7 KB,2024-11-21 16:37,2,修复bug,2024-12-06
 【云朔】文件夹美化,https://getquicker.net/Sharedaction?code=eefa2487-12b9-4367-310e-08dd0af731a9,快捷设置文件夹的图标、显示名称、标记、备注,Windows 资源管理器,白云朔,https://getquicker.net/User/1144232/%E7%99%BD%E4%BA%91%E6%9C%94,232.2 KB,2024-11-22 21:11,18,"本次更新内容
 更新优化：
@@ -17,7 +16,6 @@ Copy小助手,https://getquicker.net/Sharedaction?code=6dba764f-3d36-4fe7-19e3-0
 2.解决了部分情况下初始文件夹路径错误的问题。",2024-12-06
 屏幕变化检测-微信通知,https://getquicker.net/Sharedaction?code=7843c1cb-88eb-47d5-f1db-08dd1471b37f,检测屏幕变化并推送到微信,通用,【推荐使用】-接动作定制,https://getquicker.net/User/718736/%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E3%80%91-%E6%8E%A5%E5%8A%A8%E4%BD%9C%E5%AE%9A%E5%88%B6,77.6 KB,2024-12-05 14:58,0,,2024-12-06
 粉笔错题\n制Anki卡,https://getquicker.net/Sharedaction?code=de20f7eb-516d-4d4f-60bb-08db8d6f0068,全自动,Anki,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,103.2 KB,2023-07-26 23:28,25,添加不是粉笔网的网址输出,2024-12-06
-摸鱼看个股,https://getquicker.net/Sharedaction?code=b784455c-d022-4510-f1ce-08dd1471b37f,设置股票代码后，在屏幕右下角定时刷新该股票信息。,通用,Ptrrr,https://getquicker.net/User/346284/Ptrrr,37 KB,2024-12-05 13:38,0,,2024-12-06
 超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,397.7 KB,2024-08-11 00:17,61,1.动作联盟中的动作参数支持直接读取超级面板选中的内容，如选中的文本、文件或文件夹,2024-12-06
 音标助手,https://getquicker.net/Sharedaction?code=fc2c1d38-8e38-49bd-87e0-08dcea511bda,选中单词后，获取并粘贴音标,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,116.4 KB,2024-10-13 02:12,9,一些优化,2024-12-06
 专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,95.2 KB,2024-11-04 14:16,44,修复token获取失败的bug,2024-12-06
