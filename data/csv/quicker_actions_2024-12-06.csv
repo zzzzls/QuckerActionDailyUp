@@ -6,15 +6,20 @@
 2. 要求Quicker版本 1.43.53：【设置】可以选择启动时默认展示未分组数据，以便于查看新数据。但启用后，启动速度会慢一些。
 3.【设置】可以自定义分组的显示方式（标签页左侧、标签页右侧等）。
 4. 【忽略】修改一个变量的默认值。",2024-12-07
+AI即时翻译,https://getquicker.net/Sharedaction?code=9437802b-e196-4570-a834-08dcafa4e6df,支持AI翻译和多种引擎翻译（有道、百度、讯飞、腾讯、阿里等）；解决临时在输入框中快速划词或OCR截图翻译的应用场景，翻译结果直接填充到活动窗口和写入剪贴板；不另外显示在单独窗口；即在任何输入栏或选取文字需要快速翻译时，一键翻译。,通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,82.5 KB,2024-07-29 17:47,3,优化动作操作,2024-12-07
 开机自启管理,https://getquicker.net/Sharedaction?code=1b11ad1a-2ea4-4b69-fd19-08d95c672ca9,管理开机自启,通用,FaniX,https://getquicker.net/User/52603/FaniX,8.5 KB,2021-08-12 11:58,2,用户界面调整：管理和排序列表->查看或编辑表格数据,2024-12-07
 Quicker托盘菜单,https://getquicker.net/Sharedaction?code=00bf51f4-904f-4f9a-ad7a-08dd15875f2b,最大程度实现原貌。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,35.8 KB,2024-12-06 20:51,0,,2024-12-07
-截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,170 KB,2024-05-09 20:07,92,优化,2024-12-07
 截图,https://getquicker.net/Sharedaction?code=c0310cb9-f725-4cff-f8e3-08dd0fae75f2,丝滑切15种截图命令/长截图/GIF/识别/Snipaste/PixPin/Quicker,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,102.8 KB,2024-11-28 21:13,25,优化,2024-12-07
+获取文件名,https://getquicker.net/Sharedaction?code=02190d38-9135-4978-ad73-08dd15875f2b,将当前文件夹所有文件名存入txt文件中,Windows 资源管理器,不白菜,https://getquicker.net/User/1096214/%E4%B8%8D%E7%99%BD%E8%8F%9C,19.6 KB,2024-12-06 17:12,0,,2024-12-07
 预处理Q&A文件,https://getquicker.net/Sharedaction?code=139e56d6-4e37-4bba-f1e3-08dd1471b37f,因某些AI自动生成的英文Q&A文件包含中文标点符号，导入super memo 出现错误。故通过本动作一次性将同目录下的Q&A文本文件进行符号替换,Windows 资源管理器,lysic,https://getquicker.net/User/52299/lysic,4.5 KB,2024-12-05 15:54,2,补充符号,2024-12-07
+LOL自动接受,https://getquicker.net/Sharedaction?code=6ea75ab2-8405-40ed-0625-08dd1381ea3c,LOL自动点击接受,通用,【推荐使用】-接动作定制,https://getquicker.net/User/718736/%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E3%80%91-%E6%8E%A5%E5%8A%A8%E4%BD%9C%E5%AE%9A%E5%88%B6,4.1 KB,2024-12-04 17:15,1,可添事件触发运行（LeagueClientUx）软件启动后自动运行该动作-退出后，会自动结束该动作,2024-12-07
 123网盘图床,https://getquicker.net/Sharedaction?code=05ec88dd-8493-4de9-ad5c-08dd15875f2b,将选择的文件或截图上传到123网盘的图床,通用,zdf153,https://getquicker.net/User/20184/zdf153,88.4 KB,2024-12-06 11:25,1,支持多图片,2024-12-07
 选择工具,https://getquicker.net/Sharedaction?code=3a397b5c-c4e6-40ac-d68a-08dcc81fd814,一个多功能的选择动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,50.5 KB,2024-08-30 16:27,1,"+.新增 选择剪贴图层。
 ~.全选图层不再使用发送快捷键的方式，规避第三方快捷键冲突。",2024-12-07
 多国查询,https://getquicker.net/Sharedaction?code=7ba6536d-da49-481d-e32e-08dd0733f195,模拟人工操作，通过多国官网查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,84.1 KB,2024-11-18 14:30,23,尝试增加查询结果加载失败时的处理机制,2024-12-07
+润色精灵GPT,https://getquicker.net/Sharedaction?code=006947d0-b333-4273-1c5e-08dceffdf6a6,选中原始文本，使用本动作，自动让网页版ChatGPT润色，自动复制润色后的内容，自动显示润色前后的不同。需要翻墙。,通用,Balrog,https://getquicker.net/User/235565/Balrog,16.8 KB,2024-10-19 22:06,3,适配新版GPT网页,2024-12-07
+摸鱼看个股,https://getquicker.net/Sharedaction?code=b784455c-d022-4510-f1ce-08dd1471b37f,设置股票代码后，在屏幕右下角定时刷新该股票信息。,通用,Ptrrr,https://getquicker.net/User/346284/Ptrrr,38.4 KB,2024-12-05 13:38,1,"1、修复条数小于5时报错问题。
+2、添加每日首次运行处于非股票交易时段的提醒功能",2024-12-07
 Run Code,https://getquicker.net/Sharedaction?code=adfb2866-6076-4665-1c4a-08dceffdf6a6,测试剪贴板中的代码片段，支持 Photoshop 和 Illustrator。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,22.6 KB,2024-10-19 13:54,2,~. 如果代码测试成功，保持代码在剪贴板中。,2024-12-07
 空白符替换,https://getquicker.net/Sharedaction?code=f4978545-0f74-485e-9ddf-08db1b743bf2,替换复制文本中的空白符为自定义符号,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,5.5 KB,2023-03-03 14:48,7,增加错误提示,2024-12-07
 极简待办,https://getquicker.net/Sharedaction?code=ddeb8109-f17b-43e1-8912-08dc5a32504a,一个极简的待办清单，极简版GTD。现在新增【微信模式】。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,453.7 KB,2024-04-12 23:22,36,【优化】微信模式下默认宽度在Windows11下过窄的问题。,2024-12-07
