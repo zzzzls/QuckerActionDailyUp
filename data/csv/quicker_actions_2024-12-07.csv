@@ -1,0 +1,27 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+巴德日期时间输入,https://getquicker.net/Sharedaction?code=87e4f28d-66fd-4f67-b674-08dc8c86488e,争做最强的日期时间输入动作!!!,通用,Bader,https://getquicker.net/User/135289/Bader,16.4 KB,2024-06-15 10:40,5,1. 增加徽标,2024-12-08
+巴德随机输入,https://getquicker.net/Sharedaction?code=c2423f86-f22c-4cb4-e356-08dc7e4881b3,生成随机数、颜色、人名、手机号、邮箱、URL等,通用,Bader,https://getquicker.net/User/135289/Bader,115.2 KB,2024-05-28 08:43,16,1. 增加六十四卦,2024-12-08
+巴德繁简,https://getquicker.net/Sharedaction?code=05bc6aee-0764-4f26-43d6-08dcd318a5f5,繁体转简体、简体转繁体、互转,通用,Bader,https://getquicker.net/User/135289/Bader,62.1 KB,2024-09-13 01:20,5,1. 修复自定义词表为空时动作运行失败的问题,2024-12-08
+当前进程关闭,https://getquicker.net/Sharedaction?code=c2968bf2-52a6-44fe-d615-08dc842a79c6,结束当前进程,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,15.3 KB,2024-06-04 19:55,11,+ 增加对抖音PC版的适配,2024-12-08
+PS高能翻译,https://getquicker.net/Sharedaction?code=5f6dbb34-f710-4dca-13de-08dcb55b45cc,调用DeepLx，免费的多语言PS图层翻译器,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,59.2 KB,2024-08-06 09:56,11,2024年12月7日16:41:21,2024-12-08
+关闭所有文件夹,https://getquicker.net/Sharedaction?code=c204084f-67a7-44c8-b602-08dd165d6719,关闭所有文件夹，但保留第一个不关闭,Windows 资源管理器,灵运,https://getquicker.net/User/17023/%E7%81%B5%E8%BF%90,531 B,2024-12-07 16:11,1,1,2024-12-08
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/140搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,388.9 KB,2023-03-25 00:27,294,"感谢用户反馈@Kenhalid
+优化路径",2024-12-08
+划词朗读,https://getquicker.net/Sharedaction?code=c4c618b8-eaf2-4171-3185-08dcfad1e82e,划词朗读/免费/61种音色/晓晓/晓伊/云健/云希/云夏/云扬,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,53 KB,2024-11-02 23:44,11,YH,2024-12-08
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,172.9 KB,2024-05-09 20:07,93,"感谢用户反馈@panpan1
+ocr将图片重命名改为支持仅复制识别结果
+右键菜单支持关闭选中图片不识别重命名",2024-12-08
+JetBrains激活码,https://getquicker.net/Sharedaction?code=3e2285a4-18df-485b-b600-08dd165d6719,激活码来自第三方分享,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,2.1 KB,2024-12-07 15:04,1,更新图标,2024-12-08
+快捷表情包,https://getquicker.net/Sharedaction?code=78a0f097-3f08-48b0-a7d4-08da0d29ee7c,一站式表情输入方案（又名小鹤表情包）,通用,风未知,https://getquicker.net/User/59944/%E9%A3%8E%E6%9C%AA%E7%9F%A5,59.5 KB,2022-03-24 17:13,11,"- 因 QQ 9.9.17-30366 版本包含路径的图片会被视为文件，添加了两种新的图片写入方式
+- 现在 quicker 文本指令导出后会定位到导出的文件
+- 增加了小鹤音形词库导入的延迟，增强稳定性",2024-12-08
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,441.9 KB,2023-12-05 00:57,62,~增加“gif帧率”设置选项。针对录指出的gif播放速度较慢的用户尝试可控调节gif播放速度。【测试阶段，无效可反馈】,2024-12-08
+视频解析下载,https://getquicker.net/Sharedaction?code=b8b9d745-a528-4984-057a-08dc0558572f,输入链接自动解析下载,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,99.2 KB,2023-12-26 17:31,23,"修复自动反馈
+重要信息隐藏调试输出",2024-12-08
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,333.7 KB,2023-05-29 20:30,68,修复“……”转换出错的问题。,2024-12-08
+更新动作窗口,https://getquicker.net/Sharedaction?code=e9a32b4d-0562-4d20-86f8-08dceb3bdfc8,更新Quicker动作时，自动勾选必要选项与聚焦输入框。,Quicker,EC10010,https://getquicker.net/User/2997/EC10010,34.3 KB,2024-10-13 16:19,14,适配新版Quicker。,2024-12-08
+键鼠录制\n动作生成,https://getquicker.net/Sharedaction?code=ca376641-f622-4b0e-b5f3-08dd165d6719,键鼠录制完成后。将其生成为可粘贴于面板上的动作。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,16 KB,2024-12-07 10:04,0,,2024-12-08
+常用语,https://getquicker.net/Sharedaction?code=e3bb193a-0532-4dd6-6508-08d80475d9d3,快捷发送常用文本、图片、文件，可用于收藏笔记素材、客服模板、资料信息、自定义短语、 表达式等等...,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,309.1 KB,2020-05-31 20:58,46,- 修复：原始文本块的问题,2024-12-08
+常用语（新版）,https://getquicker.net/Sharedaction?code=1a8e7553-76e9-4527-66d7-08dbaa91cef1,快捷短语的极致操作，兼容原版数据。,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,397 KB,2023-09-02 08:18,22,"v1.9.1 (2024-12-07)
+- 修复：原始文本块的问题",2024-12-08
+FS编辑,https://getquicker.net/Sharedaction?code=2bddf517-b50f-4809-9a0b-08dca25b1344,将图片导入到FSCapture编辑器（FastStone Editor）,FastStone Capture,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,187.5 KB,2024-07-12 23:04,3,V3 适配Weixin.exe（微信测试版）。,2024-12-08
