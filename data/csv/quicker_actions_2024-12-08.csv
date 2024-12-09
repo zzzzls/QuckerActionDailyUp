@@ -1,0 +1,18 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+网址绑定,https://getquicker.net/Sharedaction?code=6b43e687-1918-4a9c-f1bd-08dd17617d76,绑定网址，如果浏览器已经打开该网址，则激活切换；未打开，则打开网址,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,47.9 KB,2024-12-08 22:09,1,[~]修复部分Bug,2024-12-09
+合并贴图,https://getquicker.net/Sharedaction?code=407ba61c-e269-4d56-f1be-08dd17617d76,合并选中区域内的Quicker贴图，保留透明度,通用,FaniX,https://getquicker.net/User/52603/FaniX,31.7 KB,2024-12-08 22:22,0,,2024-12-09
+Excel导出图片,https://getquicker.net/Sharedaction?code=95290699-1987-42be-b63c-08dd165d6719,批量导出Excel图片到同名文件夹中,Microsoft Excel,wilsons,https://getquicker.net/User/389684/wilsons,12.5 KB,2024-12-08 13:04,1,更新动作名，修改一些细节。,2024-12-09
+短语助手,https://getquicker.net/Sharedaction?code=141484dc-2e0f-480b-946d-08dd0cee64cd,添加触发词，快捷输入对应内容,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,265.7 KB,2024-11-25 17:08,6,"增加:
+emoji表情输入   更新口令后输入emoji触发即可输入表情",2024-12-09
+可视化复制,https://getquicker.net/Sharedaction?code=a7541a4a-ef30-4172-e334-08dd0733f195,获取选中的内容。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,195.2 KB,2024-11-18 16:13,31,优化。,2024-12-09
+网页提问AI,https://getquicker.net/Sharedaction?code=8567de17-2c44-4963-f1b8-08dd17617d76,选中文字提问后，在浏览器网页中自动发送问题,Microsoft Edge,IDongYou,https://getquicker.net/User/945782/IDongYou,75.3 KB,2024-12-08 19:43,0,,2024-12-09
+Quicker托盘菜单,https://getquicker.net/Sharedaction?code=00bf51f4-904f-4f9a-ad7a-08dd15875f2b,最大程度实现原貌。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,58 KB,2024-12-06 20:51,9,.,2024-12-09
+《人民日报》,https://getquicker.net/Sharedaction?code=1f6d216f-11fc-40f9-d5fe-08d8c568e0cd,风云变幻，沧海孤舟。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,65.6 KB,2021-01-31 12:27,15,修复。,2024-12-09
+工作区展开,https://getquicker.net/Sharedaction?code=4e81267a-e064-41c3-85ed-08dcf8c7ad5e,一键打开多个软件/文件/网页，支持单/多虚拟桌面，支持分组工作区，,通用,Yokior,https://getquicker.net/User/1040030/Yokior,338.8 KB,2024-10-30 20:27,6,"[feat]新增动作传入参数为 start:工作区名称 时打开对应工作区
+[bugfix]重命名工作区后后续的提示信息没有更改",2024-12-09
+插入图片VBA,https://getquicker.net/Sharedaction?code=85d6ab62-722e-4208-9a27-08dc72f0e55e,通过VBA在ppt中插入图片，优点：插入的图片自动缩小。,Microsoft PowerPoint,原++,https://getquicker.net/User/189784/%E5%8E%9F__,6.4 KB,2024-05-13 16:36,1,插入后自动选中图片,2024-12-09
+以字搜图,https://getquicker.net/Sharedaction?code=8b67e4ea-5086-48c7-cf50-08dce2c29e2a,本地图片搜索/搜索图片上的文字,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,142 KB,2024-10-03 09:56,9,重构逻辑，使用更便捷,2024-12-09
+快速网页,https://getquicker.net/Sharedaction?code=f31c8a48-1080-4afd-807e-08dcf2fec074,网页收藏快速打开，支持APP模式，默认浏览器正常打开，Quicker WebView2打开。,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,24.4 KB,2024-10-23 10:14,2,+ 优先响应自动添加步骤,2024-12-09
+WizTree,https://getquicker.net/Sharedaction?code=5eb5f355-53b8-48d5-0e9a-08dd0080705b,WizTree 是一个非常高速的磁盘空间分析工具。它可以扫描你的硬盘，并显示哪些文件和文件夹使用了最多的硬盘空间。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,133.5 KB,2024-11-10 15:27,5,[-] 取消更新提示弹窗，改成静默下载,2024-12-09
+Grok,https://getquicker.net/Sharedaction?code=ba70cdcd-1f43-43aa-b639-08dd165d6719,Quicker版 Grok 客户端,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,34.7 KB,2024-12-08 01:49,0,,2024-12-09
+巴德木鱼,https://getquicker.net/Sharedaction?code=cbd84d24-7814-47ab-b638-08dd165d6719,功德+1,通用,Bader,https://getquicker.net/User/135289/Bader,1.5 KB,2024-12-08 00:14,0,,2024-12-09
