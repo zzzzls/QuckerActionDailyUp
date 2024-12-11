@@ -1,0 +1,32 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+QuickerGPT,https://getquicker.net/Sharedaction?code=025f5b44-8ddb-4823-450b-08dd183b8d4e,一个轻量化的基于Quicker的GPT. 可以像Sider一样划词提问，简单易用。,通用,duzh,https://getquicker.net/User/104936/duzh,55.6 KB,2024-12-09 19:32,8,修复输入模式下不显示内容的bug,2024-12-11
+自动round,https://getquicker.net/Sharedaction?code=259d60dc-748c-4caa-3230-08dcbf54dccb,Excel中，为单元格自动添加round函数，右键设置保留的位数。,WPS Office,林青雀,https://getquicker.net/User/181402/%E6%9E%97%E9%9D%92%E9%9B%80,7.8 KB,2024-08-19 17:10,3,修改bug,2024-12-11
+番茄钟,https://getquicker.net/Sharedaction?code=1180b713-be90-4f4f-f1bf-08dd17617d76,以任务为单位，设置番茄钟，计时及返回统计数据,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,256.6 KB,2024-12-08 22:40,3,"修复：
+	点击烂番茄后计时窗口标题计数缺少一次
+新增：
+	1. 任务记录窗口筛选指定日期任务
+	2. 筛选指定日期任务统计数据
+	3，任务笔记窗口和历史记录窗口分别样式设置
+优化：
+	1. 历史记录排版  更紧凑，更美观",2024-12-11
+可视化复制,https://getquicker.net/Sharedaction?code=a7541a4a-ef30-4172-e334-08dd0733f195,获取选中的内容。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,207.6 KB,2024-11-18 16:13,33,【忽略】空分组中自动生成的“空”，在“批量删除与分组”的界面中不显示出来。,2024-12-11
+spawn,https://getquicker.net/Sharedaction?code=7722ac05-44a1-4c9a-4545-08dd183b8d4e,复制chrome浏览器标签页窗口,Google Chrome,Callingforwind,https://getquicker.net/User/910661/Callingforwind,18.1 KB,2024-12-10 18:25,0,,2024-12-11
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,628.9 KB,2021-05-23 17:54,139,【新】贴边自动收纳：动作右键菜单➟贴边自动收纳。开启后效果：贴图靠近屏幕右侧边缘，则自动收纳至屏幕内部；鼠标靠近，则自动弹出。不想贴图占据屏幕空间时，建议开启。,2024-12-11
+记事本Pro,https://getquicker.net/Sharedaction?code=ab775dcc-9b8b-401b-f1c6-08dd17617d76,即时笔记本，分组显示、文本搜索、图片搜索、OCR收集文本，高效利用系统记事本,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,324.4 KB,2024-12-09 09:40,3,优化~,2024-12-11
+商标快查,https://getquicker.net/Sharedaction?code=94c2ab15-2c5d-4438-ce2a-08dd0dc8eae4,输入关键词快速查询商标。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,8.3 KB,2024-11-27 10:21,5,删除不必要的变量,2024-12-11
+日期文件夹,https://getquicker.net/Sharedaction?code=37193c2c-eceb-488d-ce03-08dd0dc8eae4,在Directory Opus中快速新建日期文件夹。,Directory Opus,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,2 KB,2024-11-26 11:18,1,调整变量,2024-12-11
+网址绑定,https://getquicker.net/Sharedaction?code=6b43e687-1918-4a9c-f1bd-08dd17617d76,绑定网址，如果当前浏览器已经打开该网址，则切换；,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,48.6 KB,2024-12-08 22:09,2,"+ 新增随机图标列表，获取网址图标为空时将自动从里面抽取，可在右键菜单进行添加删除
+= 修改云状态存取名称，云存取只支持网址，暂时不支持随机图标列表
+~ 修复一些细节 Bug，现在动作超级丝滑好用，欢迎尝试",2024-12-11
+直达常用网址,https://getquicker.net/Sharedaction?code=454924a3-7f7e-4d00-ca94-08dc99cfb00d,选中商品ID，即可直达常用网址,通用,Gavin_2024,https://getquicker.net/User/985961/Gavin_2024,121.3 KB,2024-07-02 15:41,14,2024年12月10日13:36:21更新,2024-12-11
+简单图像,https://getquicker.net/Sharedaction?code=883f657f-9a78-4099-a94d-08dd053c3ee0,"对单张或多张图片批量处理,旋转,翻转,灰度黑白化,二值化,负片反色,输出到新建子文件夹中,不影响原图片",Windows 资源管理器,铂略,https://getquicker.net/User/291371/%E9%93%82%E7%95%A5,16.8 KB,2024-11-16 11:39,2,添加透明边框功能,2024-12-11
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,455 KB,2024-05-10 17:42,34,调整：取消版本29新增的找回功能，以避免与笔记的菜单操作冲突。,2024-12-11
+Kimi,https://getquicker.net/Sharedaction?code=a0c096c6-4bda-4cdb-b5f5-08dd165d6719,通过 API 调用 Kimi，支持连续对话，内置了一些经过精心挑选和设计的角色提示词，欢迎大家体验~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,150 KB,2024-12-07 11:10,3,[=] 修改默认的参数,2024-12-11
+OCR-加减乘除,https://getquicker.net/Sharedaction?code=1b6df97b-e09b-407d-19c1-08dcda336f81,提取 OCR 识别结果中的『数字』，进行加减乘除或求平均值、最大值、最小值,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,113.5 KB,2024-09-22 23:25,7,[=] 修改截图顺序,2024-12-11
+常用网址,https://getquicker.net/Sharedaction?code=4e3b3161-04c9-4177-a137-08dc6ffecc18,APP 模式打开常用网址,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,9.2 KB,2024-05-09 21:30,3,~ 修改了云状态名称,2024-12-11
+Chrome打开,https://getquicker.net/Sharedaction?code=42a7256b-a4e3-4c91-9a35-08dc72f0e55e,用 Chrome 打开当前浏览器窗口的单个标签页，按住 Ctrl 键运行将打开所有标签页,Microsoft Edge,Kenhalid,https://getquicker.net/User/977787/Kenhalid,23.7 KB,2024-05-13 20:01,2,"+ 新增简易模式和智能模式，具体看简介
++ 多开标签页时新增提示：已打开标签页数量",2024-12-11
+Edge打开,https://getquicker.net/Sharedaction?code=63f51c69-47fc-4007-9a34-08dc72f0e55e,用 Edge 打开当前浏览器的单个标签页，按住 Ctrl 键运行将打开所有标签页,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,23.7 KB,2024-05-13 19:45,5,+ 多开标签页时新增提示：已打开标签页数量,2024-12-11
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/180搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,379.2 KB,2023-03-25 00:27,304,.,2024-12-11
+巴德钓鱼,https://getquicker.net/Sharedaction?code=4c9c77f9-f2fc-4967-451c-08dd183b8d4e,钓鱼休闲小游戏,通用,Bader,https://getquicker.net/User/135289/Bader,22.6 KB,2024-12-10 00:24,1,1. 增加鱼类,2024-12-11
+多Ai搜索,https://getquicker.net/Sharedaction?code=0bec974a-fe67-4b23-36a3-08dd1295b1db,使用选中文本执行多个ai搜索，或者直接打开ai,Microsoft Edge,芸yume,https://getquicker.net/User/1178702/%E8%8A%B8yume,12.4 KB,2024-12-03 17:03,1,修正了之前天工Ai使用时无法自动回车提问的问题,2024-12-11
