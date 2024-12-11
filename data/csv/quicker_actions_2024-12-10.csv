@@ -18,9 +18,7 @@ spawn,https://getquicker.net/Sharedaction?code=7722ac05-44a1-4c9a-4545-08dd183b8
 网址绑定,https://getquicker.net/Sharedaction?code=6b43e687-1918-4a9c-f1bd-08dd17617d76,绑定网址，如果当前浏览器已经打开该网址，则切换；,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,48.6 KB,2024-12-08 22:09,2,"+ 新增随机图标列表，获取网址图标为空时将自动从里面抽取，可在右键菜单进行添加删除
 = 修改云状态存取名称，云存取只支持网址，暂时不支持随机图标列表
 ~ 修复一些细节 Bug，现在动作超级丝滑好用，欢迎尝试",2024-12-11
-直达常用网址,https://getquicker.net/Sharedaction?code=454924a3-7f7e-4d00-ca94-08dc99cfb00d,选中商品ID，即可直达常用网址,通用,Gavin_2024,https://getquicker.net/User/985961/Gavin_2024,121.3 KB,2024-07-02 15:41,14,2024年12月10日13:36:21更新,2024-12-11
 简单图像,https://getquicker.net/Sharedaction?code=883f657f-9a78-4099-a94d-08dd053c3ee0,"对单张或多张图片批量处理,旋转,翻转,灰度黑白化,二值化,负片反色,输出到新建子文件夹中,不影响原图片",Windows 资源管理器,铂略,https://getquicker.net/User/291371/%E9%93%82%E7%95%A5,16.8 KB,2024-11-16 11:39,2,添加透明边框功能,2024-12-11
-记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,455 KB,2024-05-10 17:42,34,调整：取消版本29新增的找回功能，以避免与笔记的菜单操作冲突。,2024-12-11
 Kimi,https://getquicker.net/Sharedaction?code=a0c096c6-4bda-4cdb-b5f5-08dd165d6719,通过 API 调用 Kimi，支持连续对话，内置了一些经过精心挑选和设计的角色提示词，欢迎大家体验~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,150 KB,2024-12-07 11:10,3,[=] 修改默认的参数,2024-12-11
 OCR-加减乘除,https://getquicker.net/Sharedaction?code=1b6df97b-e09b-407d-19c1-08dcda336f81,提取 OCR 识别结果中的『数字』，进行加减乘除或求平均值、最大值、最小值,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,113.5 KB,2024-09-22 23:25,7,[=] 修改截图顺序,2024-12-11
 常用网址,https://getquicker.net/Sharedaction?code=4e3b3161-04c9-4177-a137-08dc6ffecc18,APP 模式打开常用网址,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,9.2 KB,2024-05-09 21:30,3,~ 修改了云状态名称,2024-12-11
