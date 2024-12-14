@@ -1,0 +1,41 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+降噪+增益,https://getquicker.net/Sharedaction?code=ee1769a5-fb34-4de2-953e-08dd1b1aea78,后台触发GoldWave菜单【特效】【过滤-噪音门】和【音量-自动增益】,GoldWave Digital Audio Editor,lysic,https://getquicker.net/User/52299/lysic,6.8 KB,2024-12-13 23:26,0,,2024-12-14
+快速预览,https://getquicker.net/Sharedaction?code=543493ba-69f1-4430-9538-08dd1b1aea78,快速预览，相当于内置快捷键Ctrl+Q,Total Commander,myhan,https://getquicker.net/User/467528/myhan,651 B,2024-12-13 20:44,0,,2024-12-14
+Bandizip解(压)缩,https://getquicker.net/Sharedaction?code=ee3b6ddd-ee9b-4545-43d0-08dcd318a5f5,调用已安装的Bandizip提供的API实现的快捷解(压)缩动作,Windows 资源管理器,AzureHearted,https://getquicker.net/User/577696/AzureHearted,92.3 KB,2024-09-13 00:31,22,右键菜单新增‘扩展名列表’选项，允许用户添加非常规压缩包扩展名，使该文件能够被识别为压缩包类型。,2024-12-14
+备份状态数据,https://getquicker.net/Sharedaction?code=a1fd9fc8-d4fe-44d7-9535-08dd1b1aea78,动作本地状态数据没了，可真伤不起！每天备份一下，足够应付意外。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,18.9 KB,2024-12-13 18:48,0,,2024-12-14
+Quicker托盘菜单,https://getquicker.net/Sharedaction?code=00bf51f4-904f-4f9a-ad7a-08dd15875f2b,最大程度实现原貌。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,65.1 KB,2024-12-06 20:51,10,允许编辑。,2024-12-14
+远程控制简易版,https://getquicker.net/Sharedaction?code=4e31c817-5217-40ca-f29a-08dc4938cae7,"一个简易版的远程控制, 请勿改名, 被控端也需要安装, 可用本机远程控制本机进行测试",通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,66.4 KB,2024-03-21 10:53,7,推送码经过url编码避免特殊字符导致推送码错误,2024-12-14
+PSCcolor,https://getquicker.net/Sharedaction?code=2c49c4e7-e432-4e20-0b6b-08dcc40d7cd7,设计师辅助神器，智能识别颜色，自动分析图片配色方案。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,126.8 KB,2024-08-25 00:20,3,2024年12月13日17:41:25,2024-12-14
+动作恢复,https://getquicker.net/Sharedaction?code=50e3a1e6-a617-43a9-0e86-08dd0080705b,动作编辑页面启动动作时自动备份，或者定时备份，方便动作BUG造成的Quicker崩溃和没保存动作时的恢复,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,39.1 KB,2024-11-09 22:15,7,优化本地恢复,2024-12-14
+文本悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本悬浮，点击后快速复制。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,29.7 KB,2024-11-27 16:20,14,可通过右键管理历史记录，修改、清空等。,2024-12-14
+收藏,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,「 告别快捷方式，清空桌面文件，更多功能等你来探索~」,通用,dalou,https://getquicker.net/User/76824/dalou,326 KB,2024-05-16 08:46,18,优化,2024-12-14
+收藏夹,https://getquicker.net/Sharedaction?code=fcb7ae30-a1a6-47f1-6974-08dcf3c64be6,纵向菜单。方便收藏关于一个主题的各种东西。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,541.3 KB,2024-10-25 12:30,4,.,2024-12-14
+uMinis,https://getquicker.net/Sharedaction?code=6b39606a-e2f9-4785-849d-08daf13f5a77,元素聚合。可收藏动作、文件夹、软件、网页、文本等。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,576.5 KB,2023-01-09 07:54,122,.,2024-12-14
+短语助手,https://getquicker.net/Sharedaction?code=141484dc-2e0f-480b-946d-08dd0cee64cd,添加触发词，快捷输入对应内容,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,327.2 KB,2024-11-25 17:08,9,"修复: 时间短语与emoji被计算入词频统计的错误
+新增：
+	1. 自定义emoji列表，在短语变量emoji窗口中修改（注意，emoji列表不会备份，如有需要，自行保存，清空则恢复默认emoji）
+	2. 钉住面板功能，选词后面板不会消失(注意！！钉住面板输入的时间短语不会更新)
+	3. 全局 相同触发词下快捷触发呼出的面板，可通过全局选项进入全部短语列表面板",2024-12-14
+商标样生成器,https://getquicker.net/Sharedaction?code=1556f80d-bfd7-4c1c-fdc8-08dd1a373a0d,输入文字，生成商标标样图片。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,11.9 KB,2024-12-12 14:29,5,结果提醒显示字体大小,2024-12-14
+图片卡片,https://getquicker.net/Sharedaction?code=b32974c9-7f33-4916-9528-08dd1b1aea78,drawlink生成网址的分享卡片,Microsoft Edge,joie,https://getquicker.net/User/235348/joie,1.3 KB,2024-12-13 11:57,0,,2024-12-14
+极速便签,https://getquicker.net/Sharedaction?code=624a73f8-1ce4-4860-9527-08dd1b1aea78,创建一个可以随意编辑，即开即用，即关即走的文字便签。,通用,Hegg,https://getquicker.net/User/1146661/Hegg,70.1 KB,2024-12-13 11:53,0,,2024-12-14
+巴德一天都干了啥,https://getquicker.net/Sharedaction?code=0c3aac35-a2ca-49c0-c17d-08dc3cd0cba5,每天记录工作日志都让我烦的透透的，因此写个动作每隔一段指定的时间就询问我都做了什么，并将其记录在文件中，当需要写周报、月报、年报时进行工作总结时进行参考。,通用,Bader,https://getquicker.net/User/135289/Bader,39.7 KB,2024-03-06 14:23,8,1. 去除冗餘提示,2024-12-14
+知产修图,https://getquicker.net/Sharedaction?code=52714a4b-eec0-46d4-0d5a-08dd193c41bc,批量修改图片尺寸，以符合专利、商标申请要求。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,36.7 KB,2024-12-11 14:43,10,增加图片去色黑白化功能,2024-12-14
+CAD副本保存,https://getquicker.net/Sharedaction?code=700a4de4-be4c-405e-9523-08dd1b1aea78,除了系统自带的保存外，叠加一个增量副本保存,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,27.1 KB,2024-12-13 11:09,0,,2024-12-14
+移至剪贴板,https://getquicker.net/Sharedaction?code=6e95b043-1f95-4f56-f8f0-08dd0fae75f2,将选中的文件移动至以剪贴板内容命名的新建文件夹。,Windows 资源管理器,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,18.8 KB,2024-11-29 09:47,7,修复文件名导致创建文件夹失败的bug,2024-12-14
+图片快压,https://getquicker.net/Sharedaction?code=b370b7eb-6915-4b03-9520-08dd1b1aea78,"批量压缩图片,不调用外部依赖,不改变分辨率。",通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,15.5 KB,2024-12-13 10:31,1,调整说明,2024-12-14
+记事本Pro,https://getquicker.net/Sharedaction?code=ab775dcc-9b8b-401b-f1c6-08dd17617d76,全新笔记本，分组显示、文本搜索、图片搜索、OCR收集文本,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,334.2 KB,2024-12-09 09:40,5,几处细节优化,2024-12-14
+Windows超级管理器,https://getquicker.net/Sharedaction?code=1ac7e548-2bc1-4eac-fde3-08dd1a373a0d,Windows超级管理器 是一款免费功能强大的系统管理软件。其提供全面的系统检测，如CPU实时监控，电脑垃圾处理，自启动管理，文件粉碎，可高效地查看及了解计算机参数配置；而且附带多个实用的工具功能，算是开发者、电脑小白管理系统最佳利器。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,133.4 KB,2024-12-13 07:36,0,,2024-12-14
+关闭Chrome,https://getquicker.net/Sharedaction?code=cd5b9b63-01e0-41e5-ce25-08dd0dc8eae4,关闭所有标签页，清除浏览数据，关闭 Chrome,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,5.5 KB,2024-11-27 02:12,1,= 关闭APP模式打开的网址时不进行浏览数据清除，如果当前Chrome窗口有多个，只有当关闭最后一个的时候会进行历史记录和缓存的清除，搭配下拉的鼠标手势很方便且不影响,2024-12-14
+"文本朗读,文本转语音",https://getquicker.net/Sharedaction?code=18c41ca4-3b44-41b7-99b9-08dcff9008ea,"TTS,文本朗读,文本转音频,翻译,ocr识图,AI有声对话",通用,onlyclxy,https://getquicker.net/User/595242/onlyclxy,178.4 KB,2024-11-09 02:44,9,增加蓝色皮肤,2024-12-14
+Emoji神器,https://getquicker.net/Sharedaction?code=6e5d58cf-f36a-4abc-3636-08db12123b2f,也许是最好用的Emoji表情工具/内置2700Emoji/选词实时搜Emoji,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,74 KB,2023-02-19 14:34,42,*,2024-12-14
+打开AI聊天,https://getquicker.net/Sharedaction?code=4bb2694a-ea0d-4273-ebc2-08dc1c8bc2af,纯免费的AI聊天窗口,通用,onlyclxy,https://getquicker.net/User/595242/onlyclxy,4.5 KB,2024-01-24 15:15,3,"分辨率降低, 动作修复bug",2024-12-14
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,175.9 KB,2024-05-09 20:07,96,支持字体大小设置,2024-12-14
+文本处理,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,15.5 KB,2024-07-30 20:09,31,"感谢用户反馈
+@Ismar
+@chaylun
+支持设置默认字体大小",2024-12-14
+图片处理,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,379.1 KB,2024-06-06 00:01,67,水印优化、,2024-12-14
+智能备份,https://getquicker.net/Sharedaction?code=8dfe1e68-33f0-4329-14ae-08da4a84097c,笔记的最好伴侣，从此数据无忧,SuperMemo 18,风未知,https://getquicker.net/User/59944/%E9%A3%8E%E6%9C%AA%E7%9F%A5,589.8 KB,2022-06-11 12:26,182,"- 修复了 git 上传失败时也会更新徽标中 git 备份时间的 bug
+- 为设置中的备份文件夹路径选项增加了注释，以下是增加的注释内容：
+“建议 supermemo 用户备份整个文件夹，如果只备份集合文件夹可能会导致恢复后打开其他集合”",2024-12-14
