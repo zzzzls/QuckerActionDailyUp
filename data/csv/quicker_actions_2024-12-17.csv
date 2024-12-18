@@ -1,32 +1,33 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+SY-link,https://getquicker.net/Sharedaction?code=65079b38-7273-4b05-b498-08d9e9132325,思源笔记+everything链接本地文件,Windows 资源管理器,卍,https://getquicker.net/User/11180/%E5%8D%8D,4.3 KB,2022-02-06 22:40,3,处理文件夹名字带“.”,2024-12-18
 定位文件,https://getquicker.net/Sharedaction?code=89b8144b-9faa-4631-2585-08da81790731,打开运行中的文档所在文件夹，支持大部分软件，可自定义窗口识别规则。,通用,hustrjh,https://getquicker.net/User/449681/hustrjh,129.6 KB,2022-08-19 22:49,18,"【优化】
 1、针对部分软件窗口将过长文件名省略为...的情况，改进文件定位能力。
 【新增】
 1、默认规则新增迅捷PDF编辑器的文件定位。
 感谢网友 CHL~ 的热心反馈。",2024-12-18
-【云朔】文件夹美化,https://getquicker.net/Sharedaction?code=eefa2487-12b9-4367-310e-08dd0af731a9,快捷设置文件夹的图标、显示名称、标记、备注,Windows 资源管理器,白云朔,https://getquicker.net/User/1144232/%E7%99%BD%E4%BA%91%E6%9C%94,301.8 KB,2024-11-22 21:11,26,"本次更新内容
-解决问题：
-1.修复收藏图标栏中，已丢失的图标无法被删除的问题。
-2.修复点击已丢失图标时，无法获取图标路径的问题。",2024-12-18
+常用网址,https://getquicker.net/Sharedaction?code=4e3b3161-04c9-4177-a137-08dc6ffecc18,APP 模式打开常用网址,Google Chrome,Kenhalid,https://getquicker.net/User/977787/Kenhalid,26.3 KB,2024-05-09 21:30,4,"+ 按住 Ctrl 键运行或者右键菜单可以自动把网页添加进菜单
++ 用户可以选择“自动添加至菜单末尾”还是手动粘贴至想要的位置
++ 支持 Chrome 和 Edge",2024-12-18
+yt-dlp下载助手,https://getquicker.net/Sharedaction?code=0119e906-e926-4813-953c-08dd1b1aea78,快速添加各种命令，下载视频,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,158.5 KB,2024-12-13 23:12,5,删除掉获取指令右键菜单  集中到命令面板,2024-12-18
 官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,27.8 KB,2024-12-17 10:16,2,增加费减通知、受理通知,2024-12-18
 公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.5 MB,2022-12-06 16:37,226,"横向页码兼容 WPS
 PS：WPS 与 Word 的差异越来越大，以后不再考虑两者的兼容性。由于使用的是 VBA 编写代码，以后只考虑 Word。",2024-12-18
-斗转星移,https://getquicker.net/Sharedaction?code=aa26692f-22da-46fb-0313-08dd1df9631b,Quicker2.0之窗口切换小工具。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,88.9 KB,2024-12-17 14:31,0,,2024-12-18
 表格/文字常用工具2.5,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和Office常用VBA宏指令集[Excel/Word/PPT],WPS Office,Ulookperfect...,https://getquicker.net/User/675682/Ulookperfecttonight,417 KB,2024-05-08 14:47,46,新增动作右键菜单：新增右键下载VBA7.1组件。,2024-12-18
 连续文字识别,https://getquicker.net/Sharedaction?code=b5c66dda-2f2b-4bf3-8e59-08dc6685e603,连续使用OCR文字识别，并将识别结果输出到桌面的同一个txt文件中，不会覆盖之前的内容,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,36 KB,2024-04-27 17:47,11,修复小bug,2024-12-18
 随记,https://getquicker.net/Sharedaction?code=2548702c-e3d2-4afc-48ec-08da0674c009,随时记录，随地使用,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,511.8 KB,2022-03-16 13:49,36,修复数据量过大不显示内容的问题,2024-12-18
+群发消息,https://getquicker.net/Sharedaction?code=96235622-073e-49b3-030e-08dd1df9631b,在微信、钉钉群发消息,WeChat,长于舟,https://getquicker.net/User/857544/%E9%95%BF%E4%BA%8E%E8%88%9F,26.9 KB,2024-12-17 14:03,0,,2024-12-18
+QuickerGPT,https://getquicker.net/Sharedaction?code=025f5b44-8ddb-4823-450b-08dd183b8d4e,一个轻量化的基于Quicker的GPT. 可以像Sider一样划词提问，简单易用。,通用,duzh,https://getquicker.net/User/104936/duzh,60.9 KB,2024-12-09 19:32,10,修复复制只能复制第一次回复的bug,2024-12-18
 隐藏元素,https://getquicker.net/Sharedaction?code=3bcc51e9-51e4-4709-030d-08dd1df9631b,临时隐藏网页元素,Microsoft Edge,Dominic_Yu,https://getquicker.net/User/636973/Dominic_Yu,3.1 KB,2024-12-17 13:34,0,,2024-12-18
 图片翻译,https://getquicker.net/Sharedaction?code=62ea3958-9233-4a49-56c2-08dd03832fac,使用百度图片翻译API进行图片翻译，保留原图排版格式，支持截图翻译、图片文件批量翻译和多语种翻译,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,43.5 KB,2024-11-13 09:33,5,【新增】截图翻译时可设置为翻译对照模式,2024-12-18
 表格识别,https://getquicker.net/Sharedaction?code=d15b27d5-57cb-4f60-9916-08dcff9008ea,选中图片或PDF文件直接提取表格，未选中则截图识别，内置Quicker、腾讯、百度表格识别接口,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,41.2 KB,2024-11-08 14:38,7,【新增】腾讯接口和百度V2接口可从PDF表格文件中提取表格,2024-12-18
 微信静默传输,https://getquicker.net/Sharedaction?code=8381df18-8637-4127-d3b1-08d839ddec45,静默-利用API无需登录PC发送文本/视频/文件至手机微信/企业微信,通用,小胖吉,https://getquicker.net/User/45249/%E5%B0%8F%E8%83%96%E5%90%89,112.1 KB,2020-08-07 12:49,18,修复图片透明时引起的背景消失问题，改为jpg发送截图,2024-12-18
 微信静默传输_群聊,https://getquicker.net/Sharedaction?code=c6b43040-52e1-4c4f-385d-08d90abdb6cd,静默-利用API无需登录PC发送文本/视频/文件至微信/企业微信,通用,小胖吉,https://getquicker.net/User/45249/%E5%B0%8F%E8%83%96%E5%90%89,80.9 KB,2021-04-30 14:53,5,修复因为拓展名png引起的透明度问题，改为jpg截图,2024-12-18
+打开指定的文件夹/文件,https://getquicker.net/Sharedaction?code=f7fc623e-ddcd-430f-0309-08dd1df9631b,用来保存一个路径，方便随时一键打开文件夹或文件，也可以执行指定程序,通用,Aleegod,https://getquicker.net/User/810616/Aleegod,7.2 KB,2024-12-17 11:07,0,,2024-12-18
 收藏,https://getquicker.net/Sharedaction?code=7a9cc299-b64a-4c72-c2f4-08dc74bc40ca,「 搜索框样式的收纳箱，万物一键收藏」,通用,dalou,https://getquicker.net/User/76824/dalou,326.6 KB,2024-05-16 08:46,19,优化：避免搜索框闪烁，提升使用体验,2024-12-18
+钉钉批量删除待办,https://getquicker.net/Sharedaction?code=906f83e9-5427-4ee0-0304-08dd1df9631b,批量删除所有待办,DingTalk,Ulookperfect...,https://getquicker.net/User/675682/Ulookperfecttonight,8.7 KB,2024-12-17 10:13,0,,2024-12-18
 Deepseek AI,https://getquicker.net/Sharedaction?code=42c972a6-c733-4960-0301-08dd1df9631b,Quicker版 Deepseek AI 客户端,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,22.4 KB,2024-12-17 09:34,0,,2024-12-18
 搜索,https://getquicker.net/Sharedaction?code=1f890efe-b87a-461d-02fd-08dd1df9631b,对 OCR 识别的结果文本，一键调用多个搜索引擎进行网页搜索。根据 『动作启动方式』 划分了 3 种不同的搜索引擎列表，方便切换搜索内容类型。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,139.3 KB,2024-12-17 07:05,0,,2024-12-18
 Windows超级管理器,https://getquicker.net/Sharedaction?code=1ac7e548-2bc1-4eac-fde3-08dd1a373a0d,Windows超级管理器 是一款免费功能强大的系统管理软件。其提供全面的系统检测，如CPU实时监控，电脑垃圾处理，自启动管理，文件粉碎，可高效地查看及了解计算机参数配置；而且附带多个实用的工具功能，算是开发者、电脑小白管理系统最佳利器。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,133.4 KB,2024-12-13 07:36,1,[-] 删除多余的代码片段,2024-12-18
 阿里云『搜』,https://getquicker.net/Sharedaction?code=a1ad7b69-58d4-4def-0b70-08dcc40d7cd7,一键搜索阿里云盘资源(懒人必备),通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,63.7 KB,2024-08-25 08:10,7,[+] 新增了 PanSearch 网站，可前往【右键菜单】开启,2024-12-18
 合并CSV,https://getquicker.net/Sharedaction?code=5bff630b-dee1-4b17-02fc-08dd1df9631b,用于合并多个CSV,通用,Cola_inc,https://getquicker.net/User/271344/Cola_inc,9.8 KB,2024-12-17 02:34,0,,2024-12-18
-智能备份,https://getquicker.net/Sharedaction?code=8dfe1e68-33f0-4329-14ae-08da4a84097c,笔记的最好伴侣，从此数据无忧,SuperMemo 18,风未知,https://getquicker.net/User/59944/%E9%A3%8E%E6%9C%AA%E7%9F%A5,598.9 KB,2022-06-11 12:26,186,"- 优化了创建和连接 kopia 储存库时的提示文本
-- 在菜单组 [其他] 中添加一项 “断开 kopia 储存库（用于修复）”，方便对某个少见问题进行修复
-注：这个问题大概是在 onedrive 未完全将 kopia 储存库下载下来时就进行连接导致的，这个问题会导致所有 kopia 命令卡住，例如初始化完成不了、打不开快照列表等。也有可能有其他触发途径",2024-12-18
 浏览器记录备份,https://getquicker.net/Sharedaction?code=aeec48b2-540c-4ba6-fe04-08db64cacbdf,浏览器早期的历史记录总是莫名消失，想再查就很麻烦，于是做了这个，随时记录和查找，每日一次云备份防止记录丢失,Google Chrome,blanka,https://getquicker.net/User/667540/blanka,348.8 KB,2023-06-05 17:32,10,~使用更合适的检索方式，改善完全匹配和部分匹配的检索速度,2024-12-18
