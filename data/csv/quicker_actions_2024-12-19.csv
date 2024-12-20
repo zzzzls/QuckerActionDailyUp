@@ -1,14 +1,12 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-超级菜单,https://getquicker.net/Sharedaction?code=4dfee3f3-4dab-4905-fde2-08dd1a373a0d,根据不同进程弹出不同的超级菜单，可以自动获取文本，文件，文件夹，网址，软件等,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,256 KB,2024-12-13 04:30,10,"+ 为“快捷键”自动补全图标 
-+ “添加至全局列表第几个”等于 -100 时，添加到全局菜单末尾",2024-12-20
 删除,https://getquicker.net/Sharedaction?code=ba97ec02-c281-44de-d4e1-08dc8210ab87,"要还原删除,大海捞针?还原后找不到文件？",Windows 资源管理器,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,64.5 KB,2024-06-01 17:36,26,"字体支持追随主题
 感谢用户反馈@iDenny",2024-12-20
 截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,176.7 KB,2024-05-09 20:07,98,支持将识别结果导入Flomo,2024-12-20
 文本处理,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,16.3 KB,2024-07-30 20:09,33,文本支持保存在Flomo,2024-12-20
+双引号的字体改为方正仿宋_GBK ,https://getquicker.net/Sharedaction?code=5d7a2fd6-6ba0-43d0-ec4c-08dd1fd8e628,将WPS文档里面双引号的字体改为方正仿宋_GBK ,WPS Office,CHOU瑞克,https://getquicker.net/User/993239/CHOU%E7%91%9E%E5%85%8B,1.5 KB,2024-12-19 17:23,0,,2024-12-20
 EVER重命名,https://getquicker.net/Sharedaction?code=19fe14e5-ff6d-46fb-efcb-08d72c3bd710,批量重命名文件（夹），带后悔药功能，可在everything修改。加前后缀，加日期、数字，替换部分，修改结果预览。,通用,Ever,https://getquicker.net/User/2774/Ever,351 KB,2019-08-29 16:59,59,修复加前缀为父目名时，不能正确加上连接符的问题,2024-12-20
+移花接木,https://getquicker.net/Sharedaction?code=69c7bedc-1111-40fa-ec38-08dd1fd8e628,将选中区域的两份数据互相调换位置,Microsoft Excel,铂略,https://getquicker.net/User/291371/%E9%93%82%E7%95%A5,2.1 KB,2024-12-19 14:17,1,改名,2024-12-20
 Muse,https://getquicker.net/Sharedaction?code=672fae1b-d41b-401d-4415-08dcd318a5f5,取色器mini,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,44 KB,2024-09-13 22:16,8,2024年12月19日16:17:42,2024-12-20
-RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,267.6 KB,2024-09-15 18:35,33,"fix 修复初始化教程描述错误
-",2024-12-20
 ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",Zotero,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,1.2 MB,2024-07-11 11:24,80,"新增Gemini API接口
 增加Gemini 逆向API接口",2024-12-20
 图片处理,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,[60种功能处理]GIF/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/批量识别,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,375.4 KB,2024-06-06 00:01,68,"新增百度AI图片助手
@@ -18,20 +16,12 @@ ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca078
 优化微信传输",2024-12-20
 书式生成器,https://getquicker.net/Sharedaction?code=efc95a3a-b6e6-4793-023a-08dd1eefe9dc,一键批量生成知产申请常用的标准书式。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,69.3 KB,2024-12-18 10:16,8,增加专利总委托书,2024-12-20
 拾录记事本,https://getquicker.net/Sharedaction?code=c686b17d-b40d-4631-ee74-08d9ffe2991a,替代电脑记事本，可重复获取选中文本并进行筛选、替换、翻译等等操作的文本处理工具。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,405.5 KB,2022-03-07 13:59,44,~,2024-12-20
-官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,41 KB,2024-12-17 10:16,5,增加软著证书,2024-12-20
-微信步数,https://getquicker.net/Sharedaction?code=acc9af3f-3b99-4c5c-0236-08dd1eefe9dc,一键刷微信步数,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,40.5 KB,2024-12-18 09:52,2,"支持带参数运行临时刷步（不影响保存的设置）
-例如：step=1000,5000
-（本次在1000步和5000步之间随机）",2024-12-20
 智能拼接图片,https://getquicker.net/Sharedaction?code=3de169f6-09a3-4f02-d688-08dcc81fd814,以最小矩形智能拼接图片\n自动添加编号、边框,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,56 KB,2024-08-30 16:05,4,修复报错,2024-12-20
 PixPin截图,https://getquicker.net/Sharedaction?code=7e5703ef-2698-40cb-991b-08dc7a77392c,通过命令行执行PixPin截图操作，内置多种截图模式,pixpin.exe,seekう,https://getquicker.net/User/548126/seek%E3%81%86,56 KB,2024-05-23 20:39,17,【新增】PixPin表格识别（需要开通PixPin会员）,2024-12-20
 下一曲,https://getquicker.net/Sharedaction?code=5861c696-540d-44a8-4a99-08d7f1511d23,"下一曲,适合所有音乐软件，按住ctrl点击动作启动主页面",通用,zdf153,https://getquicker.net/User/20184/zdf153,8.5 KB,2020-05-06 16:10,9,自动获取进程名,2024-12-20
 暂停/播放,https://getquicker.net/Sharedaction?code=9fcc65f5-432a-4576-4a98-08d7f1511d23,"暂停/播放音乐,适合全部音乐软件，按住ctrl点击动作启动主页面",通用,zdf153,https://getquicker.net/User/20184/zdf153,8.5 KB,2020-05-06 16:09,8,自动获取进程名,2024-12-20
 取色器Pro,https://getquicker.net/Sharedaction?code=71d99b97-123f-4cd6-5908-08d96a0d793a,取色器pro 3.0 全局取色，智能填色+智能色板。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,144 KB,2021-08-29 00:54,31,忘记封装了，封装一下。。。,2024-12-20
 记事本Pro,https://getquicker.net/Sharedaction?code=ab775dcc-9b8b-401b-f1c6-08dd17617d76,全新笔记本，分组显示、文本搜索、图片搜索、OCR收集文本,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,343.9 KB,2024-12-09 09:40,6,~ 调整部分菜单名称，更明确,2024-12-20
-在线Ping,https://getquicker.net/Sharedaction?code=f25bf090-f022-4b46-482d-08dc59347e50,itdog 快速ping,Google Chrome,Aimony,https://getquicker.net/User/507794/Aimony,15.2 KB,2024-04-10 19:36,3,"feat
-  自动点击（单次）测试",2024-12-20
-Gitee图床（优化版）,https://getquicker.net/Sharedaction?code=9ad73304-bb53-4443-1df3-08dd1c1023c2,将剪贴板图片或截图上传至自己的Gitee图床，获取图片链接，可设置图片大小限制,通用,Aleegod,https://getquicker.net/User/810616/Aleegod,74.2 KB,2024-12-14 23:32,3,"1. 优化历史上传列表
-2. 增加上传后手动选择链接格式选项",2024-12-20
 剪贴板云同步,https://getquicker.net/Sharedaction?code=259bc7a6-ffe3-4f47-0d8d-08dd193c41bc,利用webdav实现粘贴板同步,通用,Aleegod,https://getquicker.net/User/810616/Aleegod,58.2 KB,2024-12-11 23:21,5,修复了有些webdav无法下载文本的问题,2024-12-20
 知产修图,https://getquicker.net/Sharedaction?code=52714a4b-eec0-46d4-0d5a-08dd193c41bc,批量修改图片尺寸，以符合专利、商标申请要求。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,42.1 KB,2024-12-11 14:43,13,增加说明,2024-12-20
 智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷。迄今最强大的计算器",通用,MarsJack,https://getquicker.net/User/178545/MarsJack,355.3 KB,2024-05-22 14:21,197,优化,2024-12-20
