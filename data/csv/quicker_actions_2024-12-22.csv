@@ -1,7 +1,5 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 QuickerGPT,https://getquicker.net/Sharedaction?code=025f5b44-8ddb-4823-450b-08dd183b8d4e,一个轻量化的基于Quicker的GPT. 可以像Sider一样划词提问，简单易用。,通用,duzh,https://getquicker.net/User/104936/duzh,117.7 KB,2024-12-09 19:32,13,文本框默认使用markdown语法渲染,2024-12-23
-YZM截图,https://getquicker.net/Sharedaction?code=009d346e-8460-421e-e6b7-08dd21b973ee,"截图贴图打码,软件仅3.59MB,开箱即用，绿色便携，无后台残留",通用,zdf153,https://getquicker.net/User/20184/zdf153,3.4 KB,2024-12-22 19:44,1,允许多示例关闭等待,2024-12-23
-浏览器打开,https://getquicker.net/Sharedaction?code=4e9568e2-4e6e-4d53-9cd1-08d945c23a95,使用指定的浏览器打开链接，默认优先级为，选中文本 > 当前浏览器网址 > 手动输入,通用,天有多云转晴,https://getquicker.net/User/9086/%E5%A4%A9%E6%9C%89%E5%A4%9A%E4%BA%91%E8%BD%AC%E6%99%B4,11.3 KB,2021-07-14 14:46,3,- 禁止获取浏览器网址动作后中止动作,2024-12-23
 文本处理,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,18.6 KB,2024-07-30 20:09,36,.,2024-12-23
 截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,182.3 KB,2024-05-09 20:07,105,*,2024-12-23
 安装离线OCR,https://getquicker.net/Sharedaction?code=d8af44f5-1cf5-4726-d8a3-08db8336c661,全自动安装Quicker离线OCR识别引擎包。（自动下载/安装到指定位置）,通用,M-cc,https://getquicker.net/User/521120/M-cc,321.3 KB,2023-07-13 09:31,11,~更新链接失效问题,2024-12-23
@@ -10,9 +8,6 @@ YZM截图,https://getquicker.net/Sharedaction?code=009d346e-8460-421e-e6b7-08dd2
 搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,全能版网络搜索神器/让quicker搜索超级增强/AI对话,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,375.4 KB,2023-10-22 15:24,262,常用类新增轨魅网和肖邦招投标查询,2024-12-23
 常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,235.2 KB,2023-10-18 22:55,96,支持在操作窗搜索该标签下的所有文本,2024-12-23
 番茄钟,https://getquicker.net/Sharedaction?code=1180b713-be90-4f4f-f1bf-08dd17617d76,以任务为单位，设置番茄钟，计时及返回统计数据,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,257 KB,2024-12-08 22:40,4,修复任务笔记保存失效的问题,2024-12-23
-搜索,https://getquicker.net/Sharedaction?code=7ec95694-29e4-4739-8355-08d94406436b,简单好用的网页搜索引擎聚合,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,187.5 KB,2021-07-12 02:31,19,"更新：
-- 支持自定义浏览器
-- 更新“引擎大全”",2024-12-23
 Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/180搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,379.2 KB,2023-03-25 00:27,305,*,2024-12-23
 RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,277.8 KB,2024-09-15 18:35,40,fix 修复 动作启动逻辑,2024-12-23
 扬声器管理,https://getquicker.net/Sharedaction?code=7881616b-c37a-4b4f-3358-08dc372d2e73,管理默认扬声器，切换当前应用的静音，需要 SoundVolumeView 支持,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,32.3 KB,2024-02-27 18:17,19,= 优化切换默认音频时的体验,2024-12-23
