@@ -1,0 +1,29 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Anki制卡助手,https://getquicker.net/Sharedaction?code=28c25894-499d-40a7-29ed-08dd02675474,Anki快速制卡，可以保存四个配置，来回切换，多个字段随意添加,Anki,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,535.7 KB,2024-11-11 23:41,10,"新增: 表格-----文本窗口按钮
+将markdown格式的表格转换为html 添加到anki后显示为表格样式",2024-12-24
+快连线,https://getquicker.net/Sharedaction?code=7cab3e9a-03ed-4c54-cd8c-08dcf0f7f06b,在多个图形之间添加连接线,Microsoft PowerPoint,落日星一,https://getquicker.net/User/624819/%E8%90%BD%E6%97%A5%E6%98%9F%E4%B8%80,10.7 KB,2024-10-21 10:38,1,"1. 当箭头数量为1时跳过组合步骤
+2. 自动聚焦到生成的箭头或箭头组合",2024-12-24
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,468.5 KB,2024-05-10 17:42,37,调整：「更多选项」子菜单兼容性调整。,2024-12-24
+搜索,https://getquicker.net/Sharedaction?code=7ec95694-29e4-4739-8355-08d94406436b,简单好用的网页搜索引擎聚合,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,188.1 KB,2021-07-12 02:31,20,- 优化无关键词时对URI基础部分的获取,2024-12-24
+浏览器打开,https://getquicker.net/Sharedaction?code=4e9568e2-4e6e-4d53-9cd1-08d945c23a95,使用指定的浏览器打开链接，默认优先级为，选中文本 > 当前浏览器网址 > 手动输入,通用,天有多云转晴,https://getquicker.net/User/9086/%E5%A4%A9%E6%9C%89%E5%A4%9A%E4%BA%91%E8%BD%AC%E6%99%B4,13.1 KB,2021-07-14 14:46,4,- 支持在打开网址前进行编辑,2024-12-24
+太玄经,https://getquicker.net/Sharedaction?code=e05070fd-4641-44f6-86c1-08dbf850388a,Quicker2.0之特殊字符大全。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,43.7 KB,2023-12-09 15:41,7,.,2024-12-24
+聊天守护神,https://getquicker.net/Sharedaction?code=67dac4e5-b50a-4355-2a0f-08dd22aefbc5,遮住微信对话列表,WeChat,sharklaka,https://getquicker.net/User/826879/sharklaka,36.3 KB,2024-12-23 15:40,0,,2024-12-24
+极速便签,https://getquicker.net/Sharedaction?code=624a73f8-1ce4-4860-9527-08dd1b1aea78,创建一个可以随意编辑，即开即用，即关即走的文字便签。,通用,Hegg,https://getquicker.net/User/1146661/Hegg,27.5 KB,2024-12-13 11:53,1,"1.修改窗口缩放逻辑，现在窗口初始宽高可以自定义，取消滚轮缩放窗口功能（bug过多）
+2.修改原来的滚轮缩放窗口逻辑为缩放实时文字大小
+3.添加了更多自定义：如字体、文字颜色、右上角圆形控件透明度等功能
+4.新增参数，如果动作参数设置为""空白便签""则打开空白便签，设置为""剪切板""则打开剪切板文字。
+5.空白便签和剪切板内容便签可以通过动作右键菜单打开
+6.默认优先划词便签，如果不选中任何词，则显示剪切板内容，按住ctrl激活动作显示空白便签",2024-12-24
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",Zotero,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,1.3 MB,2024-07-11 11:24,83,"增加字节跳动的画图AI《即梦AI逆向》
+更新各种压缩包软件的下载链接地址",2024-12-24
+Kimi,https://getquicker.net/Sharedaction?code=a0c096c6-4bda-4cdb-b5f5-08dd165d6719,通过 API 调用 Kimi，支持连续对话，内置了一些经过精心挑选和设计的角色提示词，欢迎大家体验~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,153.5 KB,2024-12-07 11:10,6,  [=] 修改了【角色-正则表达式】的提示词，有需要的用户评论区自取,2024-12-24
+DNF 开箱子,https://getquicker.net/Sharedaction?code=c84f988e-6009-484b-9541-08dd1b1aea78,DNF 开箱子，仅作为辅助玩家手动开箱子过程，不支持其它额外破坏性功能。,通用,huasio,https://getquicker.net/User/20962/huasio,406.1 KB,2024-12-14 00:21,12,fix:bug,2024-12-24
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,75.7 KB,2024-12-17 10:16,13,修改部分通知日期命名逻辑,2024-12-24
+YZM截图,https://getquicker.net/Sharedaction?code=009d346e-8460-421e-e6b7-08dd21b973ee,"截图贴图打码,软件仅3.59MB,开箱即用，绿色便携，无后台残留,动作右键可以切换另一个截图工具",通用,zdf153,https://getquicker.net/User/20184/zdf153,5.8 KB,2024-12-22 19:44,2,增加ScreenCapture截图工具,2024-12-24
+公文排版,https://getquicker.net/Sharedaction?code=b988e137-7bc3-4cd3-a7fd-08dad6aa6376,根据党政机关公文国标，利用VBA进行公文排版（支持WORD和WPS）,Microsoft Word,臭冬瓜,https://getquicker.net/User/3249/%E8%87%AD%E5%86%AC%E7%93%9C,1.5 MB,2022-12-06 16:37,228,修复快速一键排版识别文章标题的BUG,2024-12-24
+超级面板,https://getquicker.net/Sharedaction?code=d6ecb355-00c9-4cbf-855f-08dcb927a2ed,Quciker超级面板，智能识别选中的任意文本或文件，执行相应功能,通用,王文铖,https://getquicker.net/User/100745/%E7%8E%8B%E6%96%87%E9%93%96,398.1 KB,2024-08-11 00:17,63,1.修复通知标题,2024-12-24
+按路径运行py,https://getquicker.net/Sharedaction?code=2d44181d-fbe4-4b2d-32b9-08db6880db6d,按传入路径运行python，无窗口后台运行，适合定时任务,通用,用户hCyClxDMAgA,https://getquicker.net/User/606468/%E7%94%A8%E6%88%B7hCyClxDMAgA,1.5 KB,2023-06-09 15:14,1,更新描述,2024-12-24
+网页提问AI,https://getquicker.net/Sharedaction?code=8567de17-2c44-4963-f1b8-08dd17617d76,选中文字提问后，在浏览器网页中自动发送问题,Microsoft Edge,IDongYou,https://getquicker.net/User/945782/IDongYou,79.6 KB,2024-12-08 19:43,2,修复部分问题,2024-12-24
+记事本Pro,https://getquicker.net/Sharedaction?code=ab775dcc-9b8b-401b-f1c6-08dd17617d76,全新笔记本，分组显示、文本搜索、图片搜索、OCR收集文本,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,344.4 KB,2024-12-09 09:40,7,移除新建笔记时的声音提示,2024-12-24
+Dism++,https://getquicker.net/Sharedaction?code=af2c3439-15d9-4501-29fb-08dd22aefbc5,Dism++ 是一款 Windows 系统管理优化工具，它解决了我们安装、维护系统的一大痛点问题——自定义设置和优化。相当于一个“一站式”管理优化工具集。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,143.5 KB,2024-12-23 07:15,0,,2024-12-24
+弹出超级菜单,https://getquicker.net/Sharedaction?code=362ef925-6343-4ab6-e9f8-08db92f9f222,不同程序，弹出不同菜单【使用者少，但是用量大，说明该方式易用好用。】,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,187.4 KB,2023-08-02 15:35,54,1,2024-12-24
