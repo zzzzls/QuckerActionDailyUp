@@ -1,0 +1,15 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+屏幕键盘,https://getquicker.net/Sharedaction?code=561f7500-e211-40f9-3dc8-08dc93290ea3,Winform屏幕键盘,通用,FaniX,https://getquicker.net/User/52603/FaniX,36.2 KB,2024-06-24 11:32,2,"增加记住窗口位置
+ctrl滚轮缩放相对鼠标位置
+键盘开启时触发动作关闭窗口",2024-12-25
+小牛马,https://getquicker.net/Sharedaction?code=6e3ecd5a-7032-4bfb-7eb8-08dd23adddae,目前只支持录制快捷键与鼠标输入（不支持滚轮上下移动），类似“宏”,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,181.6 KB,2024-12-24 20:47,0,,2024-12-25
+结束进程(强力),https://getquicker.net/Sharedaction?code=0b4593a1-0138-433a-5355-08dcb4696e8b,强力结束进程，如果失败则自动调用管理员模式二次查杀,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,102.6 KB,2024-08-05 13:51,12,  [=] 更换托盘刷新程序，经测win10有效,2024-12-25
+删除词组,https://getquicker.net/Sharedaction?code=d741d9de-919f-4c7a-f92f-08dc32749ed3,删除小狼毫码表词组,通用,myhan,https://getquicker.net/User/467528/myhan,13.8 KB,2024-02-21 16:59,1,修改提示消息,2024-12-25
+智核,https://getquicker.net/Sharedaction?code=197f0751-85c1-470c-eba9-08db754ee2c2,AI，智能，效能。原名FlowGPT (AnyGPT)。免费的AI辅助工具、划词提问、翻译、写代码、发送到Flomo、Anki等等,通用,抄书侠(GM),https://getquicker.net/User/206328/%E6%8A%84%E4%B9%A6%E4%BE%A0(GM),845.8 KB,2023-06-26 19:07,208,更新了对话模式过程中如果检测到有代码生成，直接发送到剪贴板，方便直接迭代，从而加快迭代进程。下一步将会汲取Cursor的精彩部分来更新智核。,2024-12-25
+文本对比,https://getquicker.net/Sharedaction?code=8fcf04a1-bf1f-43c4-7e93-08dd23adddae,基于monaco editor 的文本对比，ui很不错,通用,Cea,https://getquicker.net/User/113342/Cea,17.9 KB,2024-12-24 07:59,4,1,2024-12-25
+佐糖抠图,https://getquicker.net/Sharedaction?code=f9441766-3aa8-467a-d174-08da3145f4f0,选中图片，一键抠图，支持批量扣图，免费不限次数,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,28.6 KB,2022-05-09 15:28,9,~优化,2024-12-25
+天翼云盘签到,https://getquicker.net/Sharedaction?code=3bcae77a-6798-497a-c713-08dc695e9b42,天翼云盘签到，每日领取150M永久空间,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,27.3 KB,2024-05-01 08:22,6,+右键查看空间领取记录,2024-12-25
+青梨查询DOI,https://getquicker.net/Sharedaction?code=54540f35-6839-49f4-43e7-08dcd318a5f5,选中或者复制DOI或者标题即可发送到青梨,Google Chrome,zzlb0224,https://getquicker.net/User/1123234/zzlb0224,20.6 KB,2024-09-13 12:38,21,处理一些时间上的不一致，总是出现的问题。,2024-12-25
+全选复制,https://getquicker.net/Sharedaction?code=8f512d8c-dd67-47e9-1388-08d9cf2149ab,全选后复制,通用,闲逛A,https://getquicker.net/User/489948/%E9%97%B2%E9%80%9BA,545 B,2022-01-05 08:22,3,转换为组合动作,2024-12-25
+双击复制双击粘贴,https://getquicker.net/Sharedaction?code=df954e32-2f7c-4a72-2a24-08dd22aefbc5,（需要搭配高级鼠标触发使用）选中后双击右键复制，或者双击右键粘贴。选中文本后双击右键复制，输入框双击右键粘贴最近复制内容。两个不是必要。也可以直接输入框中粘贴以前复制的内容。,通用,用户uVPQef9hBQA,https://getquicker.net/User/1158929/%E7%94%A8%E6%88%B7uVPQef9hBQA,7.8 KB,2024-12-24 03:14,1,修复bug,2024-12-25
+右下选择,https://getquicker.net/Sharedaction?code=46bd5cad-341a-4683-1385-08d9cf2149ab,向右向下选择,Microsoft Excel,闲逛A,https://getquicker.net/User/489948/%E9%97%B2%E9%80%9BA,551 B,2022-01-05 06:48,1,转换为组合动作,2024-12-25
