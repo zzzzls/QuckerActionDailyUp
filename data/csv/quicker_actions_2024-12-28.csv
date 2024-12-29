@@ -1,0 +1,37 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,856.9 KB,2021-06-14 21:07,347,.,2024-12-29
+搜索高亮文本,https://getquicker.net/Sharedaction?code=d921dba6-2546-4fa2-6951-08dcf3c64be6,搜索Word和WPS文字里的高亮文本，支持指定颜色,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,25.7 KB,2024-10-24 14:38,1,"1、右键菜单增加：搜索所有颜色
+2、支持向上查找、向下查找：将鼠标移动至动作悬浮按钮上，滚动鼠标滚轮，通过不同的滚动方向触发不同的查找方向",2024-12-29
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,233.8 KB,2023-12-16 20:13,79,"~ 部分代码重构，优化交互体验：
+1. 对话记录增加滚动动画，更加丝滑
+2. 将窗口数据上下文换为`ObservableObject`，尝试使用MVVM模式（效果就是在界面更新属性确实丝滑了一些）
+
+下一版本计划（目前仍在筹划，部分很难或无法实现的功能将舍弃）：
+- [ ] 支持自定义动作接口通过动作菜单实现在对话输入框上方的工具栏显示按钮，用以快捷调用动作实现特定功能。如：更新配置，上传文件（下一版本将移除自带的上传文件功能，因为各个厂商的接口不同，无法统一，所以这一功能同样交给接口实现）
+- [ ] 继续优化代码逻辑以及界面交互体验……",2024-12-29
+弹出超级菜单,https://getquicker.net/Sharedaction?code=362ef925-6343-4ab6-e9f8-08db92f9f222,不同程序，弹出不同菜单【使用者少，但是用量大，说明该方式易用好用。】,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,189.9 KB,2023-08-02 15:35,61,"增加其他软件的内容自动发送，默认和聊天软件的同步
+也就是点击文本，就能直接回车发送",2024-12-29
+RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,选中任何东西运行动作都会者弹出一个菜单或者直接运行,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,297.3 KB,2024-09-15 18:35,45,- 取消搜索框启动功能，优化动作大小,2024-12-29
+巴德一天都干了啥,https://getquicker.net/Sharedaction?code=0c3aac35-a2ca-49c0-c17d-08dc3cd0cba5,每天记录工作日志都让我烦的透透的，因此写个动作每隔一段指定的时间就询问我都做了什么，并将其记录在文件中，当需要写周报、月报、年报时进行工作总结时进行参考。,通用,Bader,https://getquicker.net/User/135289/Bader,53.6 KB,2024-03-06 14:23,17,1. 去除冗余代码,2024-12-29
+全能窗口调整器,https://getquicker.net/Sharedaction?code=c3715e2a-aa83-42b8-eb81-08daa107cacc,调整窗口的大小、位置、透明度、置顶状态。,通用,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,309.6 KB,2022-09-28 13:25,45,[+] 在右键菜单新增撤消窗口位置/大小调整操作,2024-12-29
+超级菜单,https://getquicker.net/Sharedaction?code=4dfee3f3-4dab-4905-fde2-08dd1a373a0d,根据不同进程弹出不同的超级菜单，可以自动获取文本，文件，文件夹，网址，软件等,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,250.8 KB,2024-12-13 04:30,19,"大更新
++ 新增“图文”标签，用户可以一键发送文本和附件，支持多行文本多个附件
++ 新增文本选择工具“管理和排序”，菜单列表不仅可以在编辑器中修改，也可以可视化编辑
++ “文件”标签提供更改选项，比如“属性”（大小，创建时间），“打开方式”
+~ 优化步骤
+
++ “超级菜单（极速版）已非公开发布，区别请见讨论区”",2024-12-29
+窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,236.5 KB,2024-07-15 17:32,37,"功能优化更新~
+优化：句柄参数新增：""句柄""+任意数字标记，如：句柄1 或句柄2 ，用来绑定不同快捷触发参数，以达到单个快捷方式控制单个窗口的效果；
+新增：动作右键设置，新增窗口定位选项，可记录贴边前的窗口位置，用以配合方向参数+句柄参数，无需移动鼠标至边缘，即可一键隐藏与唤起窗口。",2024-12-29
+文本处理,https://getquicker.net/Sharedaction?code=aa6fe85e-2158-41bd-5406-08db869e99db,程序变量名格式转换，Windows 路径斜杠转换等功能。,通用,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,81.1 KB,2023-07-17 17:24,6,"[+] 新增面板模式
+[+] 新增去除空行",2024-12-29
+天翼云盘签到,https://getquicker.net/Sharedaction?code=3bcae77a-6798-497a-c713-08dc695e9b42,天翼云盘签到，每日领取150M永久空间,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,26.7 KB,2024-05-01 08:22,8,~,2024-12-29
+佳句生成,https://getquicker.net/Sharedaction?code=bc60d149-4b58-407e-02b0-08dd267f7c7b,根据你自己的佳句词典，随记读取一句佳句,通用,皮蛋solo粥,https://getquicker.net/User/1013953/%E7%9A%AE%E8%9B%8Bsolo%E7%B2%A5,12.9 KB,2024-12-28 11:31,0,,2024-12-29
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,264.7 KB,2023-10-18 22:55,102,查询所有搜索结果优化,2024-12-29
+文本对比,https://getquicker.net/Sharedaction?code=8fcf04a1-bf1f-43c4-7e93-08dd23adddae,基于monaco editor 的文本对比，ui很不错,通用,Cea,https://getquicker.net/User/113342/Cea,17.8 KB,2024-12-24 07:59,6,优化逻辑,2024-12-29
+Kimi,https://getquicker.net/Sharedaction?code=a0c096c6-4bda-4cdb-b5f5-08dd165d6719,通过 API 调用 Kimi，支持连续对话，内置了一些经过精心挑选和设计的角色提示词，欢迎大家体验~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,229.7 KB,2024-12-07 11:10,13,  [+] 支持自定义『文本窗口』的位置,2024-12-29
+天山折梅手,https://getquicker.net/Sharedaction?code=5813ae53-52da-4ede-44c0-08daead5f1eb,Quicker2.0之悬浮动作集合。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,197.1 KB,2022-12-31 13:41,164,.,2024-12-29
+复制文件名,https://getquicker.net/Sharedaction?code=796f4745-bd72-482a-f9e2-08d7192aad2c,复制文件名并显示大小,Windows 资源管理器,mingwe,https://getquicker.net/User/10998/mingwe,47.6 KB,2019-08-05 14:10,3,"修复""当选中的文件是文件夹下的所有文件时的BUG""",2024-12-29
+QQ截图,https://getquicker.net/Sharedaction?code=5c61d524-056f-46d8-02a2-08dd267f7c7b,QQ截图独立版，非快捷键截图，自动下载启用，这下舒服了。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,9.2 KB,2024-12-28 00:24,0,,2024-12-29
+SM刷卡助手,https://getquicker.net/Sharedaction?code=7d484f84-2d74-4f65-02a1-08dd267f7c7b,SM高亮\挖多空\重定日期\分割线等各种操作,SuperMemo 18,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,95.3 KB,2024-12-28 00:08,0,,2024-12-29
