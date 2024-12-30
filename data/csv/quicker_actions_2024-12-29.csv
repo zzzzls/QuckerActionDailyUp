@@ -1,0 +1,31 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+天气预报/提醒,https://getquicker.net/Sharedaction?code=dbd6c88d-5821-4214-0e7c-08dd0080705b,今天天气/明日天气提醒,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,23.6 KB,2024-11-09 16:09,1,修改不可用的api,2024-12-30
+单行文本框,https://getquicker.net/Sharedaction?code=f2482f06-fe3a-4682-1a2e-08dcb379d3fc,将WPS演示默认新建的段落文本框转化为单行文本框,WPS Office,Jesse教课件,https://getquicker.net/User/467847/Jesse%E6%95%99%E8%AF%BE%E4%BB%B6,4.7 KB,2024-08-04 00:04,1,本动作第一版借助了JS宏来实现，导致保存文档时会提示是否保存包含宏的版本，使用体验不够顺畅。第二版更新使用模拟按键和模拟鼠标点击实现，这样就不会有上述问题了,2024-12-30
+代码去掉注释,https://getquicker.net/Sharedaction?code=8b859c18-5f62-4f76-754e-08dd2778ce88,现在支持Python，后面有想支持的我再往里面加,通用,shandianchengzi,https://getquicker.net/User/970091/shandianchengzi,7.4 KB,2024-12-29 23:19,0,,2024-12-30
+恢复焦点,https://getquicker.net/Sharedaction?code=10ba8e5c-0133-4991-033f-08dd1df9631b,用于恢复主窗口焦点,SuperMemo 18,1shero,https://getquicker.net/User/656269/1shero,3.3 KB,2024-12-18 04:53,4,避免了短时间内连续点击造成的窗口最大化问题。,2024-12-30
+灵搜,https://getquicker.net/Sharedaction?code=dd2fa2b4-46dc-48f8-b6da-08db782fe3a2,高效搜索，网站、浏览器书签、浏览器历史记录、安装应用、本地文件、图片等等；提供选中文件处理；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,291.8 KB,2023-06-29 11:12,270,去除前替代词，固定使用空格；双空格ocr,2024-12-30
+上下文菜单,https://getquicker.net/Sharedaction?code=1851e77a-770d-4b23-7547-08dd2778ce88,仿Quicker做的上下文菜单，根据选择的文本或文件或图片进行搜索，文本处理，文件复制文件名移动文件,通用,zdf153,https://getquicker.net/User/20184/zdf153,350.5 KB,2024-12-29 16:55,3,增加哈希值计算,2024-12-30
+超级菜单,https://getquicker.net/Sharedaction?code=4dfee3f3-4dab-4905-fde2-08dd1a373a0d,根据不同进程弹出不同的超级菜单，可以自动获取文本，文件，文件夹，网址，软件等。可以发送文本、图文、模板，可以运行动作、命令、文件，可以用不同浏览器以不同方式打开不同网址,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,284.1 KB,2024-12-13 04:30,20,"+ 新增“模板”标签，常用于“AI提示词”，邮件等等
+~ 优化“文件”标签
+~ 优化多处细节",2024-12-30
+SM刷卡助手,https://getquicker.net/Sharedaction?code=7d484f84-2d74-4f65-02a1-08dd267f7c7b,就是刷卡的时候省去按快捷键了，方便各种操作,SuperMemo 18,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,102.1 KB,2024-12-28 00:08,1,"增加了卡片跳转
+增加了阅读点设置
+调整了排版",2024-12-30
+Kimi,https://getquicker.net/Sharedaction?code=a0c096c6-4bda-4cdb-b5f5-08dd165d6719,通过 API 调用 Kimi，支持连续对话，内置了一些经过精心挑选和设计的角色提示词，欢迎大家体验~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,257.8 KB,2024-12-07 11:10,15,  [=] 退出动作时，保留【角色选择窗口】,2024-12-30
+yt-dlp下载助手,https://getquicker.net/Sharedaction?code=0119e906-e926-4813-953c-08dd1b1aea78,快速添加各种命令，下载视频,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,160.1 KB,2024-12-13 23:12,6,"修复选择无字幕却仍然下载了字幕的问题
+增加了一些候选项",2024-12-30
+文件夹预览,https://getquicker.net/Sharedaction?code=4eaacb96-56f0-4183-583a-08dd249242cf,在资源管理器中不打开文件夹的情况下查看下层文件夹内容，可直接打开文件,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,28 KB,2024-12-25 13:45,5,fix bug,2024-12-30
+虚拟分组收藏,https://getquicker.net/Sharedaction?code=a74499c2-c4a7-4800-7546-08dd2778ce88,收集各种文本，文件网页,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,63.1 KB,2024-12-29 16:21,1,+ 完成搜索 ,2024-12-30
+辅助窗,https://getquicker.net/Sharedaction?code=910c9ede-81fe-474c-f5ed-08dba6ce1eab,辅助完成一个便利的自定义操作窗，添加网址、应用、文本、快捷键等,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,313.3 KB,2023-08-28 14:14,191,编辑元素,2024-12-30
+文本处理(分组版),https://getquicker.net/Sharedaction?code=4fad09f9-386b-4d40-e624-08daec87275d,按住ctrl启动为用户选择模式可以搜索(一次性的),通用,zdf153,https://getquicker.net/User/20184/zdf153,312.6 KB,2023-01-02 19:33,12,修复bug增加传入参数菜单,2024-12-30
+搜索高亮文本,https://getquicker.net/Sharedaction?code=d921dba6-2546-4fa2-6951-08dcf3c64be6,搜索Word和WPS文字里的高亮文本，支持指定颜色,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,25.8 KB,2024-10-24 14:38,3,修复bug,2024-12-30
+Everything重命名,https://getquicker.net/Sharedaction?code=4d2c194a-4221-440f-7544-08dd2778ce88,Everything重命名,Windows 资源管理器,白云朔,https://getquicker.net/User/1144232/%E7%99%BD%E4%BA%91%E6%9C%94,8.3 KB,2024-12-29 14:15,1,"更新内容：
+1.增加了Everything路径检测，当Everything路径未找到exe文件时，要求重新设置路径",2024-12-30
+Github-Colab,https://getquicker.net/Sharedaction?code=72dff0ce-59f4-4661-7545-08dd2778ce88,Github网页中选中.ipynb文件网站，点击动作打开colab,Microsoft Edge,duzh,https://getquicker.net/User/104936/duzh,1.9 KB,2024-12-29 14:16,0,,2024-12-30
+RunEver-动态右键,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,右键任何东西都会直接运行或者弹出一个菜单,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,283.9 KB,2024-09-15 18:35,51,= 优化刷新缓存逻辑，优先启动everything，未启动则不进行刷新,2024-12-30
+onenote快速捕获内容,https://getquicker.net/Sharedaction?code=16edf7ff-ad0b-417c-66ca-08dbac31b4e9, 按住ctrl键 打开软件,通用,ASUNNY,https://getquicker.net/User/579075/ASUNNY,43.6 KB,2023-09-03 23:01,13,debug,2024-12-30
+插入全屏矩形,https://getquicker.net/Sharedaction?code=512786ec-faf8-40f1-586a-08dd249242cf,插入全屏矩形,Microsoft PowerPoint,y5202,https://getquicker.net/User/684304/y5202,1.1 KB,2024-12-26 09:33,1,调整,2024-12-30
+纯转渐变,https://getquicker.net/Sharedaction?code=a32a39c4-88db-4598-753e-08dd2778ce88,形状/文本框内文字纯色转为渐变色,Microsoft PowerPoint,y5202,https://getquicker.net/User/684304/y5202,1.1 KB,2024-12-29 10:27,0,,2024-12-30
+剪贴板图片转base64并生成引用插入markdown,https://getquicker.net/Sharedaction?code=9829390d-136d-4087-753d-08dd2778ce88,将剪贴板的图片转为base64，再生成md图片插入的字符串，生成图片的引用，存入剪贴板，手动粘贴即可。base64部分可以放在文件的末尾，引用部分放在正文，不影响正文的正常编辑与阅读。,通用,张三三三,https://getquicker.net/User/40219/%E5%BC%A0%E4%B8%89%E4%B8%89%E4%B8%89,2.5 KB,2024-12-29 10:26,0,,2024-12-30
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,855.2 KB,2021-06-14 21:07,350,.,2024-12-30
+小牛马,https://getquicker.net/Sharedaction?code=6e3ecd5a-7032-4bfb-7eb8-08dd23adddae,目前只支持录制快捷键与鼠标输入（不支持滚轮上下移动），类似“宏”,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,190.6 KB,2024-12-24 20:47,2,谷歌浏览器连续复制,2024-12-30
