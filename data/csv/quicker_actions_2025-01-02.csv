@@ -1,0 +1,50 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+查快递-UPS-FedEx,https://getquicker.net/Sharedaction?code=3c97551b-c985-491f-f2b6-08dd2b3b65f1,外贸电商版，仅支持UPS、联邦快递查询，直达对应官网；,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,4 KB,2025-01-02 23:25,1,修改bug,2025-01-03
+给大哥点点赞,https://getquicker.net/Sharedaction?code=a294d3fe-7db1-48ed-1213-08dd062f9162,"给主播点赞时解放双手,开启后会自动开始点击,需要手动移动鼠标位置.ctrl+alt+F2可暂停,ctrl+alt+F1可停止.",通用,二哥jqka,https://getquicker.net/User/409425/%E4%BA%8C%E5%93%A5jqka,16.5 KB,2024-11-17 01:06,4,添加进度条，修复已知bug.,2025-01-03
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,636.4 KB,2021-05-23 17:54,142,"建议保持置顶。
+
+不置顶的问题太难了！
+----
+关于事项的不置顶：
+由于模块内置属性限制，不置顶的事项，会受到WIN+D组合键的影响，并且会出现在任务窗口中。
+经过摸索，动作决定自动隐藏不置顶的事项，以避免上述影响。需要配合事件触发，将不置顶的事项显示出来，详见动作主页（12）。",2025-01-03
+语雀工作台,https://getquicker.net/Sharedaction?code=c2a46088-87db-4b16-a96d-08dd29565fc9,语雀快捷键大全（All in one），让你享受语雀编辑,语雀,duzh,https://getquicker.net/User/104936/duzh,27.8 KB,2024-12-31 22:00,1,优化了动作，减少失败,2025-01-03
+软件便签,https://getquicker.net/Sharedaction?code=05eb8227-4f24-464a-a71d-08dd2875ceca,以文本窗口的形式展示『前台进程』对应的『便签内容』，内置了超丰富的文本编辑工具栏，而且〖每个程序〗都支持自定义外观主题（语法高亮、字体大小、背景颜色等），数据自动云备份-无感保存 (◕‿◕)✧,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,413.8 KB,2024-12-31 10:30,5,  [=] 优化 MD 渲染体验,2025-01-03
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,281.9 KB,2023-10-18 22:55,117,三个点右键点击支持将pinyin转换成汉字拼音模式,2025-01-03
+Kimi,https://getquicker.net/Sharedaction?code=a0c096c6-4bda-4cdb-b5f5-08dd165d6719,通过 API 调用 Kimi，支持连续对话，内置了一些经过精心挑选和设计的角色提示词，欢迎大家体验~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,303.8 KB,2024-12-07 11:10,16,"ℹ 由于动作数据结构发生了大变化，所以需要『在右键菜单里删除动作数据』后，重新填写apikey ℹ
+
+   1.支持历史对话功能
+   2.支持在聊天窗口里切换 AI 模型
+   3.优化了语法高亮的效果",2025-01-03
+退出,https://getquicker.net/Sharedaction?code=1996a4af-59e3-40ab-f252-08dd2a577f35,方便PPT播放时退出播放界面。,WPS Office,银杏鹿,https://getquicker.net/User/772265/%E9%93%B6%E6%9D%8F%E9%B9%BF,8 B,2025-01-02 21:29,0,,2025-01-03
+上标,https://getquicker.net/Sharedaction?code=6c74c4f6-6cad-4add-f251-08dd2a577f35,进行上标。,WPS Office,银杏鹿,https://getquicker.net/User/772265/%E9%93%B6%E6%9D%8F%E9%B9%BF,25 B,2025-01-02 21:27,0,,2025-01-03
+搜索,https://getquicker.net/Sharedaction?code=eb38bb53-62f8-4455-f250-08dd2a577f35,选中文本后执行可快速搜索，支持多选搜索引擎，支持本地文件搜索(调用Everything)支持从剪贴板、OCR识别、手动输入关键词后搜索。,通用,CGlei,https://getquicker.net/User/827370/CGlei,65.1 KB,2025-01-02 21:25,0,,2025-01-03
+向下复制,https://getquicker.net/Sharedaction?code=5002922f-39b1-4572-f24f-08dd2a577f35,从某单元格往下到列末，复制。,WPS Office,银杏鹿,https://getquicker.net/User/772265/%E9%93%B6%E6%9D%8F%E9%B9%BF,36 B,2025-01-02 21:23,0,,2025-01-03
+选中整列,https://getquicker.net/Sharedaction?code=8ae606e5-4a2c-405f-f24e-08dd2a577f35,在选中此单元格往下的所有单元格。,WPS Office,银杏鹿,https://getquicker.net/User/772265/%E9%93%B6%E6%9D%8F%E9%B9%BF,21 B,2025-01-02 21:18,0,,2025-01-03
+单元格内转行,https://getquicker.net/Sharedaction?code=2ee4cb7e-5a9b-4778-f24d-08dd2a577f35,单元格内转行,WPS Office,银杏鹿,https://getquicker.net/User/772265/%E9%93%B6%E6%9D%8F%E9%B9%BF,13 B,2025-01-02 21:15,0,,2025-01-03
+从当前播放,https://getquicker.net/Sharedaction?code=09df3703-9541-414a-f24c-08dd2a577f35,PPT从当前页播放,WPS Office,银杏鹿,https://getquicker.net/User/772265/%E9%93%B6%E6%9D%8F%E9%B9%BF,10 B,2025-01-02 21:14,0,,2025-01-03
+预览文件夹图片,https://getquicker.net/Sharedaction?code=c327c6d2-a976-4412-f1b7-08dd1471b37f,预览文件夹下的图片/选中的图片/txt,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,136.2 KB,2024-12-04 22:41,2,"1.增加对webp的支持；
+2.在资源管理器中不选中物体运行动作，循环显示当前窗口内的图片",2025-01-03
+倒计时运行,https://getquicker.net/Sharedaction?code=8c512917-193b-4973-ec5e-08dd1fd8e628,倒计时运行动作,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,21 KB,2024-12-20 00:00,3,提示动作名称,2025-01-03
+OSA验证码识别,https://getquicker.net/Sharedaction?code=23ff0590-5c32-4baf-f248-08dd2a577f35,截图识别OSA/Optica下载文章所需的验证码,Microsoft Edge,duzh,https://getquicker.net/User/104936/duzh,3.2 KB,2025-01-02 20:52,0,,2025-01-03
+文件预览,https://getquicker.net/Sharedaction?code=4eaacb96-56f0-4183-583a-08dd249242cf,在资源管理器中不打开文件夹的情况下查看下层文件夹内容，可直接打开文件,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,147.7 KB,2024-12-25 13:45,7,"+ 增加系统打开方式和quicker内部打开方式选择；
++ 开放设置：增加默认quicker内部打开方式选项；",2025-01-03
+IEEE PDF转html,https://getquicker.net/Sharedaction?code=2a8515c3-03e6-4b12-f246-08dd2a577f35,选中或者复制IEEE PDF的链接，将其转化为转html的abstract模式打开,Microsoft Edge,duzh,https://getquicker.net/User/104936/duzh,3.7 KB,2025-01-02 20:32,0,,2025-01-03
+剪贴板2.0,https://getquicker.net/Sharedaction?code=f9fdc492-659b-465d-7959-08dc970018b2,一次复制→多次粘贴、连续复制→合并粘贴、顺序粘贴、自动填表……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,177.5 KB,2024-06-29 00:15,12,- 完善ESC中止功能,2025-01-03
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI问答知识库问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、lobechat知识库版、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",通用,艾米周,https://getquicker.net/User/20349/%E8%89%BE%E7%B1%B3%E5%91%A8,1.3 MB,2024-07-11 11:24,85,修复和优化动作右键的应用下载时出现的错误,2025-01-03
+专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,169.3 KB,2024-11-04 14:16,58,缴费查询结果增加序号,2025-01-03
+VeryCaplure截图,https://getquicker.net/Sharedaction?code=7d6480de-542b-4926-a97b-08dd29565fc9,单击矩形截图，右击选择其他截图。需要改快捷键,verycapture.exe,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,3.2 KB,2025-01-01 14:19,1,fjewiofjewifj,2025-01-03
+搜索记录,https://getquicker.net/Sharedaction?code=21d875cf-20c0-4c57-9461-08dd0cee64cd,搜索当前联系人的聊天记录,WeChat,Kenhalid,https://getquicker.net/User/977787/Kenhalid,22.4 KB,2024-11-25 15:41,5,= 无论是否选中文本都会对搜索窗口内容进行全选，手动输入也很方便,2025-01-03
+AI工具箱,https://getquicker.net/Sharedaction?code=9931566a-2d2b-42e2-6ed7-08dc62828b67,(158个AI网站/管够/免费)对话/生图/视频/音频/论文/写作/文档/法律/代码/金融/医疗/插件/API/找AI,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,80.3 KB,2024-04-22 15:16,55,优化,2025-01-03
+Everything,https://getquicker.net/Sharedaction?code=cd20ddcd-c33c-45d3-320e-08dcbf54dccb,本地搜索文件的超强神器，速度超快，告别记忆，可自定义常用指令！,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,132.3 KB,2024-08-19 11:13,12,https://getquicker.net/Sharedaction?code=edf6a2a6-f497-4bc3-a583-08dcc5002795,2025-01-03
+网址小窗,https://getquicker.net/Sharedaction?code=edf6a2a6-f497-4bc3-a583-08dcc5002795,常用的网址就那么几个，随手小窗切换预设网址,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,93.6 KB,2024-08-26 09:27,5,~修复1.43.56版，传入按钮操作项data等额外参数造成的失效问题,2025-01-03
+天山折梅手,https://getquicker.net/Sharedaction?code=5813ae53-52da-4ede-44c0-08daead5f1eb,Quicker2.0之悬浮动作集合。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,198.3 KB,2022-12-31 13:41,165,.,2025-01-03
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「即时笔记、分组标签、快速检索、自动同步、贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,478.6 KB,2024-05-10 17:42,41,"新增：基础设置""双击重命名""选项，默认开启；
+优化：双击重命名判断方式，避免新用户切换笔记时闪烁等待按键窗口。",2025-01-03
+巴德置顶,https://getquicker.net/Sharedaction?code=4b322fda-534f-449a-a702-08dd2875ceca,置顶、调节透明度,通用,Bader,https://getquicker.net/User/135289/Bader,9.4 KB,2024-12-30 15:49,1,1. 增加步伐、最小不透明度等配置项,2025-01-03
+网站收藏3.0,https://getquicker.net/Sharedaction?code=e95b7fcc-f3b3-47f2-80a3-08dcf2fec074,按住ctrl启动动作为添加网站，支持多层文件夹,通用,zdf153,https://getquicker.net/User/20184/zdf153,415 KB,2024-10-23 17:45,9,修复网址不能实时搜索bug,2025-01-03
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,865.8 KB,2021-06-14 21:07,353,.,2025-01-03
+知产收藏夹,https://getquicker.net/Sharedaction?code=64881dc8-975a-4f73-a962-08dd29565fc9,"保存常用信息,便于查询及快速粘贴。",通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,29.3 KB,2024-12-31 16:33,5,修改提示,2025-01-03
+程序笔记,https://getquicker.net/Sharedaction?code=022fdcb9-4318-49cd-d06a-08dd090a5bee,支持markdown格式语法渲染的程序笔记,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,97.8 KB,2024-11-20 20:31,13,= 优化UI,2025-01-03
+手动长截图,https://getquicker.net/Sharedaction?code=1ead8a7a-4428-4ebf-f22b-08dd2a577f35,手动长截图，s添加截图，q退出截图并写入到剪切板,通用,wilsons,https://getquicker.net/User/389684/wilsons,85.4 KB,2025-01-02 00:11,0,,2025-01-03
+延迟截图,https://getquicker.net/Sharedaction?code=a065715f-52ea-4122-f22a-08dd2a577f35,方便延迟截图，支持Mac和Windows,macos.exe,wilsons,https://getquicker.net/User/389684/wilsons,3.9 KB,2025-01-02 00:01,0,,2025-01-03
