@@ -1,0 +1,32 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+搜索窗口文件,https://getquicker.net/Sharedaction?code=5057f120-161e-44c8-6b72-08dd2c628548,利用Everything搜索当前窗口打开的文件,通用,DONG~,https://getquicker.net/User/574548/DONG~,5.9 KB,2025-01-04 21:15,0,,2025-01-05
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,233.8 KB,2023-12-16 20:13,80,"+ 支持自定义动作接口通过动作菜单实现在对话输入框上方的工具栏显示按钮，用以快捷调用动作实现特定功能。如：上传文件
+~ 增强接口功能",2025-01-05
+Kimi-AI接口,https://getquicker.net/Sharedaction?code=4cdfe819-b429-46e4-f71a-08dd20c7aae1,ChatWindow自定义接口示例动作,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,63.5 KB,2024-12-21 13:18,2,"+ 支持将菜单显示在主窗口工具栏上
++ 增加**上传文件**和**上传截图**功能（本质上是一个功能）
+~ 优化逻辑，内嵌接口子程序",2025-01-05
+文件名启动,https://getquicker.net/Sharedaction?code=c57e46b1-bb8e-4c8f-bce5-08dc9bca0acf,适合家里、公司多台电脑的用户，不管软件装在C盘还是D盘，根据名字直接找到并运行,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,150.2 KB,2024-07-04 21:28,34,+ 添加动作不限制分类了,2025-01-05
+微信快送,https://getquicker.net/Sharedaction?code=734b2937-9969-4438-fad8-08dcf4b7eea3,搜索好友、发送消息、定位未读消息。,WeChat,火焱水牛,https://getquicker.net/User/1112793/%E7%81%AB%E7%84%B1%E6%B0%B4%E7%89%9B,137.2 KB,2024-10-25 17:19,20,微调,2025-01-05
+简速便签,https://getquicker.net/Sharedaction?code=624a73f8-1ce4-4860-9527-08dd1b1aea78,创建一个可以随意编辑，即开即用，即关即走的文字便签。,通用,Hegg,https://getquicker.net/User/1146661/Hegg,28.4 KB,2024-12-13 11:53,2,"1、为窗口增加阴影，避免便签与背景重色不明显
+2、支持窗口阴影颜色自定义",2025-01-05
+Muse,https://getquicker.net/Sharedaction?code=672fae1b-d41b-401d-4415-08dcd318a5f5,取色器mini,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,43.8 KB,2024-09-13 22:16,9,2025年1月4日18:35:34,2025-01-05
+获取外网IP,https://getquicker.net/Sharedaction?code=4cb29377-b94f-42cd-6b70-08dd2c628548,获取本机的外网IP,通用,yisqiu,https://getquicker.net/User/399321/yisqiu,4.5 KB,2025-01-04 18:14,0,,2025-01-05
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,186.3 KB,2024-05-09 20:07,113,新增预制词模式,2025-01-05
+文字钉,https://getquicker.net/Sharedaction?code=156fa292-3ae1-43f6-ec1e-08db89846054,选中文本或者获取剪贴板，钉在屏幕上。,通用,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,6.8 KB,2023-07-21 16:54,3,"编辑的文本窗口,在关闭之后,仍然可以保存内容到历史",2025-01-05
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,866 KB,2021-06-14 21:07,355,.,2025-01-05
+天山折梅手,https://getquicker.net/Sharedaction?code=5813ae53-52da-4ede-44c0-08daead5f1eb,Quicker2.0之悬浮动作集合。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,201.3 KB,2022-12-31 13:41,166,.,2025-01-05
+巴德INPUT,https://getquicker.net/Sharedaction?code=47c7bc95-4e9c-4d8e-6b6b-08dd2c628548,将剪贴板中的文本模拟按键输入,通用,Bader,https://getquicker.net/User/135289/Bader,725 B,2025-01-04 15:44,0,,2025-01-05
+去边框,https://getquicker.net/Sharedaction?code=3f78bc9a-2dca-4669-6b68-08dd2c628548,用于去除CAD插入光栅图像参照的边框,AutoCAD Application,清澈如许,https://getquicker.net/User/891193/%E6%B8%85%E6%BE%88%E5%A6%82%E8%AE%B8,1.7 KB,2025-01-04 15:22,0,,2025-01-05
+聚贤庄,https://getquicker.net/Sharedaction?code=6b39606a-e2f9-4785-849d-08daf13f5a77,Quicker2.0之元素聚合。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,506.8 KB,2023-01-09 07:54,130,.,2025-01-05
+走开啦,https://getquicker.net/Sharedaction?code=2887bcce-fa63-4cd0-6b67-08dd2c628548,暂时隐藏便签一类的窗口,通用,色気米,https://getquicker.net/User/514153/%E8%89%B2%E6%B0%97%E7%B1%B3,73.9 KB,2025-01-04 14:17,0,,2025-01-05
+1.5倍速,https://getquicker.net/Sharedaction?code=a5ab6660-e3b9-48bf-6b66-08dd2c628548,potplayer1.5倍速加速,PotPlayer,欢喜天,https://getquicker.net/User/1198411/%E6%AC%A2%E5%96%9C%E5%A4%A9,1.9 KB,2025-01-04 13:59,0,,2025-01-05
+QQ截图,https://getquicker.net/Sharedaction?code=5c61d524-056f-46d8-02a2-08dd267f7c7b,QQ截图独立版，非快捷键截图，这下舒服了。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,13.4 KB,2024-12-28 00:24,1,+ 新增参数解决「开机自启」无法生效的情况,2025-01-05
+MD笔记2,https://getquicker.net/Sharedaction?code=1b67cb94-ab53-40de-13f7-08dcb55b45cc,简单的笔记记录，必须安装第三方markdown软件，建议typora,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,279.4 KB,2024-08-06 19:20,14,fjweiofjewijfe,2025-01-05
+文本替换规则大全,https://getquicker.net/Sharedaction?code=0835ca3d-dfbc-489e-e56f-08dbbca28132,最全的文本替换规则参考,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,22.9 KB,2023-09-25 07:41,3,- 新增规则：上下标与数字互转,2025-01-05
+超级文本替换,https://getquicker.net/Sharedaction?code=55e35225-3818-487c-b5a2-08da2a8a4d14,最强悍无匹的文本替换动作,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,247.7 KB,2022-04-30 21:28,20,"- 新增「规则模版」功能，说明见讨论区
+- 更新「规则参考」，新增上下标与数字转换规则",2025-01-05
+Everything,https://getquicker.net/Sharedaction?code=cd20ddcd-c33c-45d3-320e-08dcbf54dccb,本地搜索文件的超强神器，速度超快，告别记忆，可自定义常用指令！,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,136.2 KB,2024-08-19 11:13,14,~ 优化设置路径细节,2025-01-05
+极简打字,https://getquicker.net/Sharedaction?code=c11d4fc8-d404-42a6-a086-08dc76aeba28,追求易上手，快速输出常用文本的打字体验。#常用语软件 #快捷短语工具 #自定义短语神器,通用,EC10010,https://getquicker.net/User/2997/EC10010,238 KB,2024-05-18 23:33,26,搜索框消失后还原鼠标位置。,2025-01-05
+程序笔记,https://getquicker.net/Sharedaction?code=022fdcb9-4318-49cd-d06a-08dd090a5bee,支持markdown格式语法渲染的程序笔记,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,98.8 KB,2024-11-20 20:31,14,fix 优化excel获取问题,2025-01-05
+> Plugins,https://getquicker.net/Sharedaction?code=57ceabf1-b75f-435c-3514-08daadd6a765,打开 Cinema 4D 常用目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,96.2 KB,2022-10-15 17:51,18,修改默认菜单,2025-01-05
+文本小工具,https://getquicker.net/Sharedaction?code=71927554-9f77-40ee-c0db-08da1b59015d,适用于.txt等文本文件（格式可自定义），支持合并、分割、编辑等文本操作,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,130.1 KB,2022-04-12 10:44,7,+ 提取字幕文本（.srt格式）,2025-01-05
