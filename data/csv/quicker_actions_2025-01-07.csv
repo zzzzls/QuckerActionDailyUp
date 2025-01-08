@@ -1,0 +1,30 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+软件便签,https://getquicker.net/Sharedaction?code=05eb8227-4f24-464a-a71d-08dd2875ceca,以文本窗口的形式展示『前台进程』对应的『便签内容』，内置了超丰富的文本编辑工具栏，而且〖每个程序〗都支持自定义外观主题（语法高亮、字体大小、背景颜色等），数据自动云备份-无感保存 (◕‿◕)✧,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,412.2 KB,2024-12-31 10:30,10,  【优化】 自动下载 Markdown_Preview_package ，后续纯本地进行MD渲染，速度快、效果好~,2025-01-08
+计算器,https://getquicker.net/Sharedaction?code=4e6ff5a9-f1f3-4742-d671-08d8d34a0efa,操作最便利的随手计算器（集成基础算术、数学函数、单位转换、汇率换算，支持自动识别并计算选中文本）,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,363.5 KB,2021-02-19 01:10,22,- 修复百分号问题,2025-01-08
+程序笔记,https://getquicker.net/Sharedaction?code=022fdcb9-4318-49cd-d06a-08dd090a5bee,支持markdown格式语法渲染的程序笔记,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,144.4 KB,2024-11-20 20:31,16,fix,2025-01-08
+超级文本替换,https://getquicker.net/Sharedaction?code=55e35225-3818-487c-b5a2-08da2a8a4d14,最强悍无匹的文本替换动作,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,249 KB,2022-04-30 21:28,23,"- 修复：界面切换问题
+- 修复：新功能导致的规则解析问题",2025-01-08
+智能计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷。支持历史记录，语音播报。随手记，快捷指令，ocr识别录入，数据分析统计，日期计算等功能",通用,MarsJack,https://getquicker.net/User/178545/MarsJack,384.5 KB,2024-05-22 14:21,207,优化语音播报,2025-01-08
+RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,276.3 KB,2024-09-15 18:35,64,= 优化注册表打开，现在不占用快捷键了,2025-01-08
+LocalSend传输,https://getquicker.net/Sharedaction?code=6201523f-90ee-4135-b118-08dc5b1ee596,支持多选文件传输（图片，文件夹，文件），支持多行文件传输。,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,17.6 KB,2024-04-13 21:44,6,fjewoifejwio,2025-01-08
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,925.9 KB,2021-06-14 21:07,373,.,2025-01-08
+聚贤庄,https://getquicker.net/Sharedaction?code=6b39606a-e2f9-4785-849d-08daf13f5a77,Quicker2.0之元素聚合。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,507.6 KB,2023-01-09 07:54,131,.,2025-01-08
+专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,217.3 KB,2024-11-04 14:16,66,修复bug,2025-01-08
+便捷面板,https://getquicker.net/Sharedaction?code=5969fb78-88ac-4cbe-9975-08dd2e1384ce,多功能便捷面板，可储存常用语、快捷回复等文本；执行VBS、VBa、PS脚本，网页控制、打开路径等,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,114 KB,2025-01-07 11:40,0,,2025-01-08
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,大家都爱591,https://getquicker.net/User/36130/%E5%A4%A7%E5%AE%B6%E9%83%BD%E7%88%B1591,609 KB,2021-05-23 17:54,149,动作主页修改了 定时提醒 的事件触发。,2025-01-08
+截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,丝滑切12种识别模式/百度/PixPin/OCR后60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,187.8 KB,2024-05-09 20:07,118,"感谢用户反馈@chapterbin
+支持右键设置窗口显示大小
+可下拉选择常用比例
+0%,0%,100%,100%
+2%,2%,98%,98%
+5%,5%,95%,95%
+10%,10%,90%,90%
+18%,18%,72%,72%
+25%,25%,75%,75%",2025-01-08
+文本处理,https://getquicker.net/Sharedaction?code=09986ec9-2bbb-4245-a884-08dcafa4e6df,60种文本处理/简单好用的文本处理窗口/记事本,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,21.4 KB,2024-07-30 20:09,41,"动作右键支持设置窗口显示尺寸
+0%,0%,100%,100%
+2%,2%,98%,98%
+5%,5%,95%,95%
+10%,10%,90%,90%
+18%,18%,72%,72%
+25%,25%,75%,75%",2025-01-08
