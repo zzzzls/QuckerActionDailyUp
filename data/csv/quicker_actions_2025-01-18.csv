@@ -1,5 +1,4 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,MarsJack,https://getquicker.net/User/178545/MarsJack,394.2 KB,2024-05-22 14:21,229,优化结果的展示,2025-01-19
 辅助窗,https://getquicker.net/Sharedaction?code=910c9ede-81fe-474c-f5ed-08dba6ce1eab,辅助完成一个便利的自定义操作窗，添加网址、应用、文本、快捷键等,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,317.8 KB,2023-08-28 14:14,195,留空默认前台浏览器,2025-01-19
 插入尾注,https://getquicker.net/Sharedaction?code=c08fcb16-3ec8-4936-8372-08dd3791bd3b,〔Word〕插入尾注。,Microsoft Word,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,655 B,2025-01-18 19:11,0,,2025-01-19
 remnote到sm双链接,https://getquicker.net/Sharedaction?code=2fe50950-9a16-45b1-5248-08dd369e5344,将remnote链接和块内容复制黏贴到sm，同时在rem里黏贴sm的卡片链接地址，这样就可以调用supermemo的排期功能了,RemNote,baiyunweilan,https://getquicker.net/User/489656/baiyunweilan,23.6 KB,2025-01-18 14:14,0,,2025-01-19
@@ -8,7 +7,6 @@ OneTab,https://getquicker.net/Sharedaction?code=73202c74-4161-4cd5-197c-08dd32d6
 - 兼容 ecma 5.1 语法
 - 粘贴前获取活动窗口, 阻止失焦",2025-01-19
 快速点选,https://getquicker.net/Sharedaction?code=d988fe52-b46f-4601-523d-08dd369e5344,快速点选同类项，批量勾选复选框，按Esc可以终止点击,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,29.9 KB,2025-01-18 11:25,0,,2025-01-19
-好友定位,https://getquicker.net/Sharedaction?code=7fbb9922-9c4c-4ecc-5223-08dd369e5344,一键收藏微信好友/快速定位聊天窗口/搜索/标签式管理好友,WeChat,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,178.7 KB,2025-01-17 15:33,2,复制优化,2025-01-19
 Fast 快捷键,https://getquicker.net/Sharedaction?code=036724b2-ee6a-458d-7e97-08dd23adddae,FastStone Capture 快捷键 自适应显示/调光线/旋转/大小/底色透明,FastStone Capture,闲逛A,https://getquicker.net/User/489948/%E9%97%B2%E9%80%9BA,29 KB,2024-12-24 08:41,12,增加右键设置：调列数/列宽/字体大小/图标大小,2025-01-19
 Every 快捷键,https://getquicker.net/Sharedaction?code=e0afc3d8-1e73-4ff4-996f-08dd2e1384ce,Everything 快捷键,Everything,闲逛A,https://getquicker.net/User/489948/%E9%97%B2%E9%80%9BA,19.7 KB,2025-01-07 05:56,6,增加右键设置：调列数/字体大小/图标大小,2025-01-19
 YouTube 快捷键,https://getquicker.net/Sharedaction?code=d65381a1-6201-416b-7ec6-08dd23adddae,优兔快捷键 画中画(需在[油猴]安装[视频网页全屏]),Google Chrome,闲逛A,https://getquicker.net/User/489948/%E9%97%B2%E9%80%9BA,13.5 KB,2024-12-25 06:31,10,吸附窗口超出屏外自动内嵌,2025-01-19
