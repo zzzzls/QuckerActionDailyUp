@@ -1,15 +1,10 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 TrafficMonitor,https://getquicker.net/Sharedaction?code=950a8bef-efc8-4e8e-99c4-08dcff9008ea,TrafficMonitor 是一款用于Windows平台的开源网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,143.8 KB,2024-11-09 11:38,2,  【更改】更新软件到最新版,2025-01-23
 临时收纳窗,https://getquicker.net/Sharedaction?code=bff866d1-1cc7-49cb-dbb5-08dd3a7ac243,悬浮临时收纳，可收藏文本，图片，文件；点击条目粘贴到输入框,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,32.7 KB,2025-01-22 13:57,3,-,2025-01-23
-Audio-txt,https://getquicker.net/Sharedaction?code=dd83077f-08b6-430b-dbc5-08dd3a7ac243,「音频转文本文字」选择音频后启动动作，可以转成txt文本文件。,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,20 KB,2025-01-22 18:21,2,2025年1月22日18:33:59,2025-01-23
 问AI,https://getquicker.net/Sharedaction?code=f1743555-674d-4729-2552-08dd3978d697,随时随地问AI，支持多轮对话，多模型,通用,wilsons,https://getquicker.net/User/389684/wilsons,135.3 KB,2025-01-21 14:08,3,默认模型增加百度千帆模型,2025-01-23
 Zotero自动跳转,https://getquicker.net/Sharedaction?code=16a66fe4-b816-4e93-dbc1-08dd3a7ac243,检测选中文本中的8位Zotero条目ID，并自动跳转到Zotero中，与Notero插件搭配使用更佳,通用,Edison8985,https://getquicker.net/User/342391/Edison8985,5.9 KB,2025-01-22 17:10,0,,2025-01-23
 批量快递查询,https://getquicker.net/Sharedaction?code=f33c2479-6186-442f-dbb4-08dd3a7ac243,用于查询快递信息,通用,侧耳倾听&,https://getquicker.net/User/565162/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC%26,32.4 KB,2025-01-22 13:52,5,1,2025-01-23
 巴德日记,https://getquicker.net/Sharedaction?code=fe09a606-2987-4b8e-52b4-08dc0cee7e1f,一键打开当天日记进行编写。,通用,Bader,https://getquicker.net/User/135289/Bader,17.2 KB,2024-01-05 10:36,6,1. 增加是否置顶的配置项,2025-01-23
-计算器Max Free,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,127.8 KB,2024-09-17 16:03,68,"更新循环，小窗口直接变成预设大小的概率更大了。
-
-注：edge浏览器好像变慢了。
-推荐：chrome版",2025-01-23
 巴德pip源,https://getquicker.net/Sharedaction?code=9bf34209-c42c-42de-63a4-08dd33c42981,使用不同的pip源进行安装,通用,Bader,https://getquicker.net/User/135289/Bader,4.6 KB,2025-01-14 11:24,1,1. 支持自定义源,2025-01-23
 巴德缓存清理,https://getquicker.net/Sharedaction?code=6108f701-f1d9-4c75-2548-08dd3978d697,清理网站上的各种存储,通用,Bader,https://getquicker.net/User/135289/Bader,2.2 KB,2025-01-21 11:13,1,1. 优化代码逻辑,2025-01-23
 巴德区域找图,https://getquicker.net/Sharedaction?code=c1291b39-cf37-4ce2-95d8-08dca71b147e,选择扫描区域，截取需要扫描的图片，点击,通用,Bader,https://getquicker.net/User/135289/Bader,19.5 KB,2024-07-19 12:49,5,1. 修改退出逻辑为：长按ESC退出,2025-01-23
