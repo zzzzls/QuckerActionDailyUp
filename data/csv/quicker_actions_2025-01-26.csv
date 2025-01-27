@@ -1,0 +1,45 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,也许是最好用的(本地文件)搜索神器/搜索速度吓死你/180搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,380.3 KB,2023-03-25 00:27,306,"感谢用户反馈@tb1717
+文件选中菜单支持设置",2025-01-27
+巴德去空格,https://getquicker.net/Sharedaction?code=5c6f45b1-b00c-439b-2273-08dd3d8bee22,去除文本中的空格,通用,Bader,https://getquicker.net/User/135289/Bader,2.3 KB,2025-01-26 23:12,0,,2025-01-27
+星陨计划,https://getquicker.net/Sharedaction?code=692c832f-01db-474f-a842-08dcafa4e6df,雷电模拟器平板1280x720,雷电模拟器,LJH_,https://getquicker.net/User/392903/LJH_,1.6 MB,2024-07-29 21:56,12,更新图片库,2025-01-27
+巴德创建打开网址动作,https://getquicker.net/Sharedaction?code=d189cb39-3d86-42f7-2267-08dd3d8bee22,自动创建动作json文件，导入Quicker即可,通用,Bader,https://getquicker.net/User/135289/Bader,6.5 KB,2025-01-26 18:36,0,,2025-01-27
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,808.4 KB,2021-05-23 17:54,187,.,2025-01-27
+断舍离小助理,https://getquicker.net/Sharedaction?code=4dc7e738-8f4f-43e2-74f9-08dc9e8ef04d,——个人物品管理。辅助完成断舍离,通用,level1,https://getquicker.net/User/102977/level1,2 MB,2024-07-08 15:33,8,"BUG：
+1、修复区域编辑中，上传图片结果分到了物品中的问题。
+2、修复从编辑区域中，上传主图照片后，其他区域会同样变更的问题。原因是编辑窗创建图片ID为空，大家都调用空ID的图片导致。
+3、解决编辑物品，商品链接无效时，解析报错的问题。
+4、解决搜索物品，合并物品后没有窗口的问题。
+5、修复由于Quicker版本升级，导致的代码报错问题。
+
+优化：
+1、区域操作窗，去掉当前位置主图，只显示区域名称，点击名称支持打开相册。为了不要过度混淆。
+2、物品相册，处置和合并交换位置。
+3、动作右键表格，注明可以操作什么，让操作更明确。
+4、合并物品，有的数据覆盖无的。
+5、合并物品，编辑时间最新，创建时间最老。
+6、相关物品列表选择，增加区域。
+7、合并物品列表选择，增加区域。
+8、合并物品，将此物品合并至别处，改为从对方合并过来。
+9、优化合并物品，选择后的提示。",2025-01-27
+微信待办,https://getquicker.net/Sharedaction?code=e60c9fbb-b905-4796-7cda-08dab3982e47,——为每个微信聊天窗创建待办。微信群待办、好友待办，支持导出待办、摘录聊天记录。由于工作项目繁多，导致记不住任务。“微信待办”根据聊天窗来记录待办，随记随关。,WeChat,level1,https://getquicker.net/User/102977/level1,343.8 KB,2022-10-22 10:19,39,"功能：
+1、支持微信4.0版本。
+2、更新XPath微信4.0版本。
+
+BUG：
+1、修复删除头像报错的问题。",2025-01-27
+另存窗口快速切换,https://getquicker.net/Sharedaction?code=dfccca6b-9432-4c2a-8da1-08dc64c8b533,——仿Listary,Windows 资源管理器,level1,https://getquicker.net/User/102977/level1,72.7 KB,2024-04-25 16:12,7,"功能：
+1、支持TotalCommander作为资源管理器。
+2、打开另存窗口，第一次运行时，定位到默认窗口。
+
+BUG：
+1、解决FactCopy软件打开后就填入地址的问题。
+2、解决网易云音乐 上传音乐，会关闭窗口。",2025-01-27
+计算器Max Free,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,AI设计的动作，一个界面简单但功能不简单的计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,97.4 KB,2024-09-17 16:03,71,经典版，也能保留历史记录了。打开速也还行。,2025-01-27
+临时收纳窗,https://getquicker.net/Sharedaction?code=bff866d1-1cc7-49cb-dbb5-08dd3a7ac243,悬浮临时收纳，可收藏文本，图片，文件；点击条目粘贴到输入框,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,44.2 KB,2025-01-22 13:57,8,-,2025-01-27
+视频播放时间,https://getquicker.net/Sharedaction?code=3d5ee39d-cf6e-499f-740c-08dd3c4f34db,用于计算频倍速播放后的所用需时间。,Google Chrome,【推荐使用】-接动作定制,https://getquicker.net/User/718736/%E3%80%90%E6%8E%A8%E8%8D%90%E4%BD%BF%E7%94%A8%E3%80%91-%E6%8E%A5%E5%8A%A8%E4%BD%9C%E5%AE%9A%E5%88%B6,19.9 KB,2025-01-25 11:24,3,1,2025-01-27
+弹窗拦截,https://getquicker.net/Sharedaction?code=a868f973-442f-4056-cb70-08dccce7aaee,自动拦截电脑广告弹窗,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,43.3 KB,2024-09-05 00:59,9,fix bugs,2025-01-27
+霞鹜文楷,https://getquicker.net/Sharedaction?code=604ec91d-c5d0-496d-4303-08dd3883fd2c,〔字体〕下载并安装字体：霞鹜文楷。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,9.6 KB,2025-01-20 06:33,2,安装。,2025-01-27
+微信多开,https://getquicker.net/Sharedaction?code=92952479-a9dd-45c0-2261-08dd3d8bee22,微信4.0新版多开工具,通用,ikay,https://getquicker.net/User/7897/ikay,10.9 KB,2025-01-26 06:02,0,,2025-01-27
+免费白嫖AI文生图,https://getquicker.net/Sharedaction?code=91e2f9a8-4483-454f-63c5-08dd33c42981,选中（或输入）prompt，运行该动作，会显示AI生成的图片并保存到剪切板。无需API和注册任何帐号，100%免费，安装立即使用。,通用,Archture,https://getquicker.net/User/1150105/Archture,6.7 KB,2025-01-14 19:57,3,如果没有划词，则弹出对话框给用户输入prompt,2025-01-27
+Kimi,https://getquicker.net/Sharedaction?code=a0c096c6-4bda-4cdb-b5f5-08dd165d6719,通过 API 调用 Kimi，支持连续对话，内置了一些经过精心挑选和设计的角色提示词，欢迎大家体验~,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,311.6 KB,2024-12-07 11:10,22,  【修复】角色选择窗口bug,2025-01-27
