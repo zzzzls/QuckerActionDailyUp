@@ -1,0 +1,10 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+巴德一天都干了啥,https://getquicker.net/Sharedaction?code=0c3aac35-a2ca-49c0-c17d-08dc3cd0cba5,每天记录工作日志都让我烦的透透的，因此写个动作每隔一段指定的时间就询问我都做了什么，并将其记录在文件中，当需要写周报、月报、年报时进行工作总结时进行参考。,通用,Bader,https://getquicker.net/User/135289/Bader,93.3 KB,2024-03-06 14:23,22,1. 增加新的标签输入方式,2025-01-28
+AI-OCR识别,https://getquicker.net/Sharedaction?code=64f46959-63e3-43bc-1981-08dd32d69a62,使用大模型的多模态能力进行OCR识别,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,29.5 KB,2025-01-13 13:40,5,bug修复,2025-01-28
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,astroStar,https://getquicker.net/User/178545/astroStar,434.5 KB,2024-05-22 14:21,247,。,2025-01-28
+json路径提取,https://getquicker.net/Sharedaction?code=db4c63b7-70bd-41fc-226e-08dd3d8bee22,json路径提取,通用,侧耳倾听&,https://getquicker.net/User/565162/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC%26,98.5 KB,2025-01-26 19:54,6,修复错别字.0.0.,2025-01-28
+巴德催眠术,https://getquicker.net/Sharedaction?code=34b6bc8f-ec22-4b84-74e8-08dc9e8ef04d,成为你想成为的样子。,通用,Bader,https://getquicker.net/User/135289/Bader,7.7 KB,2024-07-08 11:42,1,"1. 优化UI：将设置中的秒数设置放到直接运行的设置中
+2. 增加动作说明",2025-01-28
+复制文件路径,https://getquicker.net/Sharedaction?code=47fe923e-5f49-4367-197b-08dd32d69a62,〔Word〕复制文件路径。,Microsoft Word,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,3.4 KB,2025-01-13 11:04,1,修复,2025-01-28
+威科Markdown,https://getquicker.net/Sharedaction?code=5b5ccbc2-cfe9-4e56-9e0f-08db1b743bf2,将威科法律法规转为Markdown格式,Google Chrome,Ranfou,https://getquicker.net/User/108076/Ranfou,45.5 KB,2023-03-04 08:08,9,修复bug,2025-01-28
+辅助窗,https://getquicker.net/Sharedaction?code=910c9ede-81fe-474c-f5ed-08dba6ce1eab,辅助完成一个便利的自定义操作窗，添加网址、应用、文本、快捷键等,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,299.5 KB,2023-08-28 14:14,199,文本高度,2025-01-28
