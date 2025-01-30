@@ -1,0 +1,9 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,119.6 KB,2023-09-07 09:28,102,图,2025-01-30
+文件标记,https://getquicker.net/Sharedaction?code=32466da4-424b-4ea5-eb61-08daf8e2d2bd,文件名中快速添加标记,Windows 资源管理器,pinbo,https://getquicker.net/User/549488/pinbo,142.3 KB,2023-01-18 21:15,12,可自定义隐藏部分功能,2025-01-30
+数据中转站,https://getquicker.net/Sharedaction?code=a15ec21f-5e13-4267-ef59-08dc7894979b,文本/文件拖放中转站,通用,FaniX,https://getquicker.net/User/52603/FaniX,72.5 KB,2024-05-21 14:59,5,"支持拖放文件（实验性）
+增加右键菜单
+更改界面布局",2025-01-30
+按键锁定判断,https://getquicker.net/Sharedaction?code=9a3e68b6-0cd3-48dd-7e7f-08db08171d22,CapsLock键、ScrollLock键、NumLock键锁定判断。须配合“事件触发”功能使用。,通用,EC10010,https://getquicker.net/User/2997/EC10010,110.8 KB,2023-02-06 19:05,20,修改图标。,2025-01-30
+窗口隐现,https://getquicker.net/Sharedaction?code=3d76a663-7b20-4880-7d54-08dd3f3b4180,隐现窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,12.9 KB,2025-01-29 10:02,3,窗口隐现。,2025-01-30
+文献AI阅读,https://getquicker.net/Sharedaction?code=b1afea76-7c24-4b8c-86a6-08dc51d79bc5,将zotero或本地的文献上传到kimi或者deepseek，让AI帮你读文献,Zotero,幸运星芙珑,https://getquicker.net/User/716549/%E5%B9%B8%E8%BF%90%E6%98%9F%E8%8A%99%E7%8F%91,20.9 KB,2024-04-01 13:41,10,延长了打开浏览器后的等待时间（等待时间可以根据自己电脑配置自行更改），给各配置电脑加载插件的时间，提高容错。,2025-01-30
