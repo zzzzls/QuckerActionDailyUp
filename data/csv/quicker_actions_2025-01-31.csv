@@ -1,4 +1,5 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+YT-DLP下载视频,https://getquicker.net/Sharedaction?code=8d22fc56-bc6a-4b36-25bd-08dc98da1b3c,"自动获取登录信息,并下载网页视频",Google Chrome,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,19 KB,2024-06-30 20:21,3,-,2025-02-01
 golden查词,https://getquicker.net/Sharedaction?code=282a1d39-046c-4db0-0eb5-08dcfa78c549,调用命令行，查询选中内容，未选中则弹出输入框，跳转golden查询,GoldenDict dictionary lookup program,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,19.6 KB,2024-11-01 22:17,4,增加右键选项，是否开启窗口恢复(查词后窗口自动切换到上一个),2025-02-01
 文件预览,https://getquicker.net/Sharedaction?code=4eaacb96-56f0-4183-583a-08dd249242cf,在资源管理器中不打开文件夹的情况下查看下层文件夹内容，可直接打开文件,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,224 KB,2024-12-25 13:45,20,-,2025-02-01
 网页提问AI,https://getquicker.net/Sharedaction?code=8567de17-2c44-4963-f1b8-08dd17617d76,选中文字提问后，在浏览器网页中自动发送问题,Microsoft Edge,IDongYou,https://getquicker.net/User/945782/IDongYou,79.6 KB,2024-12-08 19:43,3,添加deepseek网站,2025-02-01
