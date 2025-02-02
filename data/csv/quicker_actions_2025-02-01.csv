@@ -1,0 +1,11 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+问AI,https://getquicker.net/Sharedaction?code=f1743555-674d-4729-2552-08dd3978d697,随时随地问AI，支持多轮对话，多模型,通用,wilsons,https://getquicker.net/User/389684/wilsons,137.6 KB,2025-01-21 14:08,5,新增markdown预览功能,2025-02-02
+段中句,https://getquicker.net/Sharedaction?code=17ffd8c0-8fdf-4f80-557f-08dd4209bf6a,在段落中，获取光标所指的句子，而不需要手动滑选。,通用,爱吃包子的叮当猫,https://getquicker.net/User/47733/%E7%88%B1%E5%90%83%E5%8C%85%E5%AD%90%E7%9A%84%E5%8F%AE%E5%BD%93%E7%8C%AB,7.3 KB,2025-02-01 15:47,2,添加；; 分割符号,2025-02-02
+ChatAI,https://getquicker.net/Sharedaction?code=1cd157f5-026d-4079-f125-08dd4113b69a,图文提问，划词即答，ChatAI 让知识触手可及，效率大幅提升！,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,497.3 KB,2025-01-31 21:22,2,"  【更改】更改了一个角色名称和内容
+  【优化】交互体验优化",2025-02-02
+开断网,https://getquicker.net/Sharedaction?code=afcdf8d0-55d3-4d03-557a-08dd4209bf6a,一键插拔“网线”,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,5.3 KB,2025-02-01 11:57,0,,2025-02-02
+颜色精灵,https://getquicker.net/Sharedaction?code=b23a9830-f4c8-4026-586f-08db38e9bfaa,一键着色/全局拾色/极致色轮色盘/宏代码/JavaScript/RGB色值/Typora/微信公众号/Photoshop/Obsidian/WPS/Office/Illustrator,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,296.9 KB,2023-04-10 17:25,109,新增颜色选择器,2025-02-02
+导航灵,https://getquicker.net/Sharedaction?code=32c087d8-cf59-42ec-88d6-08db7c310e7e,网页收藏/导航/搜索/标签管理网页,Google Chrome,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,235.3 KB,2023-07-04 13:05,56,"新增vivaldi进程
+感谢用户反馈@风起的季节",2025-02-02
+一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,PNG/JPG/TIF/PSD/图层/圆角/描边/切片/等一键快存 ( 拒绝弹窗低效率保存 ),Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,250.6 KB,2023-03-19 16:39,72,导出优化,2025-02-02
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,全能版网络搜索神器/让quicker搜索超级增强/AI对话,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,345.6 KB,2023-10-22 15:24,272,加入deepseek网站,2025-02-02
