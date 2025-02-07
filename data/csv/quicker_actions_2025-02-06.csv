@@ -1,0 +1,32 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,界面清爽直观，实时计算，高效便捷，功能强大，支持历史记录功能，丝滑流畅的计算体验。,通用,astroStar,https://getquicker.net/User/178545/astroStar,436.2 KB,2024-05-22 14:21,248,优化工具箱功能,2025-02-07
+微信自动锁定,https://getquicker.net/Sharedaction?code=53708678-14ee-4fe9-a051-08dd45cea4ec,一个自动监控系统空闲时间并在需要时锁定微信的工具。,WeChat,flyhunterl,https://getquicker.net/User/1205690/flyhunterl,4.9 KB,2025-02-06 22:24,0,,2025-02-07
+ChatAI,https://getquicker.net/Sharedaction?code=1cd157f5-026d-4079-f125-08dd4113b69a,图文提问，划词即答，ChatAI 让知识触手可及，效率大幅提升！,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,559.5 KB,2025-01-31 21:22,7,"
+【新增】在文本窗口里：
+        - 选中文本后按下 Alt+Q ，可快捷提问
+        - 支持选中文本后，按下 Alt+R 开启自定义文本的 MD 渲染",2025-02-07
+deepseek,https://getquicker.net/Sharedaction?code=06100764-6e0f-46fe-644e-08dd43fcc6c2,最强AI大模型,通用,哪吒2,https://getquicker.net/User/684393/%E5%93%AA%E5%90%922,21 KB,2025-02-04 11:11,4,新增kimi ai 选项,2025-02-07
+Gemini增强版,https://getquicker.net/Sharedaction?code=6488881d-755f-45af-bd1c-08dd44dfc823,webview2版的Gemini 客户端,通用,ii6uu998,https://getquicker.net/User/703468/ii6uu998,34.2 KB,2025-02-04 16:45,2,添加了app模式打开gemini，这个模式可以上传图片实现ocr识别,2025-02-07
+获取日期时间,https://getquicker.net/Sharedaction?code=175dac4c-2048-4fc5-a04b-08dd45cea4ec,获取当前时间发送到文本框,通用,泡麺,https://getquicker.net/User/144913/%E6%B3%A1%E9%BA%BA,6.7 KB,2025-02-06 18:42,0,,2025-02-07
+json路径提取,https://getquicker.net/Sharedaction?code=db4c63b7-70bd-41fc-226e-08dd3d8bee22,json路径提取,通用,侧耳倾听&,https://getquicker.net/User/565162/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC%26,148.4 KB,2025-01-26 19:54,12,1,2025-02-07
+二次元图片,https://getquicker.net/Sharedaction?code=c7112957-e732-4ede-a048-08dd45cea4ec,随机显示二次元图片,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,9 KB,2025-02-06 17:21,0,,2025-02-07
+翻译替换,https://getquicker.net/Sharedaction?code=385d12c5-8128-48b1-9959-08dd2e1384ce,翻译并替换选中文本，未选中则翻译替换整行,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,42 KB,2025-01-06 14:44,2,优化,2025-02-07
+ChatWindow,https://getquicker.net/Sharedaction?code=2ff0b580-b757-4716-5a83-08dbfdbb1fb8,一个简单易用的AI动作，让前沿的人工智能技术变成易于使用的生产力工具,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,230 KB,2023-12-16 20:13,87,+ 右键菜单新增`角色管理`，用于批量查看编辑话会提示词,2025-02-07
+去除高亮并恢复黑色,https://getquicker.net/Sharedaction?code=eec71e6b-1f19-4ae1-a044-08dd45cea4ec,kimi写的代码，选中光标所在段落，去除该段落的高亮，并恢复该段落文字颜色为黑色。,Microsoft Word,royxia,https://getquicker.net/User/501580/royxia,1.3 KB,2025-02-06 16:36,0,,2025-02-07
+微信直接打印图片,https://getquicker.net/Sharedaction?code=41474978-69d3-42cd-1217-08dd062f9162,微信直接打印图片V2,WeChat,sharklaka,https://getquicker.net/User/826879/sharklaka,9.9 KB,2024-11-17 11:21,1,10秒内的打印操作将快速打印图片,2025-02-07
+图片批注,https://getquicker.net/Sharedaction?code=a0dec4bf-0ead-43c1-cee9-08dc925151e4,截图并插入到当前单元格作为批注,Microsoft Excel,流氓兔,https://getquicker.net/User/144013/%E6%B5%81%E6%B0%93%E5%85%94,18.6 KB,2024-06-22 17:27,1,"增加自主选择图片功能
+增加循环下一次添加批注功能",2025-02-07
+巴德Git子模块助手,https://getquicker.net/Sharedaction?code=557ad280-5d4b-4ef7-0750-08dce3b37c04,查看、更新子模块,通用,Bader,https://getquicker.net/User/135289/Bader,6.8 KB,2024-10-04 10:10,1,1. 获取选中路径失败时弹出路径输入框,2025-02-07
+微信公众号订阅删除,https://getquicker.net/Sharedaction?code=666e9275-5774-49bf-a03f-08dd45cea4ec,将鼠标放置在需要删除的订阅号上点击f2自动化删除,WeChat,Dsimpson,https://getquicker.net/User/807522/Dsimpson,7.4 KB,2025-02-06 15:05,0,,2025-02-07
+示例：云状态查看,https://getquicker.net/Sharedaction?code=c0a5b5dc-0eac-4b35-653a-08dd2d2189e8,直接在浏览器显示，看着方便些,Quicker,瞑空凌,https://getquicker.net/User/769338/%E7%9E%91%E7%A9%BA%E5%87%8C,28.8 KB,2025-01-06 02:49,7,忘了加提示,2025-02-07
+失焦静音,https://getquicker.net/Sharedaction?code=70c07286-2897-486c-24d0-08da6210a43f,让多个指定的应用在后台时静音,通用,风未知,https://getquicker.net/User/59944/%E9%A3%8E%E6%9C%AA%E7%9F%A5,53.5 KB,2022-07-10 20:48,11,修复了通过运行动作添加应用进列表时有时不会进行换行的bug,2025-02-07
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,836.4 KB,2021-05-23 17:54,193,【忽略】当没有在“设置”中勾选“取消默认置顶时”，不应该显示出“置顶”这个选项，只有在勾选后，才显示出来。,2025-02-07
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,86.1 KB,2024-12-17 10:16,19,"1、增加驳回商标注册申请复审申请书
+2、修复bug",2025-02-07
+电源睡眠定时修改,https://getquicker.net/Sharedaction?code=5338e33c-00a9-4583-bd24-08dd44dfc823,win11电源和睡眠设置--使我的设备在以下时间后进入睡眠状态,通用,今日凌波明日香,https://getquicker.net/User/1046814/%E4%BB%8A%E6%97%A5%E5%87%8C%E6%B3%A2%E6%98%8E%E6%97%A5%E9%A6%99,21 KB,2025-02-04 21:45,1,白天时间段，改为左闭右开，符合直觉,2025-02-07
+文件夹修改,https://getquicker.net/Sharedaction?code=b273a0cf-96b5-4530-f12c-08dca16ac556,自定义文件夹,Windows 资源管理器,一点儿,https://getquicker.net/User/163483/%E4%B8%80%E7%82%B9%E5%84%BF,42.4 KB,2024-07-12 03:01,5,"- 使用图标路径
+- 脚本运行时：图标文件属性设为隐藏",2025-02-07
+批量快递查询,https://getquicker.net/Sharedaction?code=f33c2479-6186-442f-dbb4-08dd3a7ac243,用于查询快递信息,通用,侧耳倾听&,https://getquicker.net/User/565162/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC%26,33.3 KB,2025-01-22 13:52,11,1,2025-02-07
+CAD文字批量替换(多文件),https://getquicker.net/Sharedaction?code=7e4d6b35-4ff8-4a89-b305-08dd3b5bce04,CAD已打开图纸文件，文本替换,AutoCAD Application,暮色苍茫,https://getquicker.net/User/474338/%E6%9A%AE%E8%89%B2%E8%8B%8D%E8%8C%AB,15.9 KB,2025-01-24 14:26,3,新增替换所有块内文字,2025-02-07
+巴德自增文本,https://getquicker.net/Sharedaction?code=6b59b146-4088-4092-a035-08dd45cea4ec,为你输出一个包含自增数字的文本,通用,Bader,https://getquicker.net/User/135289/Bader,6.7 KB,2025-02-06 08:43,0,,2025-02-07
+BinaChat,https://getquicker.net/Sharedaction?code=803a4f0c-1216-4a57-e78f-08db34194ef2,连续对话、云端历史、DeepSeek、GPT-4o、文心一言、通义千问,通用,RyanChan720,https://getquicker.net/User/119300/RyanChan720,134.9 KB,2023-04-03 16:44,22,1. 新增 DeepSeek R1、DeepSeek V3 模型,2025-02-07
