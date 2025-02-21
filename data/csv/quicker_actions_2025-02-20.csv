@@ -3,14 +3,11 @@
 透明度,https://getquicker.net/Sharedaction?code=b10d12ea-155d-46f8-e665-08dc8f5b9fbd,调整窗口透明度,通用,ILiJ,https://getquicker.net/User/505758/ILiJ,97.7 KB,2024-06-19 02:17,18,"修复:1.通知窗主题为取反系统时,背景色错误的Bug
 	2.设置界面的布局bug
 ",2025-02-21
-临时邮箱,https://getquicker.net/Sharedaction?code=fe612151-ceb8-4458-a7f5-08dd5143284a,一键获取临时邮箱，可随时查看邮件，支持邮箱号码保存,通用,Yokior,https://getquicker.net/User/1040030/Yokior,47.1 KB,2025-02-20 22:20,0,,2025-02-21
 字符信息,https://getquicker.net/Sharedaction?code=d90dcdb0-06ad-4d9a-8844-08da94650f0e,查询 Unicode 字符信息,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,239.4 KB,2022-09-13 11:18,4,- 修复：代理字符判断漏掉 DB80-DBFF 的问题,2025-02-21
 修改Typora图片比例,https://getquicker.net/Sharedaction?code=b2a5afea-de5d-4b2a-a7db-08dd5143284a,自定义Typora中的图片比例,Typora,Tdada,https://getquicker.net/User/1134945/Tdada,4.8 KB,2025-02-20 15:30,1,用户手动输入或确认缩放比例，默认值50。,2025-02-21
 语音朗读,https://getquicker.net/Sharedaction?code=bd4b740e-b877-4ac5-a7d7-08dd5143284a,调用自建的FishSpeechAPI进行语音朗读,Google Chrome,天命小猪,https://getquicker.net/User/1219794/%E5%A4%A9%E5%91%BD%E5%B0%8F%E7%8C%AA,15.9 KB,2025-02-20 14:56,0,,2025-02-21
 网页动态数据\n提取或定位,https://getquicker.net/Sharedaction?code=a664bcc9-82a7-477e-bff0-08dd4a913dce,网页动态数据的查找和定位,Google Chrome,侧耳倾听&,https://getquicker.net/User/565162/%E4%BE%A7%E8%80%B3%E5%80%BE%E5%90%AC%26,101.8 KB,2025-02-12 22:39,7,1,2025-02-21
-多步骤生成,https://getquicker.net/Sharedaction?code=82678afc-219e-4e63-a7d1-08dd5143284a,通过拖拉拽的方式快速生成多步骤脚本,通用,IDongYou,https://getquicker.net/User/945782/IDongYou,244.1 KB,2025-02-20 11:55,0,,2025-02-21
 飞书报表自动发送,https://getquicker.net/Sharedaction?code=a97e4f57-352b-4eb7-a02a-08dd45cea4ec,实现飞书电子表格复制图片，并发送到飞书对话框,通用,用户hCyClxDMAgA,https://getquicker.net/User/606468/%E7%94%A8%E6%88%B7hCyClxDMAgA,12.7 KB,2025-02-05 22:17,2,更新图标,2025-02-21
-斗图表情包,https://getquicker.net/Sharedaction?code=961bc96c-85ee-4365-b1d9-08dd50826d7a,选中或复制后，一键粘贴表情包,通用,今日凌波明日香,https://getquicker.net/User/1046814/%E4%BB%8A%E6%97%A5%E5%87%8C%E6%B3%A2%E6%98%8E%E6%97%A5%E9%A6%99,6.8 KB,2025-02-19 17:41,1,当未选中或复制文字时，会使用上次的关键词。效果就是：点一下动作，就出一个图，不需要总是先选中再点动作了,2025-02-21
 窗口置顶,https://getquicker.net/Sharedaction?code=4e85ef78-05ab-4157-adcd-08da6e569e28,点击窗口右上角图标取消置顶,通用,toubet,https://getquicker.net/User/15732/toubet,134 KB,2022-07-26 20:09,36,优化,2025-02-21
 高能物理论文检索,https://getquicker.net/Sharedaction?code=8ca91b60-807f-4ee3-f95f-08dabe0047bb,简单的论文检索工具,通用,小胡杨,https://getquicker.net/User/685250/%E5%B0%8F%E8%83%A1%E6%9D%A8,18.1 KB,2022-11-04 20:12,2,sci-hub 网址变动，已更改,2025-02-21
 引线样式,https://getquicker.net/Sharedaction?code=6546d92a-e060-4b5d-a7c8-08dd5143284a,打开引线样式,AutoCAD Application,紫雪晨光,https://getquicker.net/User/795570/%E7%B4%AB%E9%9B%AA%E6%99%A8%E5%85%89,12 B,2025-02-20 10:06,0,,2025-02-21
