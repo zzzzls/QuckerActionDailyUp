@@ -1,0 +1,25 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+EVER话术,https://getquicker.net/Sharedaction?code=0b7e480d-5c12-4510-47b9-08d720bda2d4,⏎话术模板，快速收藏，快速输入发送常用交流句子、短语、文件、号码等信息（支持多行）。,通用,Ever,https://getquicker.net/User/2774/Ever,70.9 KB,2019-08-14 22:57,49,修复只有一个时，正则提取失败导致不能发送的问题,2025-02-22
+AI对话,https://getquicker.net/Sharedaction?code=98ee2ca7-37ca-45a9-fe37-08dd522995b7,方便于Niaa的Assist Hub调用。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,23.4 KB,2025-02-21 14:32,5,.,2025-02-22
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,957.4 KB,2021-06-14 21:07,388,.,2025-02-22
+巴德IN转换,https://getquicker.net/Sharedaction?code=87a043ac-56e0-44a5-e341-08dd0733f195,多行文本转换为数据库IN格式；互转,通用,Bader,https://getquicker.net/User/135289/Bader,3.8 KB,2024-11-18 19:32,2,"1. 更新支持""",2025-02-22
+steam账号切换,https://getquicker.net/Sharedaction?code=b3edac14-a917-42a1-52de-08dd4e5dbd85,使用实时搜索切换steam账号，适用于经常切换账号,通用,Qqwaw,https://getquicker.net/User/945817/Qqwaw,41.7 KB,2025-02-17 07:37,3,[+]现在可以离线登陆了，忘把True转变成int了....难绷,2025-02-22
+文本高亮,https://getquicker.net/Sharedaction?code=323529da-e804-49e2-fe38-08dd522995b7,选中文本高亮,Obsidian,JohnnWick,https://getquicker.net/User/277421/JohnnWick,1.5 KB,2025-02-21 14:33,0,,2025-02-22
+文件整理,https://getquicker.net/Sharedaction?code=e22a1b1f-c61b-4b5f-6d8d-08db44ce5b6e,解散文件夹，归档文件，批量重命名，选中/反选文件，删除文件，重复文件，空目录，获取信息,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,201.6 KB,2023-04-25 15:57,32,重构v2.0,2025-02-22
+临时邮箱,https://getquicker.net/Sharedaction?code=fe612151-ceb8-4458-a7f5-08dd5143284a,一键获取临时邮箱，可随时查看邮件，支持邮箱号码保存,通用,Yokior,https://getquicker.net/User/1040030/Yokior,47.5 KB,2025-02-20 22:20,1,[style]收件箱改为按照时间降序排列,2025-02-22
+AI快译,https://getquicker.net/Sharedaction?code=be46ec80-49b5-4273-fe2c-08dd522995b7,选中文字->执行动作，两步即可快速翻译,通用,Yokior,https://getquicker.net/User/1040030/Yokior,13.9 KB,2025-02-21 11:42,1,[style]窗口激活方式调整,2025-02-22
+AI三连窗,https://getquicker.net/Sharedaction?code=64e3c18f-93da-4601-30c3-08dd46c83758,一个界面打开三个不同的AI模型，免费且无需API,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,20 KB,2025-02-07 23:04,7,增加Grok,2025-02-22
+斗图表情包,https://getquicker.net/Sharedaction?code=961bc96c-85ee-4365-b1d9-08dd50826d7a,选中或复制后，一键粘贴表情包,通用,今日凌波明日香,https://getquicker.net/User/1046814/%E4%BB%8A%E6%97%A5%E5%87%8C%E6%B3%A2%E6%98%8E%E6%97%A5%E9%A6%99,10.8 KB,2025-02-19 17:41,3,添加了（简单）判断剪切板内容是否为网址，是网址则相当于非文本,2025-02-22
+多步骤生成,https://getquicker.net/Sharedaction?code=82678afc-219e-4e63-a7d1-08dd5143284a,通过拖拉拽的方式快速生成多步骤脚本,通用,IDongYou,https://getquicker.net/User/945782/IDongYou,244 KB,2025-02-20 11:55,1,修复bug,2025-02-22
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,astroStar,https://getquicker.net/User/178545/astroStar,567.4 KB,2024-05-22 14:21,277,修复历史记录的显示和OCR的计算,2025-02-22
+弹出菜单-精减,https://getquicker.net/Sharedaction?code=391e99e9-11de-46f5-44f9-08dba7ba3b5d,去掉空白设置,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,27.8 KB,2023-08-29 21:23,2,精减,2025-02-22
+吸附窗口,https://getquicker.net/Sharedaction?code=1b5429bc-3c12-455f-8223-08dd34b83ebe,"一个主窗口可吸附任意个子窗口,分别调节Y坐标即可",通用,闲逛A,https://getquicker.net/User/489948/%E9%97%B2%E9%80%9BA,20.2 KB,2025-01-15 06:21,7,"1.此版本默认显示进度条,点击进度条的[取消]按钮,可释放所对应的子窗口吸附.
+2.吸附时长的原始计时误差较大,添加修正值供选择.
+3.在已打开首个子窗口后,右键点选[下个子窗口],逐个添加子窗口,不必再选主窗口.
+4.手动修改参数而添加子窗口时,仍需分别点选主窗口和子窗口.
+5.进度条增加显示子窗口标题.",2025-02-22
+历史浏览,https://getquicker.net/Sharedaction?code=ceac2764-a6f0-4b6d-a7fe-08dd5143284a,打开豆包的历史浏览,Doubao,陆月昵称必须三个字,https://getquicker.net/User/1220214/%E9%99%86%E6%9C%88%E6%98%B5%E7%A7%B0%E5%BF%85%E9%A1%BB%E4%B8%89%E4%B8%AA%E5%AD%97,14 B,2025-02-21 01:12,0,,2025-02-22
+重开上个页面,https://getquicker.net/Sharedaction?code=7036e83b-5dce-4b72-a7fd-08dd5143284a,打开豆包错误关掉的上个页面,Doubao,陆月昵称必须三个字,https://getquicker.net/User/1220214/%E9%99%86%E6%9C%88%E6%98%B5%E7%A7%B0%E5%BF%85%E9%A1%BB%E4%B8%89%E4%B8%AA%E5%AD%97,21 B,2025-02-21 01:10,0,,2025-02-22
+关闭右侧标签页,https://getquicker.net/Sharedaction?code=88549d38-bb26-49bd-a7fc-08dd5143284a,1.应保证当前标签页的右侧有五个以上（含五个），否则会错误删除左侧的标签页；2.关闭当前标签页右侧的五个页面（不含当前页）,Doubao,陆月昵称必须三个字,https://getquicker.net/User/1220214/%E9%99%86%E6%9C%88%E6%98%B5%E7%A7%B0%E5%BF%85%E9%A1%BB%E4%B8%89%E4%B8%AA%E5%AD%97,3.4 KB,2025-02-21 01:08,0,,2025-02-22
+关闭左侧网页,https://getquicker.net/Sharedaction?code=e477480e-7f9d-440e-a7fb-08dd5143284a,1.应保证当前网络页面的左侧有五个以上（含五个）网络页面，否则会错误删除右侧的页面；2.关闭当前网络页面的左侧五个页面（不含当前页）,Doubao,陆月昵称必须三个字,https://getquicker.net/User/1220214/%E9%99%86%E6%9C%88%E6%98%B5%E7%A7%B0%E5%BF%85%E9%A1%BB%E4%B8%89%E4%B8%AA%E5%AD%97,3.4 KB,2025-02-21 01:01,0,,2025-02-22
+Discuz 一键编辑,https://getquicker.net/Sharedaction?code=01d03c03-07ce-4ad8-a7fa-08dd5143284a,打开一个 Discuz 论坛主题后，一键进入主题编辑,Microsoft Edge,IsaacZ,https://getquicker.net/User/325388/IsaacZ,1.6 KB,2025-02-21 00:25,0,,2025-02-22
