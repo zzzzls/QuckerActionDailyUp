@@ -1,0 +1,19 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例3：超时自动点击默认按钮,https://getquicker.net/Sharedaction?code=d6988e96-d609-4b32-9f33-08dd540be49f,3秒钟没有任何操作，自动点击默认按钮,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,2.6 KB,2025-02-23 23:58,0,,2025-02-24
+自动贴边,https://getquicker.net/Sharedaction?code=d837e4f6-c8d6-4117-9f31-08dd540be49f,将拖放到屏幕边缘的窗口贴边,通用,FaniX,https://getquicker.net/User/52603/FaniX,37.7 KB,2025-02-23 22:01,0,,2025-02-24
+RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,348.2 KB,2024-09-15 18:35,86,+ 增加搜索框的搜索预设,2025-02-24
+论文速读,https://getquicker.net/Sharedaction?code=869a8584-887d-49b1-fe4e-08dd522995b7,选中论文pdf文件或路径，使用本动作，即可自动提炼每一章的要点，生成详细的论文笔记。眼睛如果能跟上笔记生成的速度，就能速读整篇论文。,通用,Balrog,https://getquicker.net/User/235565/Balrog,20.3 KB,2025-02-21 22:27,1,新功能：右键配置可以选择窗口位置，这样速读窗口就能与PDF阅读器同屏显示了,2025-02-24
+steam账号切换,https://getquicker.net/Sharedaction?code=b3edac14-a917-42a1-52de-08dd4e5dbd85,使用实时搜索切换steam账号，适用于经常切换账号,通用,Qthzrvy,https://getquicker.net/User/945817/Qthzrvy,48.7 KB,2025-02-17 07:37,8,"[+]添加自动清理超过15天备份的功能，可以自行编辑动作更改
+[~]修复删除账户时，不显示AccountName的bug",2025-02-24
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,853.6 KB,2021-05-23 17:54,204,.,2025-02-24
+窗口收纳盒,https://getquicker.net/Sharedaction?code=8a5e0584-f8cb-4ec3-2ed8-08dd531cfa63,通过拖放临时隐藏窗口,通用,FaniX,https://getquicker.net/User/52603/FaniX,23 KB,2025-02-22 19:06,2,~修复操作窗关闭后拖动窗口可能引起崩溃的问题,2025-02-24
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,astroStar,https://getquicker.net/User/178545/astroStar,574.1 KB,2024-05-22 14:21,278,"1、日期计算器新增""摸鱼""日期显示
+2、优化键盘的显示",2025-02-24
+超级文本替换,https://getquicker.net/Sharedaction?code=55e35225-3818-487c-b5a2-08da2a8a4d14,最强悍无匹的文本替换动作,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,252.2 KB,2022-04-30 21:28,25,- 优化：部分软件中获取选中文本的问题,2025-02-24
+豆包AI助手,https://getquicker.net/Sharedaction?code=de3cbe5a-0dca-4b3f-2fac-08dc9fa8ef9a,免费AI大模型助手，打开即用，涵盖历史、科学、技术、文化、娱乐等众多领域。能帮您解答各种疑问,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,12.9 KB,2024-07-09 10:01,10,改bug,2025-02-24
+工作台,https://getquicker.net/Sharedaction?code=d8248857-2035-48f6-8f31-08dbf92db44f,一键启动常用程序，可根据不同的场景配置，不同的计划！,通用,哪吒2,https://getquicker.net/User/684393/%E5%93%AA%E5%90%922,124.1 KB,2023-12-10 22:20,5,.,2025-02-24
+AI全家桶,https://getquicker.net/Sharedaction?code=2dde60eb-2d8a-46bf-2ee5-08dd531cfa63,选中文本或截图，自动发送您的疑问给AI，它会帮您解答。,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,107.7 KB,2025-02-23 06:53,1,修复kimi无法聚焦输入框的bug。,2025-02-24
+ChatAI,https://getquicker.net/Sharedaction?code=2b39c8e4-cc75-4e6b-b98a-08dca0782eac,"一款多功能AI知识库(包括GraphRAG图谱知识库和向量知识库)问答集成工具-快速GPT问答, Zotero文献问答, 连续问答, 文章书籍AI问答、lobechat知识库版、多文件AI问答；包括ChatGPT、DeepSeek、Kimi、智谱清言、通义千问等众多AI模型；问答不限文件大小，本地向量化永久储存。",Zotero,logπ,https://getquicker.net/User/20349/log%CF%80,1.6 MB,2024-07-11 11:24,92,AskPDF模式下，增加图文输出结果的功能，需要使用Doc2X秘钥将PDF转为Markdown格式。,2025-02-24
+窗口快捷键,https://getquicker.net/Sharedaction?code=a846e3d4-010f-4ec3-2ee1-08dd531cfa63,右键设置目标窗口/可以选取最多五个目标窗口，右CTRL+q/w/e/r/d更换窗口，右CTRL+T退出动作,通用,lhyyhl,https://getquicker.net/User/1135196/lhyyhl,12 KB,2025-02-23 01:06,0,,2025-02-24
+AI快译,https://getquicker.net/Sharedaction?code=be46ec80-49b5-4273-fe2c-08dd522995b7,选中文字->执行动作，两步即可快速翻译,通用,Yokior,https://getquicker.net/User/1040030/Yokior,16.8 KB,2025-02-21 11:42,2,[feat]添加文字设置(动作右键菜单中)：可以设置文字展示的动画速度,2025-02-24
+文件标记,https://getquicker.net/Sharedaction?code=32466da4-424b-4ea5-eb61-08daf8e2d2bd,文件名中快速添加标记,Windows 资源管理器,pinbo,https://getquicker.net/User/549488/pinbo,150.5 KB,2023-01-18 21:15,13,支持自定义版本号前缀,2025-02-24
