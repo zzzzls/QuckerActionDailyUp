@@ -1,7 +1,12 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 示例3：超时自动点击默认按钮,https://getquicker.net/Sharedaction?code=d6988e96-d609-4b32-9f33-08dd540be49f,3秒钟没有任何操作，自动点击默认按钮,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,2.6 KB,2025-02-23 23:58,0,,2025-02-24
+每周连续时间段,https://getquicker.net/Sharedaction?code=175984bb-b4d9-4160-bc1d-08dd4f4ca7ac,比如每周五18点到每周日20点，做一些动作,通用,今日凌波明日香,https://getquicker.net/User/1046814/%E4%BB%8A%E6%97%A5%E5%87%8C%E6%B3%A2%E6%98%8E%E6%97%A5%E9%A6%99,14.2 KB,2025-02-18 17:07,4,修改bug，if判断==少一个=,2025-02-24
 自动贴边,https://getquicker.net/Sharedaction?code=d837e4f6-c8d6-4117-9f31-08dd540be49f,将拖放到屏幕边缘的窗口贴边,通用,FaniX,https://getquicker.net/User/52603/FaniX,37.7 KB,2025-02-23 22:01,0,,2025-02-24
+网页新窗口打开,https://getquicker.net/Sharedaction?code=c5cd03f7-4f8e-4744-9f30-08dd540be49f,解决 Quicker 搜索网页只能在新标签打开，不能在新窗口打开的问题,通用,王五四,https://getquicker.net/User/1212346/%E7%8E%8B%E4%BA%94%E5%9B%9B,1.5 KB,2025-02-23 21:27,0,,2025-02-24
+AI集合增强版,https://getquicker.net/Sharedaction?code=964fd608-8c71-48b1-2f01-08dd531cfa63,webview2版的AI集合,通用,ii6uu998,https://getquicker.net/User/703468/ii6uu998,45.1 KB,2025-02-23 21:11,0,,2025-02-24
+DeepLX,https://getquicker.net/Sharedaction?code=c55325a6-3af1-4a11-bf4d-08dc12372202,Translator 配套动作  支持DeepLX，使用前请现在右键-设置菜单中配置deepLx的api,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,34.1 KB,2024-01-11 11:53,11,fix,2025-02-24
 RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,348.2 KB,2024-09-15 18:35,86,+ 增加搜索框的搜索预设,2025-02-24
+按序号重命名,https://getquicker.net/Sharedaction?code=930df7d9-ea11-4a7f-2ef9-08dd531cfa63,对选中文件重命名，从序号1开始,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,4.6 KB,2025-02-23 18:42,0,,2025-02-24
 论文速读,https://getquicker.net/Sharedaction?code=869a8584-887d-49b1-fe4e-08dd522995b7,选中论文pdf文件或路径，使用本动作，即可自动提炼每一章的要点，生成详细的论文笔记。眼睛如果能跟上笔记生成的速度，就能速读整篇论文。,通用,Balrog,https://getquicker.net/User/235565/Balrog,20.3 KB,2025-02-21 22:27,1,新功能：右键配置可以选择窗口位置，这样速读窗口就能与PDF阅读器同屏显示了,2025-02-24
 steam账号切换,https://getquicker.net/Sharedaction?code=b3edac14-a917-42a1-52de-08dd4e5dbd85,使用实时搜索切换steam账号，适用于经常切换账号,通用,Qthzrvy,https://getquicker.net/User/945817/Qthzrvy,48.7 KB,2025-02-17 07:37,8,"[+]添加自动清理超过15天备份的功能，可以自行编辑动作更改
 [~]修复删除账户时，不显示AccountName的bug",2025-02-24
