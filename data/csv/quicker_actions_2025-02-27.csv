@@ -1,0 +1,40 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,全能版网络搜索神器/让Quicker搜索超级增强/Deepseek等16个AI对话/500个常用网站,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,388.3 KB,2023-10-22 15:24,320,*,2025-02-28
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,303.4 KB,2023-10-18 22:55,130,"感谢用户反馈@tb1717
+新增3种搜索模式,通过操作窗界面左上角点击切换
+⭐搜索模式A-模糊搜索
+如输入汉字使用拼音字母搜索如""fapiao""可搜索到“发票”
+但超过128字符大小时的常用语文本无法被检索
+⭐搜索模式B-精准搜索
+精准搜索模式/如输入汉字""fapiao""无法搜索到“发票”/但搜索纯数字或纯字母的常用语时检索性更强
+⭐搜索模式C-兼容搜索
+兼容搜索模式/同时获取模糊搜索和精准搜索的两种结果/搜索纯数字或纯字母时检索性稍微较差
+⭐标签右键恢复搜索标签词的功能
+",2025-02-28
+长按滑动选择切换窗口,https://getquicker.net/Sharedaction?code=990d568d-df7f-4e6d-b04c-08dd56e751a4,无法直接运行，需要设置高级鼠标触发，传入一个动作参数，是你设置的按键参数，使用时长按并滑动，松开按键时切换悬停的程序窗口,通用,用户2905089082...,https://getquicker.net/User/267275/%E7%94%A8%E6%88%B7290508908290757,3.2 KB,2025-02-27 18:01,3,-,2025-02-28
+YT-DLP下载视频,https://getquicker.net/Sharedaction?code=8d22fc56-bc6a-4b36-25bd-08dc98da1b3c,"自动获取登录信息,并下载网页视频",Google Chrome,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,25.1 KB,2024-06-30 20:21,5,+ 增加链接批量下载,2025-02-28
+超级对符,https://getquicker.net/Sharedaction?code=0cf35569-18d3-4ac6-99bf-08dcff9008ea,极致强大的符号配对体验，配合扩展热键使用,通用,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,43.9 KB,2024-11-09 10:15,6,"超级更新：
+1. 新增了光标跳出的功能，现在键入配对符号后按 Tab 键可将光标跳出对符，更多设置见右键菜单；
+2. 新增了逆转对符的功能，可以将选中内容的配对符号转换为中文或英文格式，专业版用户请更新拓展热键包；
+3. 拓展了撤销对符的场景，现在键入配对符号后按回退键 (Backspace) 可直接撤销对符；
+4. 拓展了全平台通用的应用程序，新增 Matlab、Python。",2025-02-28
+文件标记,https://getquicker.net/Sharedaction?code=32466da4-424b-4ea5-eb61-08daf8e2d2bd,文件名中快速添加标记,Windows 资源管理器,pinbo,https://getquicker.net/User/549488/pinbo,154.2 KB,2023-01-18 21:15,15,调整第三方文件管理器等待剪切板时间,2025-02-28
+窗口收纳盒,https://getquicker.net/Sharedaction?code=8a5e0584-f8cb-4ec3-2ed8-08dd531cfa63,通过拖放临时隐藏窗口,通用,FaniX,https://getquicker.net/User/52603/FaniX,34.7 KB,2025-02-22 19:06,3,"+支持自定义面板布局
++支持通过传入参数收纳窗口",2025-02-28
+Edge禁止更新,https://getquicker.net/Sharedaction?code=db8ae275-3138-4a0a-b044-08dd56e751a4,点击动作一键运行，禁止Edge浏览器更新；或者再次运行切换为更新状态,Microsoft Edge,duzh,https://getquicker.net/User/104936/duzh,46.3 KB,2025-02-27 15:43,0,,2025-02-28
+网络代理,https://getquicker.net/Sharedaction?code=604b186b-e954-45f1-848d-08daf13f5a77,一键开关系统网络代理，切换科学上网，右键可设置翻墙梯子等代理，修复网络。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,20.6 KB,2023-01-08 17:30,6,~ fixbug,2025-02-28
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷。最强大便捷的智能计算器",通用,astroStar,https://getquicker.net/User/178545/astroStar,573.8 KB,2024-05-22 14:21,280,优化随手记选中计算,2025-02-28
+好友定位,https://getquicker.net/Sharedaction?code=7fbb9922-9c4c-4ecc-5223-08dd369e5344,一键收藏微信好友/快速定位聊天窗/定制专属好友文件夹/联动多软件搜好友/标签式管理好友,WeChat,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,255.7 KB,2025-01-17 15:33,28,"当显示字段为空时,默认使用X变量",2025-02-28
+Assistant(Beta),https://getquicker.net/Sharedaction?code=f7d1821d-0433-48ea-6816-08dd5600db7b,Assistant AI 人工智能助理。,通用,Anlv,https://getquicker.net/User/392637/Anlv,167.3 KB,2025-02-27 11:04,1,修复:动作库安装的动作不支持获取其它动作的运行个数，,2025-02-28
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「AI对话、MD预览、快速检索、贴边隐藏、分组标签、自动同步」,通用,dalou,https://getquicker.net/User/76824/dalou,526.7 KB,2024-05-10 17:42,46,优化：设置AI对话状态，避免同时多次调用。,2025-02-28
+mt5代码注释,https://getquicker.net/Sharedaction?code=adc17b81-2553-494b-b039-08dd56e751a4,mt4、mt5、mql4、mql5代码注释和取消代码注释,通用,ii6uu998,https://getquicker.net/User/703468/ii6uu998,12.6 KB,2025-02-27 13:01,0,,2025-02-28
+字体修改,https://getquicker.net/Sharedaction?code=1725c53c-5fac-457b-8533-08da03c992d9,修改选中字体的样式（字体， 字号， 颜色）,SuperMemo 19,Celestial,https://getquicker.net/User/318985/Celestial,3.9 KB,2022-03-13 07:34,1,自定义高亮字体的颜色，字体和大小,2025-02-28
+星陨计划,https://getquicker.net/Sharedaction?code=692c832f-01db-474f-a842-08dcafa4e6df,雷电模拟器平板1280x720,雷电模拟器,LJH_,https://getquicker.net/User/392903/LJH_,1.6 MB,2024-07-29 21:56,16,微调,2025-02-28
+CAD清理,https://getquicker.net/Sharedaction?code=40b405d8-9a6b-473d-6810-08dd5600db7b,模拟PURGE命令，一键清理,GstarCAD Application,辉辉101,https://getquicker.net/User/209969/%E8%BE%89%E8%BE%89101,48 B,2025-02-27 09:20,0,,2025-02-28
+置顶/大小,https://getquicker.net/Sharedaction?code=21e52823-7b04-4749-2bd6-08dd2585d4a3,窗口置顶切换 调整透明度/大小 定位到设定位置,通用,闲逛A,https://getquicker.net/User/489948/%E9%97%B2%E9%80%9BA,73.4 KB,2024-12-27 05:11,3,"1.添加窗口大小设置
+2.窗口定位到预设位置",2025-02-28
+计算器Pro 免费,https://getquicker.net/Sharedaction?code=d3645960-83e9-446c-928f-08dcd6e4f4f5,【本动作免费，永不收费】AI设计的动作，越来越好用。高效强大，实时计算，金额大写， 历史记录，备注，皮肤背景，键盘，汇率换算，日期计算等等功能，人性化使用方式。,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,241.3 KB,2024-09-17 16:03,98,1,2025-02-28
+亲戚称呼计算器【首发】,https://getquicker.net/Sharedaction?code=0ecf4792-62cf-42b7-30c5-08dd46c83758,【首发认证】如何称呼对方：中国家庭称谓计算器，亲戚称呼计算器，亲属关系计算器，辈分计算器,通用,【推荐】该动作用户少，但用量大,https://getquicker.net/User/412766/%E3%80%90%E6%8E%A8%E8%8D%90%E3%80%91%E8%AF%A5%E5%8A%A8%E4%BD%9C%E7%94%A8%E6%88%B7%E5%B0%91%EF%BC%8C%E4%BD%86%E7%94%A8%E9%87%8F%E5%A4%A7,113.1 KB,2025-02-08 00:00,5,1,2025-02-28
+系统工具集,https://getquicker.net/Sharedaction?code=42da3d12-4d9e-4fcf-8720-08dceb3bdfc8,集系统优化、常用功能于一体，主打一个方便,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,155.9 KB,2024-10-14 15:41,8,"~ 更新展示面板
+~ 若干优化fixbug
++ 新增循环模式（面板右键可切换）",2025-02-28
