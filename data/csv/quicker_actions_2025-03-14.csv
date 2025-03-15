@@ -1,6 +1,5 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
 微信极速扫码,https://getquicker.net/Sharedaction?code=35972b6b-063d-48ca-5619-08dd62568c20,极速调用PC微信打开二维码，适用于需要扫码登录的网页、软件,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,24.5 KB,2025-03-14 23:31,0,,2025-03-15
-全能图屏,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,PDF转图片/图片转PDF/GIF/窗口控制/抠图/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/录表情/尺寸调整/批量识别/图片处理/[60种功能处理],通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,414.9 KB,2024-06-06 00:01,88,优化,2025-03-15
 文件名启动,https://getquicker.net/Sharedaction?code=c57e46b1-bb8e-4c8f-bce5-08dc9bca0acf,适合家里、公司多台电脑的用户，不管软件装在C盘还是D盘，根据名字直接找到并运行,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,136.4 KB,2024-07-04 21:28,40,fix,2025-03-15
 斗图神器,https://getquicker.net/Sharedaction?code=b825725f-d8d5-46f0-3f7b-08dbc2d4852c,选中文本框选表情/生成动图/自动返回聊天窗,WeChat,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,35.6 KB,2023-10-02 16:13,8,.,2025-03-15
 短信接收,https://getquicker.net/Sharedaction?code=3e56bbb3-2206-443f-697f-08dcdd0ca208,快捷填写验证码或接收其他短信,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,51.5 KB,2024-09-26 10:09,7,优化验证码提取,2025-03-15
@@ -11,6 +10,8 @@
 
 感谢十二猫主的贡献",2025-03-15
 一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,PNG/JPG/TIF/PSD/画板/多图层/圆角/描边/切片//Wps/Office/微信极速导出,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,305.3 KB,2023-03-19 16:39,80,新增支持导出PDF,2025-03-15
+AI综合,https://getquicker.net/Sharedaction?code=5dc36684-7e0a-459f-55f0-08dd62568c20,选择文字打开webView2用选择的免费AI搜索,通用,Quicking,https://getquicker.net/User/51296/Quicking,36.4 KB,2025-03-14 11:25,1,更新显示不显示边框变量，直接改变量词就好：有改normal，无改none,2025-03-15
+BookxNote与Obsidian,https://getquicker.net/Sharedaction?code=1c1c20dd-1f3f-4bfd-9f56-08dd540be49f,摘录BookxNote的笔记到Typora、Obsidian、Excalidraw,BookxNote Pro,小星星呀,https://getquicker.net/User/309062/%E5%B0%8F%E6%98%9F%E6%98%9F%E5%91%80,24.2 KB,2025-02-24 14:37,1,重新设置了复制的方式，这样不容易出错。,2025-03-15
 字体替换,https://getquicker.net/Sharedaction?code=51aa8d30-ee9a-4034-8d5e-08dd606400e5,打开CAD文件自动替换缺失字体，不更改文件,AutoCAD Application,暮色苍茫,https://getquicker.net/User/474338/%E6%9A%AE%E8%89%B2%E8%8B%8D%E8%8C%AB,13.4 KB,2025-03-12 14:16,2,优化判断控制流程,2025-03-15
 Ai翻译,https://getquicker.net/Sharedaction?code=03168a30-e423-4473-8d28-08dd606400e5,调用免费Ai接口，暂时未知有没有限制先用再说,通用,北小齐,https://getquicker.net/User/683057/%E5%8C%97%E5%B0%8F%E9%BD%90,82.2 KB,2025-03-11 18:17,4,新增【讯飞星火】API(仅支持免费模型Spark Lite),2025-03-15
 Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,1013.6 KB,2021-06-14 21:07,400,"修改必应搜索引擎。
@@ -23,8 +24,10 @@ Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae
 DeepSeek-AI合集,https://getquicker.net/Sharedaction?code=b6dd2167-2821-4499-0853-08dd4c8d4895,包揽众多AI工具，可通过按键前台切换,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,27.5 KB,2025-02-14 15:32,3,动作右键可设定窗口的自定义位置及区域,2025-03-15
 一键冻结指定多个图层 多开cad版,https://getquicker.net/Sharedaction?code=db8996d0-51c2-458b-5602-08dd62568c20,视口中一键冻结多个指定的图层，可自定义,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,21.8 KB,2025-03-14 17:01,0,,2025-03-15
 RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,351.8 KB,2024-09-15 18:35,90,fix bug,2025-03-15
+加折断线,https://getquicker.net/Sharedaction?code=29e54f1f-fc8f-455a-5601-08dd62568c20,【天正】-【加折断线】命令,AutoCAD Application,用户xSEczGAzBQA,https://getquicker.net/User/1128114/%E7%94%A8%E6%88%B7xSEczGAzBQA,1.2 KB,2025-03-14 16:33,0,,2025-03-15
 好友定位,https://getquicker.net/Sharedaction?code=7fbb9922-9c4c-4ecc-5223-08dd369e5344,一键收藏微信好友/快速定位聊天窗/定制专属好友文件夹/联动多软件搜好友/标签式管理好友,WeChat,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,285.2 KB,2025-01-17 15:33,39,URL-BUG,2025-03-15
 复制申请号,https://getquicker.net/Sharedaction?code=4067835e-f2bb-4bbf-7ff9-08dced27f08a,一键复制选中文件或选中文本中的申请号到剪贴板，并删除其中的多余字符。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,27.1 KB,2024-10-16 10:29,13,增加右键设置管理提取类型功能,2025-03-15
+翻译,https://getquicker.net/Sharedaction?code=68a9c885-7e4d-4b49-55ff-08dd62568c20,智能翻译，可截图可复制的全功能翻译,通用,ikay,https://getquicker.net/User/7897/ikay,10.8 KB,2025-03-14 16:18,0,,2025-03-15
 一键冻结指定多个图层,https://getquicker.net/Sharedaction?code=d3d17ecc-43b9-4683-55fe-08dd62568c20,视口中一键冻结多个指定的图层，可自定义,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,21.8 KB,2025-03-14 16:16,0,,2025-03-15
 一键关闭指定多个图层,https://getquicker.net/Sharedaction?code=963c0281-d2f2-4dee-9939-08dba5d3aaf5,一键关闭多个指定的图层，可自定义,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,21.8 KB,2023-08-26 23:48,4,更新图标，右键加入打开图层命令,2025-03-15
 超级文本替换,https://getquicker.net/Sharedaction?code=55e35225-3818-487c-b5a2-08da2a8a4d14,最强悍无匹的文本替换动作,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,256.3 KB,2022-04-30 21:28,27,"- 优化AI提示词
@@ -33,7 +36,6 @@ RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd50
 1. 新增了光标跳出进度条，现在可以通过屏幕顶部的进度条实时判断光标跳出的时机了，可在配对选项中进行更多设置；
 2. 优化了撤销对符的逻辑，现在可以随时按回退键，智能判断是删除内容还是撤销对符；
 3. 新增了文本替换功能，集合了常用的中文粘贴、英文粘贴和无格式粘贴，专业版用户请更新拓展热键包。",2025-03-15
-AI生成quicker动作,https://getquicker.net/Sharedaction?code=7eacfb3e-0fad-46cc-6036-08dcd225a467,基于AI生成quicker动作,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,24.9 KB,2024-09-11 17:37,18,更新了生成动作的质量，ai后端换成了deepseek-r1,2025-03-15
 文本悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本悬浮，点击后快速复制。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,54.1 KB,2024-11-27 16:20,21,调整未选中内容时的提示,2025-03-15
 嵌入图像,https://getquicker.net/Sharedaction?code=f8c20841-2f8e-4298-83c8-08dcbad77c24,创建剪贴蒙版，并适配下层图像大小。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,69.3 KB,2024-08-13 09:27,3,右键可以设置动作参数。,2025-03-15
 记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「AI对话、MD预览、快速检索、贴边隐藏、分组标签、自动同步」,通用,dalou,https://getquicker.net/User/76824/dalou,587.2 KB,2024-05-10 17:42,56,调整：默认笔记检索功能修改为严格筛选模式，按Ctrl开启模糊筛选。,2025-03-15
