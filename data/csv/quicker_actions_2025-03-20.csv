@@ -1,0 +1,68 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+多模态豆包,https://getquicker.net/Sharedaction?code=0ec4681b-92dd-40f7-d3bf-08dd643ad5f4,使用 WebView 实现豆包多模态，支持文字选中、文件（图片、文档）上传等操作！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,47.8 KB,2025-03-16 20:27,5,"feat: 增加语境翻译
+
+想法来自：
+https://getquicker.net/Common/Topics/ViewTopic/31699#111061",2025-03-21
+巴德Focus,https://getquicker.net/Sharedaction?code=31312e9f-6791-41b5-8d3c-08dd606400e5,关注点很多，但是我只想关注最紧要的一个。,通用,Bader,https://getquicker.net/User/135289/Bader,150.3 KB,2025-03-11 23:17,25,1. 增加彩蛋,2025-03-21
+定位文件,https://getquicker.net/Sharedaction?code=89b8144b-9faa-4631-2585-08da81790731,打开运行中的文档所在文件夹，支持大部分软件，可自定义窗口识别规则。,通用,hustrjh,https://getquicker.net/User/449681/hustrjh,148.1 KB,2022-08-19 22:49,20,"【新增】
+1、可限定Everything搜索的目录，如仅检索常用文件夹，在【首选项】->【高级】页面启用【是否限定目录搜索】功能。
+2、可自定义过滤文件名的正则表达式，可筛选掉系统产生或不想要的搜索结果，在【首选项】->【高级】页面启用【是否过滤文件名】功能。
+【优化】
+1、用户规则设置页面，【包含进程】及【运行程序】文本框中，使用进程选择按钮添加多个进程时会自动添加回车。
+
+感谢网友 Ziper 的建议与启发。",2025-03-21
+巴德Focus插件模板,https://getquicker.net/Sharedaction?code=f0fc887e-74f3-4170-3b55-08dd6749f5a1,提供一个巴德Focus插件的模板，可以作为插件，也可以独立运行。,通用,Bader,https://getquicker.net/User/135289/Bader,3.1 KB,2025-03-20 23:13,0,,2025-03-21
+Kimi Assistant,https://getquicker.net/Sharedaction?code=1d51f1aa-4ec2-458a-5729-08dc4dd1cd4e,使用 Kimi.ai 帮助快速阅读网页，支持 API 和 网页自动化（需要Quicker插件） 访问！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,37.6 KB,2024-03-27 17:47,22,reactor：第二次重构成 WebView,2025-03-21
+yt-dlp下载视频,https://getquicker.net/Sharedaction?code=80878eae-5441-489c-f9e3-08dc50b4b80a,目前只测试yt-dlp下载YouTube/BiliBili视频，需要提前适配好ffmpeg环境,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,22.2 KB,2024-03-31 22:41,5,~ 改用Github加速站下载依赖，保证依赖文件最新,2025-03-21
+全能图屏,https://getquicker.net/Sharedaction?code=8ddf9a84-2404-4bdb-ebcb-08dc84f6bb0e,PDF转图片/图片转PDF/GIF/窗口控制/抠图/长截图/录屏/图片处理/滤镜/魔术擦/抠图/画笔/翻译/录表情/尺寸调整/批量识别/图片处理/[60种功能处理],通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,425.3 KB,2024-06-06 00:01,95,优化,2025-03-21
+Alist开关,https://getquicker.net/Sharedaction?code=a9ccc67a-d4e1-4883-3b54-08dd6749f5a1,打开或者关闭alist,通用,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,11.8 KB,2025-03-20 22:31,0,,2025-03-21
+EC文字纠错\n极速版,https://getquicker.net/Sharedaction?code=af21408e-c40f-43c0-6c92-08db600b665f,想输入中文，不料输入法为英文，可立即将输入的字母转为中文输入。持续更新一些相近汉字、数字、标点符号转换功能。,通用,EC10010,https://getquicker.net/User/2997/EC10010,352.4 KB,2023-05-29 20:30,73,"修复吞字现象。
+不过忘记之前是因为哪个Bug而设计了这个现象。",2025-03-21
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,308.3 KB,2023-10-18 22:55,137,"精准模式'双空格'也支持搜索标签文件
+支持外部参数启动:自动打开某个标签的连续发送模式
+外部参数支持以下2种格式
+""连续发送==标签名""
+""连续发送==F:\常用语\邮箱.md""",2025-03-21
+智能润色,https://getquicker.net/Sharedaction?code=bae48c3d-b449-4a80-9a9e-08dd5c97ad3b,智能润色助手，支持多AI与联网增强，精准优化你的文本，使表达更流畅、更自然！,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,154.9 KB,2025-03-06 19:18,30,移除了冗余代码 优化了文本窗口的显示效果。,2025-03-21
+快选快切,https://getquicker.net/Sharedaction?code=64de662e-4b6c-4d1c-6482-08dd652533b7,用来代替 Listary 的 Ctrl+G 功能。,Windows 资源管理器,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,34 KB,2025-03-17 15:32,9,[~] 修复意外中止的 bug,2025-03-21
+复制目录结构,https://getquicker.net/Sharedaction?code=dfd547df-f1e6-43a6-8d3a-08dd606400e5,有没有这样的动作，复制选中的文件夹及其中的子文件夹,通用,紫cm煞,https://getquicker.net/User/168537/%E7%B4%ABcm%E7%85%9E,11.6 KB,2025-03-11 22:48,1,"1.增加了一个选择，自己去动作里面修改，复制时就是同步生成0kb文件占位
+2.正好自己使用天马模拟器游戏库的时候需要。",2025-03-21
+RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,363.4 KB,2024-09-15 18:35,93,+ 增加唯一条目自动运行开关选项,2025-03-21
+QQ截图,https://getquicker.net/Sharedaction?code=5c61d524-056f-46d8-02a2-08dd267f7c7b,QQ截图独立版，非快捷键截图，这下不冲突了，舒服！,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,21.3 KB,2024-12-28 00:24,5,~ 优化,2025-03-21
+辅助窗Pro,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,辅助完成多个便利的自定义窗口，存储网址、文本、文件等，自由拖拽,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,206.7 KB,2025-02-21 03:22,117,搜索，解码，历史,2025-03-21
+颜色翻译,https://getquicker.net/Sharedaction?code=0794c6cd-7bbf-43d7-3b48-08dd6749f5a1,根据编码#000000，识别颜色用中文名称输出，有颜色障碍的实用！,通用,哪吒2,https://getquicker.net/User/684393/%E5%93%AA%E5%90%922,6.6 KB,2025-03-20 18:46,0,,2025-03-21
+窗口神器,https://getquicker.net/Sharedaction?code=d0ef47fd-be70-4b19-3f87-08dbc2d4852c,窗口调节神器/靠左/靠右/居中/全屏/跨屏/分屏/透明/记忆/等25个窗口调节控制方式,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,385 KB,2023-10-02 23:09,117,支持更多参数-和全能图屏联动,2025-03-21
+窗口居中切换,https://getquicker.net/Sharedaction?code=fee79339-2d5a-41a3-3b46-08dd6749f5a1,让窗口居中，且在大，中，小三种状态下切换,通用,baidu0013,https://getquicker.net/User/67703/baidu0013,7.6 KB,2025-03-20 18:09,0,,2025-03-21
+搜狗词典,https://getquicker.net/Sharedaction?code=5e52cfea-60e1-428f-16df-08dd656169a1,Translator 配套动作,通用,vv12138,https://getquicker.net/User/104853/vv12138,19.7 KB,2025-03-18 15:54,3,不直接停止子程序而是返回空值,2025-03-21
+Pr增量保存自选,https://getquicker.net/Sharedaction?code=1ec95b37-a24f-4d0b-3b44-08dd6749f5a1,模拟另存为快捷键，通过正则表达式匹配替换实现数字后缀的增量保存,Adobe Premiere Pro CC,ByShook,https://getquicker.net/User/901482/ByShook,15.4 KB,2025-03-20 17:22,0,,2025-03-21
+文本悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本悬浮，点击后快速复制。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,63.9 KB,2024-11-27 16:20,24,将附加设置加入主界面,2025-03-21
+Pr时间戳增量保存,https://getquicker.net/Sharedaction?code=d15f77f4-d60f-4e6b-3b43-08dd6749f5a1,模拟另存为快捷键，通过正则表达式匹配替换实现数字后缀的增量保存,Adobe Premiere Pro CC,ByShook,https://getquicker.net/User/901482/ByShook,7.4 KB,2025-03-20 17:16,0,,2025-03-21
+板件标记,https://getquicker.net/Sharedaction?code=e219c6fb-1d5d-4b47-81f6-08dd667e5816,为板件打上标记符号并添加标记内容,guigui.exe,不吃农残非好汉,https://getquicker.net/User/1181028/%E4%B8%8D%E5%90%83%E5%86%9C%E6%AE%8B%E9%9D%9E%E5%A5%BD%E6%B1%89,13.3 KB,2025-03-19 17:38,1,更改了一些小BUG，让打标记更精准,2025-03-21
+3D操作合集,https://getquicker.net/Sharedaction?code=aafec559-52f8-46ee-16ed-08dd656169a1,各种操作，无需快捷键,3ds Max,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,39.4 KB,2025-03-18 18:23,4,"1.增加菜单前快捷选择按键；
+2.优化挤出页面，菜单弹出后按空格弹出自定厚度挤出；
+3.优化旋转选择逻辑，单个直接旋转，多个打组旋转再解组。",2025-03-21
+表格图片,https://getquicker.net/Sharedaction?code=4d172295-256c-4625-95dc-08dcd5f4c73d,将表格单元格内图像链接下载为图片填充原单元格,Microsoft Excel,铂略,https://getquicker.net/User/291371/%E9%93%82%E7%95%A5,4.2 KB,2024-09-16 12:54,1,"增加错误处理,跳过异常",2025-03-21
+窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,238.5 KB,2024-07-15 17:32,38,优化：设置定时唤起窗口时，窗口隐藏后还原前台窗口焦点，感谢十二猫主的反馈。,2025-03-21
+Pr增量保存,https://getquicker.net/Sharedaction?code=2e90aaa5-e43e-4ae0-3b42-08dd6749f5a1,模拟另存为快捷键，通过正则表达式匹配替换实现数字后缀的增量保存,Adobe Premiere Pro CC,ByShook,https://getquicker.net/User/901482/ByShook,6.2 KB,2025-03-20 16:46,0,,2025-03-21
+PSExp,https://getquicker.net/Sharedaction?code=72e0cbdf-a409-4eaf-0e79-08dd0080705b,PS高级图片导出，PSyoyo+PSdodo 体验融合版,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,81.1 KB,2024-11-09 14:46,5,加了一个简单的传递参数：“静默导出”,2025-03-21
+AI生成quicker动作,https://getquicker.net/Sharedaction?code=7eacfb3e-0fad-46cc-6036-08dcd225a467,基于AI生成quicker动作,通用,开飞色,https://getquicker.net/User/615360/%E5%BC%80%E9%A3%9E%E8%89%B2,24.8 KB,2024-09-11 17:37,22,优化了架构，接入dsv3模型,2025-03-21
+PixPin截图,https://getquicker.net/Sharedaction?code=163bd730-7843-430d-2ba8-08dd2585d4a3,自动下载最新便携版，右键可同步配置，有用自取无用删除,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,43.9 KB,2024-12-26 16:51,1,~ 更换PixPin下载接口,2025-03-21
+交互OCR,https://getquicker.net/Sharedaction?code=bd65c819-6658-4186-5347-08dcb4696e8b,截图文字识别，接口有：QuickerOCR，有道OCR，微信OCR，PixPinOCR,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,38.6 KB,2024-08-05 09:25,11,+ PixPinOCR接口,2025-03-21
+移除快捷方式后缀,https://getquicker.net/Sharedaction?code=ebfe0219-aa44-4bb9-3b38-08dd6749f5a1,移除快捷方式中的 “ - 快捷方式” 后缀,Windows 资源管理器,Fok,https://getquicker.net/User/91927/Fok,5.2 KB,2025-03-20 14:43,0,,2025-03-21
+清除Markdown语法符号,https://getquicker.net/Sharedaction?code=a6a6d3ca-d243-40a5-3b27-08dd6749f5a1,从DeepSeek等Ai工具中复制到Wrod或WPS后，用VBA删除文本中自带的*、#、-符号和多余的空格、空段，只保留数字、文字等内容。如果需要保留相关符号，请慎用。,Microsoft Word,xxdbw,https://getquicker.net/User/355986/xxdbw,2.5 KB,2025-03-20 11:20,1,更新删除字符后的剩余空段的功能。,2025-03-21
+选择器测试,https://getquicker.net/Sharedaction?code=534b9a1a-f4e9-40dc-5352-08dc15e737a9,Xpath和CSS测试,通用,huanggc66,https://getquicker.net/User/9010/huanggc66,62.8 KB,2024-01-16 10:12,1,增加 浏览器设置按钮,2025-03-21
+屏幕找字,https://getquicker.net/Sharedaction?code=b4f842de-c365-4103-16f9-08dd656169a1,多屏幕/前台窗口中对找到所有字生成序号展示,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,27 KB,2025-03-18 23:57,6,⭐,2025-03-21
+净化链接,https://getquicker.net/Sharedaction?code=f051db2a-beef-4ee9-3b2e-08dd6749f5a1,将防屏蔽链接还原为纯链接,通用,Dwenli,https://getquicker.net/User/984524/Dwenli,4.6 KB,2025-03-20 12:32,0,,2025-03-21
+小爱音箱控制,https://getquicker.net/Sharedaction?code=8d24678c-e374-4113-3b2b-08dd6749f5a1,小爱音箱念指定文字，模拟命令。动作内仅做3个示例，更多功能请参考米家产品库。,通用,273.15,https://getquicker.net/User/529699/273.15,8.2 KB,2025-03-20 11:40,0,,2025-03-21
+设备选择器,https://getquicker.net/Sharedaction?code=1309a4cf-af0e-4bec-3b29-08dd6749f5a1,选择一个米家设备，供其他模块使用。,通用,273.15,https://getquicker.net/User/529699/273.15,8.5 KB,2025-03-20 11:28,0,,2025-03-21
+Srt字幕翻译,https://getquicker.net/Sharedaction?code=941258cc-51b9-44dc-ba86-08db0423d7d9,……,通用,紫cm煞,https://getquicker.net/User/168537/%E7%B4%ABcm%E7%85%9E,13.7 KB,2023-02-02 19:01,1,1.新版以后，使用quikcer服务更稳定了。,2025-03-21
+XLOOKUP,https://getquicker.net/Sharedaction?code=f726a1c8-df73-46c7-19b4-08d8e4601d54,两种输出模式可选！在WPS、OFFICE中快速调用XLOOKUP函数,Microsoft Excel,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,10.3 KB,2021-03-12 16:33,10,更新,2025-03-21
+VLOOKUP,https://getquicker.net/Sharedaction?code=521ddcb6-162b-4d54-51fa-08d8e8dd8b36,两种输出模式可选！在WPS、OFFICE中快速调用VLOOKUP函数,Microsoft Excel,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,9.8 KB,2021-03-18 10:08,7,更新,2025-03-21
+S改后缀日期,https://getquicker.net/Sharedaction?code=6b21bea7-b673-4e4d-3b1f-08dd6749f5a1,将文件或文件夹名后缀改为当前日期，日期格式为yymmdd,通用,丁小七,https://getquicker.net/User/974513/%E4%B8%81%E5%B0%8F%E4%B8%83,6.6 KB,2025-03-20 09:59,0,,2025-03-21
+智能选择器,https://getquicker.net/Sharedaction?code=867e8451-7554-4690-8204-08dd667e5816,选择米家里的智能，供执行模块使用。,通用,273.15,https://getquicker.net/User/529699/273.15,8.3 KB,2025-03-19 21:41,1,增加未登录时不继续逻辑。,2025-03-21
+家庭选择器,https://getquicker.net/Sharedaction?code=e67646f4-a93d-453d-8202-08dd667e5816,返回家庭ID供使用。,通用,273.15,https://getquicker.net/User/529699/273.15,5.7 KB,2025-03-19 21:38,1,增加未登录时不继续逻辑。,2025-03-21
+米家,https://getquicker.net/Sharedaction?code=e49427f0-7ac1-4392-8201-08dd667e5816,右键登录。,通用,273.15,https://getquicker.net/User/529699/273.15,77.9 KB,2025-03-19 21:30,1,更改文件保存路径，增加未登录提示。,2025-03-21
+超级对符,https://getquicker.net/Sharedaction?code=0cf35569-18d3-4ac6-99bf-08dcff9008ea,极致强大的符号配对体验，配合扩展热键使用,通用,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,83.8 KB,2024-11-09 10:15,9,修复已知问题,2025-03-21
+文库搜索,https://getquicker.net/Sharedaction?code=e62cf947-f8cb-4974-8d2f-08dd606400e5,任意程序内选中文本跳转至 Zotero 进行高级搜索,Zotero,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,7.3 KB,2025-03-11 20:15,2,超级更新：任意程序内选中文本跳转至 Zotero 进行高级搜索,2025-03-21
+工作流,https://getquicker.net/Sharedaction?code=d02bff82-0654-49dc-f232-08dd2a577f35,一次性打开常用的文件、软件、网址、动作、贴图，支持无限分组,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,201.4 KB,2025-01-02 12:16,17,= 将编辑和启动移植到一起，运行动作，点击即可启动，右键有丰富的编辑选项,2025-03-21
+OCR+,https://getquicker.net/Sharedaction?code=c1c0369e-89a5-45fa-40dc-08dcec2bc78e,截图识别文本，整合百度、腾讯、有道、PixPin等接口，便于统一调用,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,188.5 KB,2024-10-15 08:40,13,增加【OCR截图时自动最小化文本窗口】功能,2025-03-21
