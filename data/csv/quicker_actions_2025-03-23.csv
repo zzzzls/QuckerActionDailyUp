@@ -1,11 +1,7 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-计算器,https://getquicker.net/Sharedaction?code=a4a67009-49a4-47f2-a640-08dd693dfefc,实时计算/选中自动过滤/历史/大写/日期计算,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,73.5 KB,2025-03-23 22:52,2,⭐,2025-03-24
 大小写转换,https://getquicker.net/Sharedaction?code=d2b439aa-1982-4b71-a641-08dd693dfefc,大小写转换,通用,gaoqiangks,https://getquicker.net/User/180191/gaoqiangks,11.8 KB,2025-03-23 23:07,0,,2025-03-24
-魔法分区窗口,https://getquicker.net/Sharedaction?code=7a6cbe1e-425f-4fc4-b6ad-08dd683b6942,按程序窗口界面分区执行不同动作，配合鼠标手势快捷键配合鼠标手势快捷键可解决qk面板格子不够的问题,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,118 KB,2025-03-22 01:40,3,"加入徽标
-修复表单标题行",2025-03-24
 千牛自动回复,https://getquicker.net/Sharedaction?code=b72a7fed-2230-4012-52ff-08dd4e5dbd85,适用于千牛的自动回复机器人客服,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,242.4 KB,2025-02-17 17:53,59,fix,2025-03-24
 DeepLX,https://getquicker.net/Sharedaction?code=c55325a6-3af1-4a11-bf4d-08dc12372202,Translator 配套动作  支持DeepLX，使用前请现在右键-设置菜单中配置deepLx的api,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,34.1 KB,2024-01-11 11:53,12,BUG FIX,2025-03-24
-魔法分区,https://getquicker.net/Sharedaction?code=8e49e813-1549-4659-b694-08dd683b6942,按屏幕分区执行不同动作，配合鼠标手势快捷键可解决qk面板格子不够的问题,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,108.6 KB,2025-03-21 14:32,2,使配置界面用户友好,2025-03-24
 库存储器,https://getquicker.net/Sharedaction?code=e8b0ff37-701e-41ff-a63f-08dd693dfefc,打开库存器窗口,MWSmart Executable,总会有一天,https://getquicker.net/User/706015/%E6%80%BB%E4%BC%9A%E6%9C%89%E4%B8%80%E5%A4%A9,20 B,2025-03-23 20:12,0,,2025-03-24
 只下程序,https://getquicker.net/Sharedaction?code=8a5f0b3f-0770-47a3-a63e-08dd693dfefc,只下载程序,MWSmart Executable,总会有一天,https://getquicker.net/User/706015/%E6%80%BB%E4%BC%9A%E6%9C%89%E4%B8%80%E5%A4%A9,21 B,2025-03-23 20:12,0,,2025-03-24
 下载全部,https://getquicker.net/Sharedaction?code=e1a8f9be-e23f-44e8-a63d-08dd693dfefc,选择下载全部,MWSmart Executable,总会有一天,https://getquicker.net/User/706015/%E6%80%BB%E4%BC%9A%E6%9C%89%E4%B8%80%E5%A4%A9,14 B,2025-03-23 20:12,0,,2025-03-24
@@ -28,7 +24,7 @@ DeepLX,https://getquicker.net/Sharedaction?code=c55325a6-3af1-4a11-bf4d-08dc1237
 删除,https://getquicker.net/Sharedaction?code=e8e20838-ff39-4d8b-a62c-08dd693dfefc,删除,MWSmart Executable,总会有一天,https://getquicker.net/User/706015/%E6%80%BB%E4%BC%9A%E6%9C%89%E4%B8%80%E5%A4%A9,8 B,2025-03-23 20:04,0,,2025-03-24
 插入行,https://getquicker.net/Sharedaction?code=871fc3c2-e6c2-49a6-a62b-08dd693dfefc,程序段中插入行,MWSmart Executable,总会有一天,https://getquicker.net/User/706015/%E6%80%BB%E4%BC%9A%E6%9C%89%E4%B8%80%E5%A4%A9,23 B,2025-03-23 20:03,0,,2025-03-24
 批量管理Su插件,https://getquicker.net/Sharedaction?code=1644b66f-b34b-4eb7-73f1-08dd48ab08f0,用于Sketchup插件的批量管理,SketchUp Application,GZKSU,https://getquicker.net/User/454447/GZKSU,55.6 KB,2025-02-09 23:24,9,更新BUG,2025-03-24
-智能润色,https://getquicker.net/Sharedaction?code=bae48c3d-b449-4a80-9a9e-08dd5c97ad3b,智能润色助手，支持多AI与联网增强，精准优化你的文本，使表达更流畅、更自然！,通用,思先生,https://getquicker.net/User/47076/%E6%80%9D%E5%85%88%E7%94%9F,156.7 KB,2025-03-06 19:18,34,修复了提示语保存失败的错误,2025-03-24
+抖音直播氛围ai,https://getquicker.net/Sharedaction?code=6d37fa51-abc0-4e55-a608-08dd693dfefc,收费动作!!! 适用于抖音直播检测弹幕和文案及ai回复,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,79.2 KB,2025-03-22 20:35,3,1,2025-03-24
 动作编辑加密,https://getquicker.net/Sharedaction?code=001a6ce5-e1a3-4d90-a629-08dd693dfefc,简易版的防动作篡改动作,通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,12.2 KB,2025-03-23 17:47,0,,2025-03-24
 计算,https://getquicker.net/Sharedaction?code=d75f62d0-3c38-4c81-793b-08dc970018b2,JS实现的一个计算器，用于取代quicker搜索的简易计算器,通用,YLing2024,https://getquicker.net/User/367967/YLing2024,21.2 KB,2024-06-28 12:35,8,增加了对中文字符的处理，中文状态下的括号会自动替换为英文符号。句号将自动替换为英文状态的小数点，中文顿号将自动替换为除号。,2025-03-24
 多模态豆包,https://getquicker.net/Sharedaction?code=0ec4681b-92dd-40f7-d3bf-08dd643ad5f4,使用 WebView 实现豆包多模态，支持文字选中、文件（图片、文档）上传等操作！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,70.6 KB,2025-03-16 20:27,10,fix: 修复截图后无法显示用户自定义提示词问题,2025-03-24
@@ -62,4 +58,3 @@ OCR,https://getquicker.net/Sharedaction?code=ab29cfa2-9d34-46a0-a433-08dd35be3a2
   【优化】提示信息优化",2025-03-24
 OCR-加减乘除,https://getquicker.net/Sharedaction?code=1b6df97b-e09b-407d-19c1-08dcda336f81,提取 OCR 识别结果中的『数字』，进行加减乘除或求平均值、最大值、最小值,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,168.1 KB,2024-09-22 23:25,11,  【新增】按下 Alt 启动，计算方式临时固定为：平均值,2025-03-24
 剪贴板同步,https://getquicker.net/Sharedaction?code=896e2174-4aef-4ad2-55e5-08dd62568c20,同步剪贴板至NotifyMe,通用,wzn556,https://getquicker.net/User/734291/wzn556,18.3 KB,2025-03-14 01:58,3,新增二级分组，适配4.3.1(51),2025-03-24
-清空指定动作页,https://getquicker.net/Sharedaction?code=227cff70-7c61-45cb-a610-08dd693dfefc,清空指定动作页下全部动作,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,8.1 KB,2025-03-23 01:23,1,.,2025-03-24
