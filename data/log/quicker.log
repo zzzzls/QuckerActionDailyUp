@@ -2140,3 +2140,23 @@ Traceback (most recent call last):
                    └ <Element html at 0x7f4ddc9fd8c0>
 
 IndexError: list index out of range
+2025-04-26 00:46:07.461 | ERROR    | __main__:run_task:81 - list index out of range
+Traceback (most recent call last):
+
+  File "/home/runner/work/QuckerActionDailyUp/QuckerActionDailyUp/scripts/crawler.py", line 84, in <module>
+    QuickerAction().run_task()
+    └ <class '__main__.QuickerAction'>
+
+> File "/home/runner/work/QuckerActionDailyUp/QuckerActionDailyUp/scripts/crawler.py", line 74, in run_task
+    ret = self._extract(response.decode("utf-8"))
+          │    │        │        └ <method 'decode' of 'bytes' objects>
+          │    │        └ b'<!DOCTYPE html>\r\n<html lang="zh-CN" style="height: 100%">\r\n<head>\r\n    <meta charset="utf-8" />\r\n    <meta name="vi...
+          │    └ <function QuickerAction._extract at 0x7ff204a72e50>
+          └ <__main__.QuickerAction object at 0x7ff204be6ee0>
+
+  File "/home/runner/work/QuckerActionDailyUp/QuckerActionDailyUp/scripts/crawler.py", line 41, in _extract
+    yesterdayJob = response.xpath('//h4[text()="昨日更新"]/following-sibling::div[1]/table')[0]
+                   │        └ <cyfunction _Element.xpath at 0x7ff2051a06c0>
+                   └ <Element html at 0x7ff204a8ed80>
+
+IndexError: list index out of range
