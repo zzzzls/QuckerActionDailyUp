@@ -4321,3 +4321,4 @@ Traceback (most recent call last):
 
 IndexError: list index out of range
 2025-06-19 03:57:49.234 | INFO     | __main__:run_task:78 - 2025-06-18 更新了 65 个动作
+2025-06-19 13:25:24.674 | INFO     | __main__:run_task:78 - 2025-06-18 更新了 52 个动作
