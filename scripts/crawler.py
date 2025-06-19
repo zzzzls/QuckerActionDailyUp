@@ -38,30 +38,29 @@ class QuickerAction:
     
     def _extract(self, response):
         response = etree.HTML(response)
-        yesterdayJob = response.xpath('//h4[text()="昨日更新"]/following-sibling::div[1]/table')[0]
-
         ret = []
-        for jobEle in yesterdayJob.xpath('./tr[position()>1]'):
-            act_prop = {}
-
-            act_a = jobEle.xpath('./td[2]//a[@class="mr-1"]')[0]
-            desc = act_a.attrib.get("title")
-            desc_list = desc.split("\n", 4)
-            exe = jobEle.xpath("string(./td[3]/a/img/@title)").split(' - ')
-
-            act_prop["动作名"] = desc_list[0]
-            act_prop["动作URL"] = self.host+act_a.attrib.get("href")
-            act_prop["动作简介"] = jobEle.xpath('string(./td[2]//span/@title)')
-            act_prop["适用于"] = exe[1] if len(exe)==2 else ''
-            act_prop["作者"] = jobEle.xpath('string(./td[4]/a[contains(@class, "user-link")])').strip()
-            act_prop["作者URL"] = self.host+jobEle.xpath('string(./td[4]/a[contains(@class, "user-link")]/@href)')
-
-            for item in desc_list[1:]:
-                k, v = item.split("：", 1)
-                act_prop[k] = v
-
-            act_prop["inputtime"] = self.today
-            ret.append(act_prop)
+        for recentJob in response.xpath('//h4/following-sibling::div[1]/table'):
+            for jobEle in recentJob.xpath('./tr[position()>1]'):
+                act_prop = {}
+    
+                act_a = jobEle.xpath('./td[2]//a[@class="mr-1"]')[0]
+                desc = act_a.attrib.get("title")
+                desc_list = desc.split("\n", 4)
+                exe = jobEle.xpath("string(./td[3]/a/img/@title)").split(' - ')
+    
+                act_prop["动作名"] = desc_list[0]
+                act_prop["动作URL"] = self.host+act_a.attrib.get("href")
+                act_prop["动作简介"] = jobEle.xpath('string(./td[2]//span/@title)')
+                act_prop["适用于"] = exe[1] if len(exe)==2 else ''
+                act_prop["作者"] = jobEle.xpath('string(./td[4]/a[contains(@class, "user-link")])').strip()
+                act_prop["作者URL"] = self.host+jobEle.xpath('string(./td[4]/a[contains(@class, "user-link")]/@href)')
+    
+                for item in desc_list[1:]:
+                    k, v = item.split("：", 1)
+                    act_prop[k] = v
+    
+                act_prop["inputtime"] = self.today
+                ret.append(act_prop)
         return ret
 
     def run_task(self):
