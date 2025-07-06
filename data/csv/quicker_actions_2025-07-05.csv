@@ -1,7 +1,12 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+PS过滤图层,https://getquicker.net/Sharedaction?code=dbde0030-54a3-4079-222e-08ddbc358d38,过滤选择的图层类型（支持智能对象/文本图层/普通图层/形状图层/调整图层）,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,7.2 KB,2025-07-06 17:05,2,将DOM改成AM，提升一定的速度（虽然提升不明显。）,2025-07-06
+复图成件,https://getquicker.net/Sharedaction?code=dc7363a3-4255-4732-222c-08ddbc358d38,复制图片，保存为文件,通用,Poto,https://getquicker.net/User/137838/Poto,20.4 KB,2025-07-06 16:40,1,1,2025-07-06
+修改只读动作外观,https://getquicker.net/Sharedaction?code=2537b6df-3e5d-4db4-2222-08ddbc358d38,保留名称和图标,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,30.1 KB,2025-07-06 11:00,1,初始禁用按钮，只有从面板拖拽后才可以点击按钮,2025-07-06
+姓氏谐音梗,https://getquicker.net/Sharedaction?code=427f0eae-4b4a-41b6-2227-08ddbc358d38,姓氏谐音梗网名生成器，取个破名想半天，娱乐一下!,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,5.1 KB,2025-07-06 13:28,1,允许同时运行多个实例,2025-07-06
 模型视口切换,https://getquicker.net/Sharedaction?code=80779b82-22a9-4a03-6012-08ddbb5965da,"模型视口快捷切换，1分2,2合一",AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,6.7 KB,2025-07-05 10:25,0,,2025-07-06
-小学数学出题器,https://getquicker.net/Sharedaction?code=74339d3b-d382-4129-3b03-08ddba4a8eb3,小学数学出题器 可打印,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,63.9 KB,2025-07-04 16:54,0,,2025-07-06
-防锁屏,https://getquicker.net/Sharedaction?code=12d0cca3-59e6-4266-3afb-08ddba4a8eb3,运行时可防止电脑锁屏,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,3 KB,2025-07-04 15:10,0,,2025-07-06
+搜神,https://getquicker.net/Sharedaction?code=8f368e85-5f6a-465d-a5b2-08dbd1e78f40,全能版网络搜索神器/让Quicker搜索超级增强/Deepseek等16个AI对话/500个常用网站,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,379.7 KB,2023-10-22 15:24,332,"感谢用户反馈@zjchao
+修复1688搜索乱码问题",2025-07-06
+PS另存为,https://getquicker.net/Sharedaction?code=0fac595c-f12c-46b7-72d7-08d9aa624e96,支持弹窗/静默保存，另存为JPG/PNG/TIF/TGA/PSD等，兼容多Photoshop版本保存,Adobe Photoshop,ZTOA10,https://getquicker.net/User/234516/ZTOA10,56.3 KB,2021-11-18 18:11,10,放开权限，欢迎抄作业,2025-07-06
 便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,切换多个便利的自定义窗口，存储网址、文本、文件等，自由拖拽,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,345.4 KB,2025-02-21 03:22,216,更新保存,2025-07-06
 办公小工具,https://getquicker.net/Sharedaction?code=0825deac-7d80-4671-4847-08dd9d377497,集合常用办公操作的小工具，效率办公快人一步！,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,569.6 KB,2025-05-28 13:40,13,"~增加置顶运行提醒
 ~增加一键取消所有置顶
@@ -18,14 +23,3 @@ Get Color,https://getquicker.net/Sharedaction?code=93adfcbd-0a19-4b5e-3012-08dd9
 123网盘图床,https://getquicker.net/Sharedaction?code=05ec88dd-8493-4de9-ad5c-08dd15875f2b,"将选择的文件或截图上传到123网盘的图床,按下ctrl为获取剪贴板的图片",通用,zdf153,https://getquicker.net/User/20184/zdf153,104.9 KB,2024-12-06 11:25,9,修复bug,2025-07-06
 结束指定程序,https://getquicker.net/Sharedaction?code=f75c0723-868d-447e-4da7-08ddad659678,可关闭同一软件下全部窗口等,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,4.7 KB,2025-06-18 08:54,1,"[+]
 支持多选",2025-07-06
-PS简单对齐,https://getquicker.net/Sharedaction?code=049d44ae-4f71-45f8-61a6-08dc89b2fe34,针对PS对齐的优化，是个beta测试版。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,266.1 KB,2024-06-11 17:58,5,修复单选组无法对齐的bug。,2025-07-06
-净化网址,https://getquicker.net/Sharedaction?code=b7761752-dedc-4131-8e54-08dc6685e603,去掉链接中的spm等指定参数。支持逐级提取链接。,通用,EC10010,https://getquicker.net/User/2997/EC10010,292.9 KB,2024-04-27 16:31,23,修复了一些已知问题。,2025-07-06
-PS极字重,https://getquicker.net/Sharedaction?code=e16ee2ae-bca4-4973-0968-08dbd6a53889,可通过传参，对字体家族进行粗细调整,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,136.3 KB,2023-10-27 18:31,11,从图层索引修改为图层ID选择。,2025-07-06
-CAD图库,https://getquicker.net/Sharedaction?code=5066b6a0-6e02-480b-010c-08dc905511b4,可检索图库,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,136.3 KB,2024-06-20 10:56,6,修复更改快文件夹后打开图库报错的问题,2025-07-06
-Quicker翻译,https://getquicker.net/Sharedaction?code=47c30543-f1a3-412e-16f0-08dd656169a1,Quicker翻译的小而美窗口。(Quicker自己部署的翻译服务，专业版用户免费使用！),通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,72 KB,2025-03-18 19:15,6,.,2025-07-06
-谷歌翻译,https://getquicker.net/Sharedaction?code=4b499713-b2a8-4f7c-0726-08dd431fc56e,谷歌翻译的小而美窗口。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,67 KB,2025-02-02 13:53,17,.,2025-07-06
-批量重命名,https://getquicker.net/Sharedaction?code=c145103d-4aa8-4541-3547-08dd6a2b7d8c,自定义命名模板 + 自动同步云端,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,117.7 KB,2025-03-24 14:40,15,优化窗口尺寸。,2025-07-06
-新建文件夹,https://getquicker.net/Sharedaction?code=df39b8aa-d6fa-4d35-71ff-08dcdb2f793c,六种新建方式，一键解决文件夹烦恼！,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,80 KB,2024-09-23 13:30,13,调整新建文件夹窗口尺寸,2025-07-06
-取色器Pro,https://getquicker.net/Sharedaction?code=71d99b97-123f-4cd6-5908-08d96a0d793a,取色器pro 3.0 全局取色，智能填色+智能色板。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,205.4 KB,2021-08-29 00:54,42,"2025年7月4日09:22:37
-1）在增加描边功能时，修复了以下问题：当形状图层未启用描边功能时，若直接添加描边，默认会使用黑色作为描边颜色。现修改为：若当前形状图层未启用描边，则在添加描边时以前景色作为默认描边颜色。",2025-07-06
-待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,1.1 MB,2021-05-23 17:54,314,.,2025-07-06
