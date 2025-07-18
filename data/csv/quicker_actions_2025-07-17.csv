@@ -1,15 +1,14 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+置于非打印层,https://getquicker.net/Sharedaction?code=9616b44f-bc02-401c-5b0b-08ddc4c80743,选中物体放到def层，改250色，并回到之前图层,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,2.7 KB,2025-07-18 10:02,0,,2025-07-18
 界面调用子程序(Demo),https://getquicker.net/Sharedaction?code=f11013dd-6ea3-4440-5b07-08ddc4c80743,界面调用子程序(Demo),通用,若雨啦,https://getquicker.net/User/995582/%E8%8B%A5%E9%9B%A8%E5%95%A6,11.4 KB,2025-07-18 03:14,0,,2025-07-18
 直接定位空值,https://getquicker.net/Sharedaction?code=6dbba970-d6f3-4658-5ae8-08ddc4c80743,在EXCEL/WPS中一步定位空值,WPS Spreadsheets,用户xrqggEYWBQA,https://getquicker.net/User/1109644/%E7%94%A8%E6%88%B7xrqggEYWBQA,7.7 KB,2025-07-17 15:29,0,,2025-07-18
-复制目录结构,https://getquicker.net/Sharedaction?code=b5f6beda-27c1-4d01-5adf-08ddc4c80743,复制目录结构进剪贴板,通用,尔茄无双,https://getquicker.net/User/160870/%E5%B0%94%E8%8C%84%E6%97%A0%E5%8F%8C,15.4 KB,2025-07-17 14:04,1,"1.【核心】脚本引擎升级至 Roslyn
-2.【新增】配置项 outputFormat 
-内容：outputFormat: 输出格式，可选 text（纯文本）或 markdown（自动添加代码块）。
-3.【修复】.gitignore 匹配不再区分大小写
-内容：优化了 .gitignore 的匹配逻辑，现在它在判断文件名时不再区分大小写（如 node_modules 和 Node_Modules 都会被正确忽略），行为与真实的 Git 工具更加一致。",2025-07-18
 思源笔记表格(单列) 转 列表,https://getquicker.net/Sharedaction?code=4075d8e7-bf7a-4c33-b30e-08ddc407f058,思源笔记的单列表格 转 列表形式（进阶用法：可以借助query挂件，将反链转为正链列表）,SiYuan,用户JR0TzZK6BQA,https://getquicker.net/User/1215028/%E7%94%A8%E6%88%B7JR0TzZK6BQA,3.2 KB,2025-07-16 22:33,0,,2025-07-18
-svn获取自己的所有提交,https://getquicker.net/Sharedaction?code=33ce09d3-bddb-4d75-b302-08ddc407f058,获取指定svn仓库及其外部仓库中制定范围和指定用户的所有修改文件列表,通用,用户uvOELZskBgA,https://getquicker.net/User/1284542/%E7%94%A8%E6%88%B7uvOELZskBgA,28.2 KB,2025-07-16 16:59,3,更新名称和描述,2025-07-18
-百度搜图,https://getquicker.net/Sharedaction?code=70d8911f-cd73-4794-b2fc-08ddc407f058,将剪贴板图片通过百度搜图进行搜图,通用,eminstan,https://getquicker.net/User/430864/eminstan,3.2 KB,2025-07-16 16:17,0,,2025-07-18
-定数等分,https://getquicker.net/Sharedaction?code=4b47ebda-e6ea-4449-b2f3-08ddc407f058,CAD定数等分（在中文输入法中也可以输入命令）,AutoCAD Application,只此一生,https://getquicker.net/User/161076/%E5%8F%AA%E6%AD%A4%E4%B8%80%E7%94%9F,1.4 KB,2025-07-16 11:32,0,,2025-07-18
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,155.6 KB,2024-12-17 10:16,33,新增专利手续合格通知书（撤回专利申请）,2025-07-18
+Pixian,https://getquicker.net/Sharedaction?code=cdbd7345-44ce-4626-52f0-08dd4e5dbd85,调用官方api进行抠图处理（请在动作右键，设置api）,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,19.3 KB,2025-02-17 14:27,6,"关联文件上下文：
+Must be a .bmp, .gif, .jpeg, .png, or .tiff file.",2025-07-18
+分图工具,https://getquicker.net/Sharedaction?code=2553f6d3-43ac-47f9-6f9c-08dc11244c92,W功能简化,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,33.4 KB,2024-01-10 17:15,5,1.对默认前缀进行修改，默认把写出的块放到2007格式，避免因设置保存格式为2018的情况下，导出后在其他软件中因为版本太高无法导入的问题,2025-07-18
+批量重命名,https://getquicker.net/Sharedaction?code=c145103d-4aa8-4541-3547-08dd6a2b7d8c,自定义命名模板 + 自动同步云端,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,117.7 KB,2025-03-24 14:40,16,优化部分步骤逻辑，减去不必要步骤。,2025-07-18
+根据清单建文件夹,https://getquicker.net/Sharedaction?code=80825be2-8306-4191-0138-08dd6c0ac9c8,根据所复制的文本清单，批量建立文件夹。,通用,eminstan,https://getquicker.net/User/430864/eminstan,18.8 KB,2025-03-26 15:36,2,增加一步替换掉可能存在的不能用的特殊符号,2025-07-18
 万年历,https://getquicker.net/Sharedaction?code=e06b44fd-d003-49c9-2318-08dd84c1d760,替换系统自带的，自带的连节假日都看不清，难用,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,14.7 KB,2025-04-27 22:17,6,增加日历选择，如果有自己的日历动作，也可修改为自己的,2025-07-18
 QK论坛发帖工具,https://getquicker.net/Sharedaction?code=88a87167-ef7b-4cfa-d494-08ddb495533f,集合一些常用发帖模块,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,121.9 KB,2025-06-27 13:13,4,1,2025-07-18
 离线OCR4.0,https://getquicker.net/Sharedaction?code=1e452623-06b4-4234-a446-08dbf16456ca,离线OCR4.0高识别率，自动复制排版(合并单行、自然段、代码段)到剪贴板,通用,Qyu,https://getquicker.net/User/183510/Qyu,39 KB,2023-12-01 11:12,7,"V2.0 更新说明
@@ -38,14 +37,3 @@ FSCapture,https://getquicker.net/Sharedaction?code=1613c994-092b-46d2-007f-08dc6
 屏幕键盘,https://getquicker.net/Sharedaction?code=561f7500-e211-40f9-3dc8-08dc93290ea3,Winform屏幕键盘,通用,FaniX,https://getquicker.net/User/52603/FaniX,71.9 KB,2024-06-24 11:32,7,~增加自动关闭选项：在面板以外单击,2025-07-18
 定时运行,https://getquicker.net/Sharedaction?code=00d680bf-301a-4619-7a55-08ddab75be19,定时自动运行软件、动作，或打开文件夹、网址,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,357.9 KB,2025-06-15 22:28,7,~修复闹钟多余弹窗提醒问题。,2025-07-18
 P图,https://getquicker.net/Sharedaction?code=ec238ba7-fc0f-4627-09dc-08dbddf5e120,批量图片文字替换，小的修改不用每次都打开PS啦！非常实用,Windows 资源管理器,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,42.6 KB,2023-11-06 16:34,10,~修复：当多张图片选中区域的背景色不同时，覆盖后无法很好融合的问题；,2025-07-18
-屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,511.8 KB,2023-12-05 00:57,79,"+增加录制完毕后自动删除录制中生成的临时文件。
-~优化部分菜单提示内容。",2025-07-18
-svnAI提交+Review,https://getquicker.net/Sharedaction?code=61ffbdc6-7364-4456-5782-08ddb2bac3f6,svn AI 生成提交信息和生成Review报告,通用,用户uvOELZskBgA,https://getquicker.net/User/1284542/%E7%94%A8%E6%88%B7uvOELZskBgA,69 KB,2025-06-25 10:17,6,"加入了进度条,显示各阶段进度",2025-07-18
-显示托盘,https://getquicker.net/Sharedaction?code=8e075cd4-6f7a-4c26-5639-08d9eec3922c,显示并移动系统托盘至光标处,通用,dalou,https://getquicker.net/User/76824/dalou,52.6 KB,2022-02-14 19:03,19,优化：首次创建托盘时唤出托盘的方式（win11系统）,2025-07-18
-常用语,https://getquicker.net/Sharedaction?code=1a8e7553-76e9-4527-66d7-08dbaa91cef1,快捷短语的极致操作，兼容原版数据。,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,366.2 KB,2023-09-02 08:18,42,"v2.1.7 (2025-07-16)
-- 优化：完善按钮的复制菜单",2025-07-18
-专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,310.3 KB,2024-11-04 14:16,105,修复多国查询失败的bug,2025-07-18
-表格识别,https://getquicker.net/Sharedaction?code=d15b27d5-57cb-4f60-9916-08dcff9008ea,选中图片或PDF文件直接提取表格，未选中则截图提取，内置Quicker、腾讯、百度表格识别接口,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,58.4 KB,2024-11-08 14:38,12,优化,2025-07-18
-思维导图,https://getquicker.net/Sharedaction?code=045ebd94-dba7-41ce-9ad1-08dd5abf9a7f,利用Mermaid.js在webview窗口打开一个mermaid编辑窗口,Google Chrome,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,31.4 KB,2025-03-04 19:15,3,+ 增加编辑框和预览框的可变大小,2025-07-18
-图片转换,https://getquicker.net/Sharedaction?code=dbe6423e-5663-4259-a02b-08dd45cea4ec,将其他图片格式转换成对应的图片格式,Windows 资源管理器,Qyu,https://getquicker.net/User/183510/Qyu,34 KB,2025-02-05 22:39,1,"V1.1 更新子程序""蓝奏下载""下载失败的问题",2025-07-18
-键盘按键记录,https://getquicker.net/Sharedaction?code=21269ab2-4f40-4647-154c-08ddc2d2a88d,记录键盘按键行为,通用,DaveBoy,https://getquicker.net/User/51850/DaveBoy,3.8 KB,2025-07-15 14:20,3,支持qk的方式中止动作停止记录,2025-07-18
