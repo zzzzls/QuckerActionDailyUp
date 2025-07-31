@@ -1,6 +1,7 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+雷神加速器自动暂停,https://getquicker.net/Sharedaction?code=a70cf5d0-c2c6-4426-0969-08ddd023581c,雷神加速器自动暂停,通用,DaveBoy,https://getquicker.net/User/51850/DaveBoy,23.5 KB,2025-07-31 20:09,3,白名单列表生效时机仅限于无参调用时,2025-07-31
+锁定图层,https://getquicker.net/Sharedaction?code=2c5b62e0-1bbc-4ec4-df77-08ddcf2ea2b8,切换图层的锁定状态。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,40.9 KB,2025-07-31 16:49,0,,2025-07-31
 Shazam,https://getquicker.net/Sharedaction?code=f90b045a-4506-4405-df5f-08ddcf2ea2b8,Shazam 识曲，需要安装 shazamio 到 Quicker 使用的 Python,Windows 资源管理器,zerosignal,https://getquicker.net/User/623231/zerosignal,14.5 KB,2025-07-31 01:28,0,,2025-07-31
-镜像复制,https://getquicker.net/Sharedaction?code=7b329c79-b3b5-418c-df5c-08ddcf2ea2b8,对选择的对象进行镜像复制，可实现上下左右四个方向，另附加原位左右和原位上下两个方向的镜像复制,Adobe Illustrator,您在说笑吗,https://getquicker.net/User/1273138/%E6%82%A8%E5%9C%A8%E8%AF%B4%E7%AC%91%E5%90%97,44.2 KB,2025-07-30 22:14,0,,2025-07-31
 VLOOKUP,https://getquicker.net/Sharedaction?code=1d76b113-8d80-48b7-df59-08ddcf2ea2b8,适用于MACOS和WIN系统的VLOOKUP函数快速输入,macos.exe,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,716 B,2025-07-30 20:54,0,,2025-07-31
 取两位小数,https://getquicker.net/Sharedaction?code=fa33c4f5-8e98-45a1-df58-08ddcf2ea2b8,批量为单元使用ROUND函数取两位小数,Microsoft Excel,多少,https://getquicker.net/User/143448/%E5%A4%9A%E5%B0%91,32.4 KB,2025-07-30 19:55,0,,2025-07-31
 窗口置顶,https://getquicker.net/Sharedaction?code=20b152d3-6354-4787-df48-08ddcf2ea2b8,前台窗口置顶，支持WIN和MAC,macos.exe,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,4.4 KB,2025-07-30 15:58,1,修bug,2025-07-31
@@ -8,11 +9,11 @@ VLOOKUP,https://getquicker.net/Sharedaction?code=1d76b113-8d80-48b7-df59-08ddcf2
 VB单元格自动引用,https://getquicker.net/Sharedaction?code=fc6d04af-7c3d-4cd2-dcc8-08ddce3fb347,1、初始化表格功能：2、创建超链接功能：3、单元格引用功能：,WPS Office,Murray316,https://getquicker.net/User/355185/Murray316,7.1 KB,2025-07-30 12:03,0,,2025-07-31
 调用动作,https://getquicker.net/Sharedaction?code=026798a6-9310-43f4-dcbc-08ddce3fb347,可传递参数、可调试。,通用,喵喵香子兰~,https://getquicker.net/User/489444/%E5%96%B5%E5%96%B5%E9%A6%99%E5%AD%90%E5%85%B0~,6.2 KB,2025-07-29 23:55,0,,2025-07-31
 主副屏快移,https://getquicker.net/Sharedaction?code=e1cd1b5f-d252-4553-dcba-08ddce3fb347,快速移动光标或窗口（按屏幕比例）,通用,喵喵香子兰~,https://getquicker.net/User/489444/%E5%96%B5%E5%96%B5%E9%A6%99%E5%AD%90%E5%85%B0~,28.8 KB,2025-07-29 21:39,1,设置优化,2025-07-31
-获取do文件列表(demo),https://getquicker.net/Sharedaction?code=60bf54d6-1daa-4bfc-dcac-08ddce3fb347,获取Directory opus的选中文件列表(demo),通用,球佬是地表最强程序员!,https://getquicker.net/User/595242/%E7%90%83%E4%BD%AC%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%A8%8B%E5%BA%8F%E5%91%98!,286.3 KB,2025-07-29 15:02,2,更新,2025-07-31
-微信多开,https://getquicker.net/Sharedaction?code=d7210ac3-4943-4b6e-dc9b-08ddce3fb347,免设置、免退出、排列整齐，微信多开从未如此简单！,通用,Taitun,https://getquicker.net/User/854987/Taitun,43.8 KB,2025-07-29 09:31,1,优化右键菜单提示内容。,2025-07-31
+Easy Pair,https://getquicker.net/Sharedaction?code=0cf35569-18d3-4ac6-99bf-08dcff9008ea,极致强大的符号配对体验，配合扩展热键更佳,通用,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,257.2 KB,2024-11-09 10:15,23,常规更新：修改已知错误,2025-07-31
+窗口工具箱,https://getquicker.net/Sharedaction?code=7548bd70-bcbb-4530-beb8-08ddcd652bdf,汇集一些窗口功能，检测窗口变化，操作窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,47.3 KB,2025-07-28 16:10,10,试着添加一些按钮,2025-07-31
+微信定位发送,https://getquicker.net/Sharedaction?code=b9da2b93-3dd3-4883-9a0a-08dca25b1344,打开指定的联系人窗口；选择文件/文本运行；锁定、快速发送模板信息；,WeChat,W.JAN,https://getquicker.net/User/56701/W.JAN,60.3 KB,2024-07-12 22:49,2,微信更新后，唤出窗口有问题，增加了默认快捷键唤出（Ctrl+alt+w）,2025-07-31
 软件面板V4,https://getquicker.net/Sharedaction?code=4f2050ef-4c0c-4a37-eb21-08ddcb62c590,组平铺显示，软件面板，文件收藏，支持拖动排序，可以直接从外面拖动文件进来，可以右键添加，可以拖动文件到其他软件,通用,zdf153,https://getquicker.net/User/20184/zdf153,128.4 KB,2025-07-26 16:46,8,修复图标文件夹不存在不会创建的bug,2025-07-31
 软件面板V3,https://getquicker.net/Sharedaction?code=6e80f5e7-d6b1-415d-1555-08ddc2d2a88d,软件面板，文件收藏，支持拖动排序和分组,通用,zdf153,https://getquicker.net/User/20184/zdf153,158.7 KB,2025-07-15 19:17,19,修复文件夹名字有点bug,2025-07-31
-窗口工具箱,https://getquicker.net/Sharedaction?code=7548bd70-bcbb-4530-beb8-08ddcd652bdf,汇集一些窗口功能，检测窗口变化，操作窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,46.5 KB,2025-07-28 16:10,9,一些切换问题,2025-07-31
 待办清单,https://getquicker.net/Sharedaction?code=655df1cf-0eeb-4960-2ea9-08dda990399d,四象限待办清单，支持桌面贴图、批量修改、设置提醒和待办云管理。,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,344.5 KB,2025-06-12 17:56,9,~支持推送服务（长连接功能）远程手机查看和新增待办,2025-07-31
 智能复制,https://getquicker.net/Sharedaction?code=f88b6021-4ffd-4919-09b0-08dab667ae52,智能判断情景，复制纯文本、文件路径或窗口路径。,通用,Anlv,https://getquicker.net/User/392637/Anlv,94.8 KB,2022-10-26 11:43,31,+. 增加提示消息开关,2025-07-31
 拾色器,https://getquicker.net/Sharedaction?code=71cd1d17-e141-4d56-b6b6-08dd683b6942,识别屏幕上的颜色，返回“亮青色 #000000”含有中文颜色名称的提示，并且将颜色代码写入剪贴板！极其适合对颜色不明感的同志。,通用,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,14.8 KB,2025-03-22 10:16,3,~更新翻译器，颜色翻译更全面。,2025-07-31
@@ -28,27 +29,3 @@ PDF全能工坊,https://getquicker.net/Sharedaction?code=d0f72efe-8a42-446d-39b5
 感谢网友 Xanwus 的建议。",2025-07-31
 AI聚合助手,https://getquicker.net/Sharedaction?code=7979452d-5327-4fc1-9cca-08ddc5acfa0f,小窗AI/提示词库/一键多问/并列窗口等等,通用,eminstan,https://getquicker.net/User/430864/eminstan,258.4 KB,2025-07-18 11:54,9,增加右键菜单-调用提示词,2025-07-31
 WPS文档操作,https://getquicker.net/Sharedaction?code=9399a5f3-1b63-4510-eb0b-08ddcb62c590,复制/打开目录/校对WPS打开的文档,WPS Office,eminstan,https://getquicker.net/User/430864/eminstan,80.4 KB,2025-07-25 18:12,2,优化触发方式，现在基本通过快捷键触发，更加稳定。,2025-07-31
-浏览器打开wv2窗口,https://getquicker.net/Sharedaction?code=39e09acb-60d8-4b24-295c-08dd7ff8f8ab,在浏览器打开前台webview2窗口，支持事件触发,Microsoft Edge WebView2,chrosic,https://getquicker.net/User/945817/chrosic,4.7 KB,2025-04-21 22:57,2,~.支持事件触发，自动在浏览器打开wv2窗口,2025-07-31
-微信批量存图lanyu版,https://getquicker.net/Sharedaction?code=9d5cadb1-7585-41c1-0a8b-08dd7a45bf49,批量保存微信聊天图片和视频，打开要开始保存的第一张图片或者视频开始运行，从打开的第一张开始一直保存到最后一张,WeChat,岚雨,https://getquicker.net/User/26641/%E5%B2%9A%E9%9B%A8,9.1 KB,2025-04-13 19:23,1,"一直没有出错反馈也就一直没有更新动作，但是这么长时间过去了还是结合要求增加保存视频的需求更新一波，主要更新如下：
-1、修正所有文件都保存为jpg类型的问题，现在是什么类型就保存成什么类型。
-2、支持保存视频了，支持图片视频混合保存。文件名序号和图片共用顺延。
-3、不算修正，只是做个提醒，如果有用远程桌面或者远程软件操作的、或者某些监视剪贴板的软件，由于共用剪贴板有可能会导致读取剪贴板错误而动作终止，可以尝试把动作里面复制之后的等待时间延长来解决。我已经在动作里面写了注释了，很好找。我就不改了，不然这个动作又变慢。我自己经常用的都是远程桌面，所以我自己改过了。我自用的动作增加了自动删除上次保存的内容和自动压缩图片的功能。",2025-07-31
-文献检索,https://getquicker.net/Sharedaction?code=e62cf947-f8cb-4974-8d2f-08dd606400e5,文献检索的集大成者，集成 Zotero 和网络引擎的高级搜索工具,通用,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,224.1 KB,2025-03-11 20:15,7,常规更新：修复版本问题可能导致的错误,2025-07-31
-软链接,https://getquicker.net/Sharedaction?code=68a6a2a4-5190-4e97-206e-08ddc794935c,创建软链接/应用搬家,Windows 资源管理器,suyeda,https://getquicker.net/User/559425/suyeda,3.7 KB,2025-07-21 12:27,2,更改提示,2025-07-31
-斗图吧,https://getquicker.net/Sharedaction?code=59a712fc-91db-452b-eb11-08ddcb62c590,斗图吧表情包,通用,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,55 KB,2025-07-25 21:15,14,~设置首次运行默认图源,2025-07-31
-微信秒传,https://getquicker.net/Sharedaction?code=4b4835e3-6d71-49b4-2589-08ddbd2201ae,极速发送至微信好友！4.X微信版本用！,WeChat,eminstan,https://getquicker.net/User/430864/eminstan,82.9 KB,2025-07-08 15:17,6,优化获取选中文件/文字的时机。,2025-07-31
-置顶,https://getquicker.net/Sharedaction?code=28fc0d60-ec69-4458-e96a-08ddb7775a51,置顶状态一眼识别，边框高亮更直观！,通用,Taitun,https://getquicker.net/User/854987/Taitun,61.3 KB,2025-06-30 09:44,10,"优化Quicker窗口无法置顶bug
-修改默认边框颜色值",2025-07-31
-常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,328.2 KB,2023-10-18 22:55,142,按下Ctrl+左键点击时   则设为运行命令网址模式,2025-07-31
-短信接收,https://getquicker.net/Sharedaction?code=3e56bbb3-2206-443f-697f-08dcdd0ca208,快捷填写验证码或接收其他短信,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,79.9 KB,2024-09-26 10:09,14,"[~]
-修复设置不保存的问题",2025-07-31
-表格/文字常用工具2.6,https://getquicker.net/Sharedaction?code=fb16360d-5736-40e7-94d8-08dc6f0c8aa6,WPS和Office常用VBA宏指令集[Excel/Word/PPT],WPS Office,Fussing,https://getquicker.net/User/675682/Fussing,369.5 KB,2024-05-08 14:47,54,"增加DeepSeek模型支持
-需要重新右键动作配置APIkey
-更新前记得备份本地菜单",2025-07-31
-iconfont搜索,https://getquicker.net/Sharedaction?code=7389ddf1-bbe7-41c7-2871-08dda3023ad1,"web版, 更好用的iconfont在线搜索图标, 点击即可复制",通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,227.4 KB,2025-06-04 16:34,27,修复可能出现的转链接失败问题,2025-07-31
-在线查看,https://getquicker.net/Sharedaction?code=04bffccb-1619-43dc-a7d7-08dd8c3aed7e,在浏览器中迅速打开当前界面或者选中条目的文献网址,Zotero,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,21.9 KB,2025-05-06 16:04,2,常规更新：将子程序版本调整至7.0，适配绝大多数用户,2025-07-31
-"文件夹备注,文件夹标记",https://getquicker.net/Sharedaction?code=55d2f0fb-2986-42fe-2c68-08dc17c80091,快速刷新,Windows 资源管理器,球佬是地表最强程序员!,https://getquicker.net/User/595242/%E7%90%83%E4%BD%AC%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%A8%8B%E5%BA%8F%E5%91%98!,14.5 KB,2024-01-19 12:44,2,"重大更新!更新使用新方法写入备注. 更保险,且更快可以直接修改刷新备注.",2025-07-31
-批量重命名,https://getquicker.net/Sharedaction?code=c145103d-4aa8-4541-3547-08dd6a2b7d8c,自定义命名模板 + 自动同步云端,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,117.7 KB,2025-03-24 14:40,17,优化追加序号细节。,2025-07-31
-文件夹自动跳转,https://getquicker.net/Sharedaction?code=dd017180-a806-42fb-c9ab-08ddca6f2432,经典复刻Listary的Ctrl+G跳转文件夹的功能,Windows 资源管理器,LinkLi,https://getquicker.net/User/36034/LinkLi,3.9 KB,2025-07-25 15:55,2,增加手动跳转的快捷键设置，主要针对自动跳转有兼容性问题,2025-07-31
-关注作者,https://getquicker.net/Sharedaction?code=3016f400-e7a4-4a02-42c4-08ddc98508fa,"在网页添加一个关注按钮方便关注你喜欢的作者们, 可打开关注列表快速访问作者主页",通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,77.2 KB,2025-07-24 11:44,18,适配部分用户文档路径是根目录导致无法显示头像,2025-07-31
-新窗口打开本目录,https://getquicker.net/Sharedaction?code=7b2473eb-bb27-45fd-b657-08dcde001292,新窗口打开本目录或修改为指定盘符,Windows 资源管理器,耿耿于,https://getquicker.net/User/917007/%E8%80%BF%E8%80%BF%E4%BA%8E,14.8 KB,2024-09-26 16:02,1,1,2025-07-31
