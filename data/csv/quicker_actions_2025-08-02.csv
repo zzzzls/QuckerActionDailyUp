@@ -1,11 +1,56 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-生成中线,https://getquicker.net/Sharedaction?code=db94fb14-357f-4dcc-0970-08ddd023581c,选中两条平行线段/xl线，生成中线（xl线）,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,21.6 KB,2025-08-01 11:20,1,增加对多段线PL的支持,2025-08-03
+电源,https://getquicker.net/Sharedaction?code=03a09353-66c0-4975-e7a0-08ddd2327dc0,电脑常规操作，关机、重启、锁屏、息屏等,通用,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,37.5 KB,2025-08-03 18:07,0,,2025-08-03
+网页自动高亮,https://getquicker.net/Sharedaction?code=77f5637e-e806-4451-02dc-08ddd118d332,自动，手动高亮网页关键词,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,32.1 KB,2025-08-02 13:22,3,+ 增加颜色设置，限制颜色变化程度,2025-08-03
+提取ED2K,https://getquicker.net/Sharedaction?code=20654adc-e291-49e8-02de-08ddd118d332,在比特彗星里，提取ED2K,,gdvjg,https://getquicker.net/User/311786/gdvjg,14.9 KB,2025-08-02 14:57,0,,2025-08-03
 音乐标签,https://getquicker.net/Sharedaction?code=114bfb27-01dc-4ea4-02db-08ddd118d332,TagScan音乐标签编辑工具,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,5.3 KB,2025-08-02 13:19,0,,2025-08-03
+EVER录精灵,https://getquicker.net/Sharedaction?code=e44f7f2d-ba96-47e6-da60-08d7880f80dc,把需要重复的鼠标键盘操作录制成流程，一键做到。自带鼠标连点、快速点选。,通用,Ever,https://getquicker.net/User/2774/Ever,114.9 KB,2019-12-25 10:30,47,播放倒计时支持单个流程，当单个流程倒计时为0，会用统一倒计时，两者都为0，则不进行倒计时,2025-08-03
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2021-02-03 14:35,223,- fix: 数据导入改为同步调用,2025-08-03
+窗口工具箱,https://getquicker.net/Sharedaction?code=7548bd70-bcbb-4530-beb8-08ddcd652bdf,汇集一些窗口功能，检测窗口变化，操作窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,50.8 KB,2025-07-28 16:10,14,窗口句柄模拟win+d,2025-08-03
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「AI对话、MD预览、快速检索、贴边隐藏、分组标签、自动同步」,通用,dalou,https://getquicker.net/User/76824/dalou,616.4 KB,2024-05-10 17:42,63,新增：定时上传设置选项。定时上传本地数据至云端，避免不同设备间数据冲突，因为存在次数限制，时间间隔最低设置为5分钟，感谢十二猫主的建议~,2025-08-03
+文件预览,https://getquicker.net/Sharedaction?code=4eaacb96-56f0-4183-583a-08dd249242cf,在资源管理器中不打开文件夹的情况下查看下层文件夹内容，可直接打开文件,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,246.9 KB,2024-12-25 13:45,27,fix 替换简单的md渲染器,2025-08-03
+淘宝搜索,https://getquicker.net/Sharedaction?code=450cd828-a2ef-4908-9c6a-08d9f836c603,先搜索选中文本，没有则弹出输入框。输入关键词后进行淘宝搜索,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,38.8 KB,2022-02-26 11:42,13,1,2025-08-03
+文本提取,https://getquicker.net/Sharedaction?code=0bc20fba-da82-4d1a-8789-08dd7586f3c6,"提取一串文本中, 其中的 中文 大写 小写字母,数字,符号,或者指定特殊符号和文本",通用,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,19.3 KB,2025-04-07 16:23,5,"新增,可以以字母开头匹配带数字的功能",2025-08-03
+WinMergeU,https://getquicker.net/Sharedaction?code=a4f98427-f2fa-4227-33a2-08ddb1e155cb,WinMerge 是一款运行于Windows系统下的免费开源的文件比较/合并工具，使用它可以非常方便地比较多个文档内容甚至是文件夹与文件夹之间的文件差异。适合程序员或者经常需要撰写文稿的朋友使用。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,160.9 KB,2025-06-23 13:11,2,【修复】修复资源依赖下载会概率性失败的问题,2025-08-03
+迷你定时提醒,https://getquicker.net/Sharedaction?code=9e5a5f9c-a511-41e5-f009-08dd80eb2d4d,迷你定时提醒工具是由迷你软件提供的一款免费软件工具，包括事件提醒，定时提醒，待办事务，定时关机等功能，是常用电脑人士的必备工具。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,209 KB,2025-04-22 00:26,1,"【新增】
+重启进程
+按下 Ctrl 启动 或者 传入动作参数：""重启""
+关闭进程
+按下 Alt 启动 或者 传入动作参数：""关闭""",2025-08-03
+Geek,https://getquicker.net/Sharedaction?code=67461597-57e3-4f6f-0e8a-08dcfcb28eec,一个既简单又好用的卸载软件—Geek,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,209.2 KB,2024-11-05 16:57,9,"【新增】
+重启进程
+按下 Ctrl 启动 或者 传入动作参数：""重启""
+关闭进程
+按下 Alt 启动 或者 传入动作参数：""关闭""",2025-08-03
+KBLAutoSwitch,https://getquicker.net/Sharedaction?code=f90ce41d-75fc-43eb-0e77-08dd0080705b,KBLAutoSwitch 是一款基于AutoHotkey的中英文输入法自动切换工具,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,209 KB,2024-11-09 13:55,5,"【新增】
+重启进程
+按下 Ctrl 启动 或者 传入动作参数：""重启""
+关闭进程
+按下 Alt 启动 或者 传入动作参数：""关闭""",2025-08-03
+勇芳计算器,https://getquicker.net/Sharedaction?code=3291b161-9945-43bc-7ec7-08dd23adddae,『勇芳计算器』是一款简单易用的多功能、多行、表达式计算工具，操作就如计事本软件，不用学就会用，好象是你在一张白纸上写计算式，电脑自动填入结果，而且每次的计算都还保留着，随时可修改或查阅。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,209 KB,2024-12-25 07:13,6,"【新增】
+重启进程
+按下 Ctrl 启动 或者 传入动作参数：""重启""
+关闭进程
+按下 Alt 启动 或者 传入动作参数：""关闭""",2025-08-03
+TrafficMonitor,https://getquicker.net/Sharedaction?code=950a8bef-efc8-4e8e-99c4-08dcff9008ea,TrafficMonitor 是一款用于Windows平台的开源网速监控悬浮窗软件，可以显示当前网速、CPU及内存利用率，支持嵌入到任务栏显示，支持更换皮肤、历史流量统计等功能。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,209 KB,2024-11-09 11:38,7,"【新增】
+重启进程
+按下 Ctrl 启动 或者 传入动作参数：""重启""
+关闭进程
+按下 Alt 启动 或者 传入动作参数：""关闭""",2025-08-03
+文字钉,https://getquicker.net/Sharedaction?code=156fa292-3ae1-43f6-ec1e-08db89846054,选中文本或者获取剪贴板，钉在屏幕上。,通用,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,10.3 KB,2023-07-21 16:54,7,1,2025-08-03
+360清理Pro,https://getquicker.net/Sharedaction?code=a0d173cc-449b-464d-0e7b-08dd0080705b,360清理Pro是一款清理软件，涵盖了四大类型的清理场景，分别为：微信、QQ的垃圾扫描及清理，系统盘中的大文件、重复文件扫描及清理以及系统软件使用痕迹的清理。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,209 KB,2024-11-09 16:01,6,"【新增】
+重启进程
+按下 Ctrl 启动 或者 传入动作参数：""重启""
+关闭进程
+按下 Alt 启动 或者 传入动作参数：""关闭""",2025-08-03
+复制路径,https://getquicker.net/Sharedaction?code=fd3d7272-f03b-436a-9c6e-08d9f836c603,复制资源管理器文件的路径,Windows 资源管理器,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,5 KB,2022-02-26 13:00,5,1,2025-08-03
 文本菜单,https://getquicker.net/Sharedaction?code=54dc3640-79ab-4223-a073-08da8515cad0,选中快速替换文本,通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2022-08-24 17:19,29,- fix: 文本菜单，获取选中文本失败,2025-08-03
-剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2021-02-03 14:35,221,"- fix: 超长文本显示崩溃（上万个 \t 结尾）
-- fix: 打开设置界面后，导致多选粘贴失效",2025-08-03
+文件挂载,https://getquicker.net/Sharedaction?code=affee3d1-a07c-4e62-fc7a-08ddc017ed62,将指定文件、网址添加到列表以便于快速打开、切换,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,97.4 KB,2025-07-11 22:14,5,"1. 恢复某次更新后误删的""删除路径""右键选项
+2. 细节优化,获取文件失败不会退出动作",2025-08-03
 snipaste截图,https://getquicker.net/Sharedaction?code=6d63d14a-91be-4811-ece7-08d93868de63,命令行版，非快捷键，稳定，可靠，安全，安装即用！,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,47 KB,2021-06-27 10:16,31,修复右键菜单有时出错的bug,2025-08-03
+简易拼版(脚本),https://getquicker.net/Sharedaction?code=b9aae732-f1e7-471f-b172-08dcd509a79f,简易拼版,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,45.7 KB,2024-09-15 22:19,3,"1.添加对剪切蒙版对象的支持，仍然不支持不透明度蒙版对象
+2.在界面上添加统计信息",2025-08-03
 文件夹助手,https://getquicker.net/Sharedaction?code=72a6d10c-c52e-4d68-f177-08dd017145d1,常用的22种文件夹功能,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,456.1 KB,2024-11-11 15:20,24,批量重命名：新增删减内容功能。,2025-08-03
+生成中线,https://getquicker.net/Sharedaction?code=db94fb14-357f-4dcc-0970-08ddd023581c,选中两条平行线段/xl线，生成中线（xl线）,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,21.6 KB,2025-08-01 11:20,1,增加对多段线PL的支持,2025-08-03
 选中收藏,https://getquicker.net/Sharedaction?code=51fc92f5-10c2-41f7-1c7c-08d95d50ce36,"集锦 配套动作, 选中文本即可完成收藏",通用,Cea,https://getquicker.net/User/113342/Cea,10.4 KB,2021-08-13 15:12,33,"- 优化从图片相关内存占用
     - 优化从剪贴板读取图片导致的内存占用
     - 优化图片缩略图显示的内存占用
@@ -145,9 +190,3 @@ CeaBox,https://getquicker.net/Sharedaction?code=77cdb73e-07de-4705-d8d0-08da0c38
 常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部话术；客服快捷短语收藏、提示词汇总,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,342.8 KB,2025-03-26 08:46,14,"+：可自定义面板顶部搜索框的显示与隐藏；
 感谢 @用户162615963614399 的建议",2025-08-03
 批量重命名,https://getquicker.net/Sharedaction?code=c145103d-4aa8-4541-3547-08dd6a2b7d8c,自定义命名模板 + 自动同步云端,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,126 KB,2025-03-24 14:40,18,新增删减内容功能。,2025-08-03
-窗口工具箱,https://getquicker.net/Sharedaction?code=7548bd70-bcbb-4530-beb8-08ddcd652bdf,汇集一些窗口功能，检测窗口变化，操作窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,49.1 KB,2025-07-28 16:10,12,定时,2025-08-03
-斗图吧,https://getquicker.net/Sharedaction?code=59a712fc-91db-452b-eb11-08ddcb62c590,表情包动图gif，上班摸鱼必备！搭配快捷键，无需鼠标发送表情非常方便！,通用,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,56.8 KB,2025-07-25 21:15,16,~优化ui,2025-08-03
-SVG分层,https://getquicker.net/Sharedaction?code=170e8c93-58f6-4196-9924-08dd95a58a82,在 Photoshop 中打开、编辑和保存 SVG 文件，,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,194.4 KB,2025-05-18 22:59,11,~ 修复iconfont如果带有非法字符无法导入的问题。,2025-08-03
-微信多开,https://getquicker.net/Sharedaction?code=d7210ac3-4943-4b6e-dc9b-08ddce3fb347,免设置、免退出、排列整齐，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,44.6 KB,2025-07-29 09:31,2,优化设置启动数量后，可勾选：直接多开。,2025-08-03
-待办清单,https://getquicker.net/Sharedaction?code=655df1cf-0eeb-4960-2ea9-08dda990399d,四象限待办清单，支持桌面贴图、批量修改、设置提醒和待办云管理。,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,344.7 KB,2025-06-12 17:56,10,~修复设置数据异常,2025-08-03
-书式助手,https://getquicker.net/Sharedaction?code=efc95a3a-b6e6-4793-023a-08dd1eefe9dc,一键生成/下载知产申请常用的标准书式。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,161.8 KB,2024-12-18 10:16,20,修复bug,2025-08-03
