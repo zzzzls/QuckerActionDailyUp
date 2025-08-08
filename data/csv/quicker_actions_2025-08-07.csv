@@ -1,43 +1,43 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+WeChatOCR,https://getquicker.net/Sharedaction?code=4c0b3291-1f85-446d-d1f0-08ddd5d225e9,微信OCR，支持新旧版微信,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,6.5 KB,2025-08-08 16:28,2,发布,2025-08-08
+图片下载器,https://getquicker.net/Sharedaction?code=c3d3dfeb-adca-44b4-f23a-08ddd4e0681e,网页版图片下载工具，可视化选择,Google Chrome,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,69.2 KB,2025-08-07 08:39,1,+增加复制图片路径的按钮,2025-08-08
+iOS文件同步,https://getquicker.net/Sharedaction?code=2ed33f7b-7224-46f0-f25e-08ddd4e0681e,打通 IOS ↔ windows 两个平台的文件同步,通用,我的梦想捐钱修路建学校,https://getquicker.net/User/175959/%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E6%8D%90%E9%92%B1%E4%BF%AE%E8%B7%AF%E5%BB%BA%E5%AD%A6%E6%A0%A1,67.1 KB,2025-08-07 22:02,0,,2025-08-08
 飞牛文件查看,https://getquicker.net/Sharedaction?code=53dfec4a-b088-4e63-f246-08ddd4e0681e,应用Kodbox的文件预览编辑能力到飞牛上\n选中文件运行动作即可,Google Chrome,sharklaka,https://getquicker.net/User/826879/sharklaka,12.6 KB,2025-08-07 09:55,1,"[+]
 按Alt启动可只复制路径",2025-08-08
+Ob显示,https://getquicker.net/Sharedaction?code=eccf8c43-8b57-4a03-f249-08ddd4e0681e,在任意软件，激活obsidian到主窗口,Obsidian,duzh,https://getquicker.net/User/104936/duzh,7.6 KB,2025-08-07 13:40,1,优化未启动ob时的动作响应,2025-08-08
+按数量分包,https://getquicker.net/Sharedaction?code=1b6e9f70-5c02-48fb-f24a-08ddd4e0681e,将选中文件按输入数量分包（支持同时选中文件和文件夹）,Windows 资源管理器,之乎者也吧,https://getquicker.net/User/789041/%E4%B9%8B%E4%B9%8E%E8%80%85%E4%B9%9F%E5%90%A7,12.8 KB,2025-08-07 14:06,0,,2025-08-08
 手势助手,https://getquicker.net/Sharedaction?code=9279df73-3eed-4d30-f23c-08ddd4e0681e,将手势绘制脚本化，使手势更加美观,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,33 KB,2025-08-07 09:09,0,,2025-08-08
-图片下载器,https://getquicker.net/Sharedaction?code=c3d3dfeb-adca-44b4-f23a-08ddd4e0681e,网页版图片下载工具，可视化选择,Google Chrome,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,32.4 KB,2025-08-07 08:39,0,,2025-08-08
+拆分文本为列,https://getquicker.net/Sharedaction?code=0bb8f444-cf70-4a28-f239-08ddd4e0681e,"填写分隔符,拆分文本为列",WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,5.1 KB,2025-08-07 08:23,0,,2025-08-08
+获取图片信息,https://getquicker.net/Sharedaction?code=d86cb38d-79b6-4c15-f238-08ddd4e0681e,在FSViewer上使用，获取图片多种属性信息,FastStone Image Viewer,Iccth,https://getquicker.net/User/175407/Iccth,13.2 KB,2025-08-07 07:11,0,,2025-08-08
 加速启动,https://getquicker.net/Sharedaction?code=55da7191-7da7-4470-f234-08ddd4e0681e,使用任务计划程序加速Quicker开机自启,通用,小磁炉,https://getquicker.net/User/1287684/%E5%B0%8F%E7%A3%81%E7%82%89,13.2 KB,2025-08-06 22:33,4,修复意外错误,2025-08-08
-复制加日期,https://getquicker.net/Sharedaction?code=e8af3049-f371-46d3-29ab-08ddd3eb37ac,去除文件前非中文字符，加上当天日期,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,5.5 KB,2025-08-06 16:01,0,,2025-08-08
-种子转磁力,https://getquicker.net/Sharedaction?code=2df234d4-a2c3-47e4-29a3-08ddd3eb37ac,种子转磁力,Windows 资源管理器,gdvjg,https://getquicker.net/User/311786/gdvjg,27.4 KB,2025-08-06 15:01,0,,2025-08-08
-所选改为当天日期,https://getquicker.net/Sharedaction?code=e5298994-6d13-4797-2989-08ddd3eb37ac,wps选中的文字改为当天日期,WPS Office,山东好人,https://getquicker.net/User/1291368/%E5%B1%B1%E4%B8%9C%E5%A5%BD%E4%BA%BA,2.5 KB,2025-08-06 09:36,0,,2025-08-08
+超级操作窗,https://getquicker.net/Sharedaction?code=1671d505-abeb-45df-a274-08dc0740f11f,【打造属于自己的万能工具箱】网址/搜索/程序/文件(夹)/动作/命令/面板/VBA宏/脚本/键鼠操作/文本替换/常用语/颜色收藏……,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,394.6 KB,2023-12-29 09:54,38,"v2.7.7 (2025-08-08)
+- 【优化】修改后的界面刷新问题
+- 【修复】分组图标的解析问题",2025-08-08
+Everything+,https://getquicker.net/Sharedaction?code=2e6385ad-67c5-47a0-dbc7-08dd3a7ac243,便捷筛选PDF/WORD/PPT/EXCEL/WPS/TXT......,Everything,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,62.3 KB,2025-01-23 09:04,36,.,2025-08-08
+有道OCR,https://getquicker.net/Sharedaction?code=d3bc98ab-8968-431e-ef1e-08dc7894979b,"无需设置无需下载, 开箱即用的OCR文本识别",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,34.4 KB,2024-05-20 14:47,11,更新延时下限,2025-08-08
+任务清单Pro,https://getquicker.net/Sharedaction?code=f51234e7-9201-4935-98f3-08ddac6ed895,✅多功能✅多提醒任务清单，超好用~待办、待办清单、待办事项、待办任务、任务清单、任务提醒,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,416.6 KB,2025-06-16 08:54,12,"增加复制功能
+回收站优化",2025-08-08
+ADB-Full_Log,https://getquicker.net/Sharedaction?code=3a3c7073-b709-4863-c98a-08ddca6f2432,输出所有ADB设备的全量日志到指定路径,通用,三蹦子,https://getquicker.net/User/1046814/%E4%B8%89%E8%B9%A6%E5%AD%90,5.4 KB,2025-07-24 15:38,2,忘了,2025-08-08
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2021-02-03 14:35,234,- feat: 空格快速多选，按下空格后，按照一定逻辑，自动进行多选,2025-08-08
+窗口工具箱,https://getquicker.net/Sharedaction?code=7548bd70-bcbb-4530-beb8-08ddcd652bdf,汇集一些窗口功能，检测窗口变化，操作窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,52.6 KB,2025-07-28 16:10,19,不记录任务栏窗口,2025-08-08
+记事本2.0,https://getquicker.net/Sharedaction?code=49545ad8-24dd-4d9e-a166-08dc6ffecc18,「AI对话、MD预览、快速检索、贴边隐藏、分组标签、自动同步」,通用,dalou,https://getquicker.net/User/76824/dalou,631.4 KB,2024-05-10 17:42,66,优化：笔记窗口最大化切换笔记组时，避免小窗口闪烁。,2025-08-08
+在线查看,https://getquicker.net/Sharedaction?code=04bffccb-1619-43dc-a7d7-08dd8c3aed7e,在浏览器中迅速打开当前界面或者选中条目的文献网址,Zotero,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,23.1 KB,2025-05-06 16:04,4,已开放动作权限,2025-08-08
 AI聊天助手,https://getquicker.net/Sharedaction?code=857139f5-90c6-4ddf-a7f5-08dd8c3aed7e,AI智能助手，辅助聊天，再也不用担心嘴笨了,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,360.5 KB,2025-05-07 05:51,16,~优化,2025-08-08
-关注作者,https://getquicker.net/Sharedaction?code=3016f400-e7a4-4a02-42c4-08ddc98508fa,"在网页添加一个关注按钮方便关注你喜欢的作者们, 可打开关注列表快速访问作者主页",通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,87.8 KB,2025-07-24 11:44,27,在页面顶部添加一个触发动作打开面板的按钮,2025-08-08
+关注作者,https://getquicker.net/Sharedaction?code=3016f400-e7a4-4a02-42c4-08ddc98508fa,"在网页添加一个关注按钮方便关注你喜欢的作者们, 可打开关注列表快速访问作者主页",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,87.8 KB,2025-07-24 11:44,27,在页面顶部添加一个触发动作打开面板的按钮,2025-08-08
 P4V获取信息,https://getquicker.net/Sharedaction?code=682e99a8-b407-4aa7-072d-08dd9a5f05c7,"查询p4v上传信息, 一次只能查询一个文件",Windows 资源管理器,若雨啦,https://getquicker.net/User/995582/%E8%8B%A5%E9%9B%A8%E5%95%A6,2.2 KB,2025-05-24 14:07,1,改为新文件获取方式,2025-08-08
 P4强更选中路径,https://getquicker.net/Sharedaction?code=9ec7be2a-58cf-4c85-072c-08dd9a5f05c7,"p4v强制更新选中文件或者目录,可以多选",Windows 资源管理器,若雨啦,https://getquicker.net/User/995582/%E8%8B%A5%E9%9B%A8%E5%95%A6,6.4 KB,2025-05-24 14:07,1,改为新文件获取方式,2025-08-08
 获取p4v路径,https://getquicker.net/Sharedaction?code=50e033ec-5e42-459a-e300-08dd6cfd5ad3,"获取p4v的服务器路径,支持多个路径",通用,若雨啦,https://getquicker.net/User/995582/%E8%8B%A5%E9%9B%A8%E5%95%A6,9.2 KB,2025-03-28 02:44,3,改为新文件获取方式,2025-08-08
 RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,389.5 KB,2024-09-15 18:35,112,= 初始化在通用菜单增加系统设置，可编辑删除,2025-08-08
+获取do文件列表(demo),https://getquicker.net/Sharedaction?code=60bf54d6-1daa-4bfc-dcac-08ddce3fb347,获取Directory opus的选中文件列表(demo),通用,球佬是地表最强程序员!,https://getquicker.net/User/595242/%E7%90%83%E4%BD%AC%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%A8%8B%E5%BA%8F%E5%91%98!,289.1 KB,2025-07-29 15:02,4,子程序判断获取,2025-08-08
+程序集管理,https://getquicker.net/Sharedaction?code=dcfbe645-b8dd-439d-6ad2-08db4c6b3ac9,检查多个程序是否运行中，并选择性启动或终止,通用,Negate9252,https://getquicker.net/User/396431/Negate9252,39 KB,2023-05-05 03:03,15,更好看懂了,2025-08-08
 识别验证码,https://getquicker.net/Sharedaction?code=bdaccd6a-bca1-4ed0-dd4a-08dac2bedb04,"采用""ddddocr""识别网页字符图片验证码，准确率高。",通用,M-cc,https://getquicker.net/User/521120/M-cc,392.1 KB,2022-11-10 13:08,10,"~尝试修复因下载子程序失效导致的下载失败的问题。
 +增加""修复错误""的功能【简单粗暴的方法：删除/重下】",2025-08-08
-剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2021-02-03 14:35,233,"## v0.5.0
-
-- feat: 优化各种单选粘贴，多选粘贴的逻辑
-- feat: 多选粘贴时，会自动弹出多个粘贴按钮：按选择顺序粘贴，正序粘贴，逆序粘贴
-- feat: 优化贴边效果，贴边时，粘贴不隐藏，鼠标离开后再隐藏",2025-08-08
+GOT-OCR-2.0,https://getquicker.net/Sharedaction?code=eb28d15a-0ea6-45f8-df65-08dcdef79362,通过统一的端到端模型实现 OCR-2.0(format multi-crop OCR),通用,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,20.7 KB,2024-09-28 14:20,7,修改提示文字,2025-08-08
+简单OCR,https://getquicker.net/Sharedaction?code=68b834e2-aa53-4459-d47c-08ddb495533f,OCR、翻译、AI对话,通用,墨尹琳,https://getquicker.net/User/173735/%E5%A2%A8%E5%B0%B9%E7%90%B3,736.4 KB,2025-06-26 22:53,4,"修复: 状态读取导致AI配置丢失,改为写入\读取本地文件",2025-08-08
+按颜色分包,https://getquicker.net/Sharedaction?code=fa7b99a1-f3b9-4bba-2999-08ddd3eb37ac,选中文件或文件夹，按图片的固定像素点来分类图片,Windows 资源管理器,之乎者也吧,https://getquicker.net/User/789041/%E4%B9%8B%E4%B9%8E%E8%80%85%E4%B9%9F%E5%90%A7,44.9 KB,2025-08-06 12:04,2,修复多选判断逻辑,2025-08-08
 便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,切换多个便利的自定义窗口，存储网址、文本、文件等，自由拖拽,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,359.2 KB,2025-02-21 03:22,232,忽略内部错误,2025-08-08
+星陨计划,https://getquicker.net/Sharedaction?code=692c832f-01db-474f-a842-08dcafa4e6df,雷电模拟器平板1280x720,雷电模拟器,LJH_,https://getquicker.net/User/392903/LJH_,1.4 MB,2024-07-29 21:56,22,微调,2025-08-08
 SVG分层,https://getquicker.net/Sharedaction?code=170e8c93-58f6-4196-9924-08dd95a58a82,在 Photoshop 中打开、编辑和保存 SVG 文件，,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,196.4 KB,2025-05-18 22:59,12,~. 选择svg文件激活时，默认直接导入Photoshop。,2025-08-08
-汇率计算,https://getquicker.net/Sharedaction?code=7e78effd-a2d5-423c-0639-08dd787f096d,"机个常用汇率互算, 支持自定义显示需要的货币",通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,11.5 KB,2025-04-11 21:28,3,微调,2025-08-08
+汇率计算,https://getquicker.net/Sharedaction?code=7e78effd-a2d5-423c-0639-08dd787f096d,"机个常用汇率互算, 支持自定义显示需要的货币",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,11.5 KB,2025-04-11 21:28,3,微调,2025-08-08
 下载图片,https://getquicker.net/Sharedaction?code=cabf0ece-1ba7-460c-11a7-08db8c4f03af,目前最好的网页图片下载工具！支持任意图片，只需鼠标点击图片即可下载至本地，支持单选、多选两种模式！,Google Chrome,反卷练习生,https://getquicker.net/User/684393/%E5%8F%8D%E5%8D%B7%E7%BB%83%E4%B9%A0%E7%94%9F,92.8 KB,2023-07-24 22:47,27,+新增查看网页全部图片模式，右键点击动作可选。,2025-08-08
-移至新建,https://getquicker.net/Sharedaction?code=23497694-0e40-4478-e968-08ddb7775a51,移动+重命名一步到位，文件整理更高效！,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,58.7 KB,2025-06-30 09:42,5,优化设置为空时，日期显示异常问题。,2025-08-08
-办公小工具,https://getquicker.net/Sharedaction?code=0825deac-7d80-4671-4847-08dd9d377497,集合常用办公操作的小工具，效率办公快人一步！,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,627.9 KB,2025-05-28 13:40,21,~新增网址支持选择浏览器,2025-08-08
-亚马逊仓库查询,https://getquicker.net/Sharedaction?code=66c8b111-97bc-4efb-99e1-08ddd2f8d414,"一键查询亚马逊仓库数据, 支持美加德英法意澳墨",通用,乐昂岚【接定制】,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A%E3%80%90%E6%8E%A5%E5%AE%9A%E5%88%B6%E3%80%91,30.5 KB,2025-08-05 09:51,2,网页微调,2025-08-08
-书式助手,https://getquicker.net/Sharedaction?code=efc95a3a-b6e6-4793-023a-08dd1eefe9dc,一键生成/下载知产申请常用的标准书式。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,161.8 KB,2024-12-18 10:16,21,修复bug,2025-08-08
-快捷面板2.0,https://getquicker.net/Sharedaction?code=e16c3288-b68f-40bc-93e7-08dd99955a99,剪贴板记录、收藏文本、位置、操作、动作快速发送/运行,通用,Evelynal,https://getquicker.net/User/340469/Evelynal,185.4 KB,2025-05-23 09:25,1,"更新轻量(简洁)面板 快捷键快速唤起功能，更快速的使用剪贴板信息
-
-设置路径：
-Quicker设置-快捷键(动作)-添加快捷键-动作参数填写“轻量面板”",2025-08-08
-任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,195.7 KB,2025-05-19 09:05,13,增加已提醒，还没提醒标识,2025-08-08
-微信多开,https://getquicker.net/Sharedaction?code=3d29a9b2-fa05-44c6-8c6e-08dda3deac8a,免设置、免退出，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,36.6 KB,2025-06-05 16:07,8,优化代码允许缓存，提升速度。,2025-08-08
-置顶,https://getquicker.net/Sharedaction?code=28fc0d60-ec69-4458-e96a-08ddb7775a51,置顶状态一眼识别，边框高亮更直观！,通用,Taitun,https://getquicker.net/User/854987/Taitun,61.3 KB,2025-06-30 09:44,11,优化代码允许缓存，提升速度。,2025-08-08
-微信多开,https://getquicker.net/Sharedaction?code=d7210ac3-4943-4b6e-dc9b-08ddce3fb347,免设置、免退出、排列整齐，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,44.6 KB,2025-07-29 09:31,3,优化代码允许缓存。,2025-08-08
-左手数字键盘+屏幕小键盘,https://getquicker.net/Sharedaction?code=edd841a7-b4be-4297-096a-08ddd023581c,"通过左边的字母键模拟数字小键盘,同时提供透明屏幕小键盘，可以使右手不必离开鼠标就可输入数字. ",通用,Qinyl_710,https://getquicker.net/User/139951/Qinyl_710,12 KB,2025-07-31 22:48,1,更新数字键盘出现位置随鼠标更新,2025-08-08
-插入图片VBA,https://getquicker.net/Sharedaction?code=85d6ab62-722e-4208-9a27-08dc72f0e55e,通过VBA在ppt中插入图片，可设置某文件夹最新的图片如果为刚创建则自动插入，优点：插入的图片自动缩小、支持多张图片同时插入、锁定纵横比,Microsoft PowerPoint,原++,https://getquicker.net/User/189784/%E5%8E%9F__,15.8 KB,2024-05-13 16:36,5,bug修复,2025-08-08
-搜索当前单元格,https://getquicker.net/Sharedaction?code=9ddfbff7-ccab-49ac-99b6-08ddd2f8d414,Excel搜索当前单元格内容,Microsoft Excel,52Shell,https://getquicker.net/User/782162/52Shell,2.3 KB,2025-08-04 09:47,1,可以不关闭搜索框连续搜索,2025-08-08
-常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部话术；客服快捷短语收藏、提示词汇总,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,344.9 KB,2025-03-26 08:46,15,"+:支持按ESC关闭常用语面板；默认关闭，可在设置处开启
-更新@用户91GoyW5-BAA的建议",2025-08-08
+自动活动,https://getquicker.net/Sharedaction?code=2f27e785-e664-4fe9-89c8-08dc547a3ff5,雷电模拟器平板1280x720,雷电模拟器,LJH_,https://getquicker.net/User/392903/LJH_,1.1 MB,2024-04-04 16:22,8,微调,2025-08-08
