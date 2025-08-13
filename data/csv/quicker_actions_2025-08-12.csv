@@ -1,0 +1,66 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+窗口贴边,https://getquicker.net/Sharedaction?code=51d57f7d-1320-4de5-bf4e-08ddd8acacdb,对贴边窗口进行管理,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,27.4 KB,2025-08-12 15:39,6,task,2025-08-13
+XML↔ATN,https://getquicker.net/Sharedaction?code=0f7a879f-73f3-4167-bf4f-08ddd8acacdb,用于将动作文件解码为xml，以便使用文本编辑器编辑动作文件。在修改完成后使用xml转atn恢复即可，注：不支持包含多个动作组的atn文件，多组时只能读取到第一个组。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,1.7 MB,2025-08-12 15:43,0,,2025-08-13
+两步验证器,https://getquicker.net/Sharedaction?code=a99fb85e-e139-46b2-bf3a-08ddd8acacdb,2FA（2 Factor Authentication）,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,76.1 KB,2025-08-12 02:03,4,"[+]
+增加排序，优化速度",2025-08-13
+一些云端使用的excel动作,https://getquicker.net/Sharedaction?code=f9de7eb7-1455-4ef1-bf3c-08ddd8acacdb,excel一些云端动作,WPS Office,3333pp,https://getquicker.net/User/901899/3333pp,33.2 KB,2025-08-12 08:50,0,,2025-08-13
+用完工具瞬间笔刷，就是速度！,https://getquicker.net/Sharedaction?code=d275b2f4-b5b0-42f8-bf2c-08ddd8acacdb,用轮盘辅助绘画的工具or功能模版,通用,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,7 KB,2025-08-11 20:24,0,,2025-08-13
+临水快算,https://getquicker.net/Sharedaction?code=7021fec2-b26d-4da0-bf25-08ddd8acacdb,计算施工用水量、供水管径。 ,通用,eminstan,https://getquicker.net/User/430864/eminstan,244.3 KB,2025-08-11 16:33,0,,2025-08-13
+示例：同时等待空格和CtrlZ,https://getquicker.net/Sharedaction?code=49c41c23-017e-4df6-10b5-08ddd7c1daf0,等待按键,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,3.5 KB,2025-08-11 10:38,0,,2025-08-13
+知识库,https://getquicker.net/Sharedaction?code=509bb025-3248-468d-5754-08ddb2bac3f6,✅打造个人知识库,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,173.2 KB,2025-06-24 11:01,11,全部部门的自动重置功能,2025-08-13
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2021-02-03 14:35,236,"## v0.6.2 (2025-08-12)
+
+- feat: 自动运行时，剪贴板窗口按条件恢复打开状态
+    - 如果关闭时为可见状态，则会自动打开剪贴板窗口
+    - 例如：关闭时为贴边隐藏或者固定状态（窗口实际可见）重启后恢复到这种可见状态
+    - （目前解决方案：延迟1s存储IsVisible状态，重启后恢复）",2025-08-13
+左手数字键盘+屏幕小键盘,https://getquicker.net/Sharedaction?code=edd841a7-b4be-4297-096a-08ddd023581c,"通过左边的字母键模拟数字小键盘,同时提供透明屏幕小键盘，可以使右手不必离开鼠标就可输入数字，欢迎讨论提出改进意见。 ",通用,Qinyl_710,https://getquicker.net/User/139951/Qinyl_710,43.1 KB,2025-07-31 22:48,16,取消多余子程序和错误提示,2025-08-13
+跳转,https://getquicker.net/Sharedaction?code=dcfd6bae-743a-4231-eb20-08ddcb62c590,保存、另存为快速跳转工具，支持资源管理器和Directory Opus,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,86.2 KB,2025-07-26 16:24,8,"= 优化树形窗口跳转，仅支持本地化别名
+Users	用户
+Pictures	图片
+Documents	文档
+Videos	视频
+Music	音乐
+Desktop	桌面
+Downloads	下载",2025-08-13
+定位点击,https://getquicker.net/Sharedaction?code=01adac0a-0226-44c8-5974-08db837051fc,移动标靶定位后使用按键点击，标靶最多9个，按住可连点,通用,M-cc,https://getquicker.net/User/521120/M-cc,341.3 KB,2023-07-14 17:38,3,~修复标靶每次启动动作时位置会向左上方偏移的问题。,2025-08-13
+计算,https://getquicker.net/Sharedaction?code=11a85dfb-3603-4dba-5a4f-08dc97ed6dcb,通用计算器,通用,FaniX,https://getquicker.net/User/52603/FaniX,151.9 KB,2024-06-29 20:12,10,+支持锁定cliptext变量的值,2025-08-13
+翻译替换,https://getquicker.net/Sharedaction?code=385d12c5-8128-48b1-9959-08dd2e1384ce,翻译并替换选中文本，未选中则翻译替换整行，支持驼峰格式输出,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,98.4 KB,2025-01-06 14:44,8,【新增】有道翻译：免费,2025-08-13
+动作转脚本,https://getquicker.net/Sharedaction?code=dd14dd47-3e69-455d-1813-08dbbd6a6295,ActionToJavascript.jsx,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,1.5 MB,2023-09-26 11:31,6,~. ctrl激活复制动作为脚本代码时，取消错误提示。,2025-08-13
+获取动作信息,https://getquicker.net/Sharedaction?code=03480fa8-bbd3-4533-65b1-08ddc8a588a4,快速获取动作信息，运行动作后右键悬浮按钮,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,84.8 KB,2025-07-22 19:04,6,"[~]
+修复「删除动作数据」无效的问题",2025-08-13
+实验花瓣,https://getquicker.net/Sharedaction?code=2db1eb7e-6a80-4e5f-2859-08ddc0fbdd92,搭配油猴脚本使用的实验花瓣动作。,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,24 KB,2025-07-12 17:17,4,动作无明显更新，浏览器脚本有重大更新，需要更新或者重新安装。安装链接在动作主页上。,2025-08-13
+KeyCastOW,https://getquicker.net/Sharedaction?code=b3d5e1a8-63de-468b-121b-08dd062f9162,"KeyCastOW 中文版是一款键盘按键显示软件,能够让屏幕实时显示键盘鼠标操作,适合做视频教程的时候使用,使用时默认设置会在屏幕右下角显示鼠标键盘的键位，可以自行更改延迟、颜色、效果等。",通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,209 KB,2024-11-17 15:48,4,"【新增】
+重启进程
+按下 Ctrl 启动 或者 传入动作参数：""重启""
+关闭进程
+按下 Alt 启动 或者 传入动作参数：""关闭""",2025-08-13
+PSCoke,https://getquicker.net/Sharedaction?code=333365f5-7d51-407d-f36d-08dbdac4c3da,多平台图片导入PS,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,148.2 KB,2023-11-02 12:40,63,忘记改变量名了。,2025-08-13
+在PS打开,https://getquicker.net/Sharedaction?code=d7861777-a558-4c31-b6a0-08dcde001292,一键导入+自动跳转，双屏协作更高效！,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,13.1 KB,2024-09-27 19:00,6,优化部分步骤细节。,2025-08-13
+智能收藏,https://getquicker.net/Sharedaction?code=3ad56cd9-8b4c-48f8-9946-08ddac6ed895,一键收藏常用目录，让文件（夹）打开、另存为、复制、移动更高效、更省心！,通用,Taitun,https://getquicker.net/User/854987/Taitun,50.7 KB,2025-06-17 10:19,8,优化部分步骤细节。,2025-08-13
+窗口面板,https://getquicker.net/Sharedaction?code=e04ed4ad-f4b2-4609-ac92-08da5b516573,相当于可移动的小型Windows任务栏。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,614 KB,2022-07-02 20:27,166,.,2025-08-13
+极简待办,https://getquicker.net/Sharedaction?code=ddeb8109-f17b-43e1-8912-08dc5a32504a,一个极简的待办清单，极简版GTD。现在新增【微信模式】。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,469.1 KB,2024-04-12 23:22,42,【修复】高度与微信3.9版对不齐的问题。,2025-08-13
+极简吸附,https://getquicker.net/Sharedaction?code=ff7d1f3e-aea6-4bff-28e8-08dcf9adc402,极简待办微信版吸附启动器,WeChat,Mrshuang,https://getquicker.net/User/238117/Mrshuang,25.4 KB,2024-11-01 00:58,7,【修复】高度与微信3.9版对不齐的问题。,2025-08-13
+文本处理,https://getquicker.net/Sharedaction?code=d42764bc-4ec3-441d-be77-08dbdcf87739,整合多个文本相关动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,228.5 KB,2023-11-05 00:05,9,~ 增加`字体大小设为整数`功能，对选中的文本图层有效；未选中图层时对整个文档的文本图层有效。,2025-08-13
+窗口工具箱,https://getquicker.net/Sharedaction?code=7548bd70-bcbb-4530-beb8-08ddcd652bdf,汇集一些窗口功能，检测窗口变化，操作窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,53.4 KB,2025-07-28 16:10,20,修正窗口尺寸,2025-08-13
+打开AI聊天,https://getquicker.net/Sharedaction?code=4bb2694a-ea0d-4273-ebc2-08dc1c8bc2af,纯免费的AI聊天窗口,通用,球佬是地表最强程序员!,https://getquicker.net/User/595242/%E7%90%83%E4%BD%AC%E6%98%AF%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E7%A8%8B%E5%BA%8F%E5%91%98!,6.1 KB,2024-01-24 15:15,5,更新了一下. 去掉了失效的网站. 对于gpt的主网站做处理. 重新打开时不会增加新对话. 防止过多的无用对话,2025-08-13
+坚果云板,https://getquicker.net/Sharedaction?code=b8a63180-6779-49c5-2081-08ddc794935c,存储在坚果云上的记事本/笔记本/云板,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,57.5 KB,2025-07-21 18:40,4,无,2025-08-13
+PixPin,https://getquicker.net/Sharedaction?code=89bfa2e7-7c62-4b97-1736-08dda10577be,PixPin截图,通用,Simonl,https://getquicker.net/User/134191/Simonl,42.4 KB,2025-06-01 20:16,7,修复列表模式下外部参数传入失败的BUG,2025-08-13
+Office 设置,https://getquicker.net/Sharedaction?code=9f3ea257-afb4-4f69-b6a2-08dd683b6942,快速打开 Word、Excel、PowerPoint的设置选项,Microsoft Excel,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,1.2 KB,2025-03-21 20:57,3,开放编辑权限,2025-08-13
+发送到文件夹,https://getquicker.net/Sharedaction?code=440a8db8-cb57-43b0-9a91-08dca533070d,将文件移动到指定文件夹,Windows 资源管理器,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,35.1 KB,2024-07-16 13:46,3,+ 增加持续模式,2025-08-13
+动作搜索增强,https://getquicker.net/Sharedaction?code=df817930-911b-4498-d1f8-08ddd5d225e9,"在quicker动作搜索页中, 可以对已有数据进行筛选和排序",通用,IDongYou,https://getquicker.net/User/945782/IDongYou,52.8 KB,2025-08-08 18:21,2,"1.增加清爽模式
+2.在表格视图中给作者加上链接
+3.增加动态加载搜索框, 避免刷新整个页面导致脚本消失",2025-08-13
+重命名,https://getquicker.net/Sharedaction?code=3249be4a-4a8e-40af-8a87-08dd6b2bd175,单文件重命名，支持模板、特殊字符与自动同步云端！,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,40.1 KB,2025-03-25 10:37,7,新增日期格式。,2025-08-13
+矢量图标选择,https://getquicker.net/Sharedaction?code=16854c04-2790-4f9f-4326-08dd3883fd2c,图标,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,10.9 KB,2025-01-20 22:21,3,删除外部,2025-08-13
+微信定位发送,https://getquicker.net/Sharedaction?code=b9da2b93-3dd3-4883-9a0a-08dca25b1344,打开指定的联系人窗口；选择文件/文本运行；锁定、快速发送模板信息；,WeChat,W.JAN,https://getquicker.net/User/56701/W.JAN,60.3 KB,2024-07-12 22:49,3,优化,2025-08-13
+鼠标侧滚轮判断,https://getquicker.net/Sharedaction?code=0f5d2e4d-e7c2-452c-d37a-08dd85c4ca35,用于不同程序切换标签页,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,21.7 KB,2025-04-28 14:51,1,适适配WPS，新增可设置的切换间隔,2025-08-13
+REWARD,https://getquicker.net/Sharedaction?code=d082e78b-3153-4938-097f-08ddd023581c,自动完成每日Microsoft Rewards任务,通用,一叶之秋_,https://getquicker.net/User/114043/%E4%B8%80%E5%8F%B6%E4%B9%8B%E7%A7%8B_,112.3 KB,2025-08-01 17:07,1,修复右键设置延迟时间功能无效的问题,2025-08-13
+RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,390.6 KB,2024-09-15 18:35,115,fix bug,2025-08-13
+往左切换,https://getquicker.net/Sharedaction?code=b09aae0f-e56c-4f67-6816-08ddd6dfeea6,向左切换标签页,WPS Office,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,13.5 KB,2025-08-09 22:26,2,修改了动作个数获取方式,2025-08-13
+往右切换,https://getquicker.net/Sharedaction?code=47c2b1b2-7eb6-4b7f-6815-08ddd6dfeea6,向右切换标签页,WPS Office,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,13.5 KB,2025-08-09 22:03,2,修改了动作个数获取方式,2025-08-13
+上传文件到飞书知识库,https://getquicker.net/Sharedaction?code=2120d3d2-f3ee-4943-10a4-08ddd7c1daf0,"上传文件到知识库,",通用,笔战人生,https://getquicker.net/User/1090721/%E7%AC%94%E6%88%98%E4%BA%BA%E7%94%9F,20.7 KB,2025-08-10 19:53,2,修复设置api问题,2025-08-13
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,简单591,https://getquicker.net/User/36130/%E7%AE%80%E5%8D%95591,1 MB,2021-06-14 21:07,417,"自定义菜单：当数据较多时，每天第一次启动会偏慢，
+因此，建议把Niaa设为开机自启动，就会好很多。
+quicker:settings:AutoRunActions",2025-08-13
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部话术；客服快捷短语收藏、提示词汇总,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,374.9 KB,2025-03-26 08:46,16,+：面板界面，支持右键菜单编辑常用语，无需打开excel,2025-08-13
