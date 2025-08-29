@@ -1,0 +1,56 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+图片轮盘V2,https://getquicker.net/Sharedaction?code=b9626dd2-e443-4389-7de4-08dde508dfee,"比V1更好用的浏览器图片轮盘, 延迟更低, 体验更好",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,242.1 KB,2025-08-28 11:49,2,下载到桌面bug,2025-08-29
+模拟键盘,https://getquicker.net/Sharedaction?code=4ec7b47c-5a15-4e79-7de7-08dde508dfee,模拟键盘,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,22.5 KB,2025-08-28 13:26,0,,2025-08-29
+打开文件夹书签,https://getquicker.net/Sharedaction?code=29fca679-8b35-4f39-7dc8-08dde508dfee,快速打开浏览器中某个文件夹的全部书签,Google Chrome,enough!,https://getquicker.net/User/897144/enough!,7.9 KB,2025-08-27 21:30,0,,2025-08-29
+智能颜色,https://getquicker.net/Sharedaction?code=36e85043-e88c-4104-7dc1-08dde508dfee,批量处理颜色偏暗的图片,Windows 资源管理器,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,17.5 KB,2025-08-27 17:57,0,,2025-08-29
+Excel间隔复制,https://getquicker.net/Sharedaction?code=94d9dfa5-8018-4856-7da4-08dde508dfee,在Excel中，将选择的连续/不连续选区，复制后并自动拼接（针不连续选区）以纯文本输出。,Microsoft Excel,CGlei,https://getquicker.net/User/827370/CGlei,28.4 KB,2025-08-27 11:03,1,"说明：
+1.功能概述：将选择的连续/不连续选区，复制后并自动拼接（针不连续选区）以纯文本输出。解决复制不连续选区时会将不想复制的部分也复制出来，以及粘贴到其他地方是是图片而不是纯文本。
+
+2.设置概述： 
+   1.可设置输出显示方式为HUD效果或文本窗口显示（视频中有演示） 
+   2.可设置输出时是否带制表符。 3.可设置是否同时将结果写入剪贴板 
+   4.支持设置按键等待时间：支持保持用户原剪贴板最后一条数据，为了减少操作割裂感，在自行动作之前会将剪贴板最后一条数据保存到临时变量，完成粘贴后（在设置的时间内会检测是否按下了Ctrl+V）将这条数据回写简体版，以实现不覆盖剪贴板原有内容。
+   
+3.本动作部分使用VBA代码实现，使用之前请先安装常用微软运行库，可直接搜索引擎搜索“微软运行库”，这是一个win系统软件运行的常用库，资深玩家应该都懂。 微软运行库下载：https://www.xitongzhijia.net/tags/%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86
+如遇链接失效可自行搜索引擎搜索“微软运行库”，使用百度当心假冒网站。
+
+4.由于本人只喜欢用Office，WPS没有测试过，但理论支持，WPS玩家可以自行测试，请见谅！
+",2025-08-29
+run,https://getquicker.net/Sharedaction?code=f5a98456-4121-408d-7da3-08dde508dfee,通过手机等远程设备执行动作或命令,通用,治钧,https://getquicker.net/User/21417/%E6%B2%BB%E9%92%A7,14.4 KB,2025-08-27 11:00,1,-,2025-08-29
+电商快速文件夹,https://getquicker.net/Sharedaction?code=27bc2d9f-f28c-4090-7da6-08dde508dfee,快速创建文件夹,通用,十字路口V,https://getquicker.net/User/825871/%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3V,5.3 KB,2025-08-27 11:53,0,,2025-08-29
+Excel字体规范,https://getquicker.net/Sharedaction?code=0eff20b8-1a47-4141-7da2-08dde508dfee,在Excel中，一键设置表头、正文字体、字号及行高。,Microsoft Excel,CGlei,https://getquicker.net/User/827370/CGlei,28.4 KB,2025-08-27 10:44,0,,2025-08-29
+剪贴板测试版,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,当发布一些新功能时，用这个动作做测试,通用,Cea,https://getquicker.net/User/113342/Cea,11.9 KB,2022-04-18 22:22,143,"## v0.8.5 (2025-08-29)
+
+- fix: 收藏夹一系列拖拽以及根节点存在的问题
+    - 参考：[收藏夹：项目标题重复时，大概率触发崩溃](https://getquicker.net/Common/Topics/ViewTopic/35527)",2025-08-29
+PDF翻译,https://getquicker.net/Sharedaction?code=145b5d53-b71d-4485-c2e3-08dc74bc40ca,将任意语言PDF文件翻译成中文PDF文件。或将中文PDF翻译成英文。,通用,M-cc,https://getquicker.net/User/521120/M-cc,362.6 KB,2024-05-15 20:24,11,~修复PDF翻译完成后，临时文件夹及文件仍然存在的问题。,2025-08-29
+PDF处理,https://getquicker.net/Sharedaction?code=be7e658a-e1c5-4642-50f9-08dabc15aa8f,共28种PDF处理方式！合并、删页、分割、解密、pdf转图片及图片转pdf等功能,Windows 资源管理器,M-cc,https://getquicker.net/User/521120/M-cc,462.1 KB,2022-11-02 15:54,82,~暂时移除上一次更新中，未完善的PDF页面旋转功能。,2025-08-29
+微信图片自动旋转,https://getquicker.net/Sharedaction?code=7e8a5909-c4cc-4cf0-6024-08dcd225a467,自动旋转微信打开的图片到正确角度,WeChat,sharklaka,https://getquicker.net/User/826879/sharklaka,32.4 KB,2024-09-11 14:13,6,支持微信4.0,2025-08-29
+P图,https://getquicker.net/Sharedaction?code=fc831abc-bc38-4cb3-2fa0-08dbecaddff5,图片编辑工具！不再依赖PS，小的修改直接一建搞定！支持文字替换、旋转、尺寸修改、格式转换、打水印、打马赛克、图片切割合并等，更多功能还在更新中...,Windows 资源管理器,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,67.8 KB,2023-11-25 11:37,10,"+配套动作支持在自定义窗口中右键，唤起自定义菜单；
++自定义窗口外观，支持自定义调整；",2025-08-29
+iconfont搜索,https://getquicker.net/Sharedaction?code=7389ddf1-bbe7-41c7-2871-08dda3023ad1,"web版, 更好用的iconfont在线搜索图标, 点击即可复制",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,233.3 KB,2025-06-04 16:34,32,更新子程序,2025-08-29
+鼠标侧滚轮判断,https://getquicker.net/Sharedaction?code=0f5d2e4d-e7c2-452c-d37a-08dd85c4ca35,用于不同程序切换标签页,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,20.2 KB,2025-04-28 14:51,2,优化内部逻辑,2025-08-29
+巴德剪贴板保存为临时文件,https://getquicker.net/Sharedaction?code=89f95de5-f79f-484b-1f47-08dd4b825124,将剪贴板内容保存为临时文件,通用,Bader,https://getquicker.net/User/135289/Bader,5.2 KB,2025-02-13 00:45,1,"1. 增加选择后缀名功能
+2. 增加保存后直接打开所在文件夹功能",2025-08-29
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2021-02-03 14:35,243,"## v0.7.8
+
+- feat: 粘贴后置顶已经放到筛选策略中，所以原来的设置界面中粘贴后置顶的选项删除
+- feat: 剪贴板界面上，右侧三个点的菜单中展开的粘贴后置顶按钮保留，可继续使用
+
+    ![](https://secure2.wostatic.cn/static/wxsA79TGp1b18vMTN95PVH/image.png?auth_key=1756347278-7ghwnM9oWJTNxLJ67ejU6P-0-d598142efba1e57401e49fd195c5d47b)",2025-08-29
+图片轮盘V1,https://getquicker.net/Sharedaction?code=3f021a56-eb2b-4e3b-a70a-08dde22d8eb3,"浏览器图片的全新体验, 拖动图片进行轮盘操作执行各种功能",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,235.6 KB,2025-08-24 21:15,5,改个logo,2025-08-29
+短信接收,https://getquicker.net/Sharedaction?code=3e56bbb3-2206-443f-697f-08dcdd0ca208,快捷填写验证码或接收其他短信,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,80 KB,2024-09-26 10:09,15,自动输入验证码时支持按Esc取消,2025-08-29
+更新助手,https://getquicker.net/Sharedaction?code=2e830e19-e18e-406d-20c2-08dcef0e437a,更新动作聚焦更新日志文本框,Quicker,H-D-G,https://getquicker.net/User/679811/H-D-G,41.1 KB,2024-10-18 22:54,2,"v2
+
+~ 修复新版本失效的bug",2025-08-29
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏）,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,420 KB,2025-03-26 08:46,21,~：文本模板默认为多行文本框,2025-08-29
+迅雷链接重命名,https://getquicker.net/Sharedaction?code=dad5b56e-d342-4564-a70d-08dde22d8eb3,【批量处理】迅雷【下载链接】所对应的【文件名称】,通用,welcome2025,https://getquicker.net/User/130630/welcome2025,39.9 KB,2025-08-24 22:10,7,7,2025-08-29
+灵感笔记,https://getquicker.net/Sharedaction?code=49459ac0-e5d0-4c7b-16ce-08dd656169a1,快速创建临时笔记\n支持自动保存\n浏览历史记录（按住Ctrl打开动作可直达）,通用,Fok,https://getquicker.net/User/91927/Fok,219.7 KB,2025-03-18 11:54,32,修复删除失败问题,2025-08-29
+任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,198.5 KB,2025-05-19 09:05,17,增加：数据按时间排序更直观,2025-08-29
+OCR+,https://getquicker.net/Sharedaction?code=c1c0369e-89a5-45fa-40dc-08dcec2bc78e,截图识别文本，整合百度、腾讯、有道、PixPin等接口，便于统一调用,通用,九牧,https://getquicker.net/User/33598/%E4%B9%9D%E7%89%A7,236.5 KB,2024-10-15 08:40,19,尝试修复腾讯接口高精度版错误的问题,2025-08-29
+重命名字体,https://getquicker.net/Sharedaction?code=ad24aac7-92fa-4cd2-3db4-08dbdcc86b82,对选中的字体文件重命名。,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,46.6 KB,2023-11-04 12:58,3,"~. 重构，当前使用C#方式实现`字体-字重`重命名；
+~. 动作可实现两种重命名方式，分别为另存和直接重命名。",2025-08-29
+输入补全,https://getquicker.net/Sharedaction?code=d7a8e075-5b15-417b-d56c-08dde4389c52,WordKita - Word关键词输入提示助手,Microsoft Word,碎片哒哟,https://getquicker.net/User/609131/%E7%A2%8E%E7%89%87%E5%93%92%E5%93%9F,146.4 KB,2025-08-26 10:29,2,COM对象操作使用动态类型dynamic,2025-08-29
+两步验证器,https://getquicker.net/Sharedaction?code=a99fb85e-e139-46b2-bf3a-08ddd8acacdb,2FA（2 Factor Authentication）,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,81.4 KB,2025-08-12 02:03,7,"[+]
+支持Steam",2025-08-29
+智能对象16位改8位图,https://getquicker.net/Sharedaction?code=e810746b-bddd-4de1-2020-08dde052aee2,依此打开智能对象，并将里面16位图改为8位图,Adobe Photoshop,用户小白,https://getquicker.net/User/1288717/%E7%94%A8%E6%88%B7%E5%B0%8F%E7%99%BD,12.5 KB,2025-08-21 15:24,3,感谢Anlv建议，现在智能对象内有嵌套的智能对象时，也会依此设置为8bit，智能对象内的智能对象内的智能对象.....都会设置为8bit,2025-08-29
