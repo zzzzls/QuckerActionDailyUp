@@ -1,0 +1,38 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+选中文本直通AI,https://getquicker.net/Sharedaction?code=5b2dbda0-4dcf-4de9-8779-08dde5f827a6,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,127.3 KB,2025-08-29 13:15,0,,2025-08-30
+图片轮盘V2,https://getquicker.net/Sharedaction?code=b9626dd2-e443-4389-7de4-08dde508dfee,"比V1更好用的浏览器图片轮盘, 延迟更低, 体验更好",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,242.1 KB,2025-08-28 11:49,2,下载到桌面bug,2025-08-30
+模拟键盘,https://getquicker.net/Sharedaction?code=4ec7b47c-5a15-4e79-7de7-08dde508dfee,模拟键盘,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,22.5 KB,2025-08-28 13:26,0,,2025-08-30
+微信极速扫码,https://getquicker.net/Sharedaction?code=35972b6b-063d-48ca-5619-08dd62568c20,（支持微信3.X/4.X）极速调用PC微信打开二维码，适用于需要扫码登录的网页、软件,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,66.7 KB,2025-03-14 23:31,10,"[~]
+略微延迟提高成功率",2025-08-30
+清除样式,https://getquicker.net/Sharedaction?code=4467e33d-43c2-45d1-4474-08dce7722144,清除样式和智能滤镜。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,121.3 KB,2024-10-09 18:17,7,"v7 2025-08-29
+~. 复制样式时同时复制智能滤镜；可以在动作设置中决定是否需要粘贴智能滤镜，此功能无法跨文档粘贴。
+~. 优化邮件菜单结构；
+~. 通过ctrl激活动作，可快速打开菜单。",2025-08-30
+灵搜,https://getquicker.net/Sharedaction?code=dd2fa2b4-46dc-48f8-b6da-08db782fe3a2,高效搜索，网站、浏览器书签、浏览器历史记录、安装应用、本地文件、图片等等；提供选中文件处理；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,303.2 KB,2023-06-29 11:12,272,换种查找窗口的方法,2025-08-30
+知识库,https://getquicker.net/Sharedaction?code=509bb025-3248-468d-5754-08ddb2bac3f6,✅打造个人知识库,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,173.5 KB,2025-06-24 11:01,12,"优化设置选项,部门筛选
+增加打开网页，光标就在搜索框内",2025-08-30
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏）,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,432.8 KB,2025-03-26 08:46,22,"+：实时搜索增加更多类型的提示图标
+~：发送优化
+~：优化添加常用语体验，自动判断常用语类型",2025-08-30
+清空剪贴板,https://getquicker.net/Sharedaction?code=d66516cc-7b38-447b-d57f-08dde4389c52,用于清空剪贴板内容,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,986 B,2025-08-26 16:08,1,修复bug,2025-08-30
+剪贴板测试版,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,当发布一些新功能时，用这个动作做测试,通用,Cea,https://getquicker.net/User/113342/Cea,11.9 KB,2022-04-18 22:22,143,"## v0.8.5 (2025-08-29)
+
+- fix: 收藏夹一系列拖拽以及根节点存在的问题
+    - 参考：[收藏夹：项目标题重复时，大概率触发崩溃](https://getquicker.net/Common/Topics/ViewTopic/35527)",2025-08-30
+PDF翻译,https://getquicker.net/Sharedaction?code=145b5d53-b71d-4485-c2e3-08dc74bc40ca,将任意语言PDF文件翻译成中文PDF文件。或将中文PDF翻译成英文。,通用,M-cc,https://getquicker.net/User/521120/M-cc,362.6 KB,2024-05-15 20:24,11,~修复PDF翻译完成后，临时文件夹及文件仍然存在的问题。,2025-08-30
+PDF处理,https://getquicker.net/Sharedaction?code=be7e658a-e1c5-4642-50f9-08dabc15aa8f,共28种PDF处理方式！合并、删页、分割、解密、pdf转图片及图片转pdf等功能,Windows 资源管理器,M-cc,https://getquicker.net/User/521120/M-cc,462.1 KB,2022-11-02 15:54,82,~暂时移除上一次更新中，未完善的PDF页面旋转功能。,2025-08-30
+搜狗自定义短语,https://getquicker.net/Sharedaction?code=efd8dd80-731a-4f3f-cd58-08dde322b5de,"搜狗自定义短语分类编辑器, 管理更加方便",通用,IDongYou,https://getquicker.net/User/945782/IDongYou,38.2 KB,2025-08-25 21:44,2,新增批量归类和批量删除的功能,2025-08-30
+微信图片自动旋转,https://getquicker.net/Sharedaction?code=7e8a5909-c4cc-4cf0-6024-08dcd225a467,自动旋转微信打开的图片到正确角度,WeChat,sharklaka,https://getquicker.net/User/826879/sharklaka,32.4 KB,2024-09-11 14:13,6,支持微信4.0,2025-08-30
+P图,https://getquicker.net/Sharedaction?code=fc831abc-bc38-4cb3-2fa0-08dbecaddff5,图片编辑工具！不再依赖PS，小的修改直接一建搞定！支持文字替换、旋转、尺寸修改、格式转换、打水印、打马赛克、图片切割合并等，更多功能还在更新中...,Windows 资源管理器,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,67.8 KB,2023-11-25 11:37,10,"+配套动作支持在自定义窗口中右键，唤起自定义菜单；
++自定义窗口外观，支持自定义调整；",2025-08-30
+iconfont搜索,https://getquicker.net/Sharedaction?code=7389ddf1-bbe7-41c7-2871-08dda3023ad1,"web版, 更好用的iconfont在线搜索图标, 点击即可复制",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,233.3 KB,2025-06-04 16:34,32,更新子程序,2025-08-30
+鼠标侧滚轮判断,https://getquicker.net/Sharedaction?code=0f5d2e4d-e7c2-452c-d37a-08dd85c4ca35,用于不同程序切换标签页,通用,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,20.2 KB,2025-04-28 14:51,2,优化内部逻辑,2025-08-30
+巴德剪贴板保存为临时文件,https://getquicker.net/Sharedaction?code=89f95de5-f79f-484b-1f47-08dd4b825124,将剪贴板内容保存为临时文件,通用,Bader,https://getquicker.net/User/135289/Bader,5.2 KB,2025-02-13 00:45,1,"1. 增加选择后缀名功能
+2. 增加保存后直接打开所在文件夹功能",2025-08-30
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,10.2 KB,2021-02-03 14:35,243,"## v0.7.8
+
+- feat: 粘贴后置顶已经放到筛选策略中，所以原来的设置界面中粘贴后置顶的选项删除
+- feat: 剪贴板界面上，右侧三个点的菜单中展开的粘贴后置顶按钮保留，可继续使用
+
+    ![](https://secure2.wostatic.cn/static/wxsA79TGp1b18vMTN95PVH/image.png?auth_key=1756347278-7ghwnM9oWJTNxLJ67ejU6P-0-d598142efba1e57401e49fd195c5d47b)",2025-08-30
+图片轮盘V1,https://getquicker.net/Sharedaction?code=3f021a56-eb2b-4e3b-a70a-08dde22d8eb3,"浏览器图片的全新体验, 拖动图片进行轮盘操作执行各种功能",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,235.6 KB,2025-08-24 21:15,5,改个logo,2025-08-30
