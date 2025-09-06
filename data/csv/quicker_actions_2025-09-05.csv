@@ -1,12 +1,21 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+巴德文本转JSON字符串,https://getquicker.net/Sharedaction?code=b33fdf67-bdb0-4744-e6b1-08ddeca83610,将文本（支持多行文本）转为JSON字符串,通用,Bader,https://getquicker.net/User/135289/Bader,2.4 KB,2025-09-06 17:44,0,,2025-09-06
+巴德去除JS注释,https://getquicker.net/Sharedaction?code=4151ae5c-7c1e-4344-e6ac-08ddeca83610,去除JavaScript代码中的所有注释 包括单行、多行注释。,通用,Bader,https://getquicker.net/User/135289/Bader,2.6 KB,2025-09-06 16:35,0,,2025-09-06
+图片单行距,https://getquicker.net/Sharedaction?code=08f6884a-eabd-4279-e69c-08ddeca83610,将图片设定为单倍行距，以显示完整图片,WPS Office,阿颜坊的阿颜,https://getquicker.net/User/126094/%E9%98%BF%E9%A2%9C%E5%9D%8A%E7%9A%84%E9%98%BF%E9%A2%9C,2 KB,2025-09-06 10:53,0,,2025-09-06
 添加动作到Streamdock,https://getquicker.net/Sharedaction?code=f2a3c484-40fc-48aa-e68b-08ddeca83610,一键添加动作到Streamdock驱动的可视化键盘,通用,eminstan,https://getquicker.net/User/430864/eminstan,81 KB,2025-09-06 03:00,0,,2025-09-06
+创建动作快捷方式,https://getquicker.net/Sharedaction?code=5c888b16-6445-45e5-e68a-08ddeca83610,一键创建动作快捷方式到桌面，支持原动作图标！,Quicker,eminstan,https://getquicker.net/User/430864/eminstan,55.5 KB,2025-09-06 02:45,0,,2025-09-06
 20-20-20休息提醒,https://getquicker.net/Sharedaction?code=12566a86-d039-4fd2-5e6b-08ddebbb1093,每隔20分钟休息20秒，目光离开屏幕，向20英尺（约合6米）以外的草地、绿树或其他物体眺望,通用,尔茄无双,https://getquicker.net/User/160870/%E5%B0%94%E8%8C%84%E6%97%A0%E5%8F%8C,4.9 KB,2025-09-05 17:04,2,更新图标,2025-09-06
 URL2Path,https://getquicker.net/Sharedaction?code=c1a05aba-4eae-482d-5e5e-08ddebbb1093,从浏览器界面直接打开本地html文件所在的文件夹。,Google Chrome,用户7k7vnta8BQA,https://getquicker.net/User/1216389/%E7%94%A8%E6%88%B77k7vnta8BQA,3 KB,2025-09-05 11:48,0,,2025-09-06
 随机透明度,https://getquicker.net/Sharedaction?code=9f3b7c39-f9c7-434b-5e5a-08ddebbb1093,将选中的多个对象随机透明度，并可控透明度范围,Adobe Illustrator,Raycheung,https://getquicker.net/User/1192808/Raycheung,2 KB,2025-09-05 10:28,0,,2025-09-06
 协调灰色,https://getquicker.net/Sharedaction?code=7c2b8dbe-ca19-4289-5e59-08ddebbb1093,"保持色相不变,随机增加灰度值（降低饱和度）使颜色更协调，适用于快速生成不同灰度值的色块，并从中选出自己想要的",Adobe Illustrator,Raycheung,https://getquicker.net/User/1192808/Raycheung,4.8 KB,2025-09-05 10:25,0,,2025-09-06
 画板信息,https://getquicker.net/Sharedaction?code=1d67c22d-fcea-4295-5e57-08ddebbb1093,以红色大字打出：序号及名称，方便核对名称顺序等信息,Adobe Illustrator,Raycheung,https://getquicker.net/User/1192808/Raycheung,5.9 KB,2025-09-05 10:22,0,,2025-09-06
 文件反选,https://getquicker.net/Sharedaction?code=696c0a25-76d4-4922-5e54-08ddebbb1093,win7与win10不同 需提前选好,Windows 资源管理器,$haun_,https://getquicker.net/User/747405/$haun_,4 KB,2025-09-05 09:43,0,,2025-09-06
-Figma常用,https://getquicker.net/Sharedaction?code=90d226c5-fd9b-4170-f203-08ddeab4f569,一些小插件,Google Chrome,白泽宝宝想吃炸鸡,https://getquicker.net/User/477812/%E7%99%BD%E6%B3%BD%E5%AE%9D%E5%AE%9D%E6%83%B3%E5%90%83%E7%82%B8%E9%B8%A1,260.9 KB,2025-09-04 12:42,3,3,2025-09-06
+复制到所有画板,https://getquicker.net/Sharedaction?code=cd13118e-61ae-400f-2938-08dddacfb726,复制当前图层到所有画板顶部。Copy to all artboard,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,73.5 KB,2025-08-14 09:54,1,"v1 2025-09-06
+~. 尝试支持多选，以及支持将组复制到所有画板。",2025-09-06
+微信多开,https://getquicker.net/Sharedaction?code=d7210ac3-4943-4b6e-dc9b-08ddce3fb347,免设置、免退出、排列整齐，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,65.2 KB,2025-07-29 09:31,4,修复微信4.0版本多开异常问题。,2025-09-06
+微信多开,https://getquicker.net/Sharedaction?code=3d29a9b2-fa05-44c6-8c6e-08dda3deac8a,免设置、免退出，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,50.1 KB,2025-06-05 16:07,9,修复微信4.0版本多开异常问题。,2025-09-06
+快速创建工作表副本,https://getquicker.net/Sharedaction?code=5b1b2fc8-1a3a-4ce4-8dd1-08dc4bf45dbd,啪！一下很快啊,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,635 B,2024-03-25 08:46,1,改名,2025-09-06
+PDF旋转,https://getquicker.net/Sharedaction?code=773e30e5-1726-4dca-8c6f-08dda3deac8a,一键旋转PDF所有页面或者指定页面，支持批量旋转。,通用,M-cc,https://getquicker.net/User/521120/M-cc,414.3 KB,2025-06-05 16:12,7,~移除无效参数,2025-09-06
 抖音分享,https://getquicker.net/Sharedaction?code=2be5eef0-e37b-4540-d322-08dd9c45f2a0,抖音分享的原始链接比较乱，所以写了一个筛选链接和标题文案的动作,Google Chrome,Simonl,https://getquicker.net/User/134191/Simonl,11.1 KB,2025-05-26 22:27,5,关联抖音网页,2025-09-06
 Everything(吸附版),https://getquicker.net/Sharedaction?code=323b1d36-6139-460f-b5c9-08ddb588d14f,一些Everything常用功能添加到面板，方便快捷调用,Windows 资源管理器,Simonl,https://getquicker.net/User/134191/Simonl,45.2 KB,2025-06-28 23:15,3,"开启关联，方便上下文菜单调用
 开启运行多个实例，方便不关闭情况下多次选择搜索",2025-09-06
@@ -27,7 +36,6 @@ iconfont搜索,https://getquicker.net/Sharedaction?code=7389ddf1-bbe7-41c7-2871-
 引用,https://getquicker.net/Sharedaction?code=a406bd51-6761-40d9-c992-08ddca6f2432,MarkDown引用的不同形式,Obsidian,炳淮颜,https://getquicker.net/User/1132270/%E7%82%B3%E6%B7%AE%E9%A2%9C,15.5 KB,2025-07-24 18:51,1,增加待办的todo,2025-09-06
 PDF 对照翻译,https://getquicker.net/Sharedaction?code=7eebe6ba-53a8-44ec-389f-08dd82057ea1,免费的 PDF 全文对照翻译！,Windows 资源管理器,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,194.5 KB,2025-04-23 20:56,6,更新 硅基流动 模型列表，提高选项的美观程度。增加定期自动更新机制,2025-09-06
 果核剥壳 追更,https://getquicker.net/Sharedaction?code=c25b3bf0-abec-4b7c-c400-08dab56ea181,用于果核剥壳的最新文章查询 ,通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,10.4 KB,2022-10-24 16:17,7,修改适用范围,2025-09-06
-PDF旋转,https://getquicker.net/Sharedaction?code=773e30e5-1726-4dca-8c6f-08dda3deac8a,一键旋转PDF所有页面或者指定页面，支持批量旋转。,通用,M-cc,https://getquicker.net/User/521120/M-cc,401.8 KB,2025-06-05 16:12,6,~更换配置文件下载源。,2025-09-06
 文件夹搜索,https://getquicker.net/Sharedaction?code=00f0b341-b98b-476c-5783-08ddb2bac3f6,用“Everything”替换文件夹Ctrl+F搜索，秒搜文件！自动部署。​,通用,M-cc,https://getquicker.net/User/521120/M-cc,44.5 KB,2025-06-25 10:31,17,~优化everything窗口处于前台或缩小时，搜索窗口内容无法更改的问题。-2,2025-09-06
 AE大全,https://getquicker.net/Sharedaction?code=868a3971-b8ad-477e-99c3-08ddd2f8d414,各类脚本，小工具,Adobe After Effects CC,karteous,https://getquicker.net/User/150716/karteous,19 KB,2025-08-04 14:09,4,更新地址,2025-09-06
 替换文字内容,https://getquicker.net/Sharedaction?code=0a790005-4f60-4fec-cd43-08dde322b5de,PS里替换文字层为剪贴板里的内容,Adobe Photoshop,星河城野❤,https://getquicker.net/User/388875/%E6%98%9F%E6%B2%B3%E5%9F%8E%E9%87%8E%E2%9D%A4,4.4 KB,2025-08-25 14:31,1,修改选择图层错误的问题,2025-09-06
@@ -59,24 +67,3 @@ deepseek,https://getquicker.net/Sharedaction?code=06100764-6e0f-46fe-644e-08dd43
 直译,https://getquicker.net/Sharedaction?code=4f7100ff-14b6-4d14-782f-08d99fa081d4,翻译选中文本，若无选中则翻译整行。,通用,Anlv,https://getquicker.net/User/392637/Anlv,78.7 KB,2021-11-05 09:15,12,"v12 2025-09-05
 ~. 增加超时设置，超时后切换备用翻译引擎。",2025-09-06
 移动窗口,https://getquicker.net/Sharedaction?code=302d96dd-d0f2-4e4d-8763-08dde5f827a6,移动窗口到左上、右上、左下、右下、中上、居中、中下,通用,Simonl,https://getquicker.net/User/134191/Simonl,24.6 KB,2025-08-28 23:28,2,右键菜单增加中上，中下，居中,2025-09-06
-跳转,https://getquicker.net/Sharedaction?code=dcfd6bae-743a-4231-eb20-08ddcb62c590,保存、另存为快速跳转工具，支持资源管理器和Directory Opus,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,137.8 KB,2025-07-26 16:24,23,优化占用,2025-09-06
-层级笔记本,https://getquicker.net/Sharedaction?code=27e8e41d-09b5-42c7-394b-08dde8f7bcbc,"采用树形结构组织笔记, 支持markdown格式",通用,IDongYou,https://getquicker.net/User/945782/IDongYou,25.2 KB,2025-09-01 20:41,2,"1.将按钮文字更换为图标
-2.新增设置, 可以隐藏底部状态栏, 编辑区按钮栏, 编辑区标题栏
-3.树形文档右键菜单新增重命名, 也可以双击节点重命名
-4.优化划词菜单栏
-5.修复粘贴文字可能出现双倍的问题
-6.增加行级代码的按钮",2025-09-06
-AI批量搜索,https://getquicker.net/Sharedaction?code=b77889cf-c32d-4f01-afb0-08dd90ed498a,调用本地批处理文件进行AI批量搜索,通用,阿虚,https://getquicker.net/User/227023/%E9%98%BF%E8%99%9A,8.6 KB,2025-05-12 10:36,1,优化参数配置流程,2025-09-06
-抓取数据,https://getquicker.net/Sharedaction?code=d6a74546-e180-459a-2d21-08db95ccc55e,抓取网页列表数据，可同时6列数据提取，支持翻页（自动判断最后一页）支持抓取元素属性值、对元素信息进行正则提取等。爬虫,Google Chrome,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,156 KB,2023-08-06 21:39,8,~修复xpath获取子程序中，提示覆盖层位置偏移的问题,2025-09-06
-PS启动,https://getquicker.net/Sharedaction?code=ad3fc205-7856-4e9a-991e-08dc7a77392c,选中/剪贴板/截图/微信/wps/Office/Eagle/snipaste/PixPin/网页/链接/一键启动,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,92.1 KB,2024-05-23 21:07,29,路径设置BUG,2025-09-06
-ChatGPT,https://getquicker.net/Sharedaction?code=d2041f73-8fba-42b5-392e-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,45.8 KB,2025-09-01 10:37,3,支持设置窗口位置,2025-09-06
-DeepSeek,https://getquicker.net/Sharedaction?code=2cff0b08-cf27-4e36-3934-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,41.9 KB,2025-09-01 11:17,2,修正偶发不能自动提交的bug,2025-09-06
-豆包,https://getquicker.net/Sharedaction?code=6bbb3b15-6865-40bf-3931-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,41.9 KB,2025-09-01 11:13,3,修正偶发不能自动提交的bug,2025-09-06
-Gemini,https://getquicker.net/Sharedaction?code=77115418-3ec2-4646-3930-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,41.9 KB,2025-09-01 11:07,2,修正偶发不能自动提交的bug,2025-09-06
-Copilot,https://getquicker.net/Sharedaction?code=08c9a556-2f0e-43e8-392f-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,46.2 KB,2025-09-01 10:56,2,修正偶发不能自动提交的bug,2025-09-06
-窗口面板,https://getquicker.net/Sharedaction?code=7305e077-0935-4102-6794-08dde6ea2225,超音速小型Windows任务栏，彻底抛弃Alt+Tab,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,206.1 KB,2025-08-30 10:27,13,"[~]
-透明度调整改为滑块",2025-09-06
-窗口小助手,https://getquicker.net/Sharedaction?code=fc670d4d-a209-4f60-dc05-08dd71ba8805,鼠标右键/中键在任意窗口弹出快捷菜单,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,109.2 KB,2025-04-02 23:39,5,"[~]
-透明度调整改为滑块",2025-09-06
-图片轮盘V2,https://getquicker.net/Sharedaction?code=b9626dd2-e443-4389-7de4-08dde508dfee,"比V1更好用的浏览器图片轮盘, 延迟更低, 体验更好",通用,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,263 KB,2025-08-28 11:49,16,1,2025-09-06
-巴德一天都干了啥,https://getquicker.net/Sharedaction?code=0c3aac35-a2ca-49c0-c17d-08dc3cd0cba5,每天记录工作日志都让我烦的透透的，因此写个动作每隔一段指定的时间就询问我都做了什么，并将其记录在文件中，当需要写周报、月报、年报时进行工作总结时进行参考。,通用,Bader,https://getquicker.net/User/135289/Bader,163.8 KB,2024-03-06 14:23,46,1. 修复因为搜索框导致的无法设置、专注,2025-09-06
