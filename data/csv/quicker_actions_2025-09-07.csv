@@ -1,0 +1,37 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+主题切换,https://getquicker.net/Sharedaction?code=d927c3d5-61cb-4f3d-3ef8-08ddedaac4c6,windows系统主题切换，支持设置固定时间自动切换,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,48.6 KB,2025-09-07 18:28,1,.,2025-09-08
+巴德交换上下两行,https://getquicker.net/Sharedaction?code=bd804117-c694-4246-3ee2-08ddedaac4c6,交换选中的上下两行内容,通用,Bader,https://getquicker.net/User/135289/Bader,2.8 KB,2025-09-07 11:13,0,,2025-09-08
+巴德排序行.降,https://getquicker.net/Sharedaction?code=e9e772d8-2658-46d3-3ee1-08ddedaac4c6,将选中的多行内容降序排列,通用,Bader,https://getquicker.net/User/135289/Bader,2.5 KB,2025-09-07 11:05,0,,2025-09-08
+巴德排序行.升,https://getquicker.net/Sharedaction?code=8b0671a1-1ee1-444b-3ee0-08ddedaac4c6,将选中的行升序排列,通用,Bader,https://getquicker.net/User/135289/Bader,2.5 KB,2025-09-07 11:02,0,,2025-09-08
+巴德列表转为Markdown列表,https://getquicker.net/Sharedaction?code=3d29ad91-816b-4c9d-e6b8-08ddeca83610,列表转为Markdown列表（加 -）,通用,Bader,https://getquicker.net/User/135289/Bader,2.5 KB,2025-09-06 23:40,0,,2025-09-08
+巴德去除Markdown符号,https://getquicker.net/Sharedaction?code=4d08245f-41b0-4715-e6b7-08ddeca83610,"去除Markdown符号（如 #, *, -）",通用,Bader,https://getquicker.net/User/135289/Bader,2.8 KB,2025-09-06 23:31,0,,2025-09-08
+巴德文本转JSON字符串,https://getquicker.net/Sharedaction?code=b33fdf67-bdb0-4744-e6b1-08ddeca83610,将文本（支持多行文本）转为JSON字符串,通用,Bader,https://getquicker.net/User/135289/Bader,2.4 KB,2025-09-06 17:44,1,1. 统一图标,2025-09-08
+巴德去除JS注释,https://getquicker.net/Sharedaction?code=4151ae5c-7c1e-4344-e6ac-08ddeca83610,去除JavaScript代码中的所有注释 包括单行、多行注释。,通用,Bader,https://getquicker.net/User/135289/Bader,2.6 KB,2025-09-06 16:35,1,1. 统一图标,2025-09-08
+巴德去除HTML标签（保留纯文本）,https://getquicker.net/Sharedaction?code=56d7ee55-aec1-415f-e6b6-08ddeca83610,去除HTML标签（保留纯文本）,通用,Bader,https://getquicker.net/User/135289/Bader,2.4 KB,2025-09-06 23:23,0,,2025-09-08
+图片适应画板,https://getquicker.net/Sharedaction?code=6ee230d2-a8c6-42bc-e6a9-08ddeca83610,图片适应到当前画板大小，并保持比例，不会变形,Adobe Photoshop,-阿修-,https://getquicker.net/User/1044536/-%E9%98%BF%E4%BF%AE-,2.5 KB,2025-09-06 15:14,0,,2025-09-08
+图片单行距,https://getquicker.net/Sharedaction?code=08f6884a-eabd-4279-e69c-08ddeca83610,将图片设定为单倍行距，以显示完整图片,WPS Office,阿颜坊的阿颜,https://getquicker.net/User/126094/%E9%98%BF%E9%A2%9C%E5%9D%8A%E7%9A%84%E9%98%BF%E9%A2%9C,2 KB,2025-09-06 10:53,0,,2025-09-08
+发送至微信,https://getquicker.net/Sharedaction?code=6e96194a-801d-4a0d-3048-08dcfbc8d3fa,发送截图、选择的文本、选中的文件、剪贴板文本和图片至微信联系人（自己、文件传输助手、微信好友、微信群、微信公众号）,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,168.2 KB,2024-11-03 19:30,28,"+ 未选中提供选项“仅打开聊天框”或“发送剪贴板内容”
+= 可以适当降低“搜索时长”和“其他时长”加快速度
+- 移除微信3.x自动登录触发控件",2025-09-08
+AI助理,https://getquicker.net/Sharedaction?code=63f1204b-5579-4bfe-1735-08dda10577be,懂你的AI助理，支持多网页AI、api调用和本地AI客户端。,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,111.7 KB,2025-06-01 20:11,1,优化,2025-09-08
+剪贴板测试版,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,当发布一些新功能时，用这个动作做测试,通用,Cea,https://getquicker.net/User/113342/Cea,17.9 KB,2022-04-18 22:22,148,"## v0.8.19 (2025-09-07)
+
+- feat: 设置界面适配quicker暗黑模式",2025-09-08
+typora快捷移动行/多行,https://getquicker.net/Sharedaction?code=79969b68-2a6e-495e-2c5c-08dd31028e41,typora不支持alt+↑/↓移动，自己写了个类似的，但需配置！,Typora,炸鸡爱上冰可乐,https://getquicker.net/User/66588/%E7%82%B8%E9%B8%A1%E7%88%B1%E4%B8%8A%E5%86%B0%E5%8F%AF%E4%B9%90,13.7 KB,2025-01-10 14:59,1,fwegwef,2025-09-08
+添加动作到Streamdock,https://getquicker.net/Sharedaction?code=f2a3c484-40fc-48aa-e68b-08ddeca83610,一键添加动作到Streamdock驱动的可视化键盘,通用,eminstan,https://getquicker.net/User/430864/eminstan,87.9 KB,2025-09-06 03:00,1,新增支持获取Quicker内置矢量图,2025-09-08
+黑屏,https://getquicker.net/Sharedaction?code=aab9c5c8-9398-402f-91cb-08dc79843f34,屏幕黑屏，指定解锁,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,41.1 KB,2024-05-21 23:59,39,task,2025-09-08
+剪贴板,https://getquicker.net/Sharedaction?code=555c7827-25b4-4622-cddb-08ddc6a0165c,自定义窗口粘贴板+快速启动,通用,89268690,https://getquicker.net/User/359076/89268690,319.7 KB,2025-07-19 17:38,7,触发窗口最小化,2025-09-08
+超级菜单,https://getquicker.net/Sharedaction?code=4dfee3f3-4dab-4905-fde2-08dd1a373a0d,根据不同进程、不同类名、不同网址弹出不同的超级菜单，无限分组，添加修改极其方便，功能丰富,通用,Kenhalid,https://getquicker.net/User/977787/Kenhalid,404.4 KB,2024-12-13 04:30,46,"v2.6
+- 移除“开启功能右键”选项，全部开启
++ 增加文本窗口，方便迁移
+= 多处优化",2025-09-08
+iconfont搜索,https://getquicker.net/Sharedaction?code=7389ddf1-bbe7-41c7-2871-08dda3023ad1,"更好用的iconfont在线搜索图标, 点击即可复制/下载/贴图/转链接/导入ps",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,244.8 KB,2025-06-04 16:34,38,删除无用子程序,2025-09-08
+复制到所有画板,https://getquicker.net/Sharedaction?code=cd13118e-61ae-400f-2938-08dddacfb726,复制当前图层到所有画板顶部。Copy to all artboard,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,73.5 KB,2025-08-14 09:54,1,"v1 2025-09-06
+~. 尝试支持多选，以及支持将组复制到所有画板。",2025-09-08
+Figma常用,https://getquicker.net/Sharedaction?code=90d226c5-fd9b-4170-f203-08ddeab4f569,一些小插件,Google Chrome,白泽宝宝想吃炸鸡,https://getquicker.net/User/477812/%E7%99%BD%E6%B3%BD%E5%AE%9D%E5%AE%9D%E6%83%B3%E5%90%83%E7%82%B8%E9%B8%A1,269.4 KB,2025-09-04 12:42,6,-1,2025-09-08
+微信多开,https://getquicker.net/Sharedaction?code=d7210ac3-4943-4b6e-dc9b-08ddce3fb347,免设置、免退出、排列整齐，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,65.2 KB,2025-07-29 09:31,4,修复微信4.0版本多开异常问题。,2025-09-08
+微信多开,https://getquicker.net/Sharedaction?code=3d29a9b2-fa05-44c6-8c6e-08dda3deac8a,免设置、免退出，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,50.1 KB,2025-06-05 16:07,9,修复微信4.0版本多开异常问题。,2025-09-08
+Word合并单元格,https://getquicker.net/Sharedaction?code=43f9bee3-9f7e-4d6a-00ed-08dd70c7ce70,只用于Word中的表格,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,1.1 KB,2025-04-02 15:19,1,；）,2025-09-08
+快速创建工作表副本,https://getquicker.net/Sharedaction?code=5b1b2fc8-1a3a-4ce4-8dd1-08dc4bf45dbd,啪！一下很快啊,WPS Office,$haun_,https://getquicker.net/User/747405/$haun_,635 B,2024-03-25 08:46,1,改名,2025-09-08
+PDF旋转,https://getquicker.net/Sharedaction?code=773e30e5-1726-4dca-8c6f-08dda3deac8a,一键旋转PDF所有页面或者指定页面，支持批量旋转。,通用,M-cc,https://getquicker.net/User/521120/M-cc,414.3 KB,2025-06-05 16:12,7,~移除无效参数,2025-09-08
+互换,https://getquicker.net/Sharedaction?code=cd664d16-4d1e-47eb-5e58-08ddebbb1093,将选中的两个对象以中心交换的方式互换位置，适合方便快捷切换的情况,Adobe Illustrator,Raycheung,https://getquicker.net/User/1192808/Raycheung,1.8 KB,2025-09-05 10:24,1,去除本地文件，直接加载动作脚本,2025-09-08
