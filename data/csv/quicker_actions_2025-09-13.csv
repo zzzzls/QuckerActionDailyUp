@@ -1,0 +1,73 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Ditto聚合,https://getquicker.net/Sharedaction?code=7ea67dcc-4b22-45d1-0bba-08ddf15bf0d0,Ditto快捷调用组内容/粘贴最新1项-10项/去除剪贴板重复项,Ditto,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,61.6 KB,2025-09-12 17:33,5,再获取最新的10个剪贴板内容的时候，考虑置顶项目,2025-09-14
+恢复公共子程序,https://getquicker.net/Sharedaction?code=347408ae-878f-419f-2114-08ddf258262b,与公共子程序再联系,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,3.6 KB,2025-09-13 11:38,0,,2025-09-14
+Workflowy\nAPI发送,https://getquicker.net/Sharedaction?code=9c9d623d-caca-4ea0-2113-08ddf258262b,调用API发送内容到Workflowy中,通用,青木菌,https://getquicker.net/User/66055/%E9%9D%92%E6%9C%A8%E8%8F%8C,6.7 KB,2025-09-13 10:55,0,,2025-09-14
+去换行/空格,https://getquicker.net/Sharedaction?code=a08da0d2-5eb2-47c7-0ba7-08ddf15bf0d0,去除单元格内的空格以及换行符，并规整格式，最后删除原表,Microsoft Excel,异族酋长,https://getquicker.net/User/201153/%E5%BC%82%E6%97%8F%E9%85%8B%E9%95%BF,14.2 KB,2025-09-12 11:11,1,修正一些错误,2025-09-14
+实践249：【每个】模块对列表进行”块遍历“分块遍历,https://getquicker.net/Sharedaction?code=7e221d5e-b861-4a05-0bb0-08ddf15bf0d0,,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.6 KB,2025-09-12 14:51,0,,2025-09-14
+实践239：浏览器控制命令直接设置【选择文件】,https://getquicker.net/Sharedaction?code=a7718dd4-3d31-4a22-0bae-08ddf15bf0d0,,通用,darcyc,https://getquicker.net/User/95689/darcyc,931 B,2025-09-12 14:29,1,- 公开并归入实例库,2025-09-14
+浏览器操作,https://getquicker.net/Sharedaction?code=115eae83-cdd4-4239-0baf-08ddf15bf0d0,"浏览器操作集合, 主要用于轮盘或手势传参快速执行对应操作",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,26.3 KB,2025-09-12 14:29,0,,2025-09-14
+三合一面板,https://getquicker.net/Sharedaction?code=6ab742fc-4c8e-42b1-d7b6-08ddef742b9a,快速启动软件，常用语，浏览器书签自动保存，,通用,89268690,https://getquicker.net/User/359076/89268690,300.5 KB,2025-09-09 20:04,7,"
+
+--把搜索框单独拎出来。保持在最前面使用DockPanel作为父容器
+--区分不同电脑的窗口尺寸和位置。。var 机器名 = Environment.MachineName;  var 此电脑的窗口位置 = 机器名+""的窗口位置"";
+--右键菜单添加一个 从此电脑添加全部浏览器书签(mv2和mv3应该都可以)
+--记忆窗口位置逻辑优化，加1秒的防抖，加最小化恢复后误触发问题
+--拖拽的逻辑修复。可以在不同分组互相拖拽。
+--右键菜单添加某个分组导出为json。+导入
+
+
+",2025-09-14
+PixPin,https://getquicker.net/Sharedaction?code=89bfa2e7-7c62-4b97-1736-08dda10577be,"截图,OCR,GIF,贴图",通用,Simonl,https://getquicker.net/User/134191/Simonl,109.1 KB,2025-06-01 20:16,8,"1、增加较多功能的自定义文本编辑器
+2、增加不开启文本编辑器时点击消息跳转第三方文本编辑器",2025-09-14
+PDF工具,https://getquicker.net/Sharedaction?code=0e24c256-07a9-4cd4-a97f-08dab0af50de,PDF按比例缩小 PDF设置出血 骑马钉 单张单双面 叠堆单双面 混拼,通用,jialan75home,https://getquicker.net/User/631091/jialan75home,375.1 KB,2022-10-18 16:06,107,更新无数,2025-09-14
+常用语,https://getquicker.net/Sharedaction?code=1a8e7553-76e9-4527-66d7-08dbaa91cef1,快捷短语的极致操作，兼容原版数据。,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,378.4 KB,2023-09-02 08:18,49,"v2.2.6 (2025-09-13)
+- 选项：支持按钮上同时显时标题与内容",2025-09-14
+单手万能键盘+屏幕小键盘,https://getquicker.net/Sharedaction?code=edd841a7-b4be-4297-096a-08ddd023581c,超强提速 建模/绘图/数据输入，左手字母键模拟数字+可选屏幕小键盘，右手不必离开鼠标就可丝滑操作，问题讨论留言。 ,通用,Qinyl_710,https://getquicker.net/User/139951/Qinyl_710,105.7 KB,2025-07-31 22:48,58,解决excel中调出上下文菜单的冲突,2025-09-14
+文本编辑器,https://getquicker.net/Sharedaction?code=7b41583d-0ca0-4d1c-d997-08d925610577,随用随关的记事本 or 一站式文本处理工具,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,377 KB,2021-06-02 12:50,51,"- 自定义功能放到工具栏
+- 提取文本列支持 \t 表示分隔符",2025-09-14
+系统工具箱,https://getquicker.net/Sharedaction?code=754c796f-dd47-4cca-5cb4-08d67c18d54b,解放你的双手，快速打开常用系统工箱,通用,KBC,https://getquicker.net/User/5221/KBC,277.8 KB,2019-01-17 12:32,88,优化去除桌面箭头功能,2025-09-14
+嵌入图像,https://getquicker.net/Sharedaction?code=f8c20841-2f8e-4298-83c8-08dcbad77c24,创建剪贴蒙版，并适配下层图像大小。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,156.6 KB,2024-08-13 09:27,10,"v10 2025-09-13
+~. 自定义是否需要开启剪贴蒙版（默认开启）；
+~. 自定义是否需要链接图层；
++. 新增：基于宽度的缩放；
++. 新增：基于高度的缩放；
++. 新增：可选删除后置图层(删除剪切蒙版的父图层)；",2025-09-14
+实验嗅探v1,https://getquicker.net/Sharedaction?code=e4dd155a-c6bc-4241-cd50-08dde322b5de,图片嗅探，重构交互体验，互联网图片操作效率up！,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,188.2 KB,2025-08-25 17:22,13,更新并增加了第五扇区功能，网络图片转成微信跟QQ可用的表情包功能。,2025-09-14
+坚果云板,https://getquicker.net/Sharedaction?code=b8a63180-6779-49c5-2081-08ddc794935c,存储在坚果云上的记事本/笔记本/云板,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,122.3 KB,2025-07-21 18:40,13,"1、修复：文件夹中不存在任何云板时显示网页代码。
+2、修复：在非主业文件夹关闭文件夹功能时会跳转到主页文件夹。
+3、优化：增加云板排序。默认：规则不明；正序：A-Z；倒序：Z-A。
+4、优化：增加刷新按钮。其他平台修改坚果云文件后，点击刷新可刷新文件夹和文件。",2025-09-14
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,切换多个便利的自定义窗口，存储网址、文本、文件等，自由拖拽,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,366.8 KB,2025-02-21 03:22,244,语音听写，免费,2025-09-14
+手写字生成,https://getquicker.net/Sharedaction?code=457fab37-ea88-4a76-200c-08ddf0675c9d,输入（或选中）文字，自动生成手写体文字（图片）到剪贴板,通用,Aleegod,https://getquicker.net/User/810616/Aleegod,11.1 KB,2025-09-11 18:31,2,新增清晰度设置,2025-09-14
+赛博十字绣,https://getquicker.net/Sharedaction?code=7c11669a-5525-4371-f20a-08dd49a56539,将图片转换为Excel，嘻嘻，喜欢就请点点赞,通用,Aleegod,https://getquicker.net/User/810616/Aleegod,44.9 KB,2025-02-10 18:53,10,新增最大图片尺寸限制，避免触发Excel自身限制报错,2025-09-14
+窗口神器,https://getquicker.net/Sharedaction?code=d0ef47fd-be70-4b19-3f87-08dbc2d4852c,窗口调节神器/靠左/靠右/居中/全屏/跨屏/分屏/透明/记忆/等25个窗口调节控制方式,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,387.4 KB,2023-10-02 23:09,122,支持置顶参数ZDI,2025-09-14
+微信,https://getquicker.net/Sharedaction?code=34182758-1aef-4610-eba4-08dd74a9f021,显示/隐藏/不关闭续多开/多屏自动跟随/好友定位/支持微信4.0.3以上,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,63.8 KB,2025-04-06 18:11,7,禁止联动好友定位,2025-09-14
+知识库,https://getquicker.net/Sharedaction?code=509bb025-3248-468d-5754-08ddb2bac3f6,✅打造个人知识库,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,178.9 KB,2025-06-24 11:01,13,"增加拖动排序，以及新文档在最后
+拖动时，有上下提示，同一行也能拖动排序了",2025-09-14
+微信引用,https://getquicker.net/Sharedaction?code=5e320680-9adf-4893-b3f4-08dac86e9b3c,模拟微信PC版老版的消息引用,Weixin,Mrshuang,https://getquicker.net/User/238117/Mrshuang,12.4 KB,2022-11-18 10:15,4,【优化】提高引用成功率。,2025-09-14
+文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,128.4 KB,2023-09-07 09:28,107,强化粘贴排除htmlformat,2025-09-14
+剪贴板测试版,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,当发布一些新功能时，用这个动作做测试,通用,Cea,https://getquicker.net/User/113342/Cea,19 KB,2022-04-18 22:22,151,"## v0.8.25 (2025-09-12)
+
+- fix: 数据导入失败导致无法使用的问题",2025-09-14
+实践251：透明的webview2,https://getquicker.net/Sharedaction?code=6671b4b2-f2b6-4a0b-176c-08dda10577be,,通用,darcyc,https://getquicker.net/User/95689/darcyc,13.6 KB,2025-06-02 20:10,7,- 公开并归入实例库,2025-09-14
+实践250：在表达式中根据Quicker子程序的反馈排序,https://getquicker.net/Sharedaction?code=6f3b7e1b-5652-410e-de71-08dda4d051bb,,通用,darcyc,https://getquicker.net/User/95689/darcyc,4.3 KB,2025-06-06 17:07,1,- 公开并归入实例库,2025-09-14
+实现248：使用Quicker的【每个】模块来遍历网页选择器,https://getquicker.net/Sharedaction?code=15e06b7b-1a0d-4c87-f0da-08dda89c234a,,通用,darcyc,https://getquicker.net/User/95689/darcyc,6 KB,2025-06-11 19:50,1,- 公开并归入实例库,2025-09-14
+实践247：暴走webview2,https://getquicker.net/Sharedaction?code=5050765b-4b5f-4a65-4da2-08ddad659678,,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.8 KB,2025-06-18 00:24,1,- 公开并归入实例库,2025-09-14
+实践246：检测给定句子中可能出现的关键字,https://getquicker.net/Sharedaction?code=87a65cf6-f776-4e9b-29bc-08ddd3eb37ac,,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.3 KB,2025-08-06 18:49,1,- 公开并归入实例库,2025-09-14
+实践245：不用表格类型变量来构成所谓的表格,https://getquicker.net/Sharedaction?code=404560bb-2f20-4e14-f233-08ddd4e0681e,,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.6 KB,2025-08-06 20:10,1,- 公开并归入实例库,2025-09-14
+实践244：检测变量是否与上一个循环时的一样,https://getquicker.net/Sharedaction?code=350d1197-6164-40bf-f256-08ddd4e0681e,,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.4 KB,2025-08-07 16:49,1,- 公开并归入实例库,2025-09-14
+实践243：PDF类型文件奇偶页对换,https://getquicker.net/Sharedaction?code=c01f7a24-9c13-40ca-d1c8-08ddd5d225e9,,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.7 KB,2025-08-08 00:47,1,- 公开并归入实例库,2025-09-14
+实践242：【Excel文件读写】通过部分文本匹配单元格,https://getquicker.net/Sharedaction?code=5d972459-3f61-449e-bf21-08ddd8acacdb,,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.8 KB,2025-08-11 15:57,1,- 公开并归入实例库,2025-09-14
+实例241：设置流媒体网页中的视频进度（video标签）,https://getquicker.net/Sharedaction?code=6bd02bc7-6ed1-4011-2955-08dddacfb726,,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.4 KB,2025-08-14 16:25,1,- 公开并归入实例库,2025-09-14
+实践240：使用一个列表构建对应的相关的模板文本,https://getquicker.net/Sharedaction?code=09234ca0-589c-4fd2-8d77-08dddf4fc50b,,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.6 KB,2025-08-20 14:10,2,- 公开并归入实例库,2025-09-14
+实践238：浏览器控制设置iframe中的【选择文件】的路径,https://getquicker.net/Sharedaction?code=193973d4-eac7-4f37-8d94-08dddf4fc50b,,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.9 KB,2025-08-20 20:41,1,- 公开并归入实例库,2025-09-14
+实践237：将最近2条剪贴板文本分别记录到2个变量,https://getquicker.net/Sharedaction?code=3216a979-cf57-40e6-a6f6-08dde22d8eb3,,通用,darcyc,https://getquicker.net/User/95689/darcyc,2.6 KB,2025-08-23 21:03,1,- 公开并归入实例库,2025-09-14
+实践236：使用【Excel文件读写】模块对单元格写入一个公式,https://getquicker.net/Sharedaction?code=d505fd4f-9a74-48ee-fbe2-08ddee84b295,,通用,darcyc,https://getquicker.net/User/95689/darcyc,3.7 KB,2025-09-08 17:40,2,- 公开并归入示例库,2025-09-14
+实践235：新手在Quicker中使用2层【如果否则】,https://getquicker.net/Sharedaction?code=0c92883a-eea6-4553-fbe5-08ddee84b295,,通用,darcyc,https://getquicker.net/User/95689/darcyc,1.7 KB,2025-09-08 18:08,1,- 公开并归入示例库,2025-09-14
+语音助手,https://getquicker.net/Sharedaction?code=3cb966ae-0e4f-4008-e56d-08dbbca28132,通过语音触发操作，解放双手,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,47.8 KB,2023-09-24 23:48,34, 参数,2025-09-14
+实践190：在Quicker动作内登录QQ并获得信息,https://getquicker.net/Sharedaction?code=7ca5901c-3ec4-4b5b-57cf-08dcaccb90ad, ,通用,darcyc,https://getquicker.net/User/95689/darcyc,5.8 KB,2024-07-27 01:36,4,- 更换一个Webview2使用的数据文件夹,2025-09-14
+PS文字修改,https://getquicker.net/Sharedaction?code=f043e3d8-2cec-4704-d7e9-08ddef742b9a,photoshop批量修改文字内容，不卡顿！非常好用。,Adobe Photoshop,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,34.5 KB,2025-09-10 17:38,6,~修复遇到多行文本时，换行符转义的问题。,2025-09-14
+一键排版,https://getquicker.net/Sharedaction?code=604b4537-78db-4891-e8d3-08db5b5649d3,选中目标网页内容，获取到纯文本与html源码。并以纯文本为根本，html源码为参考，整理排版。,通用,云丶涧月,https://getquicker.net/User/78879/%E4%BA%91%E4%B8%B6%E6%B6%A7%E6%9C%88,56.1 KB,2023-05-24 12:37,24,忘记取消最后的弹窗显示了！更新取消掉,2025-09-14
+复制申请号,https://getquicker.net/Sharedaction?code=4067835e-f2bb-4bbf-7ff9-08dced27f08a,一键复制选中文件或选中文本中的申请号到剪贴板，并删除其中的多余字符。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,28.1 KB,2024-10-16 10:29,15,修复bug,2025-09-14
+网页填表助手,https://getquicker.net/Sharedaction?code=ec72a216-a0a6-4934-2006-08ddf0675c9d,记录并自动填写账号密码个人信息等多字段表单，解放双手，支持云同步,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,59.9 KB,2025-09-11 17:33,1,"[+]
+支持多行数据，优化逻辑",2025-09-14
