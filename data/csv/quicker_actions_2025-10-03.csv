@@ -1,0 +1,23 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例：识别周边任务黑洞,https://getquicker.net/Sharedaction?code=a4e9ce74-f3b1-43a8-8e1c-08de024c4798,自主控制注意力、将宝贵精力投入到最高价值事务上。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,3.6 KB,2025-10-03 17:45,0,,2025-10-04
+音乐控制,https://getquicker.net/Sharedaction?code=7a9f3f0f-156f-4487-7967-08de0153354a,暂停/播放/上一首/下一首,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,25.9 KB,2025-10-03 00:47,0,,2025-10-04
+网页狂欢,https://getquicker.net/Sharedaction?code=278cd4f0-48be-4bbf-7964-08de0153354a,运行后，当前网页开始狂欢派对，有音乐，注意耳朵。,Google Chrome,星河城野❤,https://getquicker.net/User/388875/%E6%98%9F%E6%B2%B3%E5%9F%8E%E9%87%8E%E2%9D%A4,4.8 KB,2025-10-02 21:49,0,,2025-10-04
+备份动作数据,https://getquicker.net/Sharedaction?code=e3d8a0d5-acd1-42c9-276a-08ddb3a32db0,批量备份/恢复动作数据到云端,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,37.5 KB,2025-06-25 18:07,10,"[+]
+下载时显示上传备份时间（@CHL~）",2025-10-04
+常用语 v2.0,https://getquicker.net/Sharedaction?code=06fadd68-1fcd-40e3-fa47-08dcdc2c1d1a,链接MySQL数据库存储常用语更靠谱,通用,北小齐,https://getquicker.net/User/683057/%E5%8C%97%E5%B0%8F%E9%BD%90,259.6 KB,2024-09-24 21:35,12,新增【预设管理】可以将Ai生成的配色方案保存到预设库里面，预设管理已实现增删改查功能,2025-10-04
+CAD黏贴表格,https://getquicker.net/Sharedaction?code=eea5df00-80cf-4bdf-292c-08dd7ff8f8ab,cad文本数字点击自动剪贴到exce活动单元格，自动跳转到下一单元格继续,AutoCAD Application,maliuyusuan,https://getquicker.net/User/795713/maliuyusuan,43 KB,2025-04-21 10:22,5,优化性能,2025-10-04
+三合一面板,https://getquicker.net/Sharedaction?code=6ab742fc-4c8e-42b1-d7b6-08ddef742b9a,快速启动软件，常用语，浏览器书签自动保存，,通用,89268690,https://getquicker.net/User/359076/89268690,341.7 KB,2025-09-09 20:04,14,"1.--右上角""关闭""图标修改。
+2.--去掉全拼英文，只留下首字母。
+",2025-10-04
+文件夹内嵌图标,https://getquicker.net/Sharedaction?code=c244e444-9da5-4260-dd21-08da42e96b79,1、选择图片、ico或exe文件，将其作为当前文件夹的图标；2、还原文件夹状态,Windows 资源管理器,AzureHearted,https://getquicker.net/User/577696/AzureHearted,130.8 KB,2022-06-01 15:40,43,fix,2025-10-04
+Bandizip智能解(压)缩,https://getquicker.net/Sharedaction?code=ee3b6ddd-ee9b-4545-43d0-08dcd318a5f5,调用已安装的Bandizip提供的API实现的快捷解(压)缩动作,Windows 资源管理器,AzureHearted,https://getquicker.net/User/577696/AzureHearted,329 KB,2024-09-13 00:31,34,fix,2025-10-04
+更换图标,https://getquicker.net/Sharedaction?code=d42eb392-ae5e-4f1f-aefe-08dc2a0d6588,更改文件夹图标，设置图标路径为相对路径，移动文件夹不丢失。,Windows 资源管理器,简单生活,https://getquicker.net/User/43790/%E7%AE%80%E5%8D%95%E7%94%9F%E6%B4%BB,16 KB,2024-02-11 11:28,23,更直接的方式设置文件夹图标。,2025-10-04
+清空回收站,https://getquicker.net/Sharedaction?code=0f01d4fc-ba74-4a56-369a-08da489820b3,带有系统级别的清空提示，可以有效防止误操作，支持 Windows XP / Vista / 7 / 8 / 10 / 11。一键清空回收站（有确认信息），有些时候到桌面右键回收站很麻烦，所以用这个可以不用回到桌面也能清空回收站。,通用,AzureHearted,https://getquicker.net/User/577696/AzureHearted,4.2 KB,2022-06-07 23:12,8,fix,2025-10-04
+网站收藏4.0,https://getquicker.net/Sharedaction?code=e2fcfb5c-1f75-4c68-d252-08ddfe78f441,一款强大的多栏本地书签管理器，支持无限层级。支持拖拽整理、拼音首字母搜索、浏览器书签集成与HTML导入导出。界面、颜色、图标等均可高度自定义。,通用,zdf153,https://getquicker.net/User/20184/zdf153,259.3 KB,2025-09-28 20:53,5,增加常用标签,2025-10-04
+Excel一键规范字体,https://getquicker.net/Sharedaction?code=35b1f91f-adc2-4cb7-fc65-08ddc017ed62,用于Excel中按单元格的连续性一键设置正文及表头字体、字号。,Microsoft Excel,CGlei,https://getquicker.net/User/827370/CGlei,17.2 KB,2025-07-11 14:20,1,优化了部分细节,2025-10-04
+设置颜色,https://getquicker.net/Sharedaction?code=2a5b8030-c872-4b25-033d-08dd1df9631b,取色设置颜色 [单色填充/渐变填充],Adobe Photoshop,不会做题家,https://getquicker.net/User/962080/%E4%B8%8D%E4%BC%9A%E5%81%9A%E9%A2%98%E5%AE%B6,846 KB,2024-12-18 00:45,6,"智能跳过组图层优化
+开启后，自动判断组图层层级设置颜色
+*选中父级组+同级图层：全部设置颜色
+*选中父级组+其子图层：只设置子图层颜色
+*选中父级组+其子图层+其他图层(没有父级关系)：仅跳过这些父级组，其他组正常设置颜色",2025-10-04
+显/隐任务栏,https://getquicker.net/Sharedaction?code=c519a266-61cb-4117-626e-08d9a4c9f420,win11切换自动隐藏任务栏,通用,Minss,https://getquicker.net/User/259457/Minss,4.5 KB,2021-11-12 16:04,3,修复？,2025-10-04
