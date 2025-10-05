@@ -1,0 +1,13 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例：每日启动仪式,https://getquicker.net/Sharedaction?code=a74ff95d-570c-4482-183d-08de03392958,开始能量满满的一天吧！,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,2.6 KB,2025-10-05 07:28,0,,2025-10-05
+一键切换网关,https://getquicker.net/Sharedaction?code=3c32c3f2-94c0-42ed-183c-08de03392958,在两个预设的网关间快捷切换,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,18.9 KB,2025-10-05 03:03,0,,2025-10-05
+示例：识别周边任务黑洞,https://getquicker.net/Sharedaction?code=a4e9ce74-f3b1-43a8-8e1c-08de024c4798,自主控制注意力、将宝贵精力投入到最高价值事务上。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,3.6 KB,2025-10-03 17:45,0,,2025-10-05
+备份动作数据,https://getquicker.net/Sharedaction?code=e3d8a0d5-acd1-42c9-276a-08ddb3a32db0,批量备份/恢复动作数据到云端,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,45.8 KB,2025-06-25 18:07,12,"[~]
+添加说明",2025-10-05
+QK论坛发帖工具,https://getquicker.net/Sharedaction?code=88a87167-ef7b-4cfa-d494-08ddb495533f,集合一些常用发帖模块,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,148.5 KB,2025-06-27 13:13,7,"[~]
+修复部分模块参数未置入的问题",2025-10-05
+坚果云板,https://getquicker.net/Sharedaction?code=b8a63180-6779-49c5-2081-08ddc794935c,存储在坚果云上的记事本/笔记本/云板,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,133.6 KB,2025-07-21 18:40,16,1、优化：功能中的选项，未选中文本时获取所有文本（显示图片除外），并将处理后的结果插入光标处。（建议先选中文本再操作）,2025-10-05
+百炼翻译,https://getquicker.net/Sharedaction?code=743120bc-5aed-4b82-10b2-08ddd7c1daf0,阿里云百炼翻译的小而美窗口。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,73.8 KB,2025-08-11 06:03,2,.,2025-10-05
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,520.9 KB,2023-12-05 00:57,83,~优化,2025-10-05
+获取商品id,https://getquicker.net/Sharedaction?code=647cad89-0038-4543-52d4-08dd4e5dbd85,一键获取电商平台的商品id，支持自动识别京东、抖店id，淘宝和拼多多id相似需手动切换。,Google Chrome,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,27.2 KB,2025-02-16 18:25,1,"~更新logo
++新增支持识别购物车商品链接id",2025-10-05
