@@ -1,0 +1,16 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例：每日启动仪式,https://getquicker.net/Sharedaction?code=a74ff95d-570c-4482-183d-08de03392958,开始能量满满的一天吧！,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,2.6 KB,2025-10-05 07:28,0,,2025-10-06
+一键切换网关,https://getquicker.net/Sharedaction?code=3c32c3f2-94c0-42ed-183c-08de03392958,在两个预设的网关间快捷切换,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,18.9 KB,2025-10-05 03:03,0,,2025-10-06
+屏幕录制,https://getquicker.net/Sharedaction?code=37f75faf-19db-457b-0c8a-08dbf467792d,纯Quicker模块打造录屏动作，简单轻量！同时支持GIF录制！,通用,M-cc,https://getquicker.net/User/521120/M-cc,520.9 KB,2023-12-05 00:57,84,~尝试修复GIF录制后实际播放时长不符的问题。,2025-10-06
+Bandizip智能解(压)缩,https://getquicker.net/Sharedaction?code=ee3b6ddd-ee9b-4545-43d0-08dcd318a5f5,调用已安装的Bandizip提供的API实现的快捷解(压)缩动作,Windows 资源管理器,AzureHearted,https://getquicker.net/User/577696/AzureHearted,334.1 KB,2024-09-13 00:31,39,新增防错步骤,2025-10-06
+草稿,https://getquicker.net/Sharedaction?code=ffbbea7f-3215-4fe7-b401-08db8a70701b,文本编辑器，支持自动保存\去重\去除空行\替换\对符\排序\条件处理\替换\各种编码解码\翻译等功能,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,228.5 KB,2023-07-23 16:27,31,~优化在选中文本时，运行动作的逻辑。当桌面已有新窗口时，选中文本运行动作是在已有窗口中追加内容，而不是重新打开一个新窗口。,2025-10-06
+TrashPikPak,https://getquicker.net/Sharedaction?code=d7894800-9b0b-4274-9b59-08dcb09936a7,清空 PikPak 回收站,通用,Poto,https://getquicker.net/User/137838/Poto,8.1 KB,2024-07-31 15:15,2,1,2025-10-06
+微信多开,https://getquicker.net/Sharedaction?code=3d29a9b2-fa05-44c6-8c6e-08dda3deac8a,免设置、免退出，微信多开从未如此简单,通用,Taitun,https://getquicker.net/User/854987/Taitun,50.1 KB,2025-06-05 16:07,10,优化右键设置菜单。,2025-10-06
+备份动作数据,https://getquicker.net/Sharedaction?code=e3d8a0d5-acd1-42c9-276a-08ddb3a32db0,批量备份/恢复动作数据到云端,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,45.8 KB,2025-06-25 18:07,12,"[~]
+添加说明",2025-10-06
+QK论坛发帖工具,https://getquicker.net/Sharedaction?code=88a87167-ef7b-4cfa-d494-08ddb495533f,集合一些常用发帖模块,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,148.5 KB,2025-06-27 13:13,7,"[~]
+修复部分模块参数未置入的问题",2025-10-06
+坚果云板,https://getquicker.net/Sharedaction?code=b8a63180-6779-49c5-2081-08ddc794935c,存储在坚果云上的记事本/笔记本/云板,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,133.6 KB,2025-07-21 18:40,16,1、优化：功能中的选项，未选中文本时获取所有文本（显示图片除外），并将处理后的结果插入光标处。（建议先选中文本再操作）,2025-10-06
+百炼翻译,https://getquicker.net/Sharedaction?code=743120bc-5aed-4b82-10b2-08ddd7c1daf0,阿里云百炼翻译的小而美窗口。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,73.8 KB,2025-08-11 06:03,2,.,2025-10-06
+获取商品id,https://getquicker.net/Sharedaction?code=647cad89-0038-4543-52d4-08dd4e5dbd85,一键获取电商平台的商品id，支持自动识别京东、抖店id，淘宝和拼多多id相似需手动切换。,Google Chrome,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,27.2 KB,2025-02-16 18:25,1,"~更新logo
++新增支持识别购物车商品链接id",2025-10-06
