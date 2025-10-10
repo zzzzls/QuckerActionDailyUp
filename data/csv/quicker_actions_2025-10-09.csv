@@ -1,15 +1,27 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+动态块转普通块,https://getquicker.net/Sharedaction?code=d0ea1361-9586-48d1-920c-08de0708e8b9,"动态块转普通块,保持原有块图层",AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,16.4 KB,2025-10-10 10:25,1,1.优化子程序,2025-10-10
+详细信息,https://getquicker.net/Sharedaction?code=281bc066-78ad-4ad2-920f-08de0708e8b9,一键开启或关闭详细信息窗格,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,1.7 KB,2025-10-10 11:34,0,,2025-10-10
+CAD提量工具,https://getquicker.net/Sharedaction?code=abdb3b9a-5911-41b3-83f2-08de063444e6,cad文本数字点击自动剪贴到exce活动单元格，自动跳转到下一单元格继续,AutoCAD Application,maliuyusuan,https://getquicker.net/User/795713/maliuyusuan,48.9 KB,2025-10-08 22:28,2,新增数据清洗功能，当点选的内容既有文字又有数据时，只提取数据，不提取文字！,2025-10-10
 快速切换EXCEL窗口,https://getquicker.net/Sharedaction?code=bb8535ae-4b07-4254-9208-08de0708e8b9,"当打开多个EXCEL窗口时,高效切换到想要的对应窗口",通用,MI/CAM,https://getquicker.net/User/1040924/MI_CAM,6.1 KB,2025-10-10 01:27,1,精简窗口标题,2025-10-10
 示例：双列表/词典排序窗口,https://getquicker.net/Sharedaction?code=8f6f9501-c5c4-4527-9207-08de0708e8b9,拖动排序+右键删除--暗黑半透明,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,45.1 KB,2025-10-10 00:13,0,,2025-10-10
 LocalSend,https://getquicker.net/Sharedaction?code=7024b20d-6524-48ab-9202-08de0708e8b9,一键投喂文件到 LocalSend,通用,Poto,https://getquicker.net/User/137838/Poto,7.3 KB,2025-10-09 18:26,3,1,2025-10-10
-填充画布,https://getquicker.net/Sharedaction?code=c1da5c4a-b3df-4b06-9203-08de0708e8b9,将PS文档中选中的图层填充满整个画布,Adobe Photoshop,星河城野❤,https://getquicker.net/User/388875/%E6%98%9F%E6%B2%B3%E5%9F%8E%E9%87%8E%E2%9D%A4,14.2 KB,2025-10-09 18:37,0,,2025-10-10
-CAD提量工具,https://getquicker.net/Sharedaction?code=abdb3b9a-5911-41b3-83f2-08de063444e6,cad文本数字点击自动剪贴到exce活动单元格，自动跳转到下一单元格继续,AutoCAD Application,maliuyusuan,https://getquicker.net/User/795713/maliuyusuan,48.9 KB,2025-10-08 22:28,1,中途可任意重新选择需要填入数据的单元格而不用退出，点击新单元格后移动光标到cad中点取需要的数据即可~,2025-10-10
 复制最新文件,https://getquicker.net/Sharedaction?code=33e78d0c-e5e6-45ad-83ff-08de063444e6,复制指定文件夹生成日期最新的文件,通用,Poto,https://getquicker.net/User/137838/Poto,32.3 KB,2025-10-09 14:39,1,优化,2025-10-10
-音频轮回,https://getquicker.net/Sharedaction?code=ff079cff-fcdf-4940-83dd-08de063444e6,在两个外放音频设备（音箱 ＆ 耳机）间轮回,通用,Poto,https://getquicker.net/User/137838/Poto,8.6 KB,2025-10-08 14:31,1,新增 切换设备后快闪显示当前设备名,2025-10-10
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏）,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,425.4 KB,2025-03-26 08:46,32,~：优化一下（给 “缩写词列” 设置一个默认值；避免老用户未设置时，可能产生报错）,2025-10-10
+记事本Pro,https://getquicker.net/Sharedaction?code=ab775dcc-9b8b-401b-f1c6-08dd17617d76,全新笔记本，分组显示、文本搜索、图片搜索、OCR收集文本,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,372.9 KB,2024-12-09 09:40,15,"2025-10-10
+~：移除上一版的几个调试步骤（调试步骤导致一些操作无效或报错）
+~：其他优化",2025-10-10
+窗口收纳盒,https://getquicker.net/Sharedaction?code=8a5e0584-f8cb-4ec3-2ed8-08dd531cfa63,通过拖放临时隐藏窗口,通用,FaniX,https://getquicker.net/User/52603/FaniX,108.2 KB,2025-02-22 19:06,10,+增加传入参数触发,2025-10-10
+窗口检查,https://getquicker.net/Sharedaction?code=ba1eaf9f-3631-4b8b-a830-08dcafa4e6df,根据鼠标所在位置或点击目标，定位当前窗口并提取关键信息。,通用,QIMULIANG,https://getquicker.net/User/195256/QIMULIANG,54.3 KB,2024-07-29 16:45,4,"修改：
+	选择界面细节修改
+	终止/重启进程时，以管理员模式运行CMD命令（可见）
+	获取的进程信息附加本机配置一同输出到记事本
+新增：
+	浏览器搜索获取到的进程名
+	设置界面增加多个可控制选项",2025-10-10
 自动操作,https://getquicker.net/Sharedaction?code=9c91b7ab-3cd6-44d9-913a-08ddfd84d7bc,录制常用键鼠操作，一键回放解放双手。,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,463.9 KB,2025-09-27 22:08,3,"1、新增：“添加操作-其他-cmd命令”。
 2、新增：“设置-远程”页面，便捷生成远程控制网址。
 3、新增：远程运行脚本、远程关机、远程倒计时关机、远程截图、远程cmd命令。",2025-10-10
-全新计算机,https://getquicker.net/Sharedaction?code=2c8f8724-cb22-4db1-2108-08ddf61a048b,专为电商设计,通用,白马渡春风,https://getquicker.net/User/573470/%E7%99%BD%E9%A9%AC%E6%B8%A1%E6%98%A5%E9%A3%8E,114.4 KB,2025-09-19 01:47,7,更新图标,2025-10-10
+全新计算机,https://getquicker.net/Sharedaction?code=2c8f8724-cb22-4db1-2108-08ddf61a048b,专为电商工作者设计的计算器,通用,白马渡春风,https://getquicker.net/User/573470/%E7%99%BD%E9%A9%AC%E6%B8%A1%E6%98%A5%E9%A3%8E,114.4 KB,2025-09-19 01:47,7,更新图标,2025-10-10
 常用语 v2.0,https://getquicker.net/Sharedaction?code=06fadd68-1fcd-40e3-fa47-08dcdc2c1d1a,链接MySQL数据库存储常用语更靠谱,通用,北小齐,https://getquicker.net/User/683057/%E5%8C%97%E5%B0%8F%E9%BD%90,268.6 KB,2024-09-24 21:35,13,"新增Ai调色功能模块中自定义修改功能，当Ai生成的配色不太满意可以自行微调。
 新增预设管理功能模块中的编辑预设功能。
 ！！！近期更新可能会造成报错，一般是因为新增配置本地存储不存在，可以尝试右键动作-信息-动作数据-删除动作数据，然后运行动作重新初始化即可！！！",2025-10-10
@@ -63,16 +75,3 @@ private static extern bool PostMessage(
 3.链接动作方式可选择ID或名称
 4.添加动作后直接编辑",2025-10-10
 滚轮切换窗口,https://getquicker.net/Sharedaction?code=0b9e8c0e-7238-4756-4442-08dce7722144,自动生成【高级鼠标触发】配置，实现滚轮贴边切换ALT+TAB窗口,通用,blanka,https://getquicker.net/User/667540/blanka,172.9 KB,2024-10-08 23:04,6,使用了新的黑名单管理,2025-10-10
-生成二维码,https://getquicker.net/Sharedaction?code=76e001cb-434c-4c24-fa34-08dcdc2c1d1a,通过商品ID生成商品二维码，可直接扫码打开商品，支持淘宝、京东、拼多多、抖音等,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,59.1 KB,2024-09-24 14:35,5,修复二维码中间图标时本地路径的问题，现在改为网络图片了。,2025-10-10
-巴德转义,https://getquicker.net/Sharedaction?code=f00d5cd8-f647-43e5-d083-08dd090a5bee,将文本中的\ n、\ t转为换行、制表符,通用,Bader,https://getquicker.net/User/135289/Bader,1.8 KB,2024-11-21 11:43,1,1. 增加对\ t的支持,2025-10-10
-批量管理Su插件,https://getquicker.net/Sharedaction?code=1644b66f-b34b-4eb7-73f1-08dd48ab08f0,用于Sketchup插件的批量管理,SketchUp Application,GZKSU,https://getquicker.net/User/454447/GZKSU,252.6 KB,2025-02-09 23:24,20,兼容最新版Sketchup2026,2025-10-10
-本地字体,https://getquicker.net/Sharedaction?code=29d2641a-76fa-4c54-3379-08ddb1e155cb,搜索电脑已安装字体；可备注、置顶,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,79.1 KB,2025-06-23 07:41,4,"2025-10-08
-~：预览图标统一为文本类型，高效稳定
-~：支持导出字体",2025-10-10
-浏览器书签,https://getquicker.net/Sharedaction?code=4ef6b74a-7ac9-4275-104a-08ddf52632c8,一键导入书签到飞书多维表格；实时搜索，跨浏览器、跨设备，统一管理 · 高效调用,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,185 KB,2025-09-17 09:31,5,"+：搜索分组时，支持忽略大小写
-+：可选择不显示网址",2025-10-10
-PNG加背景,https://getquicker.net/Sharedaction?code=763a7f10-cb6e-4a93-d25f-08ddfe78f441,添加纯色背景 或 图片背景；可批量,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,22.3 KB,2025-09-29 09:18,1,优化判断逻辑,2025-10-10
-常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏）,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,422.5 KB,2025-03-26 08:46,30,"2025-10-08
-+：支持文本指令发送常用语
-~：搜索时正常显示分隔符
-+：可设置分组的排序方式",2025-10-10
