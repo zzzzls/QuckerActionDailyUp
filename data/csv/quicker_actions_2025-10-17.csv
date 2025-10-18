@@ -1,0 +1,47 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Ditto,https://getquicker.net/Sharedaction?code=3cf39363-5ad4-44c5-2ffc-08de0d84db27,Ditto 剪贴板管理 伴侣,通用,Poto,https://getquicker.net/User/137838/Poto,35 KB,2025-10-18 06:23,3,1,2025-10-18
+列表运算,https://getquicker.net/Sharedaction?code=df29a5c9-073e-45c2-2ff9-08de0d84db27,一个简单的列表运算动作，支持比较两个列表的“交集”、“并集”、“差集”,通用,AzureHearted,https://getquicker.net/User/577696/AzureHearted,8.8 KB,2025-10-18 00:09,2,文本优化,2025-10-18
+示例：接受拖拽文件,https://getquicker.net/Sharedaction?code=73f0390d-4e43-4e41-8a26-08de0c8866b4,自定义窗口接受拖拽文件返回地址,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,5.9 KB,2025-10-17 13:14,1,"+ 置顶窗口
++ 支持自动关闭窗口",2025-10-18
+多段线单边偏移,https://getquicker.net/Sharedaction?code=dc13f529-c60b-4546-8a20-08de0c8866b4,可对有斜线的多段线进行单边偏移，不修改斜度,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,23.9 KB,2025-10-17 10:05,0,,2025-10-18
+幻面板,https://getquicker.net/Sharedaction?code=a718e434-1faf-4b67-8a19-08de0c8866b4,又名窗口面板，相比只能细分到进程的Quicker面板更进一步,通用,AiZon,https://getquicker.net/User/736425/AiZon,46.9 KB,2025-10-17 01:00,1, ,2025-10-18
+幻轮盘,https://getquicker.net/Sharedaction?code=30e5f799-1b0f-49af-8a18-08de0c8866b4,又名窗口轮盘，相比只能细分到进程的Quicker轮盘更进一步。左键及最外圈无效(本生缺陷)，目前设计最多支持三层轮盘,通用,AiZon,https://getquicker.net/User/736425/AiZon,69.4 KB,2025-10-17 00:29,2, ,2025-10-18
+图笺,https://getquicker.net/Sharedaction?code=a1f92fad-1a96-43e2-5304-08de0b9b557b,截图便签,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,30.8 KB,2025-10-16 13:38,4,删除图片：安静模式自动确认,2025-10-18
+公式识别pro,https://getquicker.net/Sharedaction?code=3493b8d5-fdf3-4db5-89fd-08de0c8866b4,无需付费，精准识别，极速处理,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,33 KB,2025-10-16 15:58,1,发布,2025-10-18
+拉伸增强,https://getquicker.net/Sharedaction?code=a0bcb34d-84f8-4292-5301-08de0b9b557b,拉伸增强，可对填充进行拉伸,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,24.2 KB,2025-10-16 10:22,1,增加删除插件的条件限制，避免当动作未使用时误删文件夹,2025-10-18
+批量打开,https://getquicker.net/Sharedaction?code=bb7f0528-89b9-4765-5302-08de0b9b557b,选中本地文件/目录路径或网址后打开,通用,铂略,https://getquicker.net/User/291371/%E9%93%82%E7%95%A5,4.9 KB,2025-10-16 10:58,0,,2025-10-18
+复图成件,https://getquicker.net/Sharedaction?code=dc7363a3-4255-4732-222c-08ddbc358d38,复制图片，保存为文件,通用,Poto,https://getquicker.net/User/137838/Poto,33.9 KB,2025-07-06 16:40,3,1,2025-10-18
+音频轮回,https://getquicker.net/Sharedaction?code=ff079cff-fcdf-4940-83dd-08de063444e6,在两个外放音频设备（音箱 ＆ 耳机）间轮回,通用,Poto,https://getquicker.net/User/137838/Poto,16.2 KB,2025-10-08 14:31,3,1,2025-10-18
+复制最新文件,https://getquicker.net/Sharedaction?code=33e78d0c-e5e6-45ad-83ff-08de063444e6,复制指定文件夹生成日期最新的文件,通用,Poto,https://getquicker.net/User/137838/Poto,32.3 KB,2025-10-09 14:39,2,1,2025-10-18
+声笔查查,https://getquicker.net/Sharedaction?code=ee9c35b4-c923-4195-4661-08de07f89571,声笔打字方案 · 查字词打法,通用,Poto,https://getquicker.net/User/137838/Poto,23.4 KB,2025-10-11 18:20,6,1,2025-10-18
+LocalSend,https://getquicker.net/Sharedaction?code=7024b20d-6524-48ab-9202-08de0708e8b9,一键投喂文件到 LocalSend,通用,Poto,https://getquicker.net/User/137838/Poto,9.2 KB,2025-10-09 18:26,4,1,2025-10-18
+你，自启,https://getquicker.net/Sharedaction?code=b28f34ad-2789-432b-3822-08de090665ba,开机自启动 当前软件,通用,Poto,https://getquicker.net/User/137838/Poto,16.2 KB,2025-10-12 20:27,3,1,2025-10-18
+批量新建,https://getquicker.net/Sharedaction?code=92852d5a-4e25-4bf0-52e3-08de0b9b557b,批量新建文件（夹）,通用,Poto,https://getquicker.net/User/137838/Poto,5.1 KB,2025-10-15 15:42,2,1,2025-10-18
+计算硬盘实际容量,https://getquicker.net/Sharedaction?code=be024126-d8d4-4fbe-2856-08ddc0fbdd92,用于将硬盘的标称容量换算成实际容量,通用,AzureHearted,https://getquicker.net/User/577696/AzureHearted,13.6 KB,2025-07-12 15:08,2,图标颜色修改,2025-10-18
+Ai翻译,https://getquicker.net/Sharedaction?code=03168a30-e423-4473-8d28-08dd606400e5,调用免费Ai接口，暂时未知有没有限制先用再说,通用,北小齐,https://getquicker.net/User/683057/%E5%8C%97%E5%B0%8F%E9%BD%90,83.8 KB,2025-03-11 18:17,6,"新增设置项：直接替换（翻译后不显示窗口直接替换选中文本）
+修复已废弃的API，将讯飞星火转为免费使用
+取消全部API的模型设置均使用默认模型",2025-10-18
+搜索组,https://getquicker.net/Sharedaction?code=5f73ee4a-479c-4f1e-8f90-08dcbe5a0620,自定义多个搜索引擎为一个组,通用,H-D-G,https://getquicker.net/User/679811/H-D-G,8.3 KB,2024-08-18 12:59,4,~ 支持显示自定义组图标,2025-10-18
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,启动复制/剪切/粘贴/撤回/删除，点击粘贴，滑动复制，再停顿历史粘贴,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,543.8 KB,2025-08-18 21:14,11,"后操作改为先回车再撤回
+移除慢速滑动和滑动复制，改为阴影判断
+对操作窗出现在屏幕边缘进行了处理",2025-10-18
+Bandizip智能解(压)缩,https://getquicker.net/Sharedaction?code=ee3b6ddd-ee9b-4545-43d0-08dcd318a5f5,调用已安装的Bandizip提供的API实现的快捷解(压)缩动作,Windows 资源管理器,AzureHearted,https://getquicker.net/User/577696/AzureHearted,360.7 KB,2024-09-13 00:31,41,优化预设操作,2025-10-18
+切换键盘布局,https://getquicker.net/Sharedaction?code=19d402d3-abac-4643-192d-08ddfab0d924,切换中文/英文键盘布局。,通用,Anlv,https://getquicker.net/User/392637/Anlv,105.4 KB,2025-09-24 19:18,4,"v4 2025-10-17
+~. 可以通过右键菜单获取当前的键盘布局名称。
+~. 通过传递参数，传入键盘布局名称，实现事件触发切换布局。",2025-10-18
+文件夹助手,https://getquicker.net/Sharedaction?code=72a6d10c-c52e-4d68-f177-08dd017145d1,常用的22种文件夹功能,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,455.1 KB,2024-11-11 15:20,26,优化设置窗口的尺寸。,2025-10-18
+反向解散文件夹,https://getquicker.net/Sharedaction?code=d4f766f0-997e-4223-3951-08dde8f7bcbc,文件夹内把选中的文件移动至上级，然后删除当前目录,Windows 资源管理器,Simonl,https://getquicker.net/User/134191/Simonl,13.6 KB,2025-09-02 03:30,2,-增加文件定位,2025-10-18
+新建文件夹,https://getquicker.net/Sharedaction?code=df39b8aa-d6fa-4d35-71ff-08dcdb2f793c,六种新建方式，一键解决文件夹烦恼！,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,125.5 KB,2024-09-23 13:30,21,优化添加模板窗口尺寸。,2025-10-18
+自动锁定,https://getquicker.net/Sharedaction?code=542219e1-bde6-4f0c-05bb-08dbe0cd3bdc,配合事件触发，通过判断无操作、蓝牙等状态，自动锁定微信、QQ等程序,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,19.3 KB,2023-11-09 20:51,7,+设置中新增自定义快捷键！在登录多个QQ或者微信时，能自定义锁定哪个账号。,2025-10-18
+手写字生成,https://getquicker.net/Sharedaction?code=457fab37-ea88-4a76-200c-08ddf0675c9d,输入（或选中）文字，自动生成手写体文字（图片）到剪贴板,通用,Aleegod,https://getquicker.net/User/810616/Aleegod,11.1 KB,2025-09-11 18:31,3,修复清晰度无法调整问题,2025-10-18
+增量备份,https://getquicker.net/Sharedaction?code=7f8c7056-763c-4d0c-3000-08dce95259a9,创建文件备份,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,10.1 KB,2024-10-11 15:15,2,"v2 2025-10-16
+~. 提高执行效率。",2025-10-18
+随机写真v3,https://getquicker.net/Sharedaction?code=61c09f4e-9058-4fca-613d-08dccaf85cd2,随机显示一张美女写真,通用,V岂曰无衣A,https://getquicker.net/User/846127/V%E5%B2%82%E6%9B%B0%E6%97%A0%E8%A1%A3A,321.6 KB,2024-09-03 09:13,18,fix,2025-10-18
+SVG分层,https://getquicker.net/Sharedaction?code=170e8c93-58f6-4196-9924-08dd95a58a82,在 Photoshop 中打开、编辑和保存 SVG 文件，,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,197.9 KB,2025-05-18 22:59,13,"v13 2025-10-16
+~. 修复新安装动作没有默认变量，导致激活无反应的问题。",2025-10-18
+聚合图标搜索,https://getquicker.net/Sharedaction?code=8a6bafb4-f30f-4165-52ef-08de0b9b557b,"在线搜索图标聚合多个图标网站, 绝佳的搜索和操作体验, 拖拽即可复制/下载/贴图/转链接/导入ps(SVG)",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,290 KB,2025-10-15 23:19,2,更新使用提示,2025-10-18
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片，一张Excel表格批量管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏）,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,429.7 KB,2025-03-26 08:46,34,"2025-10-16
+~：优化面板 ""搜索后编辑"" 的体验
+~：文本指令的 “连续发送” 功能使用 quicker 当前最新版的官方模块；感谢CL的模块支持（动作内也做了兼容quicker旧版的处理）
++：实时搜索增加 ""结果统计""",2025-10-18
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,172.8 KB,2024-12-17 10:16,37,修复bug,2025-10-18
