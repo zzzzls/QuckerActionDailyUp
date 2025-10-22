@@ -1,0 +1,46 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+图片印章,https://getquicker.net/Sharedaction?code=0b6fe084-0b05-4065-e667-08de1034086b,可视化拖拽设置水印/印章图片位置。,通用,M-cc,https://getquicker.net/User/521120/M-cc,43.5 KB,2025-10-21 21:51,0,,2025-10-22
+删除无用样式,https://getquicker.net/Sharedaction?code=833934d5-85c2-4a59-e664-08de1034086b,删除未使用的自定义样式,Microsoft Word,浅沧,https://getquicker.net/User/23888/%E6%B5%85%E6%B2%A7,18.2 KB,2025-10-21 18:24,0,,2025-10-22
+快速建块,https://getquicker.net/Sharedaction?code=20b9069c-6a8f-45f9-e661-08de1034086b,以日期快速建块,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,12.2 KB,2025-10-21 17:23,0,,2025-10-22
+示例：睡个好觉,https://getquicker.net/Sharedaction?code=ddcef5e4-62d6-4b64-e642-08de1034086b,睡得好才精力充沛，做事才有效率，而且不容易生病。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,8.2 KB,2025-10-21 09:19,1,.,2025-10-22
+网页公式复制,https://getquicker.net/Sharedaction?code=4407b328-f41a-4bab-7859-08de0f126def,在AI对话网站实现公式的点击复制,Microsoft Edge,Rei~,https://getquicker.net/User/1225342/Rei~,19.1 KB,2025-10-20 21:32,0,,2025-10-22
+7z解压,https://getquicker.net/Sharedaction?code=533e3748-0f9d-476e-7821-08de0f126def,根据选中的文件智能判断是“解压”还是“压缩”，当选中的都是压缩文件时“解压”，否则就是“压缩”,Windows 资源管理器,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,32.2 KB,2025-10-20 09:42,1,"+支持右键设置，调整压缩级别；0-9，0表示不压缩（快），9表示极限压缩（慢）
++支持右键加密压缩",2025-10-22
+定时保存,https://getquicker.net/Sharedaction?code=754bc284-40c1-4b6d-7851-08de0f126def,为不同软件设置不同间隔的定时保存,通用,Rei~,https://getquicker.net/User/1225342/Rei~,49.9 KB,2025-10-20 19:36,0,,2025-10-22
+draw.io,https://getquicker.net/Sharedaction?code=7c8e876e-9693-41d5-784e-08de0f126def,Drawio 是一款基于 Electron 开发的免费开源图表绘制软件。它支持流程图、UML 图、网络拓扑图、架构图等多种专业图表类型，适用于教学、科研、工程设计等多种场景。该软件提供完全离线的绘图体验，同时具备强大的导出和批量处理功能。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,267.8 KB,2025-10-20 17:53,0,,2025-10-22
+LosslessCut,https://getquicker.net/Sharedaction?code=fcb46351-6994-4342-784d-08de0f126def,LosslessCut 是一款专注于视频和音频无损切割、修剪与合并的工具。它通过避免重新编码的过程，实现了极速的文件处理，并能完整保留原始文件的质量，尤其适合快速处理大型视频文件，如从录像中剪辑片段、去除广告或合并多个录制片段。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,267.8 KB,2025-10-20 17:47,0,,2025-10-22
+Upscayl,https://getquicker.net/Sharedaction?code=30054bf4-61c7-43ff-784c-08de0f126def,Upscayl 是一款免费、开源的AI图像放大工具。它利用先进的深度学习模型（如 Real-ESRGAN），能够将低分辨率的图片进行**智能放大**（最高可达16倍），同时**有效修复模糊和锯齿**，让图片细节更清晰。所有处理都在本地完成，无需联网，完美保护你的隐私。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,268.9 KB,2025-10-20 17:30,0,,2025-10-22
+批量删除水印,https://getquicker.net/Sharedaction?code=8b5295c6-3af1-4e42-7848-08de0f126def,循环删除PDF每一页中相同位置的水印,Adobe Acrobat DC ,Rei~,https://getquicker.net/User/1225342/Rei~,23.9 KB,2025-10-20 15:40,0,,2025-10-22
+圆角矩形，并居中,https://getquicker.net/Sharedaction?code=753f0878-f879-4cda-783f-08de0f126def,ppt中，将选中的文本框设置为圆角矩形并居中,Microsoft PowerPoint,好好看,https://getquicker.net/User/1230044/%E5%A5%BD%E5%A5%BD%E7%9C%8B,3.2 KB,2025-10-20 14:16,0,,2025-10-22
+水平旋转,https://getquicker.net/Sharedaction?code=b5b09ab3-da4b-4711-783d-08de0f126def,ppt水平旋转,Microsoft PowerPoint,好好看,https://getquicker.net/User/1230044/%E5%A5%BD%E5%A5%BD%E7%9C%8B,1.6 KB,2025-10-20 14:10,0,,2025-10-22
+显隐门板,https://getquicker.net/Sharedaction?code=ed79df09-ce6e-4291-7838-08de0f126def,模兔云-板式家具-一键显示/隐藏门板,SketchUp Application,BLACK_ROOM,https://getquicker.net/User/964219/BLACK_ROOM,1 KB,2025-10-20 13:12,0,,2025-10-22
+用 VSCode 打开,https://getquicker.net/Sharedaction?code=b9d01372-32e5-421c-7835-08de0f126def,用 VSCode 打开选择的文件或文件夹，亦或当前目录,Windows 资源管理器,打不着火,https://getquicker.net/User/533240/%E6%89%93%E4%B8%8D%E7%9D%80%E7%81%AB,2.2 KB,2025-10-20 11:47,0,,2025-10-22
+跳转,https://getquicker.net/Sharedaction?code=dcfd6bae-743a-4231-eb20-08ddcb62c590,保存、另存为快速跳转工具，支持资源管理器和Directory Opus,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,140.9 KB,2025-07-26 16:24,24,fix bug,2025-10-22
+PS文字修改,https://getquicker.net/Sharedaction?code=f043e3d8-2cec-4704-d7e9-08ddef742b9a,photoshop批量修改文字内容，不卡顿！非常好用。,Adobe Photoshop,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,34.6 KB,2025-09-10 17:38,8,~当文本没有改动时跳过，节省时间,2025-10-22
+PS图层重命名,https://getquicker.net/Sharedaction?code=bb1928eb-01b9-45ce-d7e5-08ddef742b9a,photoshop选中图层或者文件夹，运行动作批量修改名称！注意PS在选择图层时，不能使用shift连选，否则会获取到子图层名称。,Adobe Photoshop,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,27.8 KB,2025-09-10 17:11,4,~当文本没有改动时跳过，节省时间,2025-10-22
+PS字体检测替换,https://getquicker.net/Sharedaction?code=6471ed9b-8254-443d-0267-08ddf9bab61f,一键检测PS文档里使用的字体是否可商用，检测后支持快速替换字体,Adobe Photoshop,星河城野❤,https://getquicker.net/User/388875/%E6%98%9F%E6%B2%B3%E5%9F%8E%E9%87%8E%E2%9D%A4,179.2 KB,2025-09-22 18:24,4,"- 加入字体可商用检测，感谢 失落叶子云养猫 的建议
+- quicker YYDS",2025-10-22
+巴德文本拆分,https://getquicker.net/Sharedaction?code=9b7003a9-ed04-4150-358c-08dd6a2b7d8c,拆分文本成为多个文件文件,通用,Bader,https://getquicker.net/User/135289/Bader,29.6 KB,2025-03-24 23:30,3,1. 新增文件保存路径选项,2025-10-22
+极速复制,https://getquicker.net/Sharedaction?code=ae97e9a9-c33a-4b47-970a-08dcc5fac3c3,快速的连续复制粘贴,通用,IDongYou,https://getquicker.net/User/945782/IDongYou,289.6 KB,2024-08-27 11:31,21,新增设置中可以关闭复制成功的消息提醒,2025-10-22
+行文对比,https://getquicker.net/Sharedaction?code=b6182c8c-fd35-4208-ef3d-08de008a2c7e,简单文本对比，纯本地运行不会过期,通用,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,369.5 KB,2025-10-01 23:58,1,V1 模式1增加采集方式可选1键；增加深色模式（跟随Quicker主题模式）；新增Quicker模块对比；完善保存和打开方式,2025-10-22
+连续复制,https://getquicker.net/Sharedaction?code=8e4208c6-6f7a-475b-6fac-08ddfbbade2e,连续复制一次粘贴,WPS Office,山东好人,https://getquicker.net/User/1291368/%E5%B1%B1%E4%B8%9C%E5%A5%BD%E4%BA%BA,6.4 KB,2025-09-25 21:20,1,增加延时,2025-10-22
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,切换多个便利的自定义窗口，存储网址、文本、文件等，自由拖拽,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,351 KB,2025-02-21 03:22,253,文件配置，加一些右键菜单，方便界面绑定,2025-10-22
+视频速剪,https://getquicker.net/Sharedaction?code=ab95f91b-9821-41f2-3814-08de090665ba,轻量级QuickCut工具，配合FFmpeg无损快速「切片」与「合并」，视频剪辑从未如此高效。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,157.1 KB,2025-10-12 10:42,5,"+ 新增主题切换
++ 新增时间轴布局
+~ 修复修改时间不生效的bug
+~ 若干布局修复",2025-10-22
+交互翻译,https://getquicker.net/Sharedaction?code=78ab37a2-9b2b-4af0-eb44-08db18860216,免费！快速！无需登陆 ！翻译并替换选中文本，截图翻译。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,41.3 KB,2023-02-28 13:27,10,"去除无效谷歌镜像翻译，阿里翻译
+新增百度翻译、彩云小译",2025-10-22
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片；批量编辑，连续发送；一张Excel表格管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏）,通用,lanyuer,https://getquicker.net/User/20158/lanyuer,435.9 KB,2025-03-26 08:46,35,"~：优化一些显示细节
++：面板可设置为 “发送后即刻关闭”
+~：常用语含有英文时，优化实时搜索的排序",2025-10-22
+字符信息,https://getquicker.net/Sharedaction?code=d90dcdb0-06ad-4d9a-8844-08da94650f0e,查询 Unicode 字符信息,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,186.5 KB,2022-09-13 11:18,6,- 更新 Unicode17.0.0,2025-10-22
+REWARD,https://getquicker.net/Sharedaction?code=d082e78b-3153-4938-097f-08ddd023581c,自动完成每日Microsoft Rewards任务,通用,一叶之秋_,https://getquicker.net/User/114043/%E4%B8%80%E5%8F%B6%E4%B9%8B%E7%A7%8B_,119.8 KB,2025-08-01 17:07,4,修改默认暂停时间为15分钟,2025-10-22
+鼠标点击,https://getquicker.net/Sharedaction?code=5d19a181-5b40-43c0-8765-08dde5f827a6,循环点击,通用,Simonl,https://getquicker.net/User/134191/Simonl,10.2 KB,2025-08-29 00:18,2,-增加自定义参数,2025-10-22
+图片翻译保格式,https://getquicker.net/Sharedaction?code=99b614ab-d8dd-407e-c3cb-08daf510bd0c,"翻译图片并且保留原图格式, 支持自定义显示图片+文本, 仅支持中英互译, 无需key, 无需额外安装其他资源, 开箱即用",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,29.5 KB,2023-01-14 10:03,44,1,2025-10-22
+图笺,https://getquicker.net/Sharedaction?code=a1f92fad-1a96-43e2-5304-08de0b9b557b,截图便签,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,37.3 KB,2025-10-16 13:38,6,+:窗口右键菜单→显示所有截图/关闭所有截图,2025-10-22
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,"实时计算,自动备份,高效便捷",通用,astroStar,https://getquicker.net/User/178545/astroStar,600.2 KB,2024-05-22 14:21,295,优化,2025-10-22
+交互OCR,https://getquicker.net/Sharedaction?code=bd65c819-6658-4186-5347-08dcb4696e8b,截图文字识别，接口有：QuickerOCR，有道OCR，微信OCR，PixPinOCR,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,52.2 KB,2024-08-05 09:25,14,修复Quicker离线下载解析出错问题,2025-10-22
+P图,https://getquicker.net/Sharedaction?code=fc831abc-bc38-4cb3-2fa0-08dbecaddff5,图片编辑工具！不再依赖PS，小的修改直接一建搞定！支持文字替换、旋转、尺寸修改、格式转换、打水印、打马赛克、图片切割合并等，更多功能还在更新中...,Windows 资源管理器,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,69.1 KB,2023-11-25 11:37,13,+新增解压缩功能。,2025-10-22
+下班倒计时,https://getquicker.net/Sharedaction?code=fb4046d9-e0ad-45e0-2f75-08db57ca5f09,发送距下班倒计时,通用,ORYS,https://getquicker.net/User/298536/ORYS,8.6 KB,2023-05-19 17:37,6,新增设置时间,2025-10-22
+图片改字,https://getquicker.net/Sharedaction?code=ec238ba7-fc0f-4627-09dc-08dbddf5e120,批量修改图片上的文字，小的修改不用每次都打开PS啦！非常实用,Windows 资源管理器,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,58.8 KB,2023-11-06 16:34,14,~修复大尺寸图片在屏幕无法完整显示的问题。,2025-10-22
