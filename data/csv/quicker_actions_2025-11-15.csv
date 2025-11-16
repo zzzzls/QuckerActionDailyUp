@@ -1,0 +1,74 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+声笔大师,https://getquicker.net/Sharedaction?code=e5f40a3a-a057-4ade-ce79-08de230af1c9,声笔顶功打字方案设置界面化,通用,Poto,https://getquicker.net/User/137838/Poto,63.8 KB,2025-11-14 20:04,3,优化,2025-11-16
+示例：延长生命感,https://getquicker.net/Sharedaction?code=fb64fbd3-7b5f-4060-52b7-08de23ff045f,眼睛一闭一睁，一天就过去了，hang～眼睛一闭不睁，这辈子就过去了，hang～,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,17.9 KB,2025-11-15 22:13,0,,2025-11-16
+鼠标中键确认,https://getquicker.net/Sharedaction?code=ea03b8e8-d717-4504-52af-08de23ff045f,思路是识别前台窗口、模拟点击 √号 应用,Mastercam X9,masterCAM2023,https://getquicker.net/User/1072367/masterCAM2023,12.8 KB,2025-11-15 14:41,1,"思路是识别前台窗口、点击√号 应用
+适用于masterCAM2022版本 别的版本没测试",2025-11-16
+快速搜索,https://getquicker.net/Sharedaction?code=1d5e73ad-e00e-41d4-ce86-08de230af1c9,发送选中的（优先发送）或剪帖板的文本到浏览器，右键可以重置动作,通用,用户mwI1HKdwBAA,https://getquicker.net/User/974232/%E7%94%A8%E6%88%B7mwI1HKdwBAA,30.2 KB,2025-11-15 10:56,1,"修复一些bug
+",2025-11-16
+动作管理v2,https://getquicker.net/Sharedaction?code=fce02ff8-f211-4770-ce81-08de230af1c9,动作管理窗口独立重置版,通用,Cea,https://getquicker.net/User/113342/Cea,18.9 KB,2025-11-15 04:46,1,默认显示在屏幕中心,2025-11-16
+全局监测鼠标抬起,https://getquicker.net/Sharedaction?code=95324a74-ee3c-4786-52ad-08de23ff045f,鼠标钩子,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,10.3 KB,2025-11-15 12:25,0,,2025-11-16
+最小化,https://getquicker.net/Sharedaction?code=ffc14d40-324f-452f-ce82-08de230af1c9,最小化当前窗口,通用,Poto,https://getquicker.net/User/137838/Poto,1.5 KB,2025-11-15 04:50,0,,2025-11-16
+回到桌面,https://getquicker.net/Sharedaction?code=6261dcf4-dc07-408f-ce80-08de230af1c9,所有软件窗口最小化，显示桌面 & 回到窗口,通用,Poto,https://getquicker.net/User/137838/Poto,650 B,2025-11-15 01:50,0,,2025-11-16
+上下滚动带暂停,https://getquicker.net/Sharedaction?code=9ed7f215-c392-4285-ce7a-08de230af1c9,上下自动滚动，并可随时暂停,通用,山东好人,https://getquicker.net/User/1291368/%E5%B1%B1%E4%B8%9C%E5%A5%BD%E4%BA%BA,13.8 KB,2025-11-14 20:19,0,,2025-11-16
+ob创建当前文档,https://getquicker.net/Sharedaction?code=b56a26b2-6da6-437f-ce72-08de230af1c9,obsidian创建当前空文档,通用,ii6uu998,https://getquicker.net/User/703468/ii6uu998,31.3 KB,2025-11-14 16:37,1,.,2025-11-16
+线稿生成,https://getquicker.net/Sharedaction?code=1c424c2d-f4d1-4448-ce60-08de230af1c9,选中物件生成线稿图到世界中心。,Rhino,Anlv,https://getquicker.net/User/392637/Anlv,1.9 KB,2025-11-14 11:56,1,v1 2025-11-14,2025-11-16
+AI随身窗V2,https://getquicker.net/Sharedaction?code=04aac042-b79d-4037-ce5e-08de230af1c9,单文件版，登录账号后，使用各大ai网页版/右侧添加提示词栏，自动跟随主窗口，自动备份同步,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,59 KB,2025-11-14 11:04,0,,2025-11-16
+表达式编辑器,https://getquicker.net/Sharedaction?code=c06a6792-16f2-4075-4a85-08de202a0f2a,quicker 表达式测试，支持存储多个表达式,通用,Cea,https://getquicker.net/User/113342/Cea,17.2 KB,2025-11-11 12:36,2,"删除一个表达式过后自动选中下一个
+优化列表中的表达式显示，最多三行，自动换行",2025-11-16
+选中收藏,https://getquicker.net/Sharedaction?code=51fc92f5-10c2-41f7-1c7c-08d95d50ce36,"集锦 配套动作, 选中文本即可完成收藏",通用,Cea,https://getquicker.net/User/113342/Cea,26.2 KB,2021-08-13 15:12,42,优化依赖加载实现,2025-11-16
+网址收藏,https://getquicker.net/Sharedaction?code=50a2a02f-7189-418c-1c7d-08d95d50ce36,"集锦 配套动作, 收藏浏览器当前网址即可完成收藏",通用,Cea,https://getquicker.net/User/113342/Cea,26.2 KB,2021-08-13 15:13,43,优化依赖加载实现,2025-11-16
+剪贴板粘贴第二项,https://getquicker.net/Sharedaction?code=e80156dd-bc25-46d5-c0cf-08da1b59015d, ,通用,Cea,https://getquicker.net/User/113342/Cea,25.9 KB,2022-04-11 21:25,38,优化依赖加载实现,2025-11-16
+重开,https://getquicker.net/Sharedaction?code=347689f7-7bab-42b7-1b75-08da8ae0e8b9,重新打开关闭的资源管理器窗口,通用,Cea,https://getquicker.net/User/113342/Cea,31.2 KB,2022-08-31 23:21,43,优化依赖加载实现,2025-11-16
+连续粘贴,https://getquicker.net/Sharedaction?code=4275a6b3-af4f-4a66-4731-08da2019a39f,剪贴板附加动作,通用,Cea,https://getquicker.net/User/113342/Cea,43.1 KB,2022-04-18 14:35,43,优化依赖加载实现,2025-11-16
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,26 KB,2021-02-03 14:35,248,优化依赖加载实现,2025-11-16
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,27.7 KB,2022-04-18 22:22,162,优化依赖加载实现,2025-11-16
+CeaBox,https://getquicker.net/Sharedaction?code=77cdb73e-07de-4705-d8d0-08da0c387041,搜索框，收藏夹，剪贴板，聚合,通用,Cea,https://getquicker.net/User/113342/Cea,29.8 KB,2022-03-24 01:24,44,优化依赖加载实现,2025-11-16
+窗口菜单,https://getquicker.net/Sharedaction?code=c3336884-f4cb-46b9-da4e-08da76a0d1ac,可用于快速切换窗口,通用,Cea,https://getquicker.net/User/113342/Cea,26.2 KB,2022-08-05 15:56,40,优化依赖加载实现,2025-11-16
+捷径面板3.0,https://getquicker.net/Sharedaction?code=4b3b6a69-15b9-4ca1-447b-08da37d44e37,捷径面板3.0,通用,Cea,https://getquicker.net/User/113342/Cea,26.7 KB,2022-05-17 21:55,73,优化依赖加载实现,2025-11-16
+超级菜单,https://getquicker.net/Sharedaction?code=a9c8d61e-dbab-4d5a-991f-08da410f3c1c,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,26 KB,2022-05-29 21:42,79,优化依赖加载实现,2025-11-16
+书签菜单,https://getquicker.net/Sharedaction?code=a50d39ba-b07c-459e-347c-08da7d9afa4f,浏览器书签，菜单,通用,Cea,https://getquicker.net/User/113342/Cea,26 KB,2022-08-14 23:25,41,优化依赖加载实现,2025-11-16
+集锦,https://getquicker.net/Sharedaction?code=44f708d3-3dc6-4b6e-194c-08d95b8499a1,如题,通用,Cea,https://getquicker.net/User/113342/Cea,28.1 KB,2021-08-11 01:17,43,优化依赖加载实现,2025-11-16
+图标管理,https://getquicker.net/Sharedaction?code=17b78d43-8bc7-4200-a090-08d9ac50b9f2, ,通用,Cea,https://getquicker.net/User/113342/Cea,35 KB,2021-11-21 22:42,59,优化依赖加载实现,2025-11-16
+文件菜单,https://getquicker.net/Sharedaction?code=5042d4d2-2979-4fff-4a25-08da404596c9, ,通用,Cea,https://getquicker.net/User/113342/Cea,29.1 KB,2022-05-28 19:12,52,优化依赖加载实现,2025-11-16
+剪贴板无焦点,https://getquicker.net/Sharedaction?code=818dd30d-a759-4779-d4ca-08db111f8bc2,剪贴板动作无焦点模式，但无法使用键盘操作,通用,Cea,https://getquicker.net/User/113342/Cea,28 KB,2023-02-18 15:18,38,优化依赖加载实现,2025-11-16
+文本菜单,https://getquicker.net/Sharedaction?code=54dc3640-79ab-4223-a073-08da8515cad0,选中快速替换文本,通用,Cea,https://getquicker.net/User/113342/Cea,26 KB,2022-08-24 17:19,38,优化依赖加载实现,2025-11-16
+窗口吸附,https://getquicker.net/Sharedaction?code=d587fa2b-ec07-4398-dda2-08de2211a7a5,最强窗口吸附动作，使用窗口挂钩实现的窗口吸附，实时跟随，无卡顿感（用timer轮询明显卡顿）,通用,Cea,https://getquicker.net/User/113342/Cea,33.9 KB,2025-11-13 01:33,8,优化控制面板图标,2025-11-16
+倒计时,https://getquicker.net/Sharedaction?code=f733c3e9-e8b6-4f51-df26-08d9db64e6a1,倒计时,通用,Cea,https://getquicker.net/User/113342/Cea,50.5 KB,2022-01-20 19:08,15,优化依赖加载实现,2025-11-16
+表达式测试+,https://getquicker.net/Sharedaction?code=26fe4c88-355d-46c4-3bd9-08d97b88c89f,quicker表达式编辑器,通用,Cea,https://getquicker.net/User/113342/Cea,14.6 KB,2021-09-20 18:11,14,优化依赖加载实现,2025-11-16
+动作管理窗口,https://getquicker.net/Sharedaction?code=dda51a2a-ebc4-4999-ec4f-08db9b9dff03,1,通用,Cea,https://getquicker.net/User/113342/Cea,14.6 KB,2023-08-13 23:23,31,优化依赖加载实现,2025-11-16
+钉住+锁定,https://getquicker.net/Sharedaction?code=417c4530-1f20-434e-39b9-08d97dc8fa09,quicker面板,通用,Cea,https://getquicker.net/User/113342/Cea,14.8 KB,2021-09-24 01:22,8,优化依赖加载实现,2025-11-16
+管理子程序,https://getquicker.net/Sharedaction?code=1d188a73-a8ca-4720-99de-08d93777d8dd,"经常用公共子程序写动作时, 快速打开公共子程序, 而不需要单独开一个动作窗口",通用,Cea,https://getquicker.net/User/113342/Cea,14.6 KB,2021-06-25 15:52,9,优化依赖加载实现,2025-11-16
+工具菜单,https://getquicker.net/Sharedaction?code=b3ee9862-7a0e-49b0-0896-08d981a94e62, ,通用,Cea,https://getquicker.net/User/113342/Cea,14.8 KB,2021-09-27 21:21,8,优化依赖加载实现,2025-11-16
+O轮盘O,https://getquicker.net/Sharedaction?code=b6276f6c-095c-4823-d07c-08de198b5552,动作版轮盘，无限翻页，滑动触发，高速加载,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,147 KB,2025-11-02 23:05,12,修Bug,2025-11-16
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,切换多个便利的自定义窗口，存储网址、文本、文件等，自由拖拽,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,360.3 KB,2025-02-21 03:22,258,子程序图标,2025-11-16
+批量更改尺寸(脚本),https://getquicker.net/Sharedaction?code=21850a92-e725-4e5a-a703-08dde22d8eb3,批量调整尺寸脚本,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,42.2 KB,2025-08-24 16:50,2,调整脚本界面布局,2025-11-16
+网址小窗,https://getquicker.net/Sharedaction?code=edf6a2a6-f497-4bc3-a583-08dcc5002795,常用的网址就那么几个，随手小窗切换预设AI网址书签,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,108.6 KB,2024-08-26 09:27,12,~ 修改默认为打开上次关闭的网页,2025-11-16
+知识库,https://getquicker.net/Sharedaction?code=509bb025-3248-468d-5754-08ddb2bac3f6,✅打造个人知识库,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,180.3 KB,2025-06-24 11:01,15,"部门分类也直接显示在侧边栏了
+增加分类图标可以修改的功能
+细节优化",2025-11-16
+三密书签v2,https://getquicker.net/Sharedaction?code=4e907c4c-cc1d-4cc4-d078-08de198b5552,浏览器书签搜索，加密存储，可选择浏览器打开，支持导入导出。,Google Chrome,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,127.7 KB,2025-11-02 20:49,4,[~] 修复删除路径中最后一个书签时，未能一并删除路径的问题,2025-11-16
+欧路查词,https://getquicker.net/Sharedaction?code=e850d565-5cc2-44cb-9223-08de0708e8b9,设置双击运行动作后当双击选中一个单词时自动查词,通用,boovoo,https://getquicker.net/User/1305284/boovoo,16.7 KB,2025-10-10 17:27,5,提高了与其它动作的适配,2025-11-16
+OCR->Ai,https://getquicker.net/Sharedaction?code=f3923d0e-e7dc-4c11-a472-08de211e65c2,识别屏幕文字后自动打开欧路查词或Ai窗口,通用,boovoo,https://getquicker.net/User/1305284/boovoo,27.1 KB,2025-11-12 09:47,1,提高了与其它动作的适配,2025-11-16
+豆包,https://getquicker.net/Sharedaction?code=6bbb3b15-6865-40bf-3931-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,53.6 KB,2025-09-01 11:13,9,提高了与其它动作的适配,2025-11-16
+Gemini,https://getquicker.net/Sharedaction?code=77115418-3ec2-4646-3930-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,45.2 KB,2025-09-01 11:07,9,提高了与其它动作的适配,2025-11-16
+Copilot,https://getquicker.net/Sharedaction?code=08c9a556-2f0e-43e8-392f-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,55 KB,2025-09-01 10:56,11,提高了与其它动作的适配,2025-11-16
+ChatGPT,https://getquicker.net/Sharedaction?code=d2041f73-8fba-42b5-392e-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,44.7 KB,2025-09-01 10:37,13,提高了与其它动作的适配,2025-11-16
+X1X2,https://getquicker.net/Sharedaction?code=f569bc1a-f4cb-4327-76b2-08de1e50e7a2,选择两个文本后根据预先设置内容快捷发送,Google Chrome,boovoo,https://getquicker.net/User/1305284/boovoo,9.6 KB,2025-11-08 21:58,1,提高了与其它动作的适配,2025-11-16
+文本菜单,https://getquicker.net/Sharedaction?code=2caa9731-7a11-4714-76b3-08de1e50e7a2,选中文本后弹出自定义动作菜单,通用,boovoo,https://getquicker.net/User/1305284/boovoo,28.1 KB,2025-11-08 22:25,1,提高了与其它动作的适配,2025-11-16
+Gitee图床（优化版）,https://getquicker.net/Sharedaction?code=9ad73304-bb53-4443-1df3-08dd1c1023c2,将剪贴板图片或截图上传至自己的Gitee图床，获取图片链接，可设置图片大小限制（也可以用Github）,通用,Aleegod,https://getquicker.net/User/810616/Aleegod,98 KB,2024-12-14 23:32,6,新增Github图床,2025-11-16
+便捷面板,https://getquicker.net/Sharedaction?code=5969fb78-88ac-4cbe-9975-08dd2e1384ce,常用语;快捷回复;文本收藏;Ai提示词;路径收藏;网址搜索;PS脚本;vba;VBS;浏览器脚本,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,124.6 KB,2025-01-07 11:40,4,修bug,2025-11-16
+软件面板V4,https://getquicker.net/Sharedaction?code=4f2050ef-4c0c-4a37-eb21-08ddcb62c590,组平铺显示，软件面板，文件收藏，支持拖动排序，可以直接从外面拖动文件进来，可以右键添加，可以拖动文件到其他软件,通用,zdf153,https://getquicker.net/User/20184/zdf153,183 KB,2025-07-26 16:46,16,修复bug,2025-11-16
+软件面板V3,https://getquicker.net/Sharedaction?code=6e80f5e7-d6b1-415d-1555-08ddc2d2a88d,软件面板，文件收藏，支持拖动排序和分组,通用,zdf153,https://getquicker.net/User/20184/zdf153,225.8 KB,2025-07-15 19:17,33,修复bug,2025-11-16
+贴边隐藏,https://getquicker.net/Sharedaction?code=ffa92a90-6332-42e6-ddbb-08de2211a7a5,对前台窗口进行贴边隐藏,通用,Cea,https://getquicker.net/User/113342/Cea,23.1 KB,2025-11-13 21:45,6,增加设置窗口内容,2025-11-16
+标签分组,https://getquicker.net/Sharedaction?code=1d7d1a49-5a43-4176-ddad-08de2211a7a5,浏览器标签页自动归类到指定的标签组中，右键动作支持管理标签组配置,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,48.8 KB,2025-11-13 15:52,1,"+支持当前窗口中有匹配的网址标签时，新建标签组并移入
++支持右键设置是否开启新建标签组功能",2025-11-16
+PS调色蒙版助手,https://getquicker.net/Sharedaction?code=2d80a5a7-1b8d-4a90-98cf-08de110bce16,PS调色，色相/饱和度，色阶，亮度/对比度，曲线,Adobe Photoshop,芬达不加班,https://getquicker.net/User/1184478/%E8%8A%AC%E8%BE%BE%E4%B8%8D%E5%8A%A0%E7%8F%AD,55.3 KB,2025-10-22 22:48,2,新增了另一个面板的显示,2025-11-16
+draw.io,https://getquicker.net/Sharedaction?code=7c8e876e-9693-41d5-784e-08de0f126def,Drawio 是一款基于 Electron 开发的免费开源图表绘制软件。它支持流程图、UML 图、网络拓扑图、架构图等多种专业图表类型，适用于教学、科研、工程设计等多种场景。该软件提供完全离线的绘图体验，同时具备强大的导出和批量处理功能。,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,252.7 KB,2025-10-20 17:53,1,  【优化】更新软件版本,2025-11-16
+微信定时发送4.1,https://getquicker.net/Sharedaction?code=9f5acb76-c161-4691-ddc1-08de2211a7a5,定时向微信指定联系人发送消息或者文件,Weixin,用户g0Lpuq6RAwA,https://getquicker.net/User/769523/%E7%94%A8%E6%88%B7g0Lpuq6RAwA,57.5 KB,2025-11-14 02:40,1,更新了发送成功的弹窗,2025-11-16
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,最强大便捷的智能计算器】实时计算，操作便捷，集多种计算器为一体,通用,astroStar,https://getquicker.net/User/178545/astroStar,306.4 KB,2024-05-22 14:21,305,"- 复制公式时支持转/*
+- 修复备注",2025-11-16
+日报记录,https://getquicker.net/Sharedaction?code=565cb4c2-a2c1-4786-4a90-08de202a0f2a,随时记录当日工作，历史记录可以在 C:\Users\<用户名>\Documents,通用,lyfZhixing,https://getquicker.net/User/364454/lyfZhixing,24.4 KB,2025-11-11 16:42,6,fix bug,2025-11-16
+商标申请人助手,https://getquicker.net/Sharedaction?code=cef57797-6f37-41b5-0321-08de16ae26da,一键填写商标系统申请人信息表单,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,306.2 KB,2025-10-30 14:31,17,调整说明,2025-11-16
+爱国敬业诚信友善,https://getquicker.net/Sharedaction?code=fcc3367e-8bde-4355-4a8b-08de202a0f2a,"用于文明交流, 发送的数据有效期20+分钟",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,54.8 KB,2025-11-11 15:34,11,"新增右键设置加密是否自动写入输入框
+新增正则提取密文",2025-11-16
+专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,323.1 KB,2024-11-04 14:16,109,因不可抗力影响，暂时删除查询代理师及代理机构信息模块,2025-11-16
