@@ -1,0 +1,65 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+示例：打磨主见,https://getquicker.net/Sharedaction?code=9ba57bf5-65e8-412b-c108-08de44d86766,主见决定了你的路。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,20.9 KB,2025-12-27 20:06,2,"“主见”，不是固执己见，也不是为了反驳而反驳。
+
+更不是为了达成目的而不择手段的固执，而是建立在尊重客观事实、承担社会责任基础上的清醒选择。
+ - 希特勒也会说他是在“坚持梦想”；
+ - 戴志诚也会说他是“为了爱情”。
+任何脱离了客观事实和道德底线的主见都是一种扭曲。
+
+真正的主见是一种从“弱势批判性思维”向“强势批判性思维”的进化。",2025-12-29
+五金颜色,https://getquicker.net/Sharedaction?code=326a2b88-9ada-42b2-ca3d-08de45b938f6,筑木后台颜色选择,SketchUp Application,觉海梵音,https://getquicker.net/User/980421/%E8%A7%89%E6%B5%B7%E6%A2%B5%E9%9F%B3,9.4 KB,2025-12-28 14:48,1,选择五金颜色,2025-12-29
+压缩xlsx,https://getquicker.net/Sharedaction?code=6b2c6fbd-397e-4670-c10b-08de44d86766,通过压缩xlsx文件里的图片减小文件大小，支持wps嵌入单元格图片的表格文件,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,23.2 KB,2025-12-27 23:53,1,增加压缩模式,2025-12-29
+图片添加文字水印,https://getquicker.net/Sharedaction?code=cb4fb845-a13a-4c50-c10c-08de44d86766,在Word文档中为选中的图片添加文字水印,Microsoft Word,igzccc,https://getquicker.net/User/1237021/igzccc,9.1 KB,2025-12-28 00:39,0,,2025-12-29
+检查错别字,https://getquicker.net/Sharedaction?code=fafeb1ad-6e3b-4e12-c0fb-08de44d86766,选中原始文本，使用本动作，自动让网页版DeepSeek检查错别字，自动复制更正后的内容，自动显示更正前后的不同。不需要翻墙。,通用,无言的人,https://getquicker.net/User/237629/%E6%97%A0%E8%A8%80%E7%9A%84%E4%BA%BA,23.4 KB,2025-12-27 10:24,0,,2025-12-29
+超级菜单,https://getquicker.net/Sharedaction?code=4dfee3f3-4dab-4905-fde2-08dd1a373a0d,根据不同进程、不同类名、不同网址弹出不同的超级菜单，无限分组，添加修改极其方便，功能丰富,通用,流亡大街,https://getquicker.net/User/977787/%E6%B5%81%E4%BA%A1%E5%A4%A7%E8%A1%97,417.2 KB,2024-12-13 04:30,47,"此版本涉及到数据类型的转换，在我电脑上测试了好几个月，理论上是bug更少了，也更好用了，但是事无绝对，改进有点多，所以请谨慎更新
+1. “文本”“模板”标签优化：base64编码，可以兼容任何类型纯文本
+2. “快捷键”标签更改为“多步骤输入”，不仅可以输入“快捷键”，还支持更多
+3. 分隔符替换为 |◒|，自动兼容，用户无需更改
+4. 右键可以插入内容，去除手动添加
+5. 右键编辑可以修改分组
+6. 分组可以隐藏全局菜单
+7. 多处优化",2025-12-29
+多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,213.7 KB,2025-12-11 12:18,8,1、更新选择工具图标和颜色,2025-12-29
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,26.5 KB,2022-04-18 22:22,171,优化粘贴不上的问题,2025-12-29
+高效办公,https://getquicker.net/Sharedaction?code=0825deac-7d80-4671-4847-08dd9d377497,集合常用办公操作的小工具，效率办公快人一步！,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,696.4 KB,2025-05-28 13:40,31,~动作名由办公小工具改名为高效办公，修复持续模式不可用问题,2025-12-29
+减减闪填,https://getquicker.net/Sharedaction?code=be84506d-8576-4231-5059-08de42d74995,不想再记缩写？不想再背地址？连按两下减号 '--'，常用回复、收货地址、代码模版即刻弹出，支持云端自动同步到您的所有电脑。,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,186.4 KB,2025-12-24 19:08,11,"实现了智能上下文感知功能！
+这个功能让“减减闪填”变得更加“聪明”，能够根据您当前使用的软件自动调整推荐顺序。
+
+核心改进点：
+上下文捕获 (Context Capture)：
+在您触发动作（输入 --）的瞬间，程序会悄悄获取当前前台窗口的进程名和窗口标题。
+例如：当您在编辑 README.md 时，它会记录进程为 Code.exe (或 notepad.exe)，标题包含文件名。
+动态权重排序 (Smart Ranking)：
+精准匹配 (最高权重)：如果您在当前窗口标题下多次选过某个片段，它会被置顶。
+进程匹配 (次高权重)：如果您在当前软件（进程）里经常用某个片段，它会紧随其后。
+全局热度 (基础权重)：依然保留使用次数最多的排序作为兜底。
+结果：您在浏览器里常用的地址，在浏览器里会排第一；您在 IDEA 里常用的代码段，在 IDEA 里会排第一。
+视觉关联标识 (Visual Identity)：
+自动提取图标：程序会自动从匹配的进程中提取原始图标（。exe 图标），并缓存到本地。
+标识提示：当某个片段与当前所在软件存在“强关联”时，其标题左侧会出现该应用的微型图标，方便您一眼认出这是当前场景的高频项。
+",2025-12-29
+豆包网页转API,https://getquicker.net/Sharedaction?code=dcb55394-707e-4255-ed26-08de36f81a8a,将豆包网页封装成API，无限免费接入ChatBox、NextChat、CherryStudio等客户端及Quicker本身AI模块。原理是将网页转化为标准的 OpenAI API 本地服务。,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,81.6 KB,2025-12-09 20:01,10,fix: 修复豆包界面更新新版本导致输出不完整的问题,2025-12-29
+选中预览,https://getquicker.net/Sharedaction?code=28d99b69-7fde-451d-5e93-08de2e6e066c,预览选中的链接、图片、文件、文本；按住Ctrl运行快速搜索选中的文本在预览窗口,通用,Tanziow,https://getquicker.net/User/725126/Tanziow,61.4 KB,2025-11-29 22:59,6,【修】优化选中识别逻辑，单图片>首个链接>文本；目前选中内容仅包括一张图片时视为预览图片，选中包括链接时视为预览首个链接,2025-12-29
+剪贴板,https://getquicker.net/Sharedaction?code=e573ba70-28f8-4977-4f6a-08de2d75a2ca,WASD极速导航 | 收藏云同步 | 临时置顶 | 图片预览 | 一键收藏 | 零秒启动,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,343.8 KB,2025-11-27 23:40,33,优化收藏逻辑，收藏条目不在全部中展示,2025-12-29
+腾讯元宝,https://getquicker.net/Sharedaction?code=bee3a1af-893a-4a57-c977-08de13ddfaaa,让腾讯元宝网页版变成类似于独立App的效果,通用,yangk,https://getquicker.net/User/171192/yangk,5 KB,2025-10-26 11:28,3,隐藏界面中的一些提示,2025-12-29
+下载并重命名,https://getquicker.net/Sharedaction?code=b0ba2377-cd14-446b-96dd-08de441b0084,监控下载目录批量重命名新下载的文件,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,13.4 KB,2025-12-26 23:46,1,修bug,2025-12-29
+Portable,https://getquicker.net/Sharedaction?code=81ecee3b-ff96-42f3-0747-08dd9a5f05c7,便携软件自动化无感更新,通用,Poto,https://getquicker.net/User/137838/Poto,82.7 KB,2025-05-25 04:34,7,优化,2025-12-29
+拾色器,https://getquicker.net/Sharedaction?code=183424ce-1c03-43d4-a071-08d9ac50b9f2,取色，调色，管理颜色,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,95.9 KB,2021-11-21 12:54,14,优化一些步骤,2025-12-29
+特殊符号,https://getquicker.net/Sharedaction?code=51dd9fb5-0141-4b92-2304-08d7ce35877d,分类清晰的特殊符号,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,170.8 KB,2020-03-23 10:48,29,微调,2025-12-29
+PotoZIP,https://getquicker.net/Sharedaction?code=03174a9f-cc84-49ad-7aef-08de25df0fc3,高智能解压缩,通用,Poto,https://getquicker.net/User/137838/Poto,260.7 KB,2025-11-18 14:09,91,"新增 穿透 · 独立压缩。穿透文件夹，里面子文件夹独立压缩，子文件合并压缩
+新增 彩蛋 · 滚轮嗨起来！滚轮向上返回上级文件夹；向下全选当前文件夹",2025-12-29
+玻璃云笔记,https://getquicker.net/Sharedaction?code=090995aa-caf4-404f-c5d1-08de3e8d8685,颜值极高、本地优先、自动云同步（quicker云）的轻量级 Markdown 笔记。,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,174.3 KB,2025-12-19 11:44,7,支持 Quicker 原生云同步,2025-12-29
+置于非打印层,https://getquicker.net/Sharedaction?code=9616b44f-bc02-401c-5b0b-08ddc4c80743,选中物体放到def层，改250色，并回到之前图层,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,2.9 KB,2025-07-18 10:02,1,修复当DEFPOINTS图层不存在的时候报错,2025-12-29
+QSU Bridge,https://getquicker.net/Sharedaction?code=71ffb9e7-9663-4caf-508a-08de42d74995,安装后自动放入自启动，可用quicker快速触发su的各种命令和脚本,SketchUp Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,120.2 KB,2025-12-25 14:56,4,没有更新，就想说建议大家用24以上的版本，23以下的版本对中文支持很不好。,2025-12-29
+快速导出,https://getquicker.net/Sharedaction?code=6c777361-10c2-49fd-6b83-08da4f3f8574,快速导出选定图层，若无选定，则导出文档。（Ctrl：激活快速导出到桌面）,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,158.1 KB,2022-06-17 11:04,6,"2025-12-27
+~. 重构为UXP，加速导出速度；具体设置，请激活动作设置（ALT+激活动作，或通过动作右键菜单→动作设置）。",2025-12-29
+威科Markdown,https://getquicker.net/Sharedaction?code=5b5ccbc2-cfe9-4e56-9e0f-08db1b743bf2,将威科法律法规转为Markdown格式,Google Chrome,Ranfou,https://getquicker.net/User/108076/Ranfou,45 KB,2023-03-04 08:08,11,增加了效力层级的抓取,2025-12-29
+离线OCR4.0,https://getquicker.net/Sharedaction?code=1e452623-06b4-4234-a446-08dbf16456ca,"离线OCR4.0高识别率，多语言(中/英/韩/日/俄)自动识别,自动复制排版(合并单行、多行、代码段)到剪贴板",通用,Qyu,https://getquicker.net/User/183510/Qyu,66.5 KB,2023-12-01 11:12,13,"V2.6 更新说明
+1. 修复蓝奏云子程序错误无法下载问题
+2. 增加微信识别下，出现“复制”打字覆盖图片导致识别不全的问题",2025-12-29
+RMusic,https://getquicker.net/Sharedaction?code=2cb4dd9c-6ad8-4705-89d7-08dc547a3ff5,古希腊掌管下载音乐的神，免费下载母带级、无损级的音乐~！,通用,RrOrange,https://getquicker.net/User/126233/RrOrange,31.6 KB,2024-04-05 10:51,5,feat: 增加音源选择,2025-12-29
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,1.1 MB,2021-05-23 17:54,319,"当事项贴近屏幕边缘时，自动隐藏。感谢Cea大佬分享的子程序。
+
+如果使用了我之前的“贴边自动收纳”来实现贴边隐藏，建议将“贴边自动收纳”动作删除，以免重复触发。如未使用，请忽略。",2025-12-29
+北京录屏,https://getquicker.net/Sharedaction?code=7c61bff4-def0-4e25-f929-08de3ca88ddf,【屏幕录制】极简 · 高能 · 仿PixPin录屏交互体验,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,280 KB,2025-12-17 10:04,26,新增：鼠标左右中键的样式区分。,2025-12-29
+中键单击，关闭任务栏窗口,https://getquicker.net/Sharedaction?code=73082226-6ddc-4574-92cb-08dcd6e4f4f5,"通过""高级鼠标触发""设置，可实现鼠标中键点击，关闭任务栏窗口",通用,用户l4XG5wFHBQA,https://getquicker.net/User/1141848/%E7%94%A8%E6%88%B7l4XG5wFHBQA,4.4 KB,2024-09-18 15:56,1,修改win10下偶尔会跳出的索引超出范围bug,2025-12-29
