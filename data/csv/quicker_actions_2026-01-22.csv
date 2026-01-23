@@ -1,8 +1,6 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-悬浮窗,https://getquicker.net/Sharedaction?code=de0cc6aa-ba64-4303-811f-08de58b6b715,电脑屏幕上的草稿纸（本地运行 + 贴边隐藏 + 连续追加）。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,33.5 KB,2026-01-22 17:02,1,.,2026-01-23
-Ai重命名,https://getquicker.net/Sharedaction?code=12e9be8c-937a-40f3-7aa4-08de57cf17ab,集 Ai 重命名、实时预览、拖拽排序、多规则联动、一键恢复于一体,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,758.2 KB,2026-01-21 10:01,3,"“数值输入框”的滚轮增减方向反过来，行为变为：
-- Delta > 0 （滚轮向后/向上）数值 +1
-- Delta < 0 （滚轮向前/向下）数值 -1",2026-01-23
+悬浮窗,https://getquicker.net/Sharedaction?code=de0cc6aa-ba64-4303-811f-08de58b6b715,电脑屏幕上的草稿纸（本地运行 + 贴边隐藏 + 连续追加）。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,56.8 KB,2026-01-22 17:02,5,解决输入法遮挡问题。,2026-01-23
+快速定位,https://getquicker.net/Sharedaction?code=247a7309-6650-4db3-2bbf-08de59aab876,快速定位和打开文件夹,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,13.6 KB,2026-01-23 10:12,3,修复bug,2026-01-23
 去除填充,https://getquicker.net/Sharedaction?code=cf4346f0-5d90-440d-80ff-08de58b6b715,一键去除wps单元格填充,Microsoft Excel,MinKing,https://getquicker.net/User/542704/MinKing,1.9 KB,2026-01-22 09:44,0,,2026-01-23
 浅蓝,https://getquicker.net/Sharedaction?code=88af6e81-6771-401f-80fe-08de58b6b715,调出wps表格颜色面板，利用hex代码一键填充颜色。,Microsoft Excel,MinKing,https://getquicker.net/User/542704/MinKing,3.9 KB,2026-01-22 09:43,0,,2026-01-23
 浅绿,https://getquicker.net/Sharedaction?code=2e1d74d8-c0ff-4bc5-80fd-08de58b6b715,调出wps表格颜色面板，利用hex代码一键填充颜色。,Microsoft Excel,MinKing,https://getquicker.net/User/542704/MinKing,3.9 KB,2026-01-22 09:42,0,,2026-01-23
@@ -11,22 +9,20 @@ Ai重命名,https://getquicker.net/Sharedaction?code=12e9be8c-937a-40f3-7aa4-08d
 橙色,https://getquicker.net/Sharedaction?code=fd65cf76-4fcb-4555-80fa-08de58b6b715,调出wps表格颜色面板，利用hex代码一键填充颜色。,Microsoft Excel,MinKing,https://getquicker.net/User/542704/MinKing,3.9 KB,2026-01-22 09:37,0,,2026-01-23
 绿色,https://getquicker.net/Sharedaction?code=813db75c-b14a-465e-80f9-08de58b6b715,调出wps表格颜色面板，利用hex代码一键填充颜色。,Microsoft Excel,MinKing,https://getquicker.net/User/542704/MinKing,3.9 KB,2026-01-22 09:36,0,,2026-01-23
 黄色,https://getquicker.net/Sharedaction?code=f36546ca-ff98-4fa7-80f7-08de58b6b715,调出wps表格颜色面板，利用hex代码一键填充颜色。,Microsoft Excel,MinKing,https://getquicker.net/User/542704/MinKing,7.2 KB,2026-01-22 08:59,1,优化动作成功率,2026-01-23
-全局微信搜一搜,https://getquicker.net/Sharedaction?code=18d28a9c-35fc-41e4-7ac2-08de57cf17ab,使用微信搜索选中文字/输入文字,通用,rxnwin,https://getquicker.net/User/60295/rxnwin,7.8 KB,2026-01-21 14:09,0,,2026-01-23
-超级唯一化组件,https://getquicker.net/Sharedaction?code=49c4386a-6ef8-40df-7ac0-08de57cf17ab,模兔云-板式家具V1-超级唯一化组件,SketchUp Application,BLACK_ROOM,https://getquicker.net/User/964219/BLACK_ROOM,1 KB,2026-01-21 13:48,0,,2026-01-23
-轮廓放样,https://getquicker.net/Sharedaction?code=cbf0c61f-6a83-4725-7abf-08de57cf17ab,模兔云-智能组件-轮廓放样,SketchUp Application,BLACK_ROOM,https://getquicker.net/User/964219/BLACK_ROOM,1 KB,2026-01-21 13:40,0,,2026-01-23
-冻结窗格OL,https://getquicker.net/Sharedaction?code=0cf2a826-18a6-425a-7aaa-08de57cf17ab,只适用wps在线表格，一键冻结或取消窗格,WPS Office,MinKing,https://getquicker.net/User/542704/MinKing,1.5 KB,2026-01-21 10:26,0,,2026-01-23
-最适合行高OL,https://getquicker.net/Sharedaction?code=efbf879d-7677-47ea-7aa9-08de57cf17ab,只适用wps在线表格，一键调整最合适行高,WPS Office,MinKing,https://getquicker.net/User/542704/MinKing,3.7 KB,2026-01-21 10:24,0,,2026-01-23
-行高16OL,https://getquicker.net/Sharedaction?code=97376398-95db-4a93-7aa8-08de57cf17ab,只适用wps在线表格，一键调整行高为16,WPS Office,MinKing,https://getquicker.net/User/542704/MinKing,4.6 KB,2026-01-21 10:22,0,,2026-01-23
-格式刷OL,https://getquicker.net/Sharedaction?code=96272bf4-c07a-4a48-7aa7-08de57cf17ab,只适用wps在线表格 ,WPS Office,MinKing,https://getquicker.net/User/542704/MinKing,1.3 KB,2026-01-21 10:18,0,,2026-01-23
+北京录屏,https://getquicker.net/Sharedaction?code=7c61bff4-def0-4e25-f929-08de3ca88ddf,【屏幕录制】极简 · 高能 · 仿PixPin录屏交互体验,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,125.6 KB,2025-12-17 10:04,35,"1、新增完成按钮的自定义模式，可以在动作右键自定义其为“复制”或“快速保存”。
+2、优化录制中，除录制区域外其他位置无法点击的问题。
+3、尝试优化双屏下的不好的体验，但是本人没有双屏设备，所以需要用户的反馈才能继续。
+4、由于模糊跟马赛克模式有严重缺陷，暂移除掉模糊/马赛克模式，等后续更新。
+5、移除上一版本留下的残留log文件问题。",2026-01-23
+多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,340.1 KB,2025-12-11 12:18,30,描述栏改为多行文本,2026-01-23
+关闭,https://getquicker.net/Sharedaction?code=11ebc20c-06e4-40fe-955c-08dce0ed4ae4,PS中常用的4种关闭,Adobe Photoshop,Taitun,https://getquicker.net/User/854987/Taitun,23.4 KB,2024-09-30 14:21,5,新增按住Ctrl键+左键，保存关闭。,2026-01-23
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,391.5 KB,2023-01-07 19:44,68,~修复在添加菜单时，默认标签为空的问题。,2026-01-23
+ps置入图层,https://getquicker.net/Sharedaction?code=072facd0-bfcc-40e9-d2b1-08dc4451c63c,Adobe Photoshop一键置入指定图层路径到当前编辑psd中,Adobe Photoshop,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,34.6 KB,2024-03-15 17:02,6,1,2026-01-23
+新建Excel,https://getquicker.net/Sharedaction?code=83a09a30-c617-48fb-1133-08de530638a6,新建Excel并打开,Windows 资源管理器,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,11.5 KB,2026-01-14 16:58,4,调整细节,2026-01-23
+Ai重命名,https://getquicker.net/Sharedaction?code=12e9be8c-937a-40f3-7aa4-08de57cf17ab,集 Ai 重命名、实时预览、拖拽排序、多规则联动、一键恢复于一体,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,758.2 KB,2026-01-21 10:01,4,优化联动模式底层逻辑。,2026-01-23
+动作积分日历,https://getquicker.net/Sharedaction?code=31121356-d794-4135-7a69-08de57cf17ab,"一键转化动作使用积分, 日历化显示一目了然",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,109.7 KB,2026-01-20 13:55,11,更新动效,2026-01-23
 高效办公,https://getquicker.net/Sharedaction?code=0825deac-7d80-4671-4847-08dd9d377497,集合常用办公操作的小工具，效率办公快人一步！,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,822.3 KB,2025-05-28 13:40,36,~优化屏幕找图、多步骤输入和键鼠操作等小工具,2026-01-23
 超级重命名,https://getquicker.net/Sharedaction?code=bcf33eda-9427-45cc-f6c5-08dae2ffb129,超级强大灵活的文件批量重命名工具。支持保存更名规则、插入文件元数据、普通/正则替换、批量替换、列表替换、重名检测、自动编号、C#表达式处理 . . .,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,386.9 KB,2022-12-21 18:23,41,- 修复：「替换」功能会吞掉末尾空格的问题,2026-01-23
-北京录屏,https://getquicker.net/Sharedaction?code=7c61bff4-def0-4e25-f929-08de3ca88ddf,【屏幕录制】极简 · 高能 · 仿PixPin录屏交互体验,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,126.9 KB,2025-12-17 10:04,34,"1、新增深色/浅色模式的切换，主要跟随Quicker的深色浅色模式。
-2、部分ui进行了优化。
-3、调整了按键显示尺寸。
-4、鼠标识别新增了“滚轮识别”、“双击识别”、“拖动识别”
-5、录制前增加了标注工具栏，可以在录制前做好一切准备后再录制。
-6、调整了录制选区边框的设计，支持多点调整，支持遮罩区域点击自动扩展录制选区。",2026-01-23
-动作积分日历,https://getquicker.net/Sharedaction?code=31121356-d794-4135-7a69-08de57cf17ab,"一键转化动作使用积分, 日历化显示一目了然",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,105.7 KB,2026-01-20 13:55,10,"反馈加载动效问题,更新动效",2026-01-23
 任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,265 KB,2025-05-19 09:05,33,"修复点击分类后直接更新
 修复日期选择、分类修改
 切换模式",2026-01-23
@@ -40,17 +36,3 @@ OCR离线,https://getquicker.net/Sharedaction?code=65f74787-2aef-4154-fbed-08dde
 Markdown,https://getquicker.net/Sharedaction?code=e55729d7-6b28-4ef8-7a6e-08de57cf17ab,极简风 Markdown 编辑器，本地运行实时预览。,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,18.6 KB,2026-01-20 15:06,4,完善对富文本HTML写法的支持。优化性能,2026-01-23
 Everything,https://getquicker.net/Sharedaction?code=0792d37a-147d-4cbf-7a80-08de57cf17ab,🌋最新v1.5a新增：原生全文搜索、深色模式、标签页📑,通用,独木不成林同学,https://getquicker.net/User/281467/%E7%8B%AC%E6%9C%A8%E4%B8%8D%E6%88%90%E6%9E%97%E5%90%8C%E5%AD%A6,25.9 KB,2026-01-20 17:04,3,"新增：右键菜单""全文搜索""; 多国语言包",2026-01-23
 一键分辨率+缩放,https://getquicker.net/Sharedaction?code=8716179d-e4d2-420f-3bc0-08dd31ec37cf,"利用qres切换指定分辨率,用setdpi设置缩放，不用下载软件了，自带有，只要在右键的设置里设置好分辨率就可以了",通用,lisontowind,https://getquicker.net/User/16764/lisontowind,221.1 KB,2025-01-12 02:03,4,解决指定显示器的BUG。,2026-01-23
-摸鱼浏览器-优化,https://getquicker.net/Sharedaction?code=2d6459f0-93ef-4efe-fae9-08dcf4b7eea3,基于 摸鱼浏览器 做了优化。打开一个浏览器小窗口，根据鼠标位置自动显示/隐藏，快捷键隐藏/关闭,通用,用户l4XG5wFHBQA,https://getquicker.net/User/1141848/%E7%94%A8%E6%88%B7l4XG5wFHBQA,25.8 KB,2024-10-26 08:34,6,"去除标题栏图标和文字
-执行出错时不弹出提示框
-ua增加下拉选项，pc 安卓 ihone",2026-01-23
-空闲自动锁定微信,https://getquicker.net/Sharedaction?code=d472192e-3539-4856-acb1-08de56fccc60,设置空闲时间，到时间后锁定微信，循环监测。,通用,King,https://getquicker.net/User/8188/King,29.5 KB,2026-01-19 22:05,1,调整窗口文字位置,2026-01-23
-任务栏助手,https://getquicker.net/Sharedaction?code=f24a3157-ba28-44cc-1bc4-08de17a53e69,在任务栏上显示一些信息，并替代quicker托盘,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,48.9 KB,2025-10-31 18:06,9,右键加上选项,2026-01-23
-编辑文本,https://getquicker.net/Sharedaction?code=541573dd-482c-4d8f-593e-08db837051fc,随时编辑选中文本或者剪贴板内的文本,通用,Edison8985,https://getquicker.net/User/342391/Edison8985,84.9 KB,2023-07-13 17:29,17,新增：右键将所有窗口移动到前台的功能，方便批量查看,2026-01-23
-调节窗口,https://getquicker.net/Sharedaction?code=c3fee76e-35fd-4f11-0daa-08de4b6226fe,这是一个可以调节窗口大小的动作，它有内置预设（1k、2k、1/2、1/3、2/3）后续有时间添加自定义、添加预设、更多内置预设,通用,北小齐,https://getquicker.net/User/683057/%E5%8C%97%E5%B0%8F%E9%BD%90,112.1 KB,2026-01-05 17:54,4,"新增右键菜单【预设管理】功能，从此以后可以自己添加自己想要的窗口大小和位置了。
-新增设置项【安全模式】开启后窗口过小或过大都会默认调节最多或最小数值",2026-01-23
-窗口贴边,https://getquicker.net/Sharedaction?code=29dfb633-c1c5-45a1-e145-08dca45772b6, 「使任意窗口获得贴边隐藏」,通用,dalou,https://getquicker.net/User/76824/dalou,290.4 KB,2024-07-15 17:32,46,调整：“窗口隐藏”设置优先级高于“瞬间隐藏”特效,2026-01-23
-智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,363.4 KB,2023-01-07 19:44,67,"+【重磅更新】支持无限层级菜单，优化菜单管理逻辑，动作体积缩小13.7%，更流畅的操作体验。
-~开启智能排序时，隐藏用户自行创建的分隔线。",2026-01-23
-递增粘贴,https://getquicker.net/Sharedaction?code=e2ea22bc-0e9c-49b7-7a8b-08de57cf17ab,"按序列输出如“第1章”,“第2章”",通用,xiyue,https://getquicker.net/User/2024/xiyue,14.4 KB,2026-01-20 19:18,1,前后缀和序列号合并到一个窗口输入,2026-01-23
-取面体块,https://getquicker.net/Sharedaction?code=a3acb713-f38c-4d86-8a65-08de0ad0013a,模兔云-板式家具设计模块-绘制范围框,SketchUp Application,BLACK_ROOM,https://getquicker.net/User/964219/BLACK_ROOM,1 KB,2025-10-14 13:29,1,更换名字,2026-01-23
-更换图标,https://getquicker.net/Sharedaction?code=47ac78c2-4ada-42fa-c94b-08dd7c30f6ec,👉更换文件夹图标，内置千款3D图标、精选系统图标，以及可自定义图标文件夹🎉,Windows 资源管理器,独木不成林同学,https://getquicker.net/User/281467/%E7%8B%AC%E6%9C%A8%E4%B8%8D%E6%88%90%E6%9E%97%E5%90%8C%E5%AD%A6,103.6 KB,2025-04-16 13:52,23,修复：右键菜单报错,2026-01-23
