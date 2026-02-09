@@ -1,13 +1,21 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+安全弹出,https://getquicker.net/Sharedaction?code=923deada-90cf-47fa-181a-08de66f7c00a,检查那些进程占用了移动盘符，用于安全弹出的脚本，蒸蚌！,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,7 KB,2026-02-09 10:26,0,,2026-02-09
 2FA令牌,https://getquicker.net/Sharedaction?code=dfba5ba1-4971-45db-60b4-08de6601dc47,两步验证,通用,Simonl,https://getquicker.net/User/134191/Simonl,80.4 KB,2026-02-08 05:35,4,+ 增加搜索功能,2026-02-09
 交换窗口,https://getquicker.net/Sharedaction?code=0397b035-8698-46a6-1803-08de66f7c00a,交换两个窗口的位置和大小,通用,落日星一,https://getquicker.net/User/624819/%E8%90%BD%E6%97%A5%E6%98%9F%E4%B8%80,17.7 KB,2026-02-08 17:52,0,,2026-02-09
 pdf转ofd,https://getquicker.net/Sharedaction?code=b1d66421-2b99-4c89-60ba-08de6601dc47,批量将pdf文件转换成ofd文件，限制3页以内。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,9.2 KB,2026-02-08 12:50,0,,2026-02-09
-PaddleOCR,https://getquicker.net/Sharedaction?code=f04f352f-f937-4805-6092-08de6601dc47,用PaddleOCR的API将PDF文档或图片转成Markdown格式，需至官网申请API,通用,Ranfou,https://getquicker.net/User/108076/Ranfou,53.6 KB,2026-02-07 16:38,2,修复LaTeX公式BUG,2026-02-09
-千问ocr,https://getquicker.net/Sharedaction?code=6b4370b6-686f-4b47-60ae-08de6601dc47,调用千问ocr进行文本识别,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,9.5 KB,2026-02-07 19:16,0,,2026-02-09
-文件整理->文件夹,https://getquicker.net/Sharedaction?code=8456bc6e-0380-4cf5-608b-08de6601dc47,获取根目录子文件夹名字，或输入关键词，根据是否包含关键字整理根目录下文件到子文件夹,Windows 资源管理器,用户l4XG5wFHBQA,https://getquicker.net/User/1141848/%E7%94%A8%E6%88%B7l4XG5wFHBQA,13 KB,2026-02-07 15:27,0,,2026-02-09
-示例：单按键操作,https://getquicker.net/Sharedaction?code=43e2b08f-0f89-4815-acc8-08de65127db3,单个按键触发操作模板,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,12.5 KB,2026-02-07 12:08,1,更新了子程序名字,2026-02-09
-插入页码,https://getquicker.net/Sharedaction?code=b3bc74e4-4f07-48dc-acc5-08de65127db3,"用于在 Word 中插入""第 X 页 共 Y 页""格式的页码",Microsoft Word,钟律师,https://getquicker.net/User/1287061/%E9%92%9F%E5%BE%8B%E5%B8%88,4.1 KB,2026-02-07 11:25,0,,2026-02-09
-高级库,https://getquicker.net/Sharedaction?code=d3658b09-ee87-4aa4-acc4-08de65127db3,"根据相对路径，比如""文件夹名""自动Everything检索路径并打开",通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,21.6 KB,2026-02-07 11:02,4,⭐,2026-02-09
+语音助手,https://getquicker.net/Sharedaction?code=3cb966ae-0e4f-4008-e56d-08dbbca28132,通过语音触发操作，解放双手,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,46.8 KB,2023-09-24 23:48,36,1,2026-02-09
+滚动复制,https://getquicker.net/Sharedaction?code=a4914287-6ebb-49c9-ac8f-08de56fccc60,聊天记录的选择和复制,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,15 KB,2026-01-19 13:09,2,取消复制之后仍然选中状态,2026-02-09
+替换图层,https://getquicker.net/Sharedaction?code=0180ac37-011c-4ec4-39c8-08dd776c5a34,使用剪贴板或图片文件替换选中图层。,Adobe Photoshop,Ray-CD,https://getquicker.net/User/191353/Ray-CD,110.9 KB,2025-04-10 13:52,12,"1、增加智能图层自动选中所有关联副本的配置项。
+2、增加通过链接替换文件后是否将图片嵌入的配置项。
+3、融合动作链接文件选择文件替换的功能。
+4、增加显示进度条功能。
+5、优化选中多个关联的智能对象副本时各个副本图层的大小匹配逻辑。",2026-02-09
+Ai重命名,https://getquicker.net/Sharedaction?code=12e9be8c-937a-40f3-7aa4-08de57cf17ab,集 Ai 重命名、拖拽排序、实时预览、图片预览、多规则联动、一键恢复于一体,通用,Taitun,https://getquicker.net/User/854987/Taitun,405.6 KB,2026-01-21 10:01,15,1.优化预览图片缩略图缓存问题。,2026-02-09
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,783.4 KB,2025-08-18 21:14,38,一点小bug修复,2026-02-09
+用微信搜索4.0,https://getquicker.net/Sharedaction?code=02549d83-d209-4002-8390-08de32351942,(适配微信4.0)  选中的文本或者链接，直接打开微信搜一下。或者使用微信浏览器打开网址,Weixin,卓尔伤,https://getquicker.net/User/476508/%E5%8D%93%E5%B0%94%E4%BC%A4,38.7 KB,2025-12-04 13:15,4,"增加搜索候选词的偏移量设置。
+-右键菜单选择配置选项。之后会自动搜索，观察鼠标停留位置是否为候选词第一项。
+-然后按键盘N键，即可继续，设置偏移量。
+-如果位置不对，可以修改变量《偏移量》。数值越大，点选位置越偏下。",2026-02-09
 截图,https://getquicker.net/Sharedaction?code=c0310cb9-f725-4cff-f8e3-08dd0fae75f2,丝滑切15种截图命令/长截图/GIF/识别/Snipaste/PixPin/Quicker,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,286.8 KB,2024-11-28 21:13,68,子程序升级,2026-02-09
 极速预览,https://getquicker.net/Sharedaction?code=a2586cea-0743-449b-33a9-08db8f27f1ea,一键速览图片/音频/表格/视频/doc文档/PDF/CAD/电子书等(可在Everything调用QuickLook预览),通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,204.9 KB,2023-07-28 23:43,126,赋予ai能力,2026-02-09
 截图识别,https://getquicker.net/Sharedaction?code=0e89ae52-7dcf-446a-a133-08dc6ffecc18,20种识别模式/百度/PixPin/追加识别叠加/AI识别/60种文本处理联动功能,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,301.3 KB,2024-05-09 20:07,176,⭐,2026-02-09
@@ -17,23 +25,7 @@ AD-搜启动2.0,https://getquicker.net/Sharedaction?code=2f74b946-5cc2-4e47-acbd
 AI多语言翻译并替换,https://getquicker.net/Sharedaction?code=e1515753-5e22-4e79-8ed4-08dcaeb3ff7a,使用前请自行设置快捷键并配置相关API，使用方法：“聊天框输入中文，然后按下快捷键后自动替换英文”,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,323.7 KB,2024-07-29 11:11,18,-更新了全新的设置UI,2026-02-09
 Portable,https://getquicker.net/Sharedaction?code=81ecee3b-ff96-42f3-0747-08dd9a5f05c7,便携软件自动化无感更新,通用,Poto,https://getquicker.net/User/137838/Poto,82.8 KB,2025-05-25 04:34,8,新增 当前检测到的压缩包名字提示,2026-02-09
 ofd转pdf,https://getquicker.net/Sharedaction?code=fd479484-2427-481e-ac7f-08de65127db3,批量将ofd文件转换成pdf文件，轻量高效，免费开源，Quicker首发,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,13.9 KB,2026-02-06 08:43,1,增加设置,2026-02-09
+PaddleOCR,https://getquicker.net/Sharedaction?code=f04f352f-f937-4805-6092-08de6601dc47,用PaddleOCR的API将PDF文档或图片转成Markdown格式，需至官网申请API,通用,Ranfou,https://getquicker.net/User/108076/Ranfou,53.6 KB,2026-02-07 16:38,2,修复LaTeX公式BUG,2026-02-09
 AI-OCR识别,https://getquicker.net/Sharedaction?code=64f46959-63e3-43bc-1981-08dd32d69a62,使用大模型的多模态能力进行OCR识别,通用,车站里的守望者,https://getquicker.net/User/140826/%E8%BD%A6%E7%AB%99%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85,151.5 KB,2025-01-13 13:40,10,"-更新了UI
 -更新anthropic、gemini",2026-02-09
 空格替换为下划线(正则化文件名),https://getquicker.net/Sharedaction?code=850a0304-a90b-4c42-dd6e-08de5f5d8364,将选中的目录下的文件名或者目录名中的空格替换为下划线和去掉中文标点符号,Windows 资源管理器,sithphil,https://getquicker.net/User/775422/sithphil,6.2 KB,2026-01-30 22:40,2,去掉路径中的去掉中文标点符号和增加日志输出,2026-02-09
-AI聊天助手,https://getquicker.net/Sharedaction?code=857139f5-90c6-4ddf-a7f5-08dd8c3aed7e,AI智能助手，辅助聊天，再也不用担心嘴笨了,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,375.9 KB,2025-05-07 05:51,19,"~增加ai调用接收回复超时等待时间，以修复使用网页转API动作时ai回复未正常接收问题,感谢@海崖 的反馈;
-~个别设置项优化。",2026-02-09
-快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,li1qqq,https://getquicker.net/User/945817/li1qqq,207.1 KB,2025-12-01 07:22,23,"~.修复切换窗口无法触发自动跳转的bug
-~.修复可能实例卡死在吸附窗口的bug",2026-02-09
-备忘快贴,https://getquicker.net/Sharedaction?code=674b7b80-59c5-4755-e39b-08de5e765ac6,备忘录、快速复制内容,通用,Simonl,https://getquicker.net/User/134191/Simonl,161.9 KB,2026-01-29 16:40,12,"+ 增加自动备份数据到云端（检测数据有变化才会备份）
-* 修复Markdown表格对齐语法不生效bug
-* 批量管理>导出txt；导出内容从原来的Markdown转换为HTML后再提取文本改为原始Markdown格式，方便再次导入
-+ 增加隐藏侧边栏按钮
-- 去掉右边功能栏，改为悬浮图标，以腾出更多空间给内容显示",2026-02-09
-智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,371.9 KB,2023-01-07 19:44,78,~修复在离线网络环境下且开启了云同步功能后，参数设置不生效的问题。,2026-02-09
-AI聚合助手,https://getquicker.net/Sharedaction?code=040d76f3-48a1-460f-b90f-08de4e48236b,便捷地实现同时向kimi、豆包、deepseek等提问,通用,craming,https://getquicker.net/User/612045/craming,157.5 KB,2026-01-08 15:28,10,修复一个小bug,2026-02-09
-培训考试,https://getquicker.net/Sharedaction?code=a4a00c76-81cd-40f2-7526-08de605bf54f,本地文件题库/批量操作/自动计算分数/自动导出错题PDF,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,293.8 KB,2026-01-31 14:01,19,⭐优化,2026-02-09
-PS调色蒙版助手,https://getquicker.net/Sharedaction?code=2d80a5a7-1b8d-4a90-98cf-08de110bce16,PS调色，色相/饱和度，色阶，亮度/对比度，曲线,Adobe Photoshop,Cyen,https://getquicker.net/User/1184478/Cyen,55.7 KB,2025-10-22 22:48,3,更新了已知问题,2026-02-09
-批量原位粘贴,https://getquicker.net/Sharedaction?code=1f193c72-e477-4630-0840-08de30674cc6,适用于(批量给每个文档添加水印、logo、促销框等场景),Adobe Photoshop,Cyen,https://getquicker.net/User/1184478/Cyen,39.9 KB,2025-12-01 10:27,7,更新了已知问题,2026-02-09
-替换图层,https://getquicker.net/Sharedaction?code=0180ac37-011c-4ec4-39c8-08dd776c5a34,使用剪贴板替换选中图层,Adobe Photoshop,Ray-CD,https://getquicker.net/User/191353/Ray-CD,87.3 KB,2025-04-10 13:52,11,"配置项中增加宽高相同的匹配方式，强制拉伸宽度和高度都与原图一致，不保持比例。
-优化替换逻辑，当被替换图层有剪贴蒙版大小位置会以蒙版图层为准。当被替换图层有图层样式，如果用于替换的图层没有图层样式会在被替换后恢复被替换图层的图层样式。",2026-02-09
-PS快捷导出助手2.0,https://getquicker.net/Sharedaction?code=d1f40a07-9815-40e6-0bc2-08dd8eff6b2a,无弹窗静默导出图片，支持图层，选区，批量导出等多种功能等你探索,Adobe Photoshop,Cyen,https://getquicker.net/User/1184478/Cyen,138 KB,2025-05-10 16:15,8,v2.3修复了一些已知问题,2026-02-09
