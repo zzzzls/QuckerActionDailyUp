@@ -1,0 +1,10 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+发射邮箱,https://getquicker.net/Sharedaction?code=1604bb17-5409-40f3-be1e-08de6ebaab1b,快捷弹射邮箱,通用,Poto,https://getquicker.net/User/137838/Poto,6.4 KB,2026-02-19 03:09,0,,2026-02-19
+DDS信息,https://getquicker.net/Sharedaction?code=98c4ae9d-dd00-43af-be17-08de6ebaab1b,快速查看dds图片信息,Windows 资源管理器,xqfa,https://getquicker.net/User/170672/xqfa,16.1 KB,2026-02-18 15:34,0,,2026-02-19
+DDS转换,https://getquicker.net/Sharedaction?code=d5a47eb6-e090-4899-be16-08de6ebaab1b,将选中图片转换为指定dds格式图片,Windows 资源管理器,xqfa,https://getquicker.net/User/170672/xqfa,15.5 KB,2026-02-18 15:25,0,,2026-02-19
+百度OCR,https://getquicker.net/Sharedaction?code=438404ff-fa90-47ef-eae9-08de6df8a22f,截图文字识别后自动复制到粘贴板,通用,iyyy,https://getquicker.net/User/793368/iyyy,63.3 KB,2026-02-17 15:46,0,,2026-02-19
+AI-Box,https://getquicker.net/Sharedaction?code=6dbcdd32-e822-417b-95b2-08ddaa822a5c,自动化白嫖 AI 官网~✨（DeepSeek、豆包、通义千问、Kimi）,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,389.2 KB,2025-06-14 11:02,10,"- 【修复】修复网页选择器失效的问题
+- 【更改】更新了通义千问的官网地址，❗故需要在右键菜单设置里重新勾选该AI❗",2026-02-19
+ChatAI,https://getquicker.net/Sharedaction?code=1cd157f5-026d-4079-f125-08dd4113b69a,📸图文提问，👆划词即答，ChatAI🤖让知识触手可及，效率大幅提升！🚀（一键调用 DeepSeek、ChatGPT、Gemini、Kimi、Qwen、Siliconflow 等 AI 大模型）,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,802.4 KB,2025-01-31 21:22,70,"  【修改】角色提示词可留空
+  【删除】清除过时的内置AI模型并追加最新模型
+  tip：硅基流动有免费的OCR模型，效果还不错，创建角色提示词时留空即可",2026-02-19
