@@ -1,0 +1,22 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+放大镜,https://getquicker.net/Sharedaction?code=2daaa3ab-5242-46e2-10ad-08de6fb09c44,放大鼠标所在位置，更清晰直观，最好用的放大镜。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,36.5 KB,2026-02-19 21:14,2,增加抗锯齿选项,2026-02-21
+屏幕标尺,https://getquicker.net/Sharedaction?code=7a09d5bf-4d0c-4788-be26-08de6ebaab1b,在屏幕上显示一把直尺，测量水平和垂直方向的长度以及任意两点的长度,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,109.8 KB,2026-02-19 16:52,1,增加放大镜窗口大小设置，增加信息窗口高度设置，增加放大倍数设置。,2026-02-21
+一键呼出/隐藏特定网页 (如DeepSeek),https://getquicker.net/Sharedaction?code=82b4cdee-851c-4304-be29-08de6ebaab1b,配合全局快捷键，一键显示、隐藏或跳转至指定的专属网页（如DeepSeek、翻译等），避免重复打开标签页，大幅提升效率！,通用,neko猫,https://getquicker.net/User/1215028/neko%E7%8C%AB,13.2 KB,2026-02-19 18:07,0,,2026-02-21
+网页转换二维码,https://getquicker.net/Sharedaction?code=9a68a8b2-f09b-41cf-be20-08de6ebaab1b,运行后生成当前网址的二维码,Microsoft Edge,Quicker大王,https://getquicker.net/User/554614/Quicker%E5%A4%A7%E7%8E%8B,2.3 KB,2026-02-19 09:36,0,,2026-02-21
+百度OCR,https://getquicker.net/Sharedaction?code=438404ff-fa90-47ef-eae9-08de6df8a22f,截图文字识别后自动复制到粘贴板,通用,iyyy,https://getquicker.net/User/793368/iyyy,69.1 KB,2026-02-17 15:46,1,"1.bug修复和运行速度提升；
+2.优化连续截图功能，直接单击右键取消；
+3.优化识别结果展示；
+4.更换新图标。
+",2026-02-21
+Translator,https://getquicker.net/Sharedaction?code=04393db9-f4bc-4871-7fb6-08db2506d1ed,19种服务聚合翻译。极致UI！AI、免费DeepL、谷歌镜像；划词、截图、输入、语音翻译/查词,通用,zryan,https://getquicker.net/User/539621/zryan,653.1 KB,2023-03-16 00:45,57,"1. 优化：更新三家 AI 服务的模型可选项至最新
+【近期更新】修复 DeepL、Bing、youdao 翻译服务，整合重构所有翻译服务
+【公告：时隔一年恢复更新，会慢慢修复问题并优化体验，更新有bug欢迎反馈】",2026-02-21
+鼠标手势,https://getquicker.net/Sharedaction?code=19352500-a549-4e09-6a9a-08de6caa2cb9,多按键鼠标手势，仿Quicker原生功能,通用,dalou,https://getquicker.net/User/76824/dalou,234.7 KB,2026-02-16 14:46,3,"优化：
+
+1.修复手势录制窗口，相似提醒窗口卡片无箭头情况，同步识别算法；
+
+2.修复卡片检索（Ctrl+F）徽标有数字但没有实际卡片，过滤内置卡片（鼠标按键）；
+
+3.按键触发面板补充右键 + 排除相应手势触发键",2026-02-21
+文件变动监控,https://getquicker.net/Sharedaction?code=ee7e01c6-306d-4642-cd27-08de6ac38f85,持续监控指定文件夹新增/变动的文件\n单击打开，自动复制到剪贴板，Ctrl+单击定位文件,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,108.3 KB,2026-02-14 15:40,1,修复文件夹识别问题,2026-02-21
+Latex变红,https://getquicker.net/Sharedaction?code=6b01ca0b-ee49-42f2-ae06-08de6bb9ccc4,给选中的添加变红的指令,Google Chrome,收到风,https://getquicker.net/User/241036/%E6%94%B6%E5%88%B0%E9%A3%8E,3.8 KB,2026-02-14 22:26,1,改成使用c#代码,2026-02-21
