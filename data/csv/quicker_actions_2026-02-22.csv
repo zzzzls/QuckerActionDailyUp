@@ -1,0 +1,18 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Quicker分身,https://getquicker.net/Sharedaction?code=19413a4b-a0ce-4b64-878c-08de70ae2941,基于手机协议，不支持右键功能，让quicker支持贴边隐藏只显示全局或通用组.,通用,zdf153,https://getquicker.net/User/20184/zdf153,833.9 KB,2026-02-21 13:20,3,"修复参数备份bug
+",2026-02-23
+PotoT,https://getquicker.net/Sharedaction?code=6f2b6c35-f575-458d-8792-08de70ae2941,高智能 AI 翻译,通用,Poto,https://getquicker.net/User/137838/Poto,156.5 KB,2026-02-21 19:03,3,优化 初次使用时单独弹窗输入 API,2026-02-23
+快速调试,https://getquicker.net/Sharedaction?code=ca0cb308-cfdb-40c6-878d-08de70ae2941,动作调试，支持历史记录和自动获取动作id,Quicker,li1qqq,https://getquicker.net/User/945817/li1qqq,35.9 KB,2026-02-21 14:36,0,,2026-02-23
+千问ocr,https://getquicker.net/Sharedaction?code=6b4370b6-686f-4b47-60ae-08de6601dc47,调用千问ocr进行文本识别,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,6.3 KB,2026-02-07 19:16,1,自带模块,2026-02-23
+文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,129.4 KB,2023-09-07 09:28,108,xaml,2026-02-23
+Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,最好用的(本地文件)搜索神器/AI搜索/搜索速度吓死你/180搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,390.6 KB,2023-03-25 00:27,315,"支持后台启动参数为""HT""",2026-02-23
+培训考试,https://getquicker.net/Sharedaction?code=a4a00c76-81cd-40f2-7526-08de605bf54f,本地文件题库/批量操作/自动计算分数/自动导出错题PDF,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,380 KB,2026-01-31 14:01,41,⭐,2026-02-23
+DeepSeek网页转API,https://getquicker.net/Sharedaction?code=1ee89389-2e3e-4a77-c23f-08de3147f78a,将 DeepSeek 网页转化为标准的 OpenAI API 本地服务。支持 R1 深度思考、流式输出 (SSE)，可让 ChatBox、NextChat 等第三方客户端直接调用网页版免费额度。,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,252.6 KB,2025-12-02 18:30,16,增加对非流式响应的支持,2026-02-23
+Caps纯文本,https://getquicker.net/Sharedaction?code=528a3c63-d1c3-4349-4cca-08dae7c52912,将CapsLock重新映射为纯文本粘贴,通用,myhan,https://getquicker.net/User/467528/myhan,3 KB,2022-12-28 10:03,1,添加右键菜单：解除Capslock锁定。,2026-02-23
+锁定微信,https://getquicker.net/Sharedaction?code=e9b6da03-a1c5-4d99-d392-08db43d93bc1,请使用微信新版本（不支持旧版本 < 4.0）,Weixin,Petercode,https://getquicker.net/User/400506/Petercode,5.6 KB,2023-04-23 21:22,1,"~.不在适配原来的wechat
+~.需要自己设置锁定快捷键为 Ctrl + L，如果该键有冲突自己修改动作定义
++.再次运行动作会点击在手机解锁按钮",2026-02-23
+视频速剪,https://getquicker.net/Sharedaction?code=ab95f91b-9821-41f2-3814-08de090665ba,轻量级可视化视频剪辑工具，配合FFmpeg无损「切片」与「合并」，从未如此高效。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,324.6 KB,2025-10-12 10:42,13,~ 优化HTML面板功能,2026-02-23
+视频裁剪工具,https://getquicker.net/Sharedaction?code=9d9e1b8c-1b2e-45e4-3d24-08de5ba98da7,本动作功能需要配置 FFmpeg 环境,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,169.9 KB,2026-01-25 13:01,1,~ 优化,2026-02-23
+屏幕标尺,https://getquicker.net/Sharedaction?code=7a09d5bf-4d0c-4788-be26-08de6ebaab1b,在屏幕上显示一把直尺，测量水平和垂直方向的长度以及任意两点的长度,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,115.3 KB,2026-02-19 16:52,2,"增加两点距离测量时候键盘控制
+窗口尺寸大小不再按照像素设置，改为毫米尺寸",2026-02-23
