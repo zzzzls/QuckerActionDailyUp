@@ -1,18 +1,25 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-Quicker分身,https://getquicker.net/Sharedaction?code=19413a4b-a0ce-4b64-878c-08de70ae2941,基于手机协议，不支持右键功能，让quicker支持贴边隐藏只显示全局或通用组.,通用,zdf153,https://getquicker.net/User/20184/zdf153,833.9 KB,2026-02-21 13:20,3,"修复参数备份bug
-",2026-02-23
-PotoT,https://getquicker.net/Sharedaction?code=6f2b6c35-f575-458d-8792-08de70ae2941,高智能 AI 翻译,通用,Poto,https://getquicker.net/User/137838/Poto,156.5 KB,2026-02-21 19:03,3,优化 初次使用时单独弹窗输入 API,2026-02-23
-快速调试,https://getquicker.net/Sharedaction?code=ca0cb308-cfdb-40c6-878d-08de70ae2941,动作调试，支持历史记录和自动获取动作id,Quicker,li1qqq,https://getquicker.net/User/945817/li1qqq,35.9 KB,2026-02-21 14:36,0,,2026-02-23
+屏幕角度尺,https://getquicker.net/Sharedaction?code=e153c2ba-6360-4ac2-d32e-08de71c13f07,测量屏幕角度，精准高效，方便实用。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,18 KB,2026-02-22 11:40,0,,2026-02-23
+制单💠工具,https://getquicker.net/Sharedaction?code=cb4f880e-0c17-4a48-10a6-08ddd7c1daf0,专门用来制作喜马专辑和听单的，提升效率,喜马拉雅,清香客,https://getquicker.net/User/762509/%E6%B8%85%E9%A6%99%E5%AE%A2,286.7 KB,2025-08-10 20:17,30,优化了设置项，增加了使用UID操作，速度更快更精准！,2026-02-23
+PDF小工具,https://getquicker.net/Sharedaction?code=e0872ced-fa64-425a-57b5-08dac0d38e97,批量PDF分割、合并、转图片、转HTML，删除、提取PDF页码；文档、图片转PDF,Windows 资源管理器,ZTOA10,https://getquicker.net/User/234516/ZTOA10,259.3 KB,2022-11-08 14:33,30,放开编辑权限，就这样吧,2026-02-23
+鼠标手势,https://getquicker.net/Sharedaction?code=19352500-a549-4e09-6a9a-08de6caa2cb9,多按键鼠标手势，仿Quicker原生功能,通用,dalou,https://getquicker.net/User/76824/dalou,257 KB,2026-02-16 14:46,4,"1.新增「模拟按键」操作：按住手势键期间持续按住目标键，松开即释放，适合临时按住 Ctrl / Shift 等修饰键；
+2.新增「右键菜单」操作：一键还原右键单击，右键用作手势触发键时也能方便弹出原生右键菜单；
+3.新增「重复触发」：按键触发模式下可连续按键重复执行同一操作，无需重新绘制手势；
+4.修复输入焦点保持：手势操作期间不再丢失输入光标，可流畅配合文本编辑使用；
+5.优化鼠标按键检测：重构底层检测机制，提升手势识别性能与响应速度；
+6.调整内置选择面板：动作选择与按键配置改用内置弹窗，替代官方选择器，使用体验更一致。",2026-02-23
+Gemini网页转API,https://getquicker.net/Sharedaction?code=54037596-7003-47cb-dca5-08de3bb54158,将Gemini网页转化为标准的 OpenAI API 本地服务。支持流式输出 (SSE)，可让 ChatBox、NextChat 等第三方客户端直接调用网页版免费额度。,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,240.2 KB,2025-12-16 09:32,16,优化传输性能，更稳健,2026-02-23
+玻璃云笔记,https://getquicker.net/Sharedaction?code=090995aa-caf4-404f-c5d1-08de3e8d8685,颜值极高、本地优先、自动云同步的轻量级 Markdown 笔记。,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,328.2 KB,2025-12-19 11:44,15,图片可预览,2026-02-23
+WPS缩放图片,https://getquicker.net/Sharedaction?code=81605f96-18cd-4ec2-f1fd-08ddeab4f569,将打开的wps文件里面的图片进行缩放，包括xls，doc，ppt,WPS Office,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,18.9 KB,2025-09-04 08:27,2,PPT的ｃｏｍ接口更新,2026-02-23
 千问ocr,https://getquicker.net/Sharedaction?code=6b4370b6-686f-4b47-60ae-08de6601dc47,调用千问ocr进行文本识别,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,6.3 KB,2026-02-07 19:16,1,自带模块,2026-02-23
 文本记事,https://getquicker.net/Sharedaction?code=e9fac45b-ec54-497d-99d8-08dbaf28f11c,文本化编辑，可调用模型进行连续对话,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,129.4 KB,2023-09-07 09:28,108,xaml,2026-02-23
+在VSCode中打开,https://getquicker.net/Sharedaction?code=4a2f5662-f17c-4eb4-fad0-08dcf4b7eea3,可以用快速搜索打开VSCode工作区,Visual Studio Code,Emptylight,https://getquicker.net/User/1161607/Emptylight,59.5 KB,2024-10-25 15:29,13,refactor:微调配置删除列表的逻辑，修没修好的再说,2026-02-23
+Quicker分身,https://getquicker.net/Sharedaction?code=19413a4b-a0ce-4b64-878c-08de70ae2941,基于手机协议，不支持右键功能，让quicker支持贴边隐藏只显示全局或通用组.,通用,zdf153,https://getquicker.net/User/20184/zdf153,833.9 KB,2026-02-21 13:20,3,"修复参数备份bug
+",2026-02-23
 Everything,https://getquicker.net/Sharedaction?code=ccc1805d-3d04-42a1-d9ef-08db2ba80230,最好用的(本地文件)搜索神器/AI搜索/搜索速度吓死你/180搜索术语,Everything,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,390.6 KB,2023-03-25 00:27,315,"支持后台启动参数为""HT""",2026-02-23
 培训考试,https://getquicker.net/Sharedaction?code=a4a00c76-81cd-40f2-7526-08de605bf54f,本地文件题库/批量操作/自动计算分数/自动导出错题PDF,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,380 KB,2026-01-31 14:01,41,⭐,2026-02-23
+PotoT,https://getquicker.net/Sharedaction?code=6f2b6c35-f575-458d-8792-08de70ae2941,高智能 AI 翻译,通用,Poto,https://getquicker.net/User/137838/Poto,156.5 KB,2026-02-21 19:03,3,优化 初次使用时单独弹窗输入 API,2026-02-23
+百度OCR,https://getquicker.net/Sharedaction?code=438404ff-fa90-47ef-eae9-08de6df8a22f,截图文字识别后自动复制到粘贴板,通用,iyyy,https://getquicker.net/User/793368/iyyy,67.5 KB,2026-02-17 15:46,2,小优化,2026-02-23
+搜索收藏夹,https://getquicker.net/Sharedaction?code=b31ac9e4-8442-46bd-9014-08db7a0bdd0c,用于快速搜索edge浏览器收藏项目,Microsoft Edge,iyyy,https://getquicker.net/User/793368/iyyy,1.3 KB,2023-07-01 16:56,1,适应性更新,2026-02-23
 DeepSeek网页转API,https://getquicker.net/Sharedaction?code=1ee89389-2e3e-4a77-c23f-08de3147f78a,将 DeepSeek 网页转化为标准的 OpenAI API 本地服务。支持 R1 深度思考、流式输出 (SSE)，可让 ChatBox、NextChat 等第三方客户端直接调用网页版免费额度。,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,252.6 KB,2025-12-02 18:30,16,增加对非流式响应的支持,2026-02-23
 Caps纯文本,https://getquicker.net/Sharedaction?code=528a3c63-d1c3-4349-4cca-08dae7c52912,将CapsLock重新映射为纯文本粘贴,通用,myhan,https://getquicker.net/User/467528/myhan,3 KB,2022-12-28 10:03,1,添加右键菜单：解除Capslock锁定。,2026-02-23
-锁定微信,https://getquicker.net/Sharedaction?code=e9b6da03-a1c5-4d99-d392-08db43d93bc1,请使用微信新版本（不支持旧版本 < 4.0）,Weixin,Petercode,https://getquicker.net/User/400506/Petercode,5.6 KB,2023-04-23 21:22,1,"~.不在适配原来的wechat
-~.需要自己设置锁定快捷键为 Ctrl + L，如果该键有冲突自己修改动作定义
-+.再次运行动作会点击在手机解锁按钮",2026-02-23
-视频速剪,https://getquicker.net/Sharedaction?code=ab95f91b-9821-41f2-3814-08de090665ba,轻量级可视化视频剪辑工具，配合FFmpeg无损「切片」与「合并」，从未如此高效。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,324.6 KB,2025-10-12 10:42,13,~ 优化HTML面板功能,2026-02-23
-视频裁剪工具,https://getquicker.net/Sharedaction?code=9d9e1b8c-1b2e-45e4-3d24-08de5ba98da7,本动作功能需要配置 FFmpeg 环境,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,169.9 KB,2026-01-25 13:01,1,~ 优化,2026-02-23
-屏幕标尺,https://getquicker.net/Sharedaction?code=7a09d5bf-4d0c-4788-be26-08de6ebaab1b,在屏幕上显示一把直尺，测量水平和垂直方向的长度以及任意两点的长度,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,115.3 KB,2026-02-19 16:52,2,"增加两点距离测量时候键盘控制
-窗口尺寸大小不再按照像素设置，改为毫米尺寸",2026-02-23
