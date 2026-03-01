@@ -1,8 +1,17 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+裁切图片,https://getquicker.net/Sharedaction?code=738c65ec-f087-4082-4e48-08de774f968b,指定比例裁切图片,通用,zdf153,https://getquicker.net/User/20184/zdf153,14.2 KB,2026-03-01 16:52,3,指定比例裁切图片,2026-03-01
+窗口增强,https://getquicker.net/Sharedaction?code=738ad939-84f8-47cd-4e44-08de774f968b,增强文本窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,36.9 KB,2026-03-01 15:56,2,事件触发,2026-03-01
+屏幕标注,https://getquicker.net/Sharedaction?code=76b0fd9a-8a69-4c4f-00cb-08de76672e1f,"屏幕标注工具,为演示、教学、远程协作设计。",通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,31.2 KB,2026-02-28 12:39,1,修复模式切换按钮点击中间失效的问题,2026-03-01
+wps去只读,https://getquicker.net/Sharedaction?code=0ebad0d5-8ab1-41fe-00e4-08de76672e1f,打开中的wps去只读,通用,若雨啦,https://getquicker.net/User/995582/%E8%8B%A5%E9%9B%A8%E5%95%A6,13.4 KB,2026-02-28 21:48,0,,2026-03-01
+MD与Docx互转,https://getquicker.net/Sharedaction?code=c1e4f757-e2b8-4791-00da-08de76672e1f,使用 pandoc 将 Word 文档转换为 Markdown，或将 Markdown 转换为 Word 文档。,通用,rxnwin,https://getquicker.net/User/60295/rxnwin,10.2 KB,2026-02-28 16:42,0,,2026-03-01
 柯林斯词典,https://getquicker.net/Sharedaction?code=ea0101af-273a-43fe-00c3-08de76672e1f,专业词典查询,通用,白起1996,https://getquicker.net/User/305953/%E7%99%BD%E8%B5%B71996,432 B,2026-02-28 11:02,0,,2026-03-01
-巴德造大档,https://getquicker.net/Sharedaction?code=2dbf1870-c8bc-46fb-1a68-08de7599f16e,快速创建大文件,通用,Bader,https://getquicker.net/User/135289/Bader,3.5 KB,2026-02-27 15:15,0,,2026-03-01
-bs64转文本,https://getquicker.net/Sharedaction?code=8d3dd292-1ad0-4834-1a64-08de7599f16e,将bs64列表转为文本,通用,木占干易,https://getquicker.net/User/606468/%E6%9C%A8%E5%8D%A0%E5%B9%B2%E6%98%93,3.7 KB,2026-02-27 12:58,0,,2026-03-01
+标题一键制卡,https://getquicker.net/Sharedaction?code=c9cf4c2c-a603-4603-f171-08dd017145d1,根据标题一键制作闪卡,SiYuan,Runos,https://getquicker.net/User/250742/Runos,34.9 KB,2024-11-11 14:29,3,替换获取token的公共动作,2026-03-01
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,376 KB,2023-01-07 19:44,82,"~优化添加菜单界面细节。
+~优化添加、更新菜单后，清除对象中值为空的字段，尽可能压缩数据体积。
++新增“值”字段，一键获取网址的按钮。",2026-03-01
 QK扳手,https://getquicker.net/Sharedaction?code=f10c350a-f5cf-4726-543d-08de40f9c963,配合quicker-skill安装动作,Antigravity,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,146.5 KB,2025-12-22 17:59,15,更友好的提示,2026-03-01
+表格的工作表重命名,https://getquicker.net/Sharedaction?code=ed0f1246-6200-48e5-8e12-08de623a42b1,批量修改表格文件的工作表（sheet）名称，打开或未打开状态都可以,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,41.6 KB,2026-02-03 21:00,3,修复只有一个sheet表重命名乱码的问题,2026-03-01
+解除网页复制锁定,https://getquicker.net/Sharedaction?code=2837613a-4195-4942-b68c-08dd683b6942,"解除网页锁定,右键锁定,菜单锁定",Google Chrome,暖暖~,https://getquicker.net/User/595242/%E6%9A%96%E6%9A%96~,3.1 KB,2025-03-21 13:44,1,提示有些问题. 有些本来成功的也会提示失败. 解决这个提示问题,2026-03-01
 鼠标手势,https://getquicker.net/Sharedaction?code=19352500-a549-4e09-6a9a-08de6caa2cb9,多按键鼠标手势，仿Quicker原生功能,通用,dalou,https://getquicker.net/User/76824/dalou,291.5 KB,2026-02-16 14:46,7,新增：官方手势导入功能，一键导入官方手势配置到所选的按键卡片区域。,2026-03-01
 标签页分组,https://getquicker.net/Sharedaction?code=1d7d1a49-5a43-4176-ddad-08de2211a7a5,浏览器标签页自动归类到指定的标签组中，右键动作支持管理标签组配置,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,54.8 KB,2025-11-13 15:52,8,+新增自动排序功能，根据用户配置的网址顺序排序。,2026-03-01
 快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,li1qqq,https://getquicker.net/User/945817/li1qqq,230.2 KB,2025-12-01 07:22,27,~.修复每次启动报错类型已经注册的问题,2026-03-01
@@ -11,6 +20,10 @@ PS快捷导出助手2.0,https://getquicker.net/Sharedaction?code=d1f40a07-9815-4
 	1.1：弹出文件夹窗口选文件夹
 	1.2：可以直接导出当前打开的文件夹里面的PSD
 2.补充了指定路径功能里面的右键配置选项",2026-03-01
+根据条件批量合并工作表-跨表,https://getquicker.net/Sharedaction?code=306a8d1a-a2d4-48fd-f299-08dc63a5522a,根据条件和选定的文件夹，合并带特定字符的文件至选定文件件。代码附解释，可自定义合并的范围和判断条件,WPS Office,蠢人灵机一动,https://getquicker.net/User/675682/%E8%A0%A2%E4%BA%BA%E7%81%B5%E6%9C%BA%E4%B8%80%E5%8A%A8,10.1 KB,2024-04-24 18:00,5,"跨表格合并，
+更新合并结果存放位置==>文件所在文件夹
+顺序按照资源管理器的顺序==>方便检查",2026-03-01
+Paddle OCR,https://getquicker.net/Sharedaction?code=f04f352f-f937-4805-6092-08de6601dc47,用PaddleOCR的API将PDF文档或图片转成Markdown格式，需至官网申请API,通用,Ranfou,https://getquicker.net/User/108076/Ranfou,57.4 KB,2026-02-07 16:38,5,更改设置中的表述,2026-03-01
 超级新建,https://getquicker.net/Sharedaction?code=cb7efc3b-e7cd-46c7-4a0d-08de61439f50,拖拽移入、目录结构导入、预设模板多端同步、四式分层,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,106.8 KB,2026-02-02 09:48,4,1.优化窗口右键的存为模板。,2026-03-01
 Ai重命名,https://getquicker.net/Sharedaction?code=12e9be8c-937a-40f3-7aa4-08de57cf17ab,集 Ai 重命名、拖拽排序、实时预览、图片预览、多规则联动、一键恢复于一体,通用,Taitun,https://getquicker.net/User/854987/Taitun,405.6 KB,2026-01-21 10:01,16,1.优化窗口右键的联动模型。,2026-03-01
 剪贴板,https://getquicker.net/Sharedaction?code=e573ba70-28f8-4977-4f6a-08de2d75a2ca,WASD极速导航 | 收藏云同步 | 临时置顶 | 图片预览 | 一键收藏 | 零秒启动,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,141.4 KB,2025-11-27 23:40,41,修复错误,2026-03-01
@@ -18,11 +31,3 @@ Ai重命名,https://getquicker.net/Sharedaction?code=12e9be8c-937a-40f3-7aa4-08d
 窗口面板,https://getquicker.net/Sharedaction?code=e04ed4ad-f4b2-4609-ac92-08da5b516573,用于聚焦当前任务的窗口面板。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,476.9 KB,2022-07-02 20:27,181,~. 支持备份主要数据。,2026-03-01
 任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,371.5 KB,2025-05-19 09:05,36,"增加自动上传（只要数据或者设置有修改，就自动上传到云）
 每天首次自动恢复数据",2026-03-01
-宫格切图,https://getquicker.net/Sharedaction?code=6a4a8982-2032-4e9a-78e0-08dba8aeb64e,"自定义等比批量分割图片, 常用于制作九宫格",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,22 KB,2023-08-30 16:41,8,fix,2026-03-01
-窗口批量居中,https://getquicker.net/Sharedaction?code=a975cd88-e74e-4b0d-28a9-08de1f39c81f,将屏幕以外的所有窗口移动到主屏幕中间去，用于解决更换显示器等情况下导致窗口在屏幕外的情况\n按住Ctrl可指定单独窗口,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,12.7 KB,2025-11-09 23:37,2,"+
-按住Ctrl运行动作可指定居中某窗口",2026-03-01
-文档合并,https://getquicker.net/Sharedaction?code=3fdc08b2-026e-4bfa-8df2-08de623a42b1,将word，excel，ppt类多个文件合并成一个,WPS Office,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,42.7 KB,2026-02-03 11:23,1,增加选中的文件判断逻辑，将只有单个文件和不符合条件的文件路径删除。,2026-03-01
-书式助手,https://getquicker.net/Sharedaction?code=efc95a3a-b6e6-4793-023a-08dd1eefe9dc,一键生成/下载知产申请常用的标准书式。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,173.2 KB,2024-12-18 10:16,25,修复bug,2026-03-01
-文件变动监控,https://getquicker.net/Sharedaction?code=ee7e01c6-306d-4642-cd27-08de6ac38f85,持续监控指定文件夹新增/变动的文件\n单击打开，自动复制到剪贴板，Ctrl+单击定位文件,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,115.5 KB,2026-02-14 15:40,4,1,2026-03-01
-WPS导出图片,https://getquicker.net/Sharedaction?code=1eaabd53-292d-4e1d-c243-08de3147f78a,批量从wps或者office文件里面导出图片，包括表格，文字，演示文稿,WPS Office,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,48.8 KB,2025-12-02 21:41,3,新增powershell转换内核,2026-03-01
-超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,850.6 KB,2025-08-18 21:14,41,悬停操作窗显示错误问题,2026-03-01
