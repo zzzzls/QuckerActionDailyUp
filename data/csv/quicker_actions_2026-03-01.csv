@@ -1,0 +1,33 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+桌面悬浮球,https://getquicker.net/Sharedaction?code=23dab6be-47f7-4b27-4e4e-08de774f968b,常驻高频操作。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,59.2 KB,2026-03-01 21:46,3,取消“只读”。,2026-03-02
+截图转Base64,https://getquicker.net/Sharedaction?code=0aea742f-dbc7-4390-4e4f-08de774f968b,截图转Base64,通用,Poto,https://getquicker.net/User/137838/Poto,1.9 KB,2026-03-01 22:03,1,1,2026-03-02
+裁切图片,https://getquicker.net/Sharedaction?code=738c65ec-f087-4082-4e48-08de774f968b,指定比例裁切图片,通用,zdf153,https://getquicker.net/User/20184/zdf153,14.2 KB,2026-03-01 16:52,3,指定比例裁切图片,2026-03-02
+窗口增强,https://getquicker.net/Sharedaction?code=738ad939-84f8-47cd-4e44-08de774f968b,增强文本窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,36.9 KB,2026-03-01 15:56,2,事件触发,2026-03-02
+屏幕标注,https://getquicker.net/Sharedaction?code=76b0fd9a-8a69-4c4f-00cb-08de76672e1f,"屏幕标注工具,为演示、教学、远程协作设计。",通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,31.2 KB,2026-02-28 12:39,1,修复模式切换按钮点击中间失效的问题,2026-03-02
+wps去只读,https://getquicker.net/Sharedaction?code=0ebad0d5-8ab1-41fe-00e4-08de76672e1f,打开中的wps去只读,通用,若雨啦,https://getquicker.net/User/995582/%E8%8B%A5%E9%9B%A8%E5%95%A6,13.4 KB,2026-02-28 21:48,0,,2026-03-02
+MD与Docx互转,https://getquicker.net/Sharedaction?code=c1e4f757-e2b8-4791-00da-08de76672e1f,使用 pandoc 将 Word 文档转换为 Markdown，或将 Markdown 转换为 Word 文档。,通用,rxnwin,https://getquicker.net/User/60295/rxnwin,10.2 KB,2026-02-28 16:42,0,,2026-03-02
+柯林斯词典,https://getquicker.net/Sharedaction?code=ea0101af-273a-43fe-00c3-08de76672e1f,专业词典查询,通用,白起1996,https://getquicker.net/User/305953/%E7%99%BD%E8%B5%B71996,432 B,2026-02-28 11:02,0,,2026-03-02
+Niaa,https://getquicker.net/Sharedaction?code=a325c0ed-4bc1-44df-3a18-08d92e62ae35,Quicker2.0之Windows超级开始菜单。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,1.1 MB,2021-06-14 21:07,421,~. 解决激活“微信”窗口时，会重新启动“微信”的问题。方法：给微信绑定上快捷键（软件➝基础界面）。,2026-03-02
+QK扳手,https://getquicker.net/Sharedaction?code=f10c350a-f5cf-4726-543d-08de40f9c963,配合quicker-skill安装动作,Antigravity,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,93 KB,2025-12-22 17:59,16,现在用户可以手动添加一些步骤而不会被影响,2026-03-02
+标题一键制卡,https://getquicker.net/Sharedaction?code=c9cf4c2c-a603-4603-f171-08dd017145d1,根据标题一键制作闪卡,SiYuan,Runos,https://getquicker.net/User/250742/Runos,34.9 KB,2024-11-11 14:29,3,替换获取token的公共动作,2026-03-02
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,376 KB,2023-01-07 19:44,82,"~优化添加菜单界面细节。
+~优化添加、更新菜单后，清除对象中值为空的字段，尽可能压缩数据体积。
++新增“值”字段，一键获取网址的按钮。",2026-03-02
+表格的工作表重命名,https://getquicker.net/Sharedaction?code=ed0f1246-6200-48e5-8e12-08de623a42b1,批量修改表格文件的工作表（sheet）名称，打开或未打开状态都可以,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,41.6 KB,2026-02-03 21:00,3,修复只有一个sheet表重命名乱码的问题,2026-03-02
+解除网页复制锁定,https://getquicker.net/Sharedaction?code=2837613a-4195-4942-b68c-08dd683b6942,"解除网页锁定,右键锁定,菜单锁定",Google Chrome,暖暖~,https://getquicker.net/User/595242/%E6%9A%96%E6%9A%96~,3.1 KB,2025-03-21 13:44,1,提示有些问题. 有些本来成功的也会提示失败. 解决这个提示问题,2026-03-02
+鼠标手势,https://getquicker.net/Sharedaction?code=19352500-a549-4e09-6a9a-08de6caa2cb9,多按键鼠标手势，仿Quicker原生功能,通用,dalou,https://getquicker.net/User/76824/dalou,291.5 KB,2026-02-16 14:46,7,新增：官方手势导入功能，一键导入官方手势配置到所选的按键卡片区域。,2026-03-02
+标签页分组,https://getquicker.net/Sharedaction?code=1d7d1a49-5a43-4176-ddad-08de2211a7a5,浏览器标签页自动归类到指定的标签组中，右键动作支持管理标签组配置,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,54.8 KB,2025-11-13 15:52,8,+新增自动排序功能，根据用户配置的网址顺序排序。,2026-03-02
+快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,li1qqq,https://getquicker.net/User/945817/li1qqq,230.2 KB,2025-12-01 07:22,27,~.修复每次启动报错类型已经注册的问题,2026-03-02
+PS快捷导出助手2.0,https://getquicker.net/Sharedaction?code=d1f40a07-9815-40e6-0bc2-08dd8eff6b2a,无弹窗静默导出图片，支持图层，选区，批量导出等多种功能等你探索,Adobe Photoshop,Cyen,https://getquicker.net/User/1184478/Cyen,194.4 KB,2025-05-10 16:15,9,"v2.4
+1.新增指定路径提供2种模式选择
+	1.1：弹出文件夹窗口选文件夹
+	1.2：可以直接导出当前打开的文件夹里面的PSD
+2.补充了指定路径功能里面的右键配置选项",2026-03-02
+根据条件批量合并工作表-跨表,https://getquicker.net/Sharedaction?code=306a8d1a-a2d4-48fd-f299-08dc63a5522a,根据条件和选定的文件夹，合并带特定字符的文件至选定文件件。代码附解释，可自定义合并的范围和判断条件,WPS Office,蠢人灵机一动,https://getquicker.net/User/675682/%E8%A0%A2%E4%BA%BA%E7%81%B5%E6%9C%BA%E4%B8%80%E5%8A%A8,10.1 KB,2024-04-24 18:00,5,"跨表格合并，
+更新合并结果存放位置==>文件所在文件夹
+顺序按照资源管理器的顺序==>方便检查",2026-03-02
+Paddle OCR,https://getquicker.net/Sharedaction?code=f04f352f-f937-4805-6092-08de6601dc47,用PaddleOCR的API将PDF文档或图片转成Markdown格式，需至官网申请API,通用,Ranfou,https://getquicker.net/User/108076/Ranfou,57.4 KB,2026-02-07 16:38,5,更改设置中的表述,2026-03-02
+超级新建,https://getquicker.net/Sharedaction?code=cb7efc3b-e7cd-46c7-4a0d-08de61439f50,拖拽移入、目录结构导入、预设模板多端同步、四式分层,Windows 资源管理器,Taitun,https://getquicker.net/User/854987/Taitun,106.8 KB,2026-02-02 09:48,4,1.优化窗口右键的存为模板。,2026-03-02
+Ai重命名,https://getquicker.net/Sharedaction?code=12e9be8c-937a-40f3-7aa4-08de57cf17ab,集 Ai 重命名、拖拽排序、实时预览、图片预览、多规则联动、一键恢复于一体,通用,Taitun,https://getquicker.net/User/854987/Taitun,405.6 KB,2026-01-21 10:01,16,1.优化窗口右键的联动模型。,2026-03-02
+剪贴板,https://getquicker.net/Sharedaction?code=e573ba70-28f8-4977-4f6a-08de2d75a2ca,WASD极速导航 | 收藏云同步 | 临时置顶 | 图片预览 | 一键收藏 | 零秒启动,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,141.4 KB,2025-11-27 23:40,41,修复错误,2026-03-02
+网页提问AI,https://getquicker.net/Sharedaction?code=8567de17-2c44-4963-f1b8-08dd17617d76,选中文字提问后，在浏览器网页中自动发送问题,Microsoft Edge,IDongYou,https://getquicker.net/User/945782/IDongYou,234.2 KB,2024-12-08 19:43,12,增加360极速浏览器,2026-03-02
