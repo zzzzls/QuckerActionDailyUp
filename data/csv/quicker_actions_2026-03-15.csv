@@ -1,18 +1,22 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+自动点击器,https://getquicker.net/Sharedaction?code=ce0cb9e5-6f67-4f27-ccc2-08de82342679,quicker完成，可视化点击保存配置,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,102.2 KB,2026-03-15 20:17,5,细分到每一个点的点击设置与类型，并用图标按钮优化界面,2026-03-16
 获取最近运行的动作列表,https://getquicker.net/Sharedaction?code=f0ad7f9c-87c9-4db0-ccc9-08de82342679,获取最近运行的动作列表,通用,enough!,https://getquicker.net/User/897144/enough!,5.8 KB,2026-03-16 02:34,0,,2026-03-16
 Kimi网页转API,https://getquicker.net/Sharedaction?code=744be717-b298-4fc4-ccc5-08de82342679,通过 WebView2 驱动 Kimi 网页并在本地暴露 OpenAI 兼容接口。,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,109.8 KB,2026-03-15 23:42,0,,2026-03-16
-自动点击器,https://getquicker.net/Sharedaction?code=ce0cb9e5-6f67-4f27-ccc2-08de82342679,自动点击器，可视化点击,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,67.8 KB,2026-03-15 20:17,2,优化,2026-03-16
 本地随机壁纸,https://getquicker.net/Sharedaction?code=ad814269-ba4a-42f7-ccbf-08de82342679,运行动作 ➺ 设置含有壁纸的本地文件夹（仅首次） ➺ 自动随机选取文件夹中的图片 ➺ 自动设置为壁纸,通用,wenbocn,https://getquicker.net/User/732234/wenbocn,5.9 KB,2026-03-15 18:13,1,右键菜单支持修改壁纸文件夹,2026-03-16
 常用语,https://getquicker.net/Sharedaction?code=d7aa69f8-da58-4fb3-ccc0-08de82342679,简单写一下,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,67.2 KB,2026-03-15 18:25,0,,2026-03-16
 切换pureref显示隐藏,https://getquicker.net/Sharedaction?code=f9b4c1d4-32f6-4b4f-d2bf-08de81170346,给动作设置快捷键之后可以用shift+f4快速显示隐藏pureref,通用,栞栞,https://getquicker.net/User/138542/%E6%A0%9E%E6%A0%9E,3.4 KB,2026-03-15 01:34,1,当不存在pureref窗口时进行提示,2026-03-16
-光标指针样式修改器,https://getquicker.net/Sharedaction?code=6eea8473-1545-4344-d2b2-08de81170346,修改电脑指针显示样式，相当于自定义图形。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,15.4 KB,2026-03-14 12:54,0,,2026-03-16
-替换为链接,https://getquicker.net/Sharedaction?code=8492c841-86ee-4fae-d2ab-08de81170346,将选中的嵌入图替换为链接对象,Adobe Illustrator,Raycheung,https://getquicker.net/User/1192808/Raycheung,5.9 KB,2026-03-14 09:30,0,,2026-03-16
+窗口增强,https://getquicker.net/Sharedaction?code=738ad939-84f8-47cd-4e44-08de774f968b,增强文本窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,44.8 KB,2026-03-01 15:56,11,替换按钮提示前后行数变化，这样知道新的代码复杂度增加还是减少,2026-03-16
+微信自动登录,https://getquicker.net/Sharedaction?code=31c507cf-f7c8-4178-c795-08dbc4a7b1ae,打开微信界面的时候自动登录，需要将动作添加到自动运行中,WeChat,Runos,https://getquicker.net/User/250742/Runos,21.4 KB,2023-10-04 20:14,8,参考https://getquicker.net/Sharedaction?code=342d74a0-7690-4eb8-87d2-08dd7586f3c6，通过窗口大小判断是否为登录界面,2026-03-16
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,963.1 KB,2025-08-18 21:14,47,修复直线往返敏感度失效问题,2026-03-16
+网站永久静音,https://getquicker.net/Sharedaction?code=e678c772-a59c-4e2b-9ed6-08de0521dd27,让某些会让你尴尬的网站永久静音，按Ctrl+M可取消静音,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,26.5 KB,2025-10-08 01:59,2,"[~]
+修复报错",2026-03-16
+登录版权系统,https://getquicker.net/Sharedaction?code=9bbe291d-74de-4a10-b9bb-08de37f0ba43,一键登录版权保护中心系统,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,99.5 KB,2025-12-11 15:33,7,优化滑块验证成功率，感谢@eminstan恭喜该部分代码,2026-03-16
+悬浮小小球,https://getquicker.net/Sharedaction?code=1d7328c3-081e-4384-1fe7-08de7ac590ca,「常驻高频操作。」,通用,Cherofre,https://getquicker.net/User/229808/Cherofre,368.1 KB,2026-03-07 02:20,13,"~修复大多布局的文字清晰度
+~修复非兼容模式的小球抢前台",2026-03-16
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,454 KB,2023-01-07 19:44,87,~优化“快速添加菜单”功能，现在支持场景引导，根据前台程序或选中文件智能填充参数。,2026-03-16
 全能手势,https://getquicker.net/Sharedaction?code=19352500-a549-4e09-6a9a-08de6caa2cb9,鼠标+键盘全能手势，仿Quicker原生功能,通用,dalou,https://getquicker.net/User/76824/dalou,340.8 KB,2026-02-16 14:46,12,调整：键盘模式场景更换为匹配前台窗口，更符合键盘模式的预期。,2026-03-16
-悬浮小小球,https://getquicker.net/Sharedaction?code=1d7328c3-081e-4384-1fe7-08de7ac590ca,常驻高频操作。支持拖拽动作到管理面板。,通用,Cherofre,https://getquicker.net/User/229808/Cherofre,365 KB,2026-03-07 02:20,12,"~修复部分布局的清晰度
-+添加网址/命令时可输入名称",2026-03-16
 EVER话术,https://getquicker.net/Sharedaction?code=0b7e480d-5c12-4510-47b9-08d720bda2d4,⏎话术模板，快速收藏，快速输入发送常用交流句子、短语、文件、号码等信息（支持多行）。,通用,Ever,https://getquicker.net/User/2774/Ever,75.8 KB,2019-08-14 22:57,51,增加一个精确匹配模式：会完全匹配每一个搜索词,2026-03-16
 EVER智识,https://getquicker.net/Sharedaction?code=4f8b0df2-d031-4309-173c-08d7079ea819,智能根据识别（选中、输入、OCR）的文字（网址、运算、QQ号等）提供相关服务,通用,Ever,https://getquicker.net/User/2774/Ever,374.9 KB,2019-07-13 22:30,95,获取选中的文本开启此选项：如果为动作传递了参数，使用参数值作为获取的结果,2026-03-16
-窗口增强,https://getquicker.net/Sharedaction?code=738ad939-84f8-47cd-4e44-08de774f968b,增强文本窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,44.5 KB,2026-03-01 15:56,10,代码编辑窗口增加替换按钮，将剪贴板文本覆盖编辑文本，高频操作,2026-03-16
 文件预览,https://getquicker.net/Sharedaction?code=981ff596-4316-4385-016e-08dd6c0ac9c8,文件预览与修改，使用quicker原生实现简洁窗口风格统一化,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,92 KB,2025-03-26 21:58,53,"小隐患修正加小隐患修正
 utf8读取避免乱码",2026-03-16
 剪贴板,https://getquicker.net/Sharedaction?code=e573ba70-28f8-4977-4f6a-08de2d75a2ca,WASD极速导航 | 收藏云同步 | 临时置顶 | 图片预览 | 一键收藏 | 零秒启动,通用,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,152.5 KB,2025-11-27 23:40,43,优化静默启动,2026-03-16
@@ -21,12 +25,3 @@ utf8读取避免乱码",2026-03-16
 快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,li1qqq,https://getquicker.net/User/945817/li1qqq,231.6 KB,2025-12-01 07:22,31,"~.优化右键菜单
 ~.优化logger日志记录模块",2026-03-16
 Univer Sheet,https://getquicker.net/Sharedaction?code=ce0b76c1-62e9-4bb8-792b-08de746dceea,Webview电子表格，支持自动保存内容,通用,FaniX,https://getquicker.net/User/52603/FaniX,14.8 KB,2026-02-26 22:48,1,启用筛选、排序、查找替换、表格等工具,2026-03-16
-超级重命名,https://getquicker.net/Sharedaction?code=bcf33eda-9427-45cc-f6c5-08dae2ffb129,超级强大灵活的文件批量重命名工具。支持保存更名规则、插入文件元数据、普通/正则替换、批量替换、列表替换、重名检测、自动编号、C#表达式处理 . . .,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,386.9 KB,2022-12-21 18:23,42,- 其他：去掉重复的子菜单,2026-03-16
-PixPin截图,https://getquicker.net/Sharedaction?code=b5b01d12-7ae9-4eb3-7481-08dc0b2e49ad,PixPin命令行版，截图分组贴图OCR文字识别长截图，无需复杂配置,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,22.1 KB,2024-01-02 20:06,7,修bug,2026-03-16
-计算器,https://getquicker.net/Sharedaction?code=4e6ff5a9-f1f3-4742-d671-08d8d34a0efa,操作最便利的随手计算器（集成基础算术、数学函数、单位转换、汇率换算，支持自动识别并计算选中文本）,通用,咿呀杀杀,https://getquicker.net/User/19337/%E5%92%BF%E5%91%80%E6%9D%80%E6%9D%80,371.5 KB,2021-02-19 01:10,35,- 关联文本处理,2026-03-16
-XLS转换,https://getquicker.net/Sharedaction?code=868ca83f-e3c0-455e-e16f-08dc455790aa,XLS转换XLSX格式，减小文件体积。,通用,Mrshuang,https://getquicker.net/User/238117/Mrshuang,8.2 KB,2024-03-16 17:43,1,【优化】提高获取文件的成功率。,2026-03-16
-豆包AI助手,https://getquicker.net/Sharedaction?code=de3cbe5a-0dca-4b3f-2fac-08dc9fa8ef9a,免费AI大模型助手，打开即用，涵盖历史、科学、技术、文化、娱乐等众多领域。能帮您解答各种疑问,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,18 KB,2024-07-09 10:01,13,修复千问打开不是问答界面的错误,2026-03-16
-超级无敌任意球,https://getquicker.net/Sharedaction?code=d8f44723-d329-4147-e220-08de7cb19adc,常驻高频操作悬浮球，无限菜单，极速丝滑,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,393.1 KB,2026-03-08 22:44,12,1,2026-03-16
-一月天气预报,https://getquicker.net/Sharedaction?code=afb5729b-2c77-4f2e-bb03-08de7da01d8c,免费，快速，高效，美观，整月天气获取，一键打印,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,48.2 KB,2026-03-10 10:45,4,1,2026-03-16
-每小时天气预报,https://getquicker.net/Sharedaction?code=60a32613-819a-40a8-bb0f-08de7da01d8c,未来7天每小时精确天气预报,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,49.9 KB,2026-03-10 14:55,3,1,2026-03-16
-图层组批量导出,https://getquicker.net/Sharedaction?code=76a5aa05-77ff-4238-ac9d-08de56fccc60,一键图层组批量导出工具,Adobe Photoshop,夜寻tico,https://getquicker.net/User/1232904/%E5%A4%9C%E5%AF%BBtico,75.5 KB,2026-01-19 15:13,1,修复了部分命名bug,2026-03-16
