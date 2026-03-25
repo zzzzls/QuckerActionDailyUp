@@ -1,0 +1,45 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+修复光标变白,https://getquicker.net/Sharedaction?code=5ca094d5-eec6-4e61-3e15-08de88f5664d,解决 AMD 核显用户的 Win11 光标变白,通用,Poto,https://getquicker.net/User/137838/Poto,5.3 KB,2026-03-25 00:53,1,优化,2026-03-25
+显示隐藏,https://getquicker.net/Sharedaction?code=c73b442d-d9c0-430c-3df3-08de88f5664d,窗口神器的子程序,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,955 B,2026-03-24 15:39,0,,2026-03-25
+矢量图标选择,https://getquicker.net/Sharedaction?code=c56a2646-9783-43a6-e270-08de88074385,quicker内置矢量图标的选择，接入AI，支持收藏，友好界面,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,283.4 KB,2026-03-23 15:42,3,颜色的保存，搜索的权重优化，提出没用的字段,2026-03-25
+汉语字典,https://getquicker.net/Sharedaction?code=cbd91439-0512-4e6b-e276-08de88074385,一个简单的汉字字典查询,通用,xuan.zl,https://getquicker.net/User/215149/xuan.zl,12.6 KB,2026-03-23 16:49,0,,2026-03-25
+网页分享转MD,https://getquicker.net/Sharedaction?code=a9b4064d-b55b-4e63-e26c-08de88074385,将网页中的分享链接转为Markdown格式,通用,落日星一,https://getquicker.net/User/624819/%E8%90%BD%E6%97%A5%E6%98%9F%E4%B8%80,7.7 KB,2026-03-23 13:57,0,,2026-03-25
+文本转二维码,https://getquicker.net/Sharedaction?code=4bb3b046-8dfa-4cab-e269-08de88074385,1. 点击输入文本转二维码。2. 选中文本转二维码。3. 右键菜单屏幕识别转二维码。,通用,JIULANG,https://getquicker.net/User/570588/JIULANG,9.7 KB,2026-03-23 11:49,0,,2026-03-25
+标签页分组,https://getquicker.net/Sharedaction?code=1d7d1a49-5a43-4176-ddad-08de2211a7a5,浏览器标签页自动归类到指定的标签组中，并且按照你设置的顺序排序，右键菜单支持管理标签组配置。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,61.2 KB,2025-11-13 15:52,11,~修复某些网址会携带搜索参数，导致标签会在不同分组中来回跳转的问题。,2026-03-25
+计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,计算器,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,191 KB,2024-06-13 00:30,86,优化布局,2026-03-25
+待办事项,https://getquicker.net/Sharedaction?code=c0510e3a-3786-4f39-32ff-08d91d10afcd,把要做的事情贴在屏幕上。,Microsoft Word,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,779.3 KB,2021-05-23 17:54,366,.,2026-03-25
+文件预览,https://getquicker.net/Sharedaction?code=981ff596-4316-4385-016e-08dd6c0ac9c8,文件预览与修改，使用quicker原生实现简洁窗口风格统一化,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,118.2 KB,2025-03-26 21:58,64,解决桌面选中文件的问题,2026-03-25
+计算表达式,https://getquicker.net/Sharedaction?code=014cdb88-48a1-4fd9-f74c-08de84e27492,可计算包含文字的公式并将结果输入到末尾,通用,zixuan203344,https://getquicker.net/User/213268/zixuan203344,7.2 KB,2026-03-19 10:23,2,现在选中表达式结果，也能自动更新结果了,2026-03-25
+计算百分数,https://getquicker.net/Sharedaction?code=600c01d5-f93c-43d8-b846-08de83ea1c11,可计算包含文字的公式并将结果的百分比输入到末尾，保留2位小数,通用,zixuan203344,https://getquicker.net/User/213268/zixuan203344,7.2 KB,2026-03-18 18:19,2,现在选中表达式=后面错误的值，也能自动更新正确的结果了。,2026-03-25
+网页魔术师,https://getquicker.net/Sharedaction?code=789f963f-ee55-426c-4f8c-08de2d75a2ca,网页全能编辑/解除限制/提取表格/获取图片......一个动作顶二十个动作！,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.1 MB,2025-11-28 14:37,14,-增加一键提取链接功能,2026-03-25
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,979.6 KB,2025-08-18 21:14,51,快捷操作窗支持设置动作参数,2026-03-25
+复制提示,https://getquicker.net/Sharedaction?code=887bc64e-82e8-4ecf-f238-08ddaf4c49d6,它会在复制成功时提示你（✅高使用量）,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,122.9 KB,2025-06-20 11:42,50,调整细节,2026-03-25
+贴汁剪贴板,https://getquicker.net/Sharedaction?code=e4dbb7fa-92dd-41fe-607f-08de870e7788,一款开源功能丰富的剪贴板软件,通用,xuan.zl,https://getquicker.net/User/215149/xuan.zl,38.4 KB,2026-03-21 18:33,1,"此版本有重大逻辑判断更新，将会清空数据文件，请知悉
+1. 增加右键版本更新功能，使用便携版，请勿在软件内更新（版本更新需要手动维护，本人尽量及时维护更新）
+2. 优化动作安装运行逻辑，可自动关闭进程
+3. 删除不必要的压缩包及文件夹
+4. 更新 TieZ 版本到最新版本",2026-03-25
+窗口神器,https://getquicker.net/Sharedaction?code=d0ef47fd-be70-4b19-3f87-08dbc2d4852c,窗口调节神器/靠左/靠右/居中/全屏/跨屏/分屏/透明/记忆/等25个窗口调节控制方式,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,393.9 KB,2023-10-02 23:09,124,⭐,2026-03-25
+AI聚合助手,https://getquicker.net/Sharedaction?code=040d76f3-48a1-460f-b90f-08de4e48236b,便捷地实现同时向kimi、豆包、deepseek等提问,通用,craming,https://getquicker.net/User/612045/craming,157.2 KB,2026-01-08 15:28,14,暂时舍弃kimi（发现会造成一些bug。等有空时会修复对kimi的支持）,2026-03-25
+发送到,https://getquicker.net/Sharedaction?code=acaffd04-51df-49a8-630b-08de4f2d7477,快捷将剪贴板内容发送至钉钉、微信等对应联系人或群组,通用,Neurogram,https://getquicker.net/User/838/Neurogram,104 KB,2026-01-09 14:58,17,"- 新增自定义图标
+- 新增发送到浏览器（默认浏览器 ,Chrome, Edge, Firefox）
+- 新增搜索引擎配置
+
+注：模板有变化，需重新生成模板文件，不要直接覆盖原有模板，以免数据丢失",2026-03-25
+全能手势,https://getquicker.net/Sharedaction?code=19352500-a549-4e09-6a9a-08de6caa2cb9,鼠标+键盘全能手势，仿Quicker原生功能,通用,dalou,https://getquicker.net/User/76824/dalou,348.8 KB,2026-02-16 14:46,17,优化：加载器初始化判断逻辑,2026-03-25
+释放智能对象,https://getquicker.net/Sharedaction?code=ef2cc2cb-4e57-4938-7fc0-08db2506d1ed,将智能对象释放为组。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,272.5 KB,2023-03-16 10:06,3,"2026-03-24
+~. 支持uxp模式，大幅度提高运行效率。默认开启，如果需要换回旧版，请在动作菜单选择。",2026-03-25
+快速访问,https://getquicker.net/Sharedaction?code=b9adfd12-fe48-4e15-76dd-08dc5df52912,复制文本，用于自动访问网址、打开文件路径或者访问前往相关网站。,通用,薛宋官,https://getquicker.net/User/1034982/%E8%96%9B%E5%AE%8B%E5%AE%98,32.1 KB,2024-04-16 18:45,9,默认选项中新增DLSite作品编号；修改「重置选项」功能的实现逻辑。,2026-03-25
+窗口增强,https://getquicker.net/Sharedaction?code=738ad939-84f8-47cd-4e44-08de774f968b,增强文本窗口,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,60.9 KB,2026-03-01 15:56,17,按钮颜色,2026-03-25
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,209.3 KB,2024-12-09 20:46,49,改进了右键菜单，折叠了不常用的功能，更简洁,2026-03-25
+短语补齐,https://getquicker.net/Sharedaction?code=a9fbc7b2-c0dc-4469-5d02-08de7934c17b,‎通过表达式传递菜单参数激活。,通用,Anlv,https://getquicker.net/User/392637/Anlv,91 KB,2026-03-04 14:56,10,"2026-03-23
+~. 改用dll依赖，节约首次运行时的编译时间；",2026-03-25
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,切换多个便利的自定义窗口，存储网址、文本、文件等，自由拖拽,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,412.4 KB,2025-02-21 03:22,271,加一个window判断，语音调用不然报错提示,2026-03-25
+右键菜单管理器,https://getquicker.net/Sharedaction?code=355b7b1f-7c29-44e5-9413-08dd99955a99,右键菜单管理器，支持拖拽动作进右键菜单,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,73.3 KB,2025-05-23 21:24,20,"右侧项增加 ResolvedName/OperationHint/FullRegistryPath
+ShellEx 解析 CLSID 友好名称
+UI 上显示“可编辑 / 只读 / 用户级可删除”提示
+增加在注册表查看当前项",2026-03-25
+扫描件效果器,https://getquicker.net/Sharedaction?code=2a2fdd6a-6872-4b1d-b820-08de83ea1c11,将直转的PDF文件转为模拟真实扫描件效果。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,74.5 KB,2026-03-18 10:53,2,-预览增加翻页功能。,2026-03-25
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,470.1 KB,2023-01-07 19:44,90,+菜单管理新增多选操作模式。,2026-03-25
+防锁屏,https://getquicker.net/Sharedaction?code=12d0cca3-59e6-4266-3afb-08ddba4a8eb3,运行时可防止电脑锁屏,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,10.9 KB,2025-07-04 15:10,3,"增加提醒开关
+增加窗口位置选项",2026-03-25
