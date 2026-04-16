@@ -1,0 +1,59 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+任务推进台,https://getquicker.net/Sharedaction?code=017546fb-74c1-4113-3b9d-08de9a0885b9,demo。,通用,效率591,https://getquicker.net/User/36130/%E6%95%88%E7%8E%87591,142 KB,2026-04-15 10:32,1,.,2026-04-16
+unique,https://getquicker.net/Sharedaction?code=4c1dea09-e2bf-4551-d9d1-08de9917e55e,unique函数使用引导,Microsoft Excel,Qiu Cool,https://getquicker.net/User/857544/Qiu%20Cool,16.2 KB,2026-04-14 15:42,1,Excel 函数常常容易忘记使用方法，每次使用还得去查，所以做个动作来引导使用,2026-04-16
+pdf转多页打印稿,https://getquicker.net/Sharedaction?code=8388c8be-a5c3-4c97-d9d6-08de9917e55e,选中文件运行,Windows 资源管理器,橙红色太阳,https://getquicker.net/User/507427/%E6%A9%99%E7%BA%A2%E8%89%B2%E5%A4%AA%E9%98%B3,17.5 KB,2026-04-14 16:16,0,,2026-04-16
+if error,https://getquicker.net/Sharedaction?code=822ea655-397b-4bd7-d9d3-08de9917e55e,在公式外面嵌套一个 if error 函数，选中一个有公式的单元格，运行该动作,Microsoft Excel,Qiu Cool,https://getquicker.net/User/857544/Qiu%20Cool,3.7 KB,2026-04-14 16:01,0,,2026-04-16
+sumifs,https://getquicker.net/Sharedaction?code=6462a3c6-f4ae-4550-d9cd-08de9917e55e,sumifs可兼容sumif,Microsoft Excel,Qiu Cool,https://getquicker.net/User/857544/Qiu%20Cool,21.5 KB,2026-04-14 15:28,0,,2026-04-16
+引注形式更改,https://getquicker.net/Sharedaction?code=a3d574e8-04b0-41f8-d9c8-08de9917e55e,1、文本规范化处理；2、在obsidian、wolai中更改zotero默认引注形式,Obsidian,cqk26,https://getquicker.net/User/1171811/cqk26,4.1 KB,2026-04-14 14:04,1,无,2026-04-16
+文本规范处理,https://getquicker.net/Sharedaction?code=280032ae-08ea-4566-d9b9-08de9917e55e,"文献中文本复制粘贴经常出现乱码：空格、换行、中英文符号乱用。现在利用正则表达式删除空格、tab、换行回车,并且实现英文符号变为中文符号",通用,cqk26,https://getquicker.net/User/1171811/cqk26,5.1 KB,2026-04-14 10:01,1,"1、修改bug：增加右键切换版本功能
+2、修改替换规则：考虑到需要使用替换冒号的情况较少，于是去掉了中英文“：”的替换规则，使其不影响超链接
+后续更新计划：增加中英文冒号自定义选择是否替换",2026-04-16
+Siyuan速记,https://getquicker.net/Sharedaction?code=d9cab944-b742-4d0b-d9c6-08de9917e55e,配合iOS快捷指令，实现手机端打字，实时存入电脑端的思源笔记Inbox文件夹中，以实现灵感收集的功能。,SiYuan,何舜人,https://getquicker.net/User/511/%E4%BD%95%E8%88%9C%E4%BA%BA,2.6 KB,2026-04-14 13:23,0,,2026-04-16
+当前网络信息,https://getquicker.net/Sharedaction?code=81f23a80-95cc-42e2-d9bf-08de9917e55e,获取当前网络的相关信息,乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,4.5 KB,2026-04-14 10:51,0,,2026-04-16
+超高效窗口切换,https://getquicker.net/Sharedaction?code=774070bc-9d5b-4e40-2be4-08de8cce2f81, 最省力的窗口切换动作，即刻穿梭窗口,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,101.4 KB,2026-03-29 15:12,12,默认不勾选移至窗口中心,2026-04-16
+文件预览,https://getquicker.net/Sharedaction?code=981ff596-4316-4385-016e-08dd6c0ac9c8,文件预览与修改，使用quicker原生实现简洁窗口风格统一化,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,137.7 KB,2025-03-26 21:58,86,优化下窗口跳位导致的闪烁,2026-04-16
+快捷键映射,https://getquicker.net/Sharedaction?code=05021112-2f8d-409a-c3c2-08de9089f663,进行快捷键映射，在场景简化操作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,88.1 KB,2026-04-03 02:31,21,同步串行发送,2026-04-16
+培训考试,https://getquicker.net/Sharedaction?code=a4a00c76-81cd-40f2-7526-08de605bf54f,本地文件题库/批量操作/自动计算分数/自动导出错题PDF,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,342.1 KB,2026-01-31 14:01,55,时间,2026-04-16
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,1014.6 KB,2025-08-18 21:14,55,"删除双击全选粘贴
+内置操作新增动作右键菜单",2026-04-16
+快捷导出助手3.0,https://getquicker.net/Sharedaction?code=d1f40a07-9815-40e6-0bc2-08dd8eff6b2a,无弹窗静默导出图片，支持图层，选区，批量导出等多种功能等你探索,Adobe Photoshop,Cyen,https://getquicker.net/User/1184478/Cyen,202 KB,2025-05-10 16:15,12,修复了已知问题,2026-04-16
+智能缩放,https://getquicker.net/Sharedaction?code=60a426f4-13bb-439b-70ae-08de7e8baab3,智能感应当前的上下文环境（如：选区、画板、剪贴蒙版基准层或文档边界），将选中的一个或多个图层按照预设调整大小并对齐基准目标。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,212.1 KB,2026-03-10 18:03,7,"2026-04-15
+~. 移除激活时闪过的进度条;
+~. 修改历史记录中的描述, 与动作名同步.",2026-04-16
+屏幕边缘碰撞,https://getquicker.net/Sharedaction?code=9b870f32-b1f1-49ea-4234-08de8f97c69d,手势拓展，持续碰撞屏幕边缘触发自定义动作,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,135.3 KB,2026-04-02 00:05,8,新增动作参数：右键菜单,2026-04-16
+超清壁纸,https://getquicker.net/Sharedaction?code=aa3b2c4a-1600-42c4-a99f-08dbe8e4b6e6,一键更换超清壁纸，每一张都是4K图，并支持分类❤💘,通用,喜气羊羊,https://getquicker.net/User/719958/%E5%96%9C%E6%B0%94%E7%BE%8A%E7%BE%8A,106 KB,2023-11-19 19:49,22,修复了保存所有图片无效的问题,2026-04-16
+数字键盘,https://getquicker.net/Sharedaction?code=a7e8a005-aab5-48af-d994-08de9917e55e,"1~9的数字小键盘，然后分为单击和双击,单击输入的是对应的数字，双击的话就是先输入数字然后在后面加一个小数点",通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,16.7 KB,2026-04-13 14:17,6,"去掉延迟数字，换一个方式。
+增加前后缀，修复退格无用，更换.为tab",2026-04-16
+网页爬虫,https://getquicker.net/Sharedaction?code=2458d48c-ab98-4410-b894-08de94563872,网页数据下载，支持保存历史策略，方便下次使用。,Google Chrome,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,84.3 KB,2026-04-07 17:31,5,+按ctrl键运行动作，显示历史策略菜单。方便将动作以菜单形式添加到“智慧菜单”里 https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,2026-04-16
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,470.3 KB,2023-01-07 19:44,96,~,2026-04-16
+批量原位粘贴,https://getquicker.net/Sharedaction?code=1f193c72-e477-4630-0840-08de30674cc6,适用于(批量给每个文档添加水印、logo、促销框等场景),Adobe Photoshop,Cyen,https://getquicker.net/User/1184478/Cyen,39.9 KB,2025-12-01 10:27,8,吃了两个烧卖,2026-04-16
+记录滚动条,https://getquicker.net/Sharedaction?code=ceba7aee-d467-4931-76af-08de1e50e7a2,使用chatgpt copilot gemini 豆包 DeepSeek 元宝时可以记录滚动条位置,Google Chrome,chengmen,https://getquicker.net/User/1305284/chengmen,114.4 KB,2025-11-08 21:38,11,chatgpt官网元素发生变化,2026-04-16
+悬浮球,https://getquicker.net/Sharedaction?code=c921514d-a8d6-4572-35dc-08de964148e1,展开面板，倒计时,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,107.6 KB,2026-04-09 23:12,3,关闭时释放窗口呼吸,2026-04-16
+PromptFlow,https://getquicker.net/Sharedaction?code=1b41a424-00d8-4a7f-815d-08de861be9e0,针对ai的提问,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,133 KB,2026-03-20 22:22,2,强化选中文本的获取，避免空值,2026-04-16
+拾录记事本,https://getquicker.net/Sharedaction?code=c686b17d-b40d-4631-ee74-08d9ffe2991a,替代电脑记事本，可重复获取选中文本并进行筛选、替换、翻译等等操作的文本处理工具。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,417.6 KB,2022-03-07 13:59,46,~ 修复翻译接口,2026-04-16
+抖音下载,https://getquicker.net/Sharedaction?code=f2746484-4250-4eb7-fbf2-08ddee84b295,下载抖音视频,Google Chrome,Simonl,https://getquicker.net/User/134191/Simonl,31.9 KB,2025-09-09 05:07,8,支持自定义保存目录,2026-04-16
+网页收藏,https://getquicker.net/Sharedaction?code=e03ff5a8-de40-40e7-8110-08de937230ba,全能网页收藏助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,334.1 KB,2026-04-06 20:05,8,"新增最近使用（根据点击时间和频次自动排序）
+自动备份界面新增手动备份",2026-04-16
+记录/恢复文件夹,https://getquicker.net/Sharedaction?code=8a8e483f-c4f3-4215-49b9-08dd7f09ea9c,自动记录打开的文件夹，一键恢复之前打开的文件夹,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,114.4 KB,2025-04-20 00:16,22,获取文件夹路径更稳定,2026-04-16
+超级微信多开,https://getquicker.net/Sharedaction?code=28b6381f-2687-4ada-4241-08de8f97c69d,免扫码、全自动登录的微信多开,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,143.9 KB,2026-04-02 14:08,28,修复bug,2026-04-16
+颜色助手,https://getquicker.net/Sharedaction?code=7f9e2576-07d3-430a-c1ed-08de8ec34788,常用颜色一键收藏，你的贴心颜色助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,103.8 KB,2026-03-31 18:41,10,新增-吸管取色时隐藏界面,2026-04-16
+移动对象,https://getquicker.net/Sharedaction?code=bfa7dd0f-ed1f-486d-96e0-08dc686ff279,根据设置的像素上下左右移动对象.,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,31.3 KB,2024-04-30 11:05,5,"2026-04-14
+~. Photoshop 23.5+ 由 UXP 驱动，大幅提升执行速度。",2026-04-16
+看小说摸鱼神器,https://getquicker.net/Sharedaction?code=95e7ed1b-5752-4d70-f755-08de84e27492,完美隐藏在其他界面中，看小说，老板不易发现。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,163 KB,2026-03-19 11:33,13,修复隐藏状态，任务栏仍然可以滚轮翻页的bug,2026-04-16
+计时器,https://getquicker.net/Sharedaction?code=a7e7d513-e83b-4dbe-39dc-08dd776c5a34,贴边计时器，多计时器运行，支持结束运行动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,145.8 KB,2025-04-10 18:17,15,增加新分支，固定结束时间,2026-04-16
+动作面板V2(自动切换到分组),https://getquicker.net/Sharedaction?code=b59cb7b7-d512-4416-f23f-08ddd4e0681e,仿Quicker设计，上部分为“全局组”，下半部分为为根据进程自动切换的组（同时支持和quicker一样的通用组）。支持拖拽quicker面板动作添加。贴边隐藏!,通用,zdf153,https://getquicker.net/User/20184/zdf153,757.1 KB,2025-08-07 09:28,33,尝试修复//css_reference System.Management.dll;,2026-04-16
+像素排列,https://getquicker.net/Sharedaction?code=01c5e32c-c002-4eee-b808-08de83ea1c11,基于像素间距垂直或水平排列所选图层。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,45.1 KB,2026-03-17 14:36,2,"2026-04-14
+~. 修复激活时的`进度条闪所`;
+~. 增加滑块控制;
+~. 更新动作名称为""像素排列"", 更直觉.",2026-04-16
+QK扳手,https://getquicker.net/Sharedaction?code=f10c350a-f5cf-4726-543d-08de40f9c963,AI帮你全自动写动作！搭配AI Agent一句话实现动作编写、安装、更新。首个quicker-skill全网首发！,Antigravity,洛洛罗,https://getquicker.net/User/325415/%E6%B4%9B%E6%B4%9B%E7%BD%97,103.4 KB,2025-12-22 17:59,18,增加安装路径选择；增加下载进度提示；增加codex的支持,2026-04-16
+悬浮小小球,https://getquicker.net/Sharedaction?code=1d7328c3-081e-4384-1fe7-08de7ac590ca,「常驻高频操作。」,通用,Cherofre,https://getquicker.net/User/229808/Cherofre,537.1 KB,2026-03-07 02:20,17,"+新增动作参数：menu、panel.分别对应菜单和面板
+可在快捷键设置中填入参数
++管理面板新增边缘拖拽调整尺寸、分组栏宽度调整，自动关联切组
++新增入口显示方式：轻量菜单（与参数menu功能一致）
+可在分组名区域、轮盘区域滚动切组，支持失焦消失
++新增菜单文字大小调整",2026-04-16
+全能手势,https://getquicker.net/Sharedaction?code=19352500-a549-4e09-6a9a-08de6caa2cb9,鼠标+键盘全能手势，仿Quicker原生功能,通用,dalou,https://getquicker.net/User/76824/dalou,364.3 KB,2026-02-16 14:46,21,"修复：重启后键盘钩子自启动失败问题；
+优化：预记录鼠标手势初始轨迹（需开启键盘手势）。",2026-04-16
+专利搜索,https://getquicker.net/Sharedaction?code=499270e1-67e9-446b-2df0-08de8bcafa5b,多平台快速搜索专利公开信息,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,226.3 KB,2026-03-27 14:38,16,调整细节,2026-04-16
+变量赋值助手,https://getquicker.net/Sharedaction?code=2bfdd137-9fb0-4927-2b01-08dd82d4c510,自动生成Quicker的Set/Get语句，高效开发,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,52.1 KB,2025-04-24 17:49,6,提速,2026-04-16
