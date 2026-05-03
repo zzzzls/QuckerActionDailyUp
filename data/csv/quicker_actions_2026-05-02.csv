@@ -3,7 +3,26 @@
 AWD的SSCC提取,https://getquicker.net/Sharedaction?code=36f2e925-053b-4806-48ff-08dea848c2ad,亚马逊仓库或运营工具,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,5.6 KB,2026-05-02 23:03,0,,2026-05-03
 运行选中文本,https://getquicker.net/Sharedaction?code=056f517c-938e-4a78-3df1-08dea7548424,运行选中的文本，如果没有选中文本则打开windows运行窗口,通用,hfj8210,https://getquicker.net/User/1148596/hfj8210,2.8 KB,2026-05-02 13:20,0,,2026-05-03
 整数补零,https://getquicker.net/Sharedaction?code=5c2c0008-61b6-43b8-3df0-08dea7548424,Excel/Wps将选择区域整数补零,Microsoft Excel,ai56,https://getquicker.net/User/185823/ai56,2.2 KB,2026-05-02 01:01,0,,2026-05-03
-资源管理器快选,https://getquicker.net/Sharedaction?code=5567db59-69c1-445f-54ab-08dea664900b,排好队供你选择哪一个目录窗口,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,20.7 KB,2026-05-01 14:49,0,,2026-05-03
+任务栏监控助手,https://getquicker.net/Sharedaction?code=782a0497-32ab-42b3-3b09-08dea570a972,暂代TrafficMonitor，在任务栏显示网速与资源占用,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,68.5 KB,2026-04-29 20:31,3,"颜色文本实时反馈，记得合适颜色点击应用；
+
+优化停留注释，改为显示：IPv4 信息、本次运行上传/下载累计",2026-05-03
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,252.6 KB,2026-04-16 18:41,16,"图片捕获改为串行排队；
+
+优化粘贴逻辑；等等很多一部分小优化；
+
+星标项暂且置顶，清空跳过星标，可在常规设置开关；
+
+默认列表焦点（列表非空时），可以enter直接发送；esc先清空搜索框然后发送；
+
+数字键 1~9 列表焦点直接粘贴
+Alt+1~9 全局粘贴（任意焦点生效），改为alt为发送准备，然后数字键发送
+
+Ditto 风格字符跳搜索框；（已去除）
+
+左右按键切换筛选器；",2026-05-03
+LinkDock,https://getquicker.net/Sharedaction?code=ed08e962-79e8-4277-4246-08de8f97c69d,Link Dock（快捷坞）你的效率中枢，一链直达,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,1.1 MB,2026-04-02 15:17,13,"新增-文件拖入的组合打开
+修复-组合图标偏移",2026-05-03
+网页助手,https://getquicker.net/Sharedaction?code=794a227a-4b26-4b09-7be8-08db49a92a64,测试的时候用，占位置就集合了一下,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,482.6 KB,2023-05-01 16:00,8,~ 整合,2026-05-03
 静默删除,https://getquicker.net/Sharedaction?code=8bce9095-d332-4e38-231a-08dd84c1d760,主要用于静默删除文件,Windows 资源管理器,Simonl,https://getquicker.net/User/134191/Simonl,52.9 KB,2025-04-27 23:10,10,"1、修改操作完成提示消息
 2、删除无用步骤和变量",2026-05-03
 网页收藏,https://getquicker.net/Sharedaction?code=e03ff5a8-de40-40e7-8110-08de937230ba,全能网页收藏助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,742.4 KB,2026-04-06 20:05,19,修复隐私空间BUG,2026-05-03
@@ -12,9 +31,3 @@ AWD的SSCC提取,https://getquicker.net/Sharedaction?code=36f2e925-053b-4806-48f
 Gemini,https://getquicker.net/Sharedaction?code=77115418-3ec2-4646-3930-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,chengmen,https://getquicker.net/User/1305284/chengmen,47.5 KB,2025-09-01 11:07,13,修复当页面标题中含有?*等符号时查找不到窗口的问题,2026-05-03
 离线OCR,https://getquicker.net/Sharedaction?code=854dc279-58a2-40b9-486e-08dd9d377497,免费的离线OCR,通用,Simonl,https://getquicker.net/User/134191/Simonl,128 KB,2025-05-28 19:25,5,"1、提示消息更换成好看的子程序
 2、点击消息打开文本窗口支持设置内置或第三方",2026-05-03
-Ai面板,https://getquicker.net/Sharedaction?code=6b062852-430d-4aa2-1602-08de29ad9246,选中文本自动弹出动作操作面板,通用,chengmen,https://getquicker.net/User/1305284/chengmen,325.7 KB,2025-11-23 18:16,18,支持在PotPlayer字幕上使用,2026-05-03
-PotPlayer字幕词典,https://getquicker.net/Sharedaction?code=eb800795-6d3b-43b5-70e1-08dea38b872e,PotPlayer播放器上使用外挂字幕时点击字幕单词直接查词和讲句子发送到Ai提问,PotPlayer,chengmen,https://getquicker.net/User/1305284/chengmen,34.6 KB,2026-04-27 20:35,6,增加右键弹出Ai面板,2026-05-03
-剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,240.9 KB,2026-04-16 18:41,15,置顶状态发送剪贴项不关闭窗口；,2026-05-03
-自动化继续教育,https://getquicker.net/Sharedaction?code=a61a34f5-8479-4cc9-3ad1-08dea570a972,自动进行继续教育,Microsoft Edge,流水吧,https://getquicker.net/User/789998/%E6%B5%81%E6%B0%B4%E5%90%A7,290.6 KB,2026-04-29 08:39,3,增加刷课是否正常检测，自动激活前台。目前前台稳定，后台极不稳定,2026-05-03
-邮箱验证码,https://getquicker.net/Sharedaction?code=f3effa4e-e4a7-497e-dc96-08dbd4c004af,通过IMAP协议查询邮件内容，正则识别验证码并输出。需要python环境,通用,blanka,https://getquicker.net/User/667540/blanka,230 KB,2023-10-25 02:35,13,+,2026-05-03
-任务栏监控助手,https://getquicker.net/Sharedaction?code=782a0497-32ab-42b3-3b09-08dea570a972,暂代TrafficMonitor，在任务栏显示网速与资源占用,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,64.4 KB,2026-04-29 20:31,2,加上颜色设置,2026-05-03
