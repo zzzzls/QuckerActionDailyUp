@@ -1,8 +1,16 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+快去快回,https://getquicker.net/Sharedaction?code=4ba06f07-7029-4b1c-50dd-08dea9456719,把最上面的窗口扔到另一个虚拟桌面,通用,Tanziow,https://getquicker.net/User/725126/Tanziow,16.6 KB,2026-05-04 12:25,1,-,2026-05-04
+本地模型截图翻译,https://getquicker.net/Sharedaction?code=0092302d-f8f9-45c3-50dc-08dea9456719,调用本地含有图像识别的ai模型进行文字提取并翻译(基于LM Studio),LM Studio,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,16.8 KB,2026-05-04 12:01,1,+ 优化流程提示,2026-05-04
 Ai 便捷提问,https://getquicker.net/Sharedaction?code=f15a60cd-2630-47c7-4914-08dea848c2ad,🚀临时便捷提问AI，👆划词即答，🤖调用网页端免费额度 支持GPT、Gemini、DeepSeek,通用,我的梦想捐钱修路建学校,https://getquicker.net/User/175959/%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E6%8D%90%E9%92%B1%E4%BF%AE%E8%B7%AF%E5%BB%BA%E5%AD%A6%E6%A0%A1,87.8 KB,2026-05-03 20:27,5,1,2026-05-04
 工资条,https://getquicker.net/Sharedaction?code=753f6249-8a91-40df-4901-08dea848c2ad,Excel/Wps将选择区域自动生成带有表头的工资条,WPS Office,ai56,https://getquicker.net/User/185823/ai56,2.8 KB,2026-05-03 01:14,2,删除不需要的提示,2026-05-04
 AWD的SSCC提取,https://getquicker.net/Sharedaction?code=36f2e925-053b-4806-48ff-08dea848c2ad,亚马逊仓库或运营工具,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,5.6 KB,2026-05-02 23:03,0,,2026-05-04
-运行选中文本,https://getquicker.net/Sharedaction?code=056f517c-938e-4a78-3df1-08dea7548424,运行选中的文本，如果没有选中文本则打开windows运行窗口,通用,hfj8210,https://getquicker.net/User/1148596/hfj8210,2.8 KB,2026-05-02 13:20,0,,2026-05-04
+悬浮小小球,https://getquicker.net/Sharedaction?code=1d7328c3-081e-4384-1fe7-08de7ac590ca,「常驻高频操作。」,通用,Cherofre,https://getquicker.net/User/229808/Cherofre,591.9 KB,2026-03-07 02:20,19,"~ 修复menu参数没有跳转关联
+~ 修复panel参数重复弹出面板",2026-05-04
+常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,371.8 KB,2023-10-18 22:55,155,连续发送支持操作窗和右键进入查看历史,2026-05-04
+网页收藏,https://getquicker.net/Sharedaction?code=e03ff5a8-de40-40e7-8110-08de937230ba,全能网页收藏助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,750.9 KB,2026-04-06 20:05,20,新增-浏览器隐私窗口在前台直接隐私窗口打开,2026-05-04
+快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,li1qqq,https://getquicker.net/User/945817/li1qqq,233.1 KB,2025-12-01 07:22,32,~.修复获取资源管理路径无效的bug,2026-05-04
+剪裁网页到ob,https://getquicker.net/Sharedaction?code=2db0df9d-50b4-4751-e226-08de7cb19adc,快速剪裁网页内容到obsidian,通用,ii6uu998,https://getquicker.net/User/703468/ii6uu998,45.9 KB,2026-03-09 09:37,1,更稳定,2026-05-04
+工作区,https://getquicker.net/Sharedaction?code=3da463c7-286d-4dd5-2bd4-08de8cce2f81,将当前资源管理器的标签页保存为工作区，类似edge,Windows 资源管理器,necrodancer,https://getquicker.net/User/1304844/necrodancer,44.9 KB,2026-03-29 09:39,3,添加右键拆解打开的功能,2026-05-04
 屏幕标注,https://getquicker.net/Sharedaction?code=76b0fd9a-8a69-4c4f-00cb-08de76672e1f,可在屏幕上进行画线等多种标注，支持视频边播放边标注，为演示、教学、远程协作设计。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,102.3 KB,2026-02-28 12:39,8,修复旧系统下工具栏数字按钮背景显示问题,2026-05-04
 任务栏监控助手,https://getquicker.net/Sharedaction?code=782a0497-32ab-42b3-3b09-08dea570a972,暂代TrafficMonitor，在任务栏显示网速与资源占用,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,68.5 KB,2026-04-29 20:31,3,"颜色文本实时反馈，记得合适颜色点击应用；
 
@@ -23,9 +31,4 @@ Ditto 风格字符跳搜索框；（已去除）
 左右按键切换筛选器；",2026-05-04
 LinkDock,https://getquicker.net/Sharedaction?code=ed08e962-79e8-4277-4246-08de8f97c69d,Link Dock（快捷坞）你的效率中枢，一链直达,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,1.1 MB,2026-04-02 15:17,13,"新增-文件拖入的组合打开
 修复-组合图标偏移",2026-05-04
-网页助手,https://getquicker.net/Sharedaction?code=794a227a-4b26-4b09-7be8-08db49a92a64,测试的时候用，占位置就集合了一下,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,482.6 KB,2023-05-01 16:00,8,~ 整合,2026-05-04
-静默删除,https://getquicker.net/Sharedaction?code=8bce9095-d332-4e38-231a-08dd84c1d760,主要用于静默删除文件,Windows 资源管理器,Simonl,https://getquicker.net/User/134191/Simonl,52.9 KB,2025-04-27 23:10,10,"1、修改操作完成提示消息
-2、删除无用步骤和变量",2026-05-04
-网页收藏,https://getquicker.net/Sharedaction?code=e03ff5a8-de40-40e7-8110-08de937230ba,全能网页收藏助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,742.4 KB,2026-04-06 20:05,19,修复隐私空间BUG,2026-05-04
-网站收藏4.0,https://getquicker.net/Sharedaction?code=e2fcfb5c-1f75-4c68-d252-08ddfe78f441,一款强大的多栏本地书签管理器，支持无限层级。支持拖拽整理、拼音首字母搜索、浏览器书签集成与HTML导入导出。界面、颜色、图标等均可高度自定义。,通用,zdf153,https://getquicker.net/User/20184/zdf153,342 KB,2025-09-28 20:53,16,右键增加复制和导出html和网址,2026-05-04
-Gemini,https://getquicker.net/Sharedaction?code=77115418-3ec2-4646-3930-08dde8f7bcbc,英语学习与翻译工具，智能判断划词文本类型自动发送Ai窗口,Google Chrome,chengmen,https://getquicker.net/User/1305284/chengmen,47.5 KB,2025-09-01 11:07,13,修复当页面标题中含有?*等符号时查找不到窗口的问题,2026-05-04
+网页助手,https://getquicker.net/Sharedaction?code=794a227a-4b26-4b09-7be8-08db49a92a64,获取网页视频、图片、音频、文本、网页元素等资源,Microsoft Edge,ZTOA10,https://getquicker.net/User/234516/ZTOA10,482.6 KB,2023-05-01 16:00,8,~ 整合,2026-05-04
