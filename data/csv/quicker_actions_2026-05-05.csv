@@ -1,34 +1,44 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-AI模型对话,https://getquicker.net/Sharedaction?code=0092302d-f8f9-45c3-50dc-08dea9456719,调用本地/在线含有图像识别的ai模型进行文字提取并翻译(基于LM Studio、ollama及常见在线大模型),通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,52.1 KB,2026-05-04 12:01,4,+ 优化使用逻辑,2026-05-06
+Ai提问,https://getquicker.net/Sharedaction?code=93b6522c-eb4f-43ed-7a18-08deaab4ed6f,针对ai的提问,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,117.5 KB,2026-05-06 18:24,0,,2026-05-06
 三折叠面板,https://getquicker.net/Sharedaction?code=647e9930-3b54-429f-b3ec-08deaa6c5ff8,Quicker2.0前瞻预览：三折叠，怎么折，都有面儿,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,168.5 KB,2026-05-05 16:11,0,,2026-05-06
 窗口监控,https://getquicker.net/Sharedaction?code=9c6b3b35-ec9d-483d-b3e8-08deaa6c5ff8,对窗口的局部区域进行监控贴图，可动态看到窗口的状态,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,55 KB,2026-05-05 14:12,0,,2026-05-06
 Excel编号,https://getquicker.net/Sharedaction?code=0ee8f016-72d8-4d07-712b-08deaa4ca320,Excel列编号，可见单元格自定义编号,Microsoft Excel,暮色苍茫,https://getquicker.net/User/474338/%E6%9A%AE%E8%89%B2%E8%8B%8D%E8%8C%AB,43.5 KB,2026-05-05 13:41,0,,2026-05-06
 在wsl neovim中编辑,https://getquicker.net/Sharedaction?code=a822b248-993a-4acb-50ee-08dea9456719,用vim/nvim打开,通用,gaoqiangks,https://getquicker.net/User/180191/gaoqiangks,17.6 KB,2026-05-05 00:53,0,,2026-05-06
 批量剪辑视频,https://getquicker.net/Sharedaction?code=7d9f37be-cdb7-4c48-50ec-08dea9456719,自定义文件断点和裁剪后的文件名，并批量导出原始音频，便于演唱会视频分片。,Windows 资源管理器,shandianchengzi,https://getquicker.net/User/970091/shandianchengzi,20.1 KB,2026-05-05 00:25,0,,2026-05-06
-显示器输入源切换,https://getquicker.net/Sharedaction?code=c23a7579-ec2e-4706-50eb-08dea9456719,切换Dell显示器Thunderbolt接口,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,8.2 KB,2026-05-04 23:19,1,修复bug,2026-05-06
-快去快回,https://getquicker.net/Sharedaction?code=4ba06f07-7029-4b1c-50dd-08dea9456719,把最上面的窗口扔到另一个虚拟桌面,通用,Tanziow,https://getquicker.net/User/725126/Tanziow,16.6 KB,2026-05-04 12:25,1,-,2026-05-06
-超级微信多开,https://getquicker.net/Sharedaction?code=28b6381f-2687-4ada-4241-08de8f97c69d,免扫码、全自动登录的微信多开,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,154.7 KB,2026-04-02 14:08,39,调整细节,2026-05-06
-专利搜索,https://getquicker.net/Sharedaction?code=499270e1-67e9-446b-2df0-08de8bcafa5b,多平台快速搜索专利公开信息,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,247.8 KB,2026-03-27 14:38,19,修复无法自动登录的bug,2026-05-06
+桌面录屏,https://getquicker.net/Sharedaction?code=51fc96c9-a7e6-4212-3788-08de9ddab9c2,"有声录屏,显示键鼠，录后可调视频大小。MP4/GIF",通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,194.5 KB,2026-04-20 16:06,6,"1.系统和麦克风可单独获取声音
+2.标注部分进行了一些修改",2026-05-06
+边缘碰撞+点击,https://getquicker.net/Sharedaction?code=9b870f32-b1f1-49ea-4234-08de8f97c69d,手势拓展，屏幕边缘碰撞或点击触发自定义动作,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,291.6 KB,2026-04-02 00:05,17,-,2026-05-06
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,252.7 KB,2026-04-16 18:41,17,"拉高其置顶层级，确保在顶层窗口也可以使用。
+窗口提示自动关闭缩小，2倍",2026-05-06
+LinkDock,https://getquicker.net/Sharedaction?code=ed08e962-79e8-4277-4246-08de8f97c69d,Link Dock（快捷坞）你的效率中枢，一链直达,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,1.4 MB,2026-04-02 15:17,15,"新增-面板文件夹交互逻辑，更流畅的交互体验（点击进入内部，Alt点击改为打开资源管理器）
+优化-悬浮显示信息优化
+优化-UI细节优化",2026-05-06
+Edge智读 ,https://getquicker.net/Sharedaction?code=50ad76e6-3757-4791-2bd1-08de8cce2f81,智能中英分拣，纯内存解码秒出声；内置沙盒环境，空选文本即可一键刹车静音。,通用,用户6903775097...,https://getquicker.net/User/530229/%E7%94%A8%E6%88%B7690377509746788,79.4 KB,2026-03-28 22:44,21,"1. 首段流解码优化
+复用 MemoryStream，减少重复分配，降低 GC 压力
+_decompressor 初始化使用双重检查锁，减少锁竞争，提高解码效率
+
+2. 缓存访问优化
+确认 _ttsCache 访问线程安全，锁粒度优化
+保证 LastAccess 和 HitCount 更新安全
+
+3. _decompressor 锁粒度优化
+避免每帧重复进入锁，提高 CPU 利用效率
+双重检查锁保证线程安全
+
+4. 队列添加逻辑调整
+_downloadQueue.Add 每段文字创建独立 AudioChunk 副本
+明确 IsPooled 设置，降低重复内存分配
+
+5. 所有主流程和预热相关的 new Thread 已全部替换为 Task.Run，实现线程池复用，进一步提升性能和资源利用率。",2026-05-06
+专利搜索,https://getquicker.net/Sharedaction?code=499270e1-67e9-446b-2df0-08de8bcafa5b,多平台快速搜索专利公开信息,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,247 KB,2026-03-27 14:38,21,修复八月瓜查询失败的bug,2026-05-06
+拯救多国查询,https://getquicker.net/Sharedaction?code=3ae0f813-e450-4067-a490-08de211e65c2,尝试拯救专利多国查询无法加载问题,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,6.3 KB,2025-11-12 17:02,7,调整细节,2026-05-06
+Seer助手,https://getquicker.net/Sharedaction?code=85271533-466e-4fbd-07b4-08dea1a14b22,解决Seer预览图片时无法自由缩放的问题,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,25.4 KB,2026-04-24 11:35,5,调整细节,2026-05-06
+隐藏系统音量条,https://getquicker.net/Sharedaction?code=ae8249cd-b2f7-435c-afc2-08dd90ed498a,缩短音量条的显示时间，让界面更清爽,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,9.3 KB,2025-05-12 17:16,1,支持Win10,2026-05-06
+超级微信多开,https://getquicker.net/Sharedaction?code=28b6381f-2687-4ada-4241-08de8f97c69d,免扫码、全自动登录的微信多开,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,155.6 KB,2026-04-02 14:08,40,调整细节,2026-05-06
+任务栏监控助手,https://getquicker.net/Sharedaction?code=782a0497-32ab-42b3-3b09-08dea570a972,暂代TrafficMonitor，在任务栏显示网速与资源占用,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,70.1 KB,2026-04-29 20:31,5,初始配置优化,2026-05-06
 超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,1 MB,2025-08-18 21:14,60,修复快捷操作窗，松手会自动点击按钮菜单，导致点到其他按钮的问题,2026-05-06
 屏幕标注,https://getquicker.net/Sharedaction?code=76b0fd9a-8a69-4c4f-00cb-08de76672e1f,可在屏幕上进行画线等多种标注，支持视频边播放边标注，为演示、教学、远程协作设计。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,123.7 KB,2026-02-28 12:39,10,新增保存关闭前状态,2026-05-06
 窗口小助手,https://getquicker.net/Sharedaction?code=fc670d4d-a209-4f60-dc05-08dd71ba8805,鼠标右键/中键在任意窗口弹出快捷菜单,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,141.8 KB,2025-04-02 23:39,8,"修复文件定位
 支持传参调用",2026-05-06
 本地音乐,https://getquicker.net/Sharedaction?code=fee14aa0-923d-4d0f-98c1-08de110bce16,本地音乐播放器，,通用,89268690,https://getquicker.net/User/359076/89268690,83.8 KB,2025-10-22 15:40,10,锁定列表,2026-05-06
-LinkDock,https://getquicker.net/Sharedaction?code=ed08e962-79e8-4277-4246-08de8f97c69d,Link Dock（快捷坞）你的效率中枢，一链直达,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,1.2 MB,2026-04-02 15:17,14,"新增-ctrl F 搜索功能
-新增-备份界面怎加导出和导出配置（换电脑一键还原配置）
-新增-设置中面板和组透明度自定义
-优化-文件夹如果已经打开调出窗口而不是重新打开
-优化-打开文件夹适配一些第三方资源管理器
-优化-启动速度和流畅度
-优化-界面UI和功能细节",2026-05-06
-任务栏监控助手,https://getquicker.net/Sharedaction?code=782a0497-32ab-42b3-3b09-08dea570a972,暂代TrafficMonitor，在任务栏显示网速与资源占用,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,68.5 KB,2026-04-29 20:31,4,不支持激活,2026-05-06
-文字贴图,https://getquicker.net/Sharedaction?code=5a3e6234-36f5-489a-387f-08dd82057ea1,文字以贴图方式显示，可拖动、缩放、旋转、调透明度,通用,独木不成林同学,https://getquicker.net/User/281467/%E7%8B%AC%E6%9C%A8%E4%B8%8D%E6%88%90%E6%9E%97%E5%90%8C%E5%AD%A6,36.3 KB,2025-04-23 12:16,5,新增：历史记录功能、控制显示任务栏图标,2026-05-06
-悬浮小小球,https://getquicker.net/Sharedaction?code=1d7328c3-081e-4384-1fe7-08de7ac590ca,「常驻高频操作。」,通用,Cherofre,https://getquicker.net/User/229808/Cherofre,591.9 KB,2026-03-07 02:20,19,"~ 修复menu参数没有跳转关联
-~ 修复panel参数重复弹出面板",2026-05-06
-常用语,https://getquicker.net/Sharedaction?code=7f95cd24-fc50-4180-266c-08dbcf12c669,快捷短语/对话模板/电话/地址/文本/密码/素材/代码/实时搜索/连续发送/标签/文件,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,371.8 KB,2023-10-18 22:55,155,连续发送支持操作窗和右键进入查看历史,2026-05-06
-AD-锁定输入法,https://getquicker.net/Sharedaction?code=fe2fda9a-a22d-442a-9a05-08dca25b1344,锁定切换输入法（避免使用PS等软件时自动切换输入法）,通用,ADONG8,https://getquicker.net/User/782951/ADONG8,53.4 KB,2024-07-12 22:12,11,.,2026-05-06
-You-get GUI,https://getquicker.net/Sharedaction?code=c526731d-4bea-4293-f365-08d7b8641796,Quicker版You-get GUI,通用,绎年,https://getquicker.net/User/20415/%E7%BB%8E%E5%B9%B4,61.1 KB,2020-02-23 21:27,4,更新用户许可,2026-05-06
-网页收藏,https://getquicker.net/Sharedaction?code=e03ff5a8-de40-40e7-8110-08de937230ba,全能网页收藏助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,750.9 KB,2026-04-06 20:05,20,新增-浏览器隐私窗口在前台直接隐私窗口打开,2026-05-06
-快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,li1qqq,https://getquicker.net/User/945817/li1qqq,233.1 KB,2025-12-01 07:22,32,~.修复获取资源管理路径无效的bug,2026-05-06
-剪裁网页到ob,https://getquicker.net/Sharedaction?code=2db0df9d-50b4-4751-e226-08de7cb19adc,快速剪裁网页内容到obsidian,通用,ii6uu998,https://getquicker.net/User/703468/ii6uu998,45.9 KB,2026-03-09 09:37,1,更稳定,2026-05-06
-工作区,https://getquicker.net/Sharedaction?code=3da463c7-286d-4dd5-2bd4-08de8cce2f81,将当前资源管理器的标签页保存为工作区，类似edge,Windows 资源管理器,necrodancer,https://getquicker.net/User/1304844/necrodancer,44.9 KB,2026-03-29 09:39,3,添加右键拆解打开的功能,2026-05-06
+显示器输入源切换,https://getquicker.net/Sharedaction?code=c23a7579-ec2e-4706-50eb-08dea9456719,切换Dell显示器Thunderbolt接口,通用,希望明天是个好天气,https://getquicker.net/User/234406/%E5%B8%8C%E6%9C%9B%E6%98%8E%E5%A4%A9%E6%98%AF%E4%B8%AA%E5%A5%BD%E5%A4%A9%E6%B0%94,8.2 KB,2026-05-04 23:19,1,修复bug,2026-05-06
