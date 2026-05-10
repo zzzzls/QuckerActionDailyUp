@@ -1,0 +1,36 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,29.9 KB,2026-05-09 07:12,0,,2026-05-10
+四点截图,https://getquicker.net/Sharedaction?code=12efb3db-a1f1-4ea0-8d6f-08deabef4a27,点击四个点进行范围截图并自动矫正为矩形,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,17.6 KB,2026-05-08 10:52,0,,2026-05-10
+智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,446.2 KB,2023-01-07 19:44,102,~优化动作,2026-05-10
+网页收藏,https://getquicker.net/Sharedaction?code=e03ff5a8-de40-40e7-8110-08de937230ba,全能网页收藏助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,821 KB,2026-04-06 20:05,23,"修复-工作空间菜单被覆盖
+优化-UI细节",2026-05-10
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,168.6 KB,2023-06-12 00:47,27,"（1）2026年5月2日后，SimpleTex官方API不再每日赠送免费额度，建议切换为Quicker内置接口
+（2）增加“SimpleTex接口调用失败后自动切换至Quicker接口”的功能
+（3）修复API模式-输出为图片格式失效的问题",2026-05-10
+替换图层,https://getquicker.net/Sharedaction?code=0180ac37-011c-4ec4-39c8-08dd776c5a34,使用剪贴板/指定图层/图片文件替换选中图层,Adobe Photoshop,Ray-CD,https://getquicker.net/User/191353/Ray-CD,184.3 KB,2025-04-10 13:52,15,"1.修复使用剪贴板中智能图层批量替换图层时，被替换图层丢失关联。
+2.优化选中智能对象关联副本(选中关联副本需要遍历文档所有图层)的运行速度。",2026-05-10
+图片|视频|PDF 转换|压缩,https://getquicker.net/Sharedaction?code=39ac1d1d-e046-49b6-0c21-08de4a7531cf,支持JPG/PNG/WEBP/AVIF/TIFF/GIF/PSD/SVG/ICO/PDF/MP4这些常见图片/PDF/视频的压缩和转换，支持常见图片的简单处理。让文件处理不仅高效，更要优雅。,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,333.3 KB,2026-01-03 23:41,5,修复高分辨率显示问题,2026-05-10
+LinkDock,https://getquicker.net/Sharedaction?code=ed08e962-79e8-4277-4246-08de8f97c69d,Link Dock（快捷坞）你的效率中枢，一链直达,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,1.5 MB,2026-04-02 15:17,17,"新增-右键添加分割线，分组内更细的划分内容
+优化-图片预览显示原图清晰度
+优化-文件夹跳转功能（WPS等特殊窗口暂无法跳转）",2026-05-10
+三折叠面板,https://getquicker.net/Sharedaction?code=647e9930-3b54-429f-b3ec-08deaa6c5ff8,Quicker2.0前瞻预览：三折叠，怎么折，都有面儿,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,193.6 KB,2026-05-05 16:11,3,修复原生面板兼容问题,2026-05-10
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,1 MB,2025-08-18 21:14,63,修复未关闭已打开操作窗的问题,2026-05-10
+Ai提问,https://getquicker.net/Sharedaction?code=93b6522c-eb4f-43ed-7a18-08deaab4ed6f,针对ai的提问,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,121.4 KB,2026-05-06 18:24,2,更兼容api,2026-05-10
+企业快查,https://getquicker.net/Sharedaction?code=87850f99-266b-4fdc-809a-08dcf2fec074,调用天眼查接口进行企业信息查询并可以快速填充。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,186.2 KB,2024-10-23 14:52,43,增加飞鸟网页内容提取,2026-05-10
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,255.4 KB,2026-04-16 18:41,18,"启用左键拖拽，除开发送也可以拖拽项到目标窗口；
+
+改用自定义剪贴板监控；
+
+优化保存刷新；",2026-05-10
+颜色助手,https://getquicker.net/Sharedaction?code=7f9e2576-07d3-430a-c1ed-08de8ec34788,常用颜色一键收藏，你的贴心颜色助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,128.9 KB,2026-03-31 18:41,11,"去掉主页不必要的显示（挪到了右键）
+优化了UI细节",2026-05-10
+边缘碰撞+点击,https://getquicker.net/Sharedaction?code=9b870f32-b1f1-49ea-4234-08de8f97c69d,手势拓展，屏幕边缘碰撞或点击触发自定义动作,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,296 KB,2026-04-02 00:05,22,修复边缘设置总览，对不存在的动作报错问题,2026-05-10
+文本+,https://getquicker.net/Sharedaction?code=7f2433ad-4380-4a45-e981-08dafac3acc5,整合了一些常用的excel文本处理功能,Microsoft Excel,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,285.4 KB,2023-01-20 18:13,26,"1.更新快速查询，支持xlookup模式
+2.更新加减乘除",2026-05-10
+单元格运算,https://getquicker.net/Sharedaction?code=c1423041-06e8-471b-258b-08d989f9005b,单元格数值+-*/另一个数,Microsoft Excel,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,14.7 KB,2021-10-09 09:09,1,"1.新增自定义运算，可以进行四则组合运算
+2.右键增加撤销模式，可以撤回上次数据",2026-05-10
+凑数求和,https://getquicker.net/Sharedaction?code=158bbb69-c590-4af9-ce0b-08d99cd13b42,在源数据中找出和值等于目标值的一组组合,Microsoft Excel,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,31.4 KB,2021-11-02 09:46,5,"1.增加目标范围内凑数
+2.高亮组合在当前选择区域中进行，即使选择其它区域也不再受影响
+3.修改了部分凑数代码",2026-05-10
+定时器,https://getquicker.net/Sharedaction?code=fd5e10ab-43b3-40e6-c78c-08ddae630a25,在指定时间定时关机、重启、动作、程序、提醒等,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,32.2 KB,2025-06-19 10:18,4,增加整点,2026-05-10
+专利快查,https://getquicker.net/Sharedaction?code=1ab39a56-24e5-404c-306b-08dcfbc8d3fa,快速查询专利审查、专利代理相关信息,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,303.1 KB,2024-11-04 14:16,130,修复bug,2026-05-10
