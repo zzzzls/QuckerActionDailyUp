@@ -1,0 +1,95 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+md提示,https://getquicker.net/Sharedaction?code=4b629a82-889c-4531-f0b9-08deafba6653,markdown 提示窗口,通用,Cea,https://getquicker.net/User/113342/Cea,22.8 KB,2026-05-12 08:07,1,1,2026-05-12
+pdf添加页码,https://getquicker.net/Sharedaction?code=28e1fdc1-b1f4-4b9a-dd5d-08deaef5f4fb,给选择的pdf文件添加页码（默认右下角，可自行更改页码位置，字体大小，字体等）,通用,钟律师,https://getquicker.net/User/1287061/%E9%92%9F%E5%BE%8B%E5%B8%88,15.6 KB,2026-05-11 22:54,0,,2026-05-12
+运行Python,https://getquicker.net/Sharedaction?code=757f09b0-aac9-4ef0-dd59-08deaef5f4fb,检测当前目录下的.py文件并启动conda的base环境运行.py，如果只有一个直接运行，如有多个则用户选择运行,Windows 资源管理器,hfj8210,https://getquicker.net/User/1148596/hfj8210,1 KB,2026-05-11 20:14,0,,2026-05-12
+文本处理,https://getquicker.net/Sharedaction?code=c6cb8c6f-2591-4f46-dd58-08deaef5f4fb,"文本处理,去空行,去前后空白,去全部空白,合并多行,去前后缀,加前后缀,替换文本,Base64_编码,Base64_解码,多行排序_A-Z,多行排序_Z-A",通用,hfj8210,https://getquicker.net/User/1148596/hfj8210,33.2 KB,2026-05-11 19:14,1,~,2026-05-12
+作者水印,https://getquicker.net/Sharedaction?code=e9d50aa3-9684-48a9-dd4f-08deaef5f4fb,可设置作者水印,Adobe Photoshop,犬夜叉和桔梗,https://getquicker.net/User/1187817/%E7%8A%AC%E5%A4%9C%E5%8F%89%E5%92%8C%E6%A1%94%E6%A2%97,8.8 KB,2026-05-11 16:30,0,,2026-05-12
+剪贴板查看器,https://getquicker.net/Sharedaction?code=fe33cf74-7834-45d8-dd42-08deaef5f4fb,查看剪贴板数据，支持查看拖拽数据,通用,Cea,https://getquicker.net/User/113342/Cea,16.2 KB,2026-05-11 15:22,1,增加format右键菜单：复制,2026-05-12
+激光测距,https://getquicker.net/Sharedaction?code=4d9037ad-93fa-409a-dd41-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:17,0,,2026-05-12
+透明模式,https://getquicker.net/Sharedaction?code=f157767b-7ce7-4ca9-dd40-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:16,0,,2026-05-12
+显示隐藏门板,https://getquicker.net/Sharedaction?code=17e687bb-f624-4cfe-dd3f-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:16,0,,2026-05-12
+显示隐藏开门线,https://getquicker.net/Sharedaction?code=b5f78530-4750-48be-dd3d-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:16,0,,2026-05-12
+预览板材五金,https://getquicker.net/Sharedaction?code=aa906d2e-4acb-41f0-dd3b-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:16,0,,2026-05-12
+设置外协,https://getquicker.net/Sharedaction?code=c2a1ea33-5e02-4ce3-dd3a-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:15,0,,2026-05-12
+订单日志,https://getquicker.net/Sharedaction?code=1e514507-447d-45c9-dd39-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:15,0,,2026-05-12
+显示隐藏范围框,https://getquicker.net/Sharedaction?code=f72db1bc-7c83-4731-dd38-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:15,0,,2026-05-12
+设置见光板,https://getquicker.net/Sharedaction?code=c4c42da9-0818-47b0-dd37-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:15,0,,2026-05-12
+材质旋转,https://getquicker.net/Sharedaction?code=b7712c55-8077-4e0e-dd36-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:14,0,,2026-05-12
+材质替换,https://getquicker.net/Sharedaction?code=4a8e5f00-e92c-4987-dd35-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:13,0,,2026-05-12
+材质库,https://getquicker.net/Sharedaction?code=60706767-6254-42a2-dd34-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:13,0,,2026-05-12
+安装衣通,https://getquicker.net/Sharedaction?code=b9f2f71b-4312-4aab-dd32-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:10,0,,2026-05-12
+安装灯带,https://getquicker.net/Sharedaction?code=1105c22b-4bdc-4fe0-dd31-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:09,0,,2026-05-12
+安装铰链,https://getquicker.net/Sharedaction?code=237bf356-f863-466a-dd30-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:09,0,,2026-05-12
+安装拉手,https://getquicker.net/Sharedaction?code=7791630e-6d4e-4dd2-dd2f-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:09,0,,2026-05-12
+添加门板,https://getquicker.net/Sharedaction?code=6392df53-8f11-4ff9-dd2e-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:09,0,,2026-05-12
+添加抽屉,https://getquicker.net/Sharedaction?code=1b36f9de-22fc-4bdb-dd2d-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:08,0,,2026-05-12
+添加层板标记,https://getquicker.net/Sharedaction?code=7d5993fd-beaa-49cd-dd2c-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:08,0,,2026-05-12
+绘制板件,https://getquicker.net/Sharedaction?code=9428fa21-5990-4129-dd2b-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:08,0,,2026-05-12
+插入偏移板件,https://getquicker.net/Sharedaction?code=305a690d-c31c-42bd-dd2a-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:07,0,,2026-05-12
+磁吸组件,https://getquicker.net/Sharedaction?code=5a6f1311-0cc2-4c1f-dd29-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:07,0,,2026-05-12
+组件笔刷,https://getquicker.net/Sharedaction?code=0e0c685b-4738-4074-dd28-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:07,0,,2026-05-12
+产品库,https://getquicker.net/Sharedaction?code=b29964c9-f418-4711-dd27-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:06,0,,2026-05-12
+组件圆盘菜单,https://getquicker.net/Sharedaction?code=f95d4e83-07b5-4420-dd26-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:06,0,,2026-05-12
+组件替换空间盒,https://getquicker.net/Sharedaction?code=8556c0c1-cb42-4db7-dd25-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:06,0,,2026-05-12
+空间盒对齐到面,https://getquicker.net/Sharedaction?code=ee557a28-826c-4011-dd24-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:05,0,,2026-05-12
+空间盒转为正面,https://getquicker.net/Sharedaction?code=d32c9d4f-1c1d-401f-dd23-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:05,0,,2026-05-12
+合并空间盒,https://getquicker.net/Sharedaction?code=47ba54aa-ae75-458d-dd22-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:05,0,,2026-05-12
+分割空间盒,https://getquicker.net/Sharedaction?code=f3930eb4-550b-48b1-dd21-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:04,0,,2026-05-12
+绘制空间盒,https://getquicker.net/Sharedaction?code=537b5749-442a-4682-dd20-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:04,0,,2026-05-12
+新建空间盒,https://getquicker.net/Sharedaction?code=dd092e77-f1a8-4b78-dd1f-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:03,0,,2026-05-12
+开洞组件,https://getquicker.net/Sharedaction?code=a51506c3-2ea8-4075-dd1d-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:01,0,,2026-05-12
+合并单元柜,https://getquicker.net/Sharedaction?code=a9993ab3-5aa5-4c0a-dd1c-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 15:01,0,,2026-05-12
+背板分隔,https://getquicker.net/Sharedaction?code=769b1610-e161-467e-dd1b-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 15:00,0,,2026-05-12
+模型转自由编辑,https://getquicker.net/Sharedaction?code=3439f141-1825-49b2-dd18-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1.1 KB,2026-05-11 14:59,0,,2026-05-12
+框选拖拽,https://getquicker.net/Sharedaction?code=8c4d9f6c-2dd4-4112-dd14-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 14:56,0,,2026-05-12
+开洞工具,https://getquicker.net/Sharedaction?code=125687c0-b142-49a6-dd13-08deaef5f4fb,模兔云V2快捷方式,SketchUp Application,M秋画扇,https://getquicker.net/User/128119/M%E7%A7%8B%E7%94%BB%E6%89%87,1 KB,2026-05-11 14:54,0,,2026-05-12
+ScreenToGif,https://getquicker.net/Sharedaction?code=61a44910-7440-4a64-dd0e-08deaef5f4fb,在指定位置打开ScreenToGif录制窗口,通用,FaniX,https://getquicker.net/User/52603/FaniX,12.3 KB,2026-05-11 14:01,0,,2026-05-12
+提取网页表格,https://getquicker.net/Sharedaction?code=78969948-be39-4c01-dd08-08deaef5f4fb,提取网页中的表格,通用,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,32.7 KB,2026-05-11 11:01,0,,2026-05-12
+曲线测量,https://getquicker.net/Sharedaction?code=3fdc5245-75a6-4209-54b7-08deadd3df5d,测量屏幕上曲线，弧线的长度,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,30.1 KB,2026-05-10 19:34,0,,2026-05-12
+超级微信多开,https://getquicker.net/Sharedaction?code=28b6381f-2687-4ada-4241-08de8f97c69d,免扫码、全自动批量登录的微信多开,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,162.5 KB,2026-04-02 14:08,47,调整细节,2026-05-12
+快速导出,https://getquicker.net/Sharedaction?code=fe1833b7-4f93-453e-2ce1-08de41e63e54,Illustrator 快速导出为 svg、png、jpg 格式,Adobe Illustrator,FanXiang,https://getquicker.net/User/27525/FanXiang,47.8 KB,2025-12-24 14:07,3,右键设置中可自定义导出png格式的分辨率（DPI）,2026-05-12
+无痕书签,https://getquicker.net/Sharedaction?code=d2b8ccda-d310-48b9-07c8-08dea1a14b22,在无痕窗口中快速打开你收藏的常用网址,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,17.6 KB,2026-04-24 17:20,2,修复bug,2026-05-12
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,29.4 KB,2026-05-09 07:12,9,优化启动流程，尝试修复报错,2026-05-12
+多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,405.1 KB,2025-12-11 12:18,51,- 修复更新分组图标没有自动初始化的问题,2026-05-12
+Snip,https://getquicker.net/Sharedaction?code=e15cfcc8-503f-42c1-4c5a-08de79cfe7d4,截图，标注，Ocr，录制，贴图，Gif,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,52.5 KB,2026-03-04 20:01,17,扩展类,2026-05-12
+计算器,https://getquicker.net/Sharedaction?code=418d888f-c882-40e1-3f7a-08dc8a9ff82c,免费且强大的计算器，公式、历史、贴边、语音、深色、单位换算,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,188.3 KB,2024-06-13 00:30,105,"设置增加是否回车发送；
+
+发送选择结果还是算式加结果；",2026-05-12
+论文速读,https://getquicker.net/Sharedaction?code=869a8584-887d-49b1-fe4e-08dd522995b7,选中论文pdf文件或路径，使用本动作，即可自动提炼每一章的要点，生成详细的论文笔记。眼睛如果能跟上笔记生成的速度，就能速读整篇论文。,通用,Balrog,https://getquicker.net/User/235565/Balrog,20.3 KB,2025-02-21 22:27,3,修复传入PDF文件名有\r\n导致无法保存结果文件的问题,2026-05-12
+文件夹监控,https://getquicker.net/Sharedaction?code=d16738be-2ebc-40bc-8d40-08dea00bad67,监控多个文件夹，并采用窗口通知,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,71.4 KB,2026-04-22 17:15,6,公用剪贴板的窗口通知,2026-05-12
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,294.9 KB,2026-04-16 18:41,21,"优化下扩展类；
+
+Notify:+文本，进行窗口通知",2026-05-12
+精简腾讯会议邀请信息,https://getquicker.net/Sharedaction?code=9149e5e0-a618-4e22-54a3-08deadd3df5d,腾讯会议冗长邀请链接，精简为“主题、时间、会议号”三要素，简洁易读、易分享,通用,tea,https://getquicker.net/User/19623/tea,5 KB,2026-05-10 00:26,1,0.0.1 剪粘板中没有腾讯会议链接中，不进行转换，不替换剪贴板中内容；作出提示。,2026-05-12
+iqdb搜图,https://getquicker.net/Sharedaction?code=36a667f4-de2f-469f-c786-08d7e902341a,使用iqdb搜图，支持多线程,通用,尔茄无双,https://getquicker.net/User/160870/%E5%B0%94%E8%8C%84%E6%97%A0%E5%8F%8C,45 KB,2020-04-25 18:19,15,"# 重大更新
+- 现在不再依赖图床，而是直接从本地上传。也就不再依赖控制浏览器的插件了",2026-05-12
+语义小地图,https://getquicker.net/Sharedaction?code=ddaadd94-4832-4062-6084-08de870e7788,选中多行文本，使用本动作，自动展示2D语义聚类图，选中节点自动解析差异。,通用,Balrog,https://getquicker.net/User/235565/Balrog,121.3 KB,2026-03-21 22:41,3,修复了选中文本超过52行时，表格模式行数不够的问题,2026-05-12
+三折叠面板,https://getquicker.net/Sharedaction?code=647e9930-3b54-429f-b3ec-08deaa6c5ff8,Quicker2.0前瞻预览：三折叠，怎么折，都有面儿,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,211.7 KB,2026-05-05 16:11,5,"修复焦点问题
+加快启动速度",2026-05-12
+电脑防窥神器,https://getquicker.net/Sharedaction?code=bf24c60e-97da-4480-4221-08de8f97c69d,防止别人偷看你的电脑，保证绝对隐私。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,46.1 KB,2026-04-01 14:58,4,"1.新增后台全自动模式，快捷键打开关闭门帘
+2.新增密码设置，真正做到电脑防窥。",2026-05-12
+批量管理Su插件,https://getquicker.net/Sharedaction?code=1644b66f-b34b-4eb7-73f1-08dd48ab08f0,用于Sketchup插件的批量管理,SketchUp Application,GZKSU,https://getquicker.net/User/454447/GZKSU,255.4 KB,2025-02-09 23:24,22,修复隐层问题,2026-05-12
+计时器,https://getquicker.net/Sharedaction?code=a7e7d513-e83b-4dbe-39dc-08dd776c5a34,贴边计时器，多计时器运行，支持结束运行动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,160.1 KB,2025-04-10 18:17,17,优化下内部保存逻辑和说明,2026-05-12
+图片|视频|PDF 转换|压缩,https://getquicker.net/Sharedaction?code=39ac1d1d-e046-49b6-0c21-08de4a7531cf,支持JPG/PNG/WEBP/AVIF/TIFF/GIF/PSD/SVG/ICO/PDF/MP4这些常见图片/PDF/视频的压缩和转换，支持常见图片的简单处理。让文件处理不仅高效，更要优雅。,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,400.9 KB,2026-01-03 23:41,6,再次修复群友的分辨率显示问题,2026-05-12
+保存,https://getquicker.net/Sharedaction?code=b6cdef96-aacd-4023-b2e3-08dd3b5bce04,一键保存文件,Adobe Photoshop,犬夜叉和桔梗,https://getquicker.net/User/1187817/%E7%8A%AC%E5%A4%9C%E5%8F%89%E5%92%8C%E6%A1%94%E6%A2%97,54.3 KB,2025-01-23 14:07,8,jpg增加元信息设置,2026-05-12
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,1.1 MB,2025-08-18 21:14,64,"修改一下颜色识别算法，阴影识别部分bug修复
+阴影识别支持自定义动作
+性能优化",2026-05-12
+复制提示,https://getquicker.net/Sharedaction?code=887bc64e-82e8-4ecf-f238-08ddaf4c49d6,它会在复制成功时提示你（✅高使用量）,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,127.4 KB,2025-06-20 11:42,52,调整细节,2026-05-12
+屏幕标注,https://getquicker.net/Sharedaction?code=76b0fd9a-8a69-4c4f-00cb-08de76672e1f,可在屏幕上进行画线等多种标注，支持视频边播放边标注，为演示、教学、远程协作设计。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,129 KB,2026-02-28 12:39,11,新增模式切换（保留标注显示）,2026-05-12
+专利搜索,https://getquicker.net/Sharedaction?code=499270e1-67e9-446b-2df0-08de8bcafa5b,多平台快速搜索专利公开信息,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,245.8 KB,2026-03-27 14:38,22,调整细节,2026-05-12
+音频轮回,https://getquicker.net/Sharedaction?code=ff079cff-fcdf-4940-83dd-08de063444e6,在两个外放音频设备（音箱 ＆ 耳机）间轮回,通用,Poto,https://getquicker.net/User/137838/Poto,16.5 KB,2025-10-08 14:31,4,优化,2026-05-12
+LinkDock,https://getquicker.net/Sharedaction?code=ed08e962-79e8-4277-4246-08de8f97c69d,Link Dock（快捷坞）你的效率中枢，一链直达,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,1.4 MB,2026-04-02 15:17,20,"优化-优化启动速度
+修复-图片偶尔识别为动作到BUG",2026-05-12
+输入法指示器,https://getquicker.net/Sharedaction?code=483c9e7c-64c4-4402-360d-08de964148e1,跟随鼠标显示当前输入法（中文 / 英文）、大小写、数字键状态,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,76.3 KB,2026-04-10 22:09,4,1.新增指示器样式和位置设定（仅限c#模式）,2026-05-12
+AI多语言翻译,https://getquicker.net/Sharedaction?code=bf6419e5-3ab2-4094-548d-08dea664900b,AI翻译多语言 全文档图层翻译+选择图层翻译,Adobe Illustrator,用户小白,https://getquicker.net/User/1288717/%E7%94%A8%E6%88%B7%E5%B0%8F%E7%99%BD,77.6 KB,2026-04-30 14:22,3,增加了自由更换大模型的设置，可按照自己需求更换免费收费快速模型。,2026-05-12
+中英文切换-退格,https://getquicker.net/Sharedaction?code=5b87fee1-2da6-41f1-5827-08dea0d612ed,退格键切换中英文符号,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,109.3 KB,2026-04-24 00:36,5,多加了点手段以防莫名卡死,2026-05-12
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,183.1 KB,2023-06-12 00:47,29,"新增""免费模式""，公共SimpleTex API暂不可用，请使用免费模式",2026-05-12
+屏幕标尺,https://getquicker.net/Sharedaction?code=7a09d5bf-4d0c-4788-be26-08de6ebaab1b,在屏幕上显示一把直尺，测量水平和垂直方向的长度以及任意两点的长度,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,150 KB,2026-02-19 16:52,5,"1.右键新增多点连续测量
+2.测量时放大镜底部新增说明
+3.修复测量时屏幕闪现问题",2026-05-12
+轮盘皮肤,https://getquicker.net/Sharedaction?code=02fd6014-4531-46ca-54a4-08deadd3df5d,提供8种精美渐变色轮盘皮肤，使用您的渐变背景图片，让图标清晰可见,Quicker,ai56,https://getquicker.net/User/185823/ai56,18 KB,2026-05-10 00:37,8,...,2026-05-12
+屏幕角度尺,https://getquicker.net/Sharedaction?code=e153c2ba-6360-4ac2-d32e-08de71c13f07,测量屏幕角度，精准高效，方便实用。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,40.6 KB,2026-02-22 11:40,4,"1.Gdi修复
+2.修复角度第二条边显示问题",2026-05-12
+网页收藏,https://getquicker.net/Sharedaction?code=e03ff5a8-de40-40e7-8110-08de937230ba,全能网页收藏助手,通用,Nian7i,https://getquicker.net/User/218805/Nian7i,825.7 KB,2026-04-06 20:05,24,"修复-修复卡片放大文字变模糊
+修复-修复置顶和显示子分组状态的记忆",2026-05-12
