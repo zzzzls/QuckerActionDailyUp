@@ -1,15 +1,20 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-浮岛,https://getquicker.net/Sharedaction?code=e47528a2-8997-45a2-2866-08deb3e75025,临时面板，自由添加Html组件，借助Ai实现高度自定义。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,116.2 KB,2026-05-18 16:11,17,优化下图标,2026-05-20
-录屏,https://getquicker.net/Sharedaction?code=ed50e1a3-81d2-4f82-2862-08deb3e75025,"录屏, alt结束录屏",通用,ORYS,https://getquicker.net/User/298536/ORYS,23 KB,2026-05-18 14:56,7,隐藏运行窗口,2026-05-20
+高级拼接,https://getquicker.net/Sharedaction?code=4d2f9b2c-69ce-41d9-b37f-08deb5d71ea2,复杂文本拼接,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,20.7 KB,2026-05-20 19:33,0,,2026-05-20
 Quicker空调,https://getquicker.net/Sharedaction?code=b625d103-ace8-4b9d-e607-08deb4db0cf2,给您带来舒心是我最大的愿望。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,19.4 KB,2026-05-19 15:36,0,,2026-05-20
 抖音直播点赞,https://getquicker.net/Sharedaction?code=84f5291c-65d5-4500-e605-08deb4db0cf2,确认好终止快捷键再启动,Microsoft Edge,$haun_,https://getquicker.net/User/747405/$haun_,3.7 KB,2026-05-19 14:55,0,,2026-05-20
-键影鼠行,https://getquicker.net/Sharedaction?code=0bde2eb4-bf1e-41f9-e5df-08deb4db0cf2,键落生影，鼠动随行，电脑中的另一个你实时模仿你的一系列操作键盘鼠标动作。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,19.9 KB,2026-05-18 20:43,1,"1.猫背景取消，并身体可跟随鼠标活动
-2.退出后显示键鼠相关参数",2026-05-20
-步数修改,https://getquicker.net/Sharedaction?code=179c88dd-6c94-4150-2870-08deb3e75025,小米运动步数修改,通用,Cea,https://getquicker.net/User/113342/Cea,17.3 KB,2026-05-18 19:36,0,,2026-05-20
+浮岛,https://getquicker.net/Sharedaction?code=e47528a2-8997-45a2-2866-08deb3e75025,临时面板，自由添加Html组件，借助Ai实现高度自定义。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,178 KB,2026-05-18 16:11,20,每个组件记录它写入过的业务 key，删除组件时会真正清理对应的 state，避免产生大量孤儿数据。,2026-05-20
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,300.6 KB,2024-12-09 20:46,58,"支持通过快捷键激活 QQ和微信 的窗口。
+可以设置软件未打开窗口时不进入未分组中，从而保持显示顺序不变。",2026-05-20
+超级微信多开,https://getquicker.net/Sharedaction?code=28b6381f-2687-4ada-4241-08de8f97c69d,微信双开、微信多开，免扫码、批量全自动登录微信,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,164.3 KB,2026-04-02 14:08,54,调整细节,2026-05-20
+动作面板v3,https://getquicker.net/Sharedaction?code=3b65840d-7670-4165-9c58-08dd91d533ab,放置常用的Quicker动作，点击运行。支持动作自己的右键菜单，支持深色模式,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,217 KB,2025-05-14 13:28,25,"新增：点击其它窗口后，自动关闭操作窗。默认不启用。
+	 点击运行其它动作后，自动关闭操作窗。默认不启用。
+
+取消操作窗自动关闭的提示。",2026-05-20
+专利信息下载,https://getquicker.net/Sharedaction?code=81593229-0b19-4044-501f-08dcf7c36419,快速获取并下载多国官网的专利查询结果的全部信息。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,42.1 KB,2024-10-30 14:01,18,调整细节,2026-05-20
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,189.9 KB,2024-12-17 10:16,43,增加商标变更、续展申请书,2026-05-20
 剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,313.9 KB,2026-04-16 18:41,25,回归简单的获取剪贴板图片。不然透明通道被合成黑底了我天。,2026-05-20
 多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,408.7 KB,2025-12-11 12:18,54,增加「克隆按钮」功能，方便快速添加相同参数的按钮,2026-05-20
-动作面板v3,https://getquicker.net/Sharedaction?code=3b65840d-7670-4165-9c58-08dd91d533ab,放置常用的Quicker动作，点击运行。支持动作自己的右键菜单，支持深色模式,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,248.3 KB,2025-05-14 13:28,23,新增：点击其它窗口后，自动关闭操作窗。默认不启用。,2026-05-20
-窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,279 KB,2024-12-09 20:46,54,缩短操作窗自动关闭提示的显示时间，减少干扰,2026-05-20
+录屏,https://getquicker.net/Sharedaction?code=ed50e1a3-81d2-4f82-2862-08deb3e75025,"录屏, alt结束录屏",通用,ORYS,https://getquicker.net/User/298536/ORYS,23 KB,2026-05-18 14:56,7,隐藏运行窗口,2026-05-20
 豆包语音输入,https://getquicker.net/Sharedaction?code=cf04a2a8-d13e-4901-ac85-08de65127db3,Windows 语音输入工具，基于豆包 ASR 实现实时语音识别。,通用,ailele,https://getquicker.net/User/12078/ailele,10.6 KB,2026-02-06 11:10,1,"根据 openless 重新构建 
 ASR 是 手机豆包",2026-05-20
 三折叠面板,https://getquicker.net/Sharedaction?code=647e9930-3b54-429f-b3ec-08deaa6c5ff8,⚡️Quicker2.0前瞻预览：三折叠，怎么折，都有面儿,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,225.8 KB,2026-05-05 16:11,9,修复,2026-05-20
@@ -19,15 +24,8 @@ Quicker勿扰模式,https://getquicker.net/Sharedaction?code=7900e46a-db37-4924-
 培训考试,https://getquicker.net/Sharedaction?code=a4a00c76-81cd-40f2-7526-08de605bf54f,本地文件题库/批量操作/自动计算分数/自动导出错题PDF,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,369.9 KB,2026-01-31 14:01,59,⭐,2026-05-20
 Edge智读 ,https://getquicker.net/Sharedaction?code=50ad76e6-3757-4791-2bd1-08de8cce2f81,无需打开Edge，选中文字，触发即读，中文自动由晓晓、英文ava朗读,通用,用户6903775097...,https://getquicker.net/User/530229/%E7%94%A8%E6%88%B7690377509746788,82.7 KB,2026-03-28 22:44,28,"功能/用途说明更新为：
 无需打开Edge，选中文字，触发即读，中文自动由晓晓、英文ava朗读",2026-05-20
+键影鼠行,https://getquicker.net/Sharedaction?code=0bde2eb4-bf1e-41f9-e5df-08deb4db0cf2,键落生影，鼠动随行，桌面萌宠实时模仿你的一系列操作键盘鼠标动作，记录键盘鼠标相关数据。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,19.9 KB,2026-05-18 20:43,1,"1.猫背景取消，并身体可跟随鼠标活动
+2.退出后显示键鼠相关参数",2026-05-20
 专利搜索,https://getquicker.net/Sharedaction?code=499270e1-67e9-446b-2df0-08de8bcafa5b,多平台快速搜索专利公开信息,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,247.4 KB,2026-03-27 14:38,23,修复bug,2026-05-20
 智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,446.7 KB,2023-01-07 19:44,103,+现在设置中的字体大小和图标大小，可以控制菜单管理界面啦。,2026-05-20
 DDS信息,https://getquicker.net/Sharedaction?code=98c4ae9d-dd00-43af-be17-08de6ebaab1b,快速查看dds图片信息,Windows 资源管理器,xqfa,https://getquicker.net/User/170672/xqfa,17.9 KB,2026-02-18 15:34,1,在设置添加显示更详细信息的选项,2026-05-20
-边缘碰撞+点击,https://getquicker.net/Sharedaction?code=9b870f32-b1f1-49ea-4234-08de8f97c69d,手势拓展，屏幕边缘碰撞或点击触发自定义动作,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,301.7 KB,2026-04-02 00:05,23,修复碰撞离开角落区域识别失败问题,2026-05-20
-比例测量,https://getquicker.net/Sharedaction?code=8b61d8c5-125d-467d-c9ef-08deb19da5ec,通过已知长度，按照比例测量显示尺寸,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,19.5 KB,2026-05-14 22:03,1,修改正交直线的画线方式，按一下shift切换正交与随意直线的绘制方式。目的是正交模式下可解放左手，可以通过ctrl加方向键精准定位。,2026-05-20
-应用启动,https://getquicker.net/Sharedaction?code=8e656b81-a655-45c7-1e5d-08de53f7c468,快速启动应用的超级菜单，支持高度自定义和参数调用,通用,十二猫主,https://getquicker.net/User/774543/%E5%8D%81%E4%BA%8C%E7%8C%AB%E4%B8%BB,200.4 KB,2026-01-15 16:47,11,常规更新：修复查看更新，但未成功激活浏览器后不能继续运行的问题,2026-05-20
-屏幕标注,https://getquicker.net/Sharedaction?code=76b0fd9a-8a69-4c4f-00cb-08de76672e1f,可在屏幕上进行画线等多种标注，支持视频边播放边标注，为演示、教学、远程协作设计。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,194.1 KB,2026-02-28 12:39,15,"1.修复荧光笔预览光圈不跟随鼠标移动的问题
-2.橡皮擦预览光圈改为点状。",2026-05-20
-json处理,https://getquicker.net/Sharedaction?code=d47551a1-d63d-4e74-f60c-08db50305c18,json 格式化/转义/去转义/压缩处理,通用,ziyue,https://getquicker.net/User/245395/ziyue,39.3 KB,2023-05-09 20:17,4,"1. 单引号格式化异常处理
-2. 添加""显示单引号""选择框,json格式在单引号和双引号切换",2026-05-20
-任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,412.8 KB,2025-05-19 09:05,43,"日程列表阳历农历排序优化
-农历日程也可以直接编辑调整了",2026-05-20
