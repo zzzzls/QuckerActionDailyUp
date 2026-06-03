@@ -1,0 +1,42 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+PDF发票转图,https://getquicker.net/Sharedaction?code=7efd95b9-23b4-4f2f-bcea-08dec02c2aa9,针对发票类特殊字体的PDF转图工具，解决转图后缺少内容的问题。,通用,M-cc,https://getquicker.net/User/521120/M-cc,199.6 KB,2026-06-03 09:24,0,,2026-06-03
+> Plugins,https://getquicker.net/Sharedaction?code=57dbf513-1cb9-4a4e-bcd8-08dec02c2aa9,打开  3ds Max 常用目录。,通用,Anlv,https://getquicker.net/User/392637/Anlv,1.8 KB,2026-06-02 18:33,0,,2026-06-03
+文件夹左右分屏,https://getquicker.net/Sharedaction?code=b64a5dc8-4d5e-4253-bcd3-08dec02c2aa9,将当前已打开的两个文件夹窗口按主屏幕工作区左右分屏排列,通用,起见了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E8%A7%81%E4%BA%86zizizi,6.4 KB,2026-06-02 17:07,1,修复3个文件夹时也生效,2026-06-03
+ClickView,https://getquicker.net/Sharedaction?code=804d00da-7166-4d0b-bccd-08dec02c2aa9,运行后鼠标点击会播放动画效果,通用,ORYS,https://getquicker.net/User/298536/ORYS,19.1 KB,2026-06-02 15:03,0,,2026-06-03
+结束Max,https://getquicker.net/Sharedaction?code=f5e9d524-08d4-410e-bcc3-08dec02c2aa9,强制结束3DMAX。,通用,Anlv,https://getquicker.net/User/392637/Anlv,2.6 KB,2026-06-02 13:54,0,,2026-06-03
+虫洞,https://getquicker.net/Sharedaction?code=ddeb22c9-02ca-4f44-51e3-08debf778615,鼠标穿透小窗,通用,FanXiang,https://getquicker.net/User/27525/FanXiang,30.7 KB,2026-06-01 18:57,4,修复一处遗漏。,2026-06-03
+WebDAV网盘浏览,https://getquicker.net/Sharedaction?code=aa0c2734-4a38-4c04-51e1-08debf778615,显示 WebDAV 网盘目录，支持多账号保存切换、云备份、上传、下载、移动、删除和打开。,通用,笔战人生,https://getquicker.net/User/1090721/%E7%AC%94%E6%88%98%E4%BA%BA%E7%94%9F,64.1 KB,2026-06-01 16:28,0,,2026-06-03
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,197 KB,2024-12-17 10:16,45,调整细节,2026-06-03
+灵犀悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本、文件悬浮，一键快速复制粘贴。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,158 KB,2024-11-27 16:20,84,修复bug,2026-06-03
+QuickerAgent,https://getquicker.net/Sharedaction?code=aa5917ad-1256-4c73-7022-08debe3efcbe,quicker cli for ai agent ,通用,Cea,https://getquicker.net/User/113342/Cea,22.5 KB,2026-05-31 04:39,20,发布补跑：已执行 build -p -n（0.8.2，no-version），并完成动作同步更新。,2026-06-03
+json/xml处理,https://getquicker.net/Sharedaction?code=d47551a1-d63d-4e74-f60c-08db50305c18,json 格式化/转义/去转义/压缩处理,通用,ziyue,https://getquicker.net/User/245395/ziyue,60.4 KB,2023-05-09 20:17,6,添加xml的处理,2026-06-03
+AE表达式,https://getquicker.net/Sharedaction?code=579c1884-8219-404d-ed4e-08de36f81a8a,AE快捷常用表达式,Adobe After Effects CC,阔咯诶,https://getquicker.net/User/1323303/%E9%98%94%E5%92%AF%E8%AF%B6,15.7 KB,2025-12-10 16:26,4,优化动作，增加表达式,2026-06-03
+中英文切换-退格,https://getquicker.net/Sharedaction?code=5b87fee1-2da6-41f1-5827-08dea0d612ed,退格键切换中英文符号,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,129.1 KB,2026-04-24 00:36,9,修复中文输入法下输入字母会拦截退格键的问题,2026-06-03
+文件预览,https://getquicker.net/Sharedaction?code=981ff596-4316-4385-016e-08dd6c0ac9c8,文件预览与修改，使用quicker原生实现简洁窗口风格统一化,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,135.7 KB,2025-03-26 21:58,91,部分细节优化,2026-06-03
+商标申请人助手,https://getquicker.net/Sharedaction?code=cef57797-6f37-41b5-0321-08de16ae26da,一键填写商标系统的申请人信息表单,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,267 KB,2025-10-30 14:31,33,修复bug,2026-06-03
+粉笔错题制Anki卡,https://getquicker.net/Sharedaction?code=de20f7eb-516d-4d4f-60bb-08db8d6f0068,通过api一键将粉笔错题添加到Anki,乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,129.5 KB,2023-07-26 23:28,54,1,2026-06-03
+书式助手,https://getquicker.net/Sharedaction?code=efc95a3a-b6e6-4793-023a-08dd1eefe9dc,一键生成/下载知产申请常用的标准书式。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,177.1 KB,2024-12-18 10:16,26,增加自定义保存路径设置,2026-06-03
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,311.6 KB,2026-04-16 18:41,28,删掉重试，优化一些代码，针对王者窗口对\的伪写回的防御。,2026-06-03
+DDS信息,https://getquicker.net/Sharedaction?code=98c4ae9d-dd00-43af-be17-08de6ebaab1b,快速查看dds图片信息,Windows 资源管理器,xqfa,https://getquicker.net/User/170672/xqfa,18.3 KB,2026-02-18 15:34,2,将_，改成3dimogto用的-,2026-06-03
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,30.1 KB,2026-05-09 07:12,44,"## v0.29.3 (2026-6-2)
+
+- 超级面板：顶层面板与侧栏收藏夹支持拖拽排序（多根节点时可在根级调整顺序）
+- 超级面板：文件夹、文件可分别设置默认单击行为（打开 / 复制 / 粘贴），默认均为打开
+- 超级面板：单击文件夹进入子目录；文件与链接在本地用系统方式打开（等同资源管理器 / 浏览器）
+- 超级面板：Quicker 动作项单击与收藏列表一致，通过粘贴通道执行
+- 超级面板：侧栏右键菜单精简为添加收藏夹、在根节点添加、移除等常用操作
+- 优化面板网格项拖拽排序与单击响应，减少误触拖拽导致点击无效",2026-06-03
+捷径面板 n10,https://getquicker.net/Sharedaction?code=7aa833ad-3715-4342-8374-08debcceae79,n10 重构版,通用,Cea,https://getquicker.net/User/113342/Cea,30.1 KB,2026-05-28 23:35,17,"## v0.29.3 (2026-6-2)
+
+- 超级面板：顶层面板与侧栏收藏夹支持拖拽排序（多根节点时可在根级调整顺序）
+- 超级面板：文件夹、文件可分别设置默认单击行为（打开 / 复制 / 粘贴），默认均为打开
+- 超级面板：单击文件夹进入子目录；文件与链接在本地用系统方式打开（等同资源管理器 / 浏览器）
+- 超级面板：Quicker 动作项单击与收藏列表一致，通过粘贴通道执行
+- 超级面板：侧栏右键菜单精简为添加收藏夹、在根节点添加、移除等常用操作
+- 优化面板网格项拖拽排序与单击响应，减少误触拖拽导致点击无效",2026-06-03
+s3 上传,https://getquicker.net/Sharedaction?code=ce505380-93e0-4ade-2be0-08de8cce2f81,允许快速将文件上传到s3服务器中,Windows 资源管理器,WWWMWWWWMWWWWMW,https://getquicker.net/User/571520/WWWMWWWWMWWWWMW,322.3 KB,2026-03-29 13:51,12,支持自定义前缀 urlPrefix,2026-06-03
+十字准星,https://getquicker.net/Sharedaction?code=f0fd2477-daa3-4d17-7bf1-08deb6cd25ab,鼠标为中心显示一个全屏十字准星,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,69.5 KB,2026-05-21 11:05,6,新增鼠标钩子和定时器轮循两种实现方式。按需选择。,2026-06-03
+鼠标拖尾,https://getquicker.net/Sharedaction?code=43bbf9c6-9c53-4b9b-4240-08de8f97c69d,鼠标拖尾美化工具，能给鼠标移动加上各种粒子、图案、光晕拖尾，让桌面视觉效果更炫酷,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,53.7 KB,2026-04-02 12:56,6,"1.新增直接后台运行设置
+2.修改托盘图标",2026-06-03
+转MD文档,https://getquicker.net/Sharedaction?code=59e72590-3e74-49db-bd0a-08debb8a5d21,使用 MarkItDown 将资源管理器或桌面选中的 Word、Excel、PDF 文件批量导出为同目录 Markdown 文件；运行前提示耗时预期，安装和转换均带超时保护。,通用,笑屁孩,https://getquicker.net/User/475444/%E7%AC%91%E5%B1%81%E5%AD%A9,29.9 KB,2026-05-28 03:01,5,更改图标,2026-06-03
+RunEver,https://getquicker.net/Sharedaction?code=6c78a4cd-0f73-4d79-b168-08dcd509a79f,基于Everything的快速启动器，模仿自RunAny,通用,轻叹流年去,https://getquicker.net/User/686001/%E8%BD%BB%E5%8F%B9%E6%B5%81%E5%B9%B4%E5%8E%BB,398.1 KB,2024-09-15 18:35,121,fix 修复自动上传时机,2026-06-03
