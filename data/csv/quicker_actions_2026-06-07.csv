@@ -1,0 +1,52 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+布局启动大师,https://getquicker.net/Sharedaction?code=13f08db8-4469-404f-9f7f-08dec4f70a25, 预设文件的窗口位置和大小，一键打开布局中设置文件。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,76.7 KB,2026-06-08 09:11,0,,2026-06-08
+填图,https://getquicker.net/Sharedaction?code=f474c2b3-977b-4fa8-76c9-08dec445926e,先选择不动,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,3.7 KB,2026-06-07 20:59,0,,2026-06-08
+超级改色工具,https://getquicker.net/Sharedaction?code=2c1afdb1-ddee-486a-76bf-08dec445926e,先选择不动,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,116.8 KB,2026-06-07 12:38,0,,2026-06-08
+玩玩悬浮球,https://getquicker.net/Sharedaction?code=154af91f-84dd-4ec2-0a0a-08dec30a9ee2,玩玩悬浮球,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,29.2 KB,2026-06-06 23:02,2,右键功能增加： 增加其他动作,2026-06-08
+色块数字,https://getquicker.net/Sharedaction?code=65ad6393-ac15-4bf4-09fe-08dec30a9ee2,先选择不动,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,9.6 KB,2026-06-06 15:21,1,生成后自动成组，方便编辑,2026-06-08
+输入法切换中文状态,https://getquicker.net/Sharedaction?code=d156225d-9d87-4c7c-09fd-08dec30a9ee2,将输入法切换成中文状态，不管输入法是英文还是大写，并且适用于搜狗输入法或其他更多输入法,通用,LienSen,https://getquicker.net/User/71556/LienSen,1.6 KB,2026-06-06 14:50,0,,2026-06-08
+股票盯盘助手,https://getquicker.net/Sharedaction?code=bdbfb418-5858-4162-2850-08deb3e75025,上班摸鱼股票盯盘助手,通用,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,139.3 KB,2026-05-18 09:26,4,"预计今天要暴跌，没啥心情写更新说明大致说下：
+增加持仓设置，添加持仓后会显示持仓盈亏
+增加支持东财概念板块（但数据获取可能较慢）",2026-06-08
+打印设置,https://getquicker.net/Sharedaction?code=013738f5-2696-4ae5-8ec6-08dcaeb3ff7a,一键设置工作表打印参数,Microsoft Excel,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,33.3 KB,2024-07-29 09:06,3,换用交互界面,2026-06-08
+资源管理器\n多标签大师,https://getquicker.net/Sharedaction?code=4bef67a2-da15-4cf6-fb08-08dec119adfa,对资源管理器和文件夹进行单窗口多标签显示,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,75.1 KB,2026-06-04 11:15,3,修复同一文件夹重复打开的问题。,2026-06-08
+QuickerAgent,https://getquicker.net/Sharedaction?code=aa5917ad-1256-4c73-7022-08debe3efcbe,quicker cli for ai agent ,通用,Cea,https://getquicker.net/User/113342/Cea,18.2 KB,2026-05-31 04:39,43,"v0.12.5
+
+CLI
+
+- 新增 **`qkrpc agent setup`**：用户级一键安装 MCP、skills、Cursor rules 与 `~/.qkrpc/agent-setup.json` 版本清单；`qkrpc mcp install` 保留为别名
+- **`qkrpc agent setup --upgrade`**：CLI 升级后仅刷新 skills/rules/Claude 指引，**不覆盖**已有 MCP 配置
+- **`qkrpc agent setup --check`**：对比 manifest 与当前 CLI 版本，提示重跑 setup
+- Skill 家族：`qkrpc`、`quicker-authoring`、`quicker-sync`、`quicker-run`；Cursor rule `qkrpc.mdc`；Claude `CLAUDE.md` 自动 merge
+- **`GET /openapi.json`** 与 **`qkrpc serve openapi`**：HTTP 自建 Agent 的 OpenAPI 3.1 导出
+- npm 薄包装 **`@quickerhub/qkrpc-mcp`**（spawn `qkrpc mcp`，skills 仍走 `agent setup`）
+- 分发说明：[docs/agent-skill-distribution.md](../agent-skill-distribution.md)
+
+安装
+
+- GitHub Release：`qkrpc-win-x64-setup.exe` / 便携 zip（CI 构建）
+- QuickerAgent：`quicker-agent-{semver}-x64-setup.exe`（GitHub Release + Bitiful 镜像）
+- 升级后建议：`qkrpc agent setup --upgrade`
+
+插件 / Quicker
+
+- 版本号 **0.12.5.0**（与 `quicker.rpc` 依赖包一致，第三段正式发布）
+- 安装包捆绑 `skills/`、`agent-rules/` 供 `agent setup` 离线复制
+- QuickerAgent：trace flush 定时器类型与浏览器 `setTimeout` 对齐
+- 分享动作更新说明与本 Release 一致",2026-06-08
+截图并手绘,https://getquicker.net/Sharedaction?code=e328ee9e-66d1-4ebe-096c-08dbd6a53889,截图并在图片上进行手绘批注,通用,小锴,https://getquicker.net/User/585186/%E5%B0%8F%E9%94%B4,7.8 KB,2023-10-27 21:19,12,判断颜色逻辑有问题，已删除,2026-06-08
+密码本,https://getquicker.net/Sharedaction?code=47863d53-bd65-4ff2-39df-08dd776c5a34,🔐 记录并管理账号密码、智能匹配填充 🎲 生成随机密码 🔄 支持云端及本地同步,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,202.7 KB,2025-04-10 18:35,12,优化,2026-06-08
+ClickFX,https://getquicker.net/Sharedaction?code=804d00da-7166-4d0b-bccd-08dec02c2aa9,点击触发动画效果,通用,ORYS,https://getquicker.net/User/298536/ORYS,71.1 KB,2026-06-02 15:03,8,获取更新前先自动杀死ClickFX后下载然后启动,2026-06-08
+录屏,https://getquicker.net/Sharedaction?code=ed50e1a3-81d2-4f82-2862-08deb3e75025,"录屏, alt结束录屏",通用,ORYS,https://getquicker.net/User/298536/ORYS,23.7 KB,2026-05-18 14:56,8,"新增提醒文本: 环境变量变更需要重启quicker才能生效
+新增明显下载地址在设置界面",2026-06-08
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,39.5 KB,2026-05-09 07:12,47,"## v0.29.6 (2026-6-6)
+
+- 支持通过 GitHub Actions 自动构建并发布 ClipHost 安装包与便携 zip
+- ClipHost 发布产物同步上传至 Bitiful OSS（cea.cliphost），与现有 Quicker 依赖包目录一致
+- 修复 ClipHost 窗口 WebView 未延伸到标题栏的问题（保留标题栏合成所需运行时组件）
+- 修复收藏夹拖拽 ActionItem2 时动作引用映射异常",2026-06-08
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,392.8 KB,2026-04-16 18:41,34,"已显示窗口，再次触发会关闭。
+所以可以右键-信息-设置快捷键，进行快捷键调用显隐窗口。",2026-06-08
+Edge智读 ,https://getquicker.net/Sharedaction?code=50ad76e6-3757-4791-2bd1-08de8cce2f81,无需打开Edge，选中文字，触发即读，中文自动由晓晓、英文ava朗读,通用,用户6903775097...,https://getquicker.net/User/530229/%E7%94%A8%E6%88%B7690377509746788,219.2 KB,2026-03-28 22:44,42,调整默认日志级别，减少普通使用时的日志写入。,2026-06-08
+桌面录屏,https://getquicker.net/Sharedaction?code=51fc96c9-a7e6-4212-3788-08de9ddab9c2,"有声录屏,显示键鼠，录后可调视频大小。MP4/GIF",通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,183 KB,2026-04-20 16:06,8,新增自动下载配套软件,2026-06-08
+选中文件解除占用,https://getquicker.net/Sharedaction?code=9cf13aa4-9d07-48e8-6cfd-08dec20f58a7,对当前资源管理器选中的文件或指定文件解除占用，使用 Windows Restart Manager 查找占用进程并强制关闭。,通用,笔战人生,https://getquicker.net/User/1090721/%E7%AC%94%E6%88%98%E4%BA%BA%E7%94%9F,22.5 KB,2026-06-05 10:57,1,减少代码,2026-06-08
