@@ -8,14 +8,14 @@ OpenPose,https://getquicker.net/Sharedaction?code=df87c842-288a-4453-6506-08dec7
 图片+签名,https://getquicker.net/Sharedaction?code=e0093f13-64b1-4c83-64fe-08dec7c43570,截图+签名;截图后在图片加上签名水印,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,10.1 KB,2026-06-12 00:04,1,fix 小bug,2026-06-13
 进制转换,https://getquicker.net/Sharedaction?code=f1acb4fb-2b54-4337-64fc-08dec7c43570,进制转换;自动适配输入进行进制转换,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,10.2 KB,2026-06-11 23:42,0,,2026-06-13
 时间格式大全,https://getquicker.net/Sharedaction?code=d7a42659-c011-4896-64fb-08dec7c43570,快速获取当前时间;多种格式,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,20.3 KB,2026-06-11 23:40,0,,2026-06-13
-批量操作动作,https://getquicker.net/Sharedaction?code=403ee71f-b8ed-4f8a-64fa-08dec7c43570,批量操作动作;快速 批量获取动作id列表；批量打开编辑动作；批量停止动作; 批量运行动作,通用,enough!,https://getquicker.net/User/897144/enough!,17.2 KB,2026-06-11 22:54,0,,2026-06-13
-GE,https://getquicker.net/Sharedaction?code=dc90f8d5-acc8-42e0-bd7a-08dec6cc8b75,使用Gemini对相关题目进行识别，并从多个角度进行分析指导学习！配合Pixpin进行文本OCR识别。,通用,fankairong,https://getquicker.net/User/129125/fankairong,11.5 KB,2026-06-11 21:14,0,,2026-06-13
-导出福昕pdf,https://getquicker.net/Sharedaction?code=ea6d769f-932c-4b10-bd6a-08dec6cc8b75,需安装福昕,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,4.6 KB,2026-06-11 15:18,0,,2026-06-13
-PPT粘贴裁剪,https://getquicker.net/Sharedaction?code=d92b8654-02ac-4f84-bd67-08dec6cc8b75,将复制的裁剪信息应用到选中的元素,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,5.9 KB,2026-06-11 14:54,0,,2026-06-13
-PPT复制裁剪,https://getquicker.net/Sharedaction?code=25cc7ab6-0544-4747-bd65-08dec6cc8b75,复制PPT元素的裁剪信息,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,5 KB,2026-06-11 14:48,0,,2026-06-13
-取相对坐标,https://getquicker.net/Sharedaction?code=9a6dad43-5ebd-400d-bd5d-08dec6cc8b75,取相对坐标值,通用,起见了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E8%A7%81%E4%BA%86zizizi,9.8 KB,2026-06-11 12:47,0,,2026-06-13
-PPT粘贴位置,https://getquicker.net/Sharedaction?code=4a043420-1b36-405e-bd59-08dec6cc8b75,将复制的位置信息应用到选中的元素,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,12 KB,2026-06-11 11:19,0,,2026-06-13
-PPT复制位置,https://getquicker.net/Sharedaction?code=2589e713-81b6-4437-bd58-08dec6cc8b75,复制PPT元素的位置信息,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,13.8 KB,2026-06-11 10:54,0,,2026-06-13
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,38.2 KB,2026-05-09 07:12,51,"## v0.29.8 (2026-6-13)
+
+- 增加剪贴板无焦点模式下的 CapsLock 扩展热键（`I/J/K/L` 导航、`O` 退格、`Q` 关闭），与 Quicker 引导键习惯一致
+- 修复 Quicker 用 CapsLock 组合键打开剪贴板后，窗口显示时未同步 CapsLock 按住状态导致扩展热键无响应的问题
+- 优化无焦点键盘钩子：CapsLock 键不拦截，避免与 Quicker 引导状态冲突
+- 补充剪贴板使用说明中的扩展热键与无焦点操作章节",2026-06-13
+Eyething,https://getquicker.net/Sharedaction?code=25a5ce87-93b0-4811-5440-08de40f9c963,简视看看已安装的（仅可编辑_导出的备份数据）动作、模块步骤内容,Windows 资源管理器,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,337.5 KB,2025-12-22 19:07,1,"支持zh-cn,en-us,ja-jp,ko-kr4种语言文本，增加模块步骤对比",2026-06-13
+巴德AI文本处理,https://getquicker.net/Sharedaction?code=d9eb66f6-d609-46ae-e9e9-08dec5dab067,文本处理界的瑞士军刀！,通用,Bader,https://getquicker.net/User/135289/Bader,63.8 KB,2026-06-10 09:52,9,1. 文本窗口置顶,2026-06-13
 剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,34.5 KB,2022-04-18 22:22,176,"## v0.8.234.0（legacy cea.clip 测试版）
 
 ### 新增
@@ -60,16 +60,3 @@ ofd转pdf,https://getquicker.net/Sharedaction?code=fd479484-2427-481e-ac7f-08de6
 3.支持多屏幕显示，每个屏幕单实例运行本动作，自有各自的配置文件，各自的布局和快捷键，互不打扰。",2026-06-13
 Seer助手,https://getquicker.net/Sharedaction?code=85271533-466e-4fbd-07b4-08dea1a14b22,解决Seer预览图片时无法自由缩放的问题,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,26.4 KB,2026-04-24 11:35,8,调整细节,2026-06-13
 Snip截图,https://getquicker.net/Sharedaction?code=e15cfcc8-503f-42c1-4c5a-08de79cfe7d4,截图，标注，Ocr(公式、表格、普通文本)，录制，贴图，Gif,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,99.7 KB,2026-03-04 20:01,21,ocr，先出窗口显示识别中，避免误认为没反应,2026-06-13
-便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,集中存放网址、文本、文件等常用内容，支持快速搜索、拖拽整理与语音输入，让信息触手可得。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,305.5 KB,2025-02-21 03:22,293,"右下加一个当前网址。
-并且以Title：调用支持缩写词。必须完整匹配。",2026-06-13
-GOT-OCR-2.0,https://getquicker.net/Sharedaction?code=eb28d15a-0ea6-45f8-df65-08dcdef79362,通过统一的端到端模型实现 OCR-2.0(format multi-crop OCR),通用,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,20.9 KB,2024-09-28 14:20,8,更新请求地址,2026-06-13
-绑定&呼出窗口(屏幕分区),https://getquicker.net/Sharedaction?code=c6472d23-cbb4-4a0d-db35-08de983021da,横向分割屏幕，根据鼠标x坐标绑定或打开不同窗口,通用,用户l4XG5wFHBQA,https://getquicker.net/User/1141848/%E7%94%A8%E6%88%B7l4XG5wFHBQA,23.2 KB,2026-04-12 13:18,3,重复呼出窗口，防止设为前台窗口失败,2026-06-13
-剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,30.1 KB,2026-05-09 07:12,49,"## v0.29.7 (2026-6-11)
-
-- 修复 Quicker 插件启动时 `CeaCore_Run` 表达式解析失败（「找不到类型」）的问题
-- 优化插件版本互斥：0.9.0 之前的老版与新版可同时运行，互不强制退出
-- 优化 Quicker RPC 连接稳定性",2026-06-13
-智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,447.3 KB,2023-01-07 19:44,108,~,2026-06-13
-AI回复选块模式,https://getquicker.net/Sharedaction?code=7c8e4734-a991-49e6-b806-08de83ea1c11,将网页AI回复内容拆解为“可选中、可拖动、可复制”的独立模块。一键将所需内容片段提取为 Markdown 或 Word 格式并复制,Google Chrome,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,827.3 KB,2026-03-17 14:25,2,新增对ChatGPT、Gemini、Kimi、豆包、千问、元宝和Grok的支持,2026-06-13
-皓拓不干胶,https://getquicker.net/Sharedaction?code=1b569ae4-5d93-411b-67e1-08dc2f85584e,动作名称就是流程名称1,通用,jialan75home,https://getquicker.net/User/631091/jialan75home,79.5 KB,2024-02-18 10:23,20,修改了源,2026-06-13
-PS插件,https://getquicker.net/Sharedaction?code=9b034ce1-846b-472e-ed18-08de36f81a8a,PS常用插件快速安装。,Adobe Photoshop,Ray-CD,https://getquicker.net/User/191353/Ray-CD,96.9 KB,2025-12-09 15:58,6,DocManager更新至官方最新_1.1.4版本,2026-06-13
