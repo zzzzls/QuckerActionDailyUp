@@ -1,0 +1,43 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+悬浮按钮跟随窗口,https://getquicker.net/Sharedaction?code=609da75e-d3d6-42a5-09b1-08dec9bcf20a,使悬浮按钮跟随窗口移动,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,47.3 KB,2026-06-14 23:27,0,,2026-06-15
+无边框窗口化,https://getquicker.net/Sharedaction?code=265b2fb3-d023-46cb-09a2-08dec9bcf20a,使窗口变成无边框,通用,li1qqq,https://getquicker.net/User/945817/li1qqq,7 KB,2026-06-14 11:06,1,1,2026-06-15
+黑魂3存档管理工具,https://getquicker.net/Sharedaction?code=04936e3f-00cf-42a5-09a3-08dec9bcf20a,黑魂3存档管理工具，配合快捷键和无边框窗口化使用,DARK SOULS™ III,li1qqq,https://getquicker.net/User/945817/li1qqq,7.1 KB,2026-06-14 11:39,1,1,2026-06-15
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,34.8 KB,2022-04-18 22:22,183,"## v0.8.254
+
+- 修复 Quicker 插件启动时报 StaticResource 异常：放弃合并的 Default.xaml，改回逐文件加载主题（适配 Costura 单 DLL 与版本化程序集名）
+- 将 CeaQuicker Theme_Tools 链接进插件程序集，代码注册 BetterClip 转换器资源
+- 主题加载失败时 fail-fast，避免静默失败后剪贴板窗口 InitializeComponent 崩溃",2026-06-15
+枝记,https://getquicker.net/Sharedaction?code=b5091d78-12cc-4fb9-bd01-08debb8a5d21,轻量级 Markdown 笔记工具 · 电脑 / 手机 / 平板多端通用 · WebDAV 加密同步,通用,dalou,https://getquicker.net/User/76824/dalou,60.8 KB,2026-05-27 21:36,7,优化：同步以及网页端若干问题,2026-06-15
+密码本,https://getquicker.net/Sharedaction?code=473bed28-c3e7-4bdc-4401-08dd969274c4,账号密码管理，方便账号、密码输入,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,142.2 KB,2025-05-19 13:46,5,~修复小问题,2026-06-15
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,38.2 KB,2026-05-09 07:12,56,"## v0.29.10 (2026-6-14)
+
+- 剪贴板新增「无焦点模式」开关；关闭后打开窗口会激活并聚焦搜索框
+- Esc 键改为直接隐藏剪贴板窗口，不再逐级取消选中或清空搜索",2026-06-15
+动作面板V2(自动切换到分组),https://getquicker.net/Sharedaction?code=b59cb7b7-d512-4416-f23f-08ddd4e0681e,仿Quicker设计，上部分为“全局组”，下半部分为为根据进程自动切换的组（同时支持和quicker一样的通用组）。支持拖拽quicker面板动作添加。贴边隐藏!,通用,zdf153,https://getquicker.net/User/20184/zdf153,168.5 KB,2025-08-07 09:28,34,"			1：增加了暗色主题切换
+			2：增加黑名单
+			3：组的关联支持类名和标题，支持正则和通配符",2026-06-15
+鼠标点击,https://getquicker.net/Sharedaction?code=5d19a181-5b40-43c0-8765-08dde5f827a6,循环点击,通用,Simonl,https://getquicker.net/User/134191/Simonl,30.6 KB,2025-08-29 00:18,4,- 增加后台静默点击,2026-06-15
+资源管理器\n多标签大师,https://getquicker.net/Sharedaction?code=4bef67a2-da15-4cf6-fb08-08dec119adfa,对资源管理器和文件夹进行单窗口多标签显示,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,76.9 KB,2026-06-04 11:15,4,win+tab界面和alt+tab界面窗口合并化,2026-06-15
+隐桌栏,https://getquicker.net/Sharedaction?code=f1244eaa-9360-4405-54a1-08deadd3df5d,隐藏\显示桌面图标和任务栏，可参数操作。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,54.4 KB,2026-05-09 22:04,1,新添加参数操作（显隐桌面／显隐任务栏／显隐全部,2026-06-15
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,407.4 KB,2026-04-16 18:41,36,"唤起窗口时：
+剪贴板视图 + 非搜索 + 非管理面板 → 自动定位到当前可见列表中 RecordTime 最新的记录。",2026-06-15
+批量操作动作,https://getquicker.net/Sharedaction?code=403ee71f-b8ed-4f8a-64fa-08dec7c43570,批量操作动作;快速 批量获取动作id列表；批量打开编辑动作；批量停止动作; 批量运行动作,通用,enough!,https://getquicker.net/User/897144/enough!,21.5 KB,2026-06-11 22:54,2,+ 增加右键功能:拆分功能执行(可借用qk的运行动作步骤快速执行);,2026-06-15
+QuickerAgent,https://getquicker.net/Sharedaction?code=aa5917ad-1256-4c73-7022-08debe3efcbe,quicker  AI 一键写动作，quicker AI 助手,通用,Cea,https://getquicker.net/User/113342/Cea,18.5 KB,2026-05-31 04:39,60,"v0.14.6
+
+QuickerAgent
+
+- **安装包体积**：生产 bundle 的 `qkrpc` 改回 `net10.0` 发布，不再把 SkiaSharp/WPF mock 运行时打进 Electron（v0.14.5 约 242 MB → 恢复 ~187 MB 量级）
+- **CI 构建**：拆分 `context-compression-shared`，修复 client webpack 误拉 `node:async_hooks` / `node:crypto` 导致 `build-agent` 失败
+- **发布预检**：`Preflight-QuickerAgentBuild` 对 bundle 校验使用绝对路径，避免隔离 `USERPROFILE` 时误报
+
+CLI / 插件
+
+- **ActionRuntime mock**：双 TFM — 生产 `net10.0`；`-windows` TFM 与 mock verify 仅开发/`-IncludeMockProfiles` 可选
+- **publish-rpc / release-cli**：`-f net10.0`、strip PDB；mock profile 默认不打包
+- **工作区 data.json**：extract/apply 时规范化；file-ref 导出改进
+- **Quicker.ActionRuntime** 子模块：编译缓存路径、codegen 版本失效、`compile-verify` sample 路径
+- **quicker.rpc 0.14.6.0**：与 QuickerAgent 0.14.6 同步发布
+- `QuickerRpc_Run` 子程序 `version` 同步为 **0.14.6.0**",2026-06-15
+Eyething,https://getquicker.net/Sharedaction?code=25a5ce87-93b0-4811-5440-08de40f9c963,简视看看已安装的（仅可编辑_导出的备份数据）动作、模块步骤内容,Windows 资源管理器,沉没的白鲸,https://getquicker.net/User/59771/%E6%B2%89%E6%B2%A1%E7%9A%84%E7%99%BD%E9%B2%B8,337.5 KB,2025-12-22 19:07,1,"支持zh-cn,en-us,ja-jp,ko-kr4种语言文本，增加模块步骤对比",2026-06-15
+巴德AI文本处理,https://getquicker.net/Sharedaction?code=d9eb66f6-d609-46ae-e9e9-08dec5dab067,文本处理界的瑞士军刀！,通用,Bader,https://getquicker.net/User/135289/Bader,63.8 KB,2026-06-10 09:52,9,1. 文本窗口置顶,2026-06-15
+鸣潮声骸评分,https://getquicker.net/Sharedaction?code=13104a3d-6ce8-40d8-fc71-08ddc017ed62,鸣潮声骸评分计算器,通用,碎片哒哟,https://getquicker.net/User/609131/%E7%A2%8E%E7%89%87%E5%93%92%E5%93%9F,131.4 KB,2025-07-11 17:33,19,🔸 权重表更新：洛瑟菈（霜渐/声骸）,2026-06-15
