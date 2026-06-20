@@ -1,4 +1,5 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+窗口拖拽调整,https://getquicker.net/Sharedaction?code=a83226ac-f113-4f58-27e1-08dece6ac89e,按住快捷键并拖动鼠标，可在窗口任意位置拖动即可移动窗口，根据鼠标所在区域自动切换为窗口缩放模式，无需寻找标题栏或边框。,通用,皮蛋solo粥,https://getquicker.net/User/1013953/%E7%9A%AE%E8%9B%8Bsolo%E7%B2%A5,20 KB,2026-06-20 10:01,1,修改参数传递逗号为中文,2026-06-20
 OCR工作台,https://getquicker.net/Sharedaction?code=2d523add-5d30-4778-7740-08decd685f7e,截图 OCR 识别工作台：框选/全屏截图，多引擎文字识别，结果编辑与复制。,通用,Cea,https://getquicker.net/User/113342/Cea,18 KB,2026-06-20 01:26,3,"## v1.0.8 (2026-6-20)
 
 - 重构工作台界面：主标签页布局更清晰，顶栏与工作区操作更集中
@@ -7,26 +8,14 @@ OCR工作台,https://getquicker.net/Sharedaction?code=2d523add-5d30-4778-7740-08
 - 优化从 Quicker 启动时的体验：默认先框选截图再进入工作台
 - 优化 OCR 段落合并与选区识别稳定性
 - 修复翻译小窗在部分场景下的显示与交互问题",2026-06-20
-文件管家,https://getquicker.net/Sharedaction?code=a7f92298-da7d-4bcd-7735-08decd685f7e,文件和文件夹的一些常用操作,Windows 资源管理器,划水墨鱼,https://getquicker.net/User/893912/%E5%88%92%E6%B0%B4%E5%A2%A8%E9%B1%BC,16.9 KB,2026-06-19 17:36,0,,2026-06-20
-自动列宽,https://getquicker.net/Sharedaction?code=88aa4b63-7009-4230-544e-08decc703cb3,EXCEL/WPS表格选中区域设置自动列宽。,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,2.8 KB,2026-06-18 17:24,1,修复错误提示,2026-06-20
 文件(夹)收藏,https://getquicker.net/Sharedaction?code=07488f9d-fb02-4000-545f-08decc703cb3,收藏文件(夹)，便于快速打开和定位,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,129.7 KB,2026-06-19 00:23,6,调整窗口大小,2026-06-20
 圆圈序号,https://getquicker.net/Sharedaction?code=4dfeca35-a885-45b6-7727-08decd685f7e,数字转成圆圈序号，只转0到9,通用,shandianchengzi,https://getquicker.net/User/970091/shandianchengzi,2 KB,2026-06-19 11:14,0,,2026-06-20
-超分放大,https://getquicker.net/Sharedaction?code=baf7d02e-59ff-4a0c-5454-08decc703cb3,调用 Upscayl AI 引擎对图片进行 4 倍超分辨率放大。,Windows 资源管理器,應急預案,https://getquicker.net/User/889063/%E6%87%89%E6%80%A5%E9%A0%90%E6%A1%88,14.7 KB,2026-06-18 19:35,0,,2026-06-20
-首行缩进2字符,https://getquicker.net/Sharedaction?code=2c7dc581-8c92-4cbd-5452-08decc703cb3,在Word或WPS文字中设置选中段落首行缩进2个中文字符,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,2 KB,2026-06-18 18:40,0,,2026-06-20
-文字修改工具,https://getquicker.net/Sharedaction?code=579114b4-355f-48f4-5447-08decc703cb3,文字修改插件,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,110.9 KB,2026-06-18 16:05,0,,2026-06-20
-AI启动器,https://getquicker.net/Sharedaction?code=02f2f985-2f12-4fab-5445-08decc703cb3,ai浏览器窗口的快速打开。,通用,zxzlimitx,https://getquicker.net/User/1003914/zxzlimitx,51.1 KB,2026-06-18 16:04,0,,2026-06-20
-倒角工具,https://getquicker.net/Sharedaction?code=c9198ad2-f879-4e90-5444-08decc703cb3,倒角工具,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,26.2 KB,2026-06-18 16:04,0,,2026-06-20
-AI启动器（多标签）,https://getquicker.net/Sharedaction?code=3cecd5d7-dcea-41ac-543c-08decc703cb3,多页,通用,zxzlimitx,https://getquicker.net/User/1003914/zxzlimitx,5 KB,2026-06-18 14:07,1,v1.0,2026-06-20
-搜bilibili,https://getquicker.net/Sharedaction?code=4dec6ff6-9c34-4b12-5439-08decc703cb3,快速搜索bilibili视频,通用,axxs,https://getquicker.net/User/1376849/axxs,5.5 KB,2026-06-18 13:25,0,,2026-06-20
-纵向分布,https://getquicker.net/Sharedaction?code=33faa5e5-a403-4549-5435-08decc703cb3,纵向分布,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4.2 KB,2026-06-18 10:48,0,,2026-06-20
-底部对齐,https://getquicker.net/Sharedaction?code=19d27856-b36f-4792-5434-08decc703cb3,进行底部对齐,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4.1 KB,2026-06-18 10:48,0,,2026-06-20
-垂直居中,https://getquicker.net/Sharedaction?code=2e0c0e65-ce9e-42b3-5433-08decc703cb3,垂直居中,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4 KB,2026-06-18 10:47,0,,2026-06-20
-顶部对齐,https://getquicker.net/Sharedaction?code=62d5d4a3-5969-471c-5432-08decc703cb3,进行顶部对齐,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4 KB,2026-06-18 10:47,0,,2026-06-20
-横向分布,https://getquicker.net/Sharedaction?code=5b883605-bcf3-4bee-5431-08decc703cb3,横向分布,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4.2 KB,2026-06-18 10:46,0,,2026-06-20
-右对齐,https://getquicker.net/Sharedaction?code=646489f7-87eb-4cc8-5430-08decc703cb3,进行右侧对齐,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4.1 KB,2026-06-18 10:46,0,,2026-06-20
-水平居中,https://getquicker.net/Sharedaction?code=48963ec5-8189-4d15-542f-08decc703cb3,水平居中对齐,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4.1 KB,2026-06-18 10:46,0,,2026-06-20
-左对齐,https://getquicker.net/Sharedaction?code=9e4272d7-da9a-470e-542e-08decc703cb3,进行左侧对齐,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,4 KB,2026-06-18 10:45,0,,2026-06-20
-超高效边缘滚动,https://getquicker.net/Sharedaction?code=0bc1278e-4c1c-476b-652a-08dec7c43570,无需点击，边缘滑动代替滚动，智能改变滚动速度,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,105 KB,2026-06-12 17:24,8,反向滚动区新增一条虚拟边缘，反向滚动边缘，鼠标处于反向滚动区中将会自动吸附到此边缘,2026-06-20
+包装|条码|标注尺寸(脚本),https://getquicker.net/Sharedaction?code=64bb55e7-c6ab-42f9-81e6-08dd667e5816,包装|条码|标注尺寸,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,1.3 MB,2025-03-19 15:22,6,增加极速拼版及替换对齐脚本功能,2026-06-20
+超清壁纸,https://getquicker.net/Sharedaction?code=aa3b2c4a-1600-42c4-a99f-08dbe8e4b6e6,一键更换超清壁纸，每一张都是4K图，并支持分类❤💘,通用,喜气羊羊,https://getquicker.net/User/719958/%E5%96%9C%E6%B0%94%E7%BE%8A%E7%BE%8A,140.7 KB,2023-11-19 19:49,26,修复备用错误，但是主接口目前用不了,2026-06-20
+超高效窗口切换,https://getquicker.net/Sharedaction?code=774070bc-9d5b-4e40-2be4-08de8cce2f81, 最省力的窗口切换动作，即刻穿梭窗口,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,140.1 KB,2026-03-29 15:12,14,自动吸附有点问题，会阻碍边缘滑动，删了,2026-06-20
+窗口贴边,https://getquicker.net/Sharedaction?code=51d57f7d-1320-4de5-bf4e-08ddd8acacdb,让窗口自动贴边屏幕左上下，保证丝滑,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,33.5 KB,2025-08-12 15:39,31,"Remove
+并对桌面窗口句柄做防护，不进行贴边管理",2026-06-20
+竞品新品,https://getquicker.net/Sharedaction?code=138b13bf-1c18-4eef-ce08-08dd0dc8eae4,"通过当前浏览宝贝,来打竞店 竞争店铺的新品",千牛,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,27.1 KB,2024-11-26 13:47,2,1,2026-06-20
 剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,405.7 KB,2026-04-16 18:41,41,修复,2026-06-20
 农场偷菜,https://getquicker.net/Sharedaction?code=eaf70c8a-62a9-45bb-6ce5-08dec20f58a7,QQ经典农场电脑端循环偷菜,腾讯QQ,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,33.3 KB,2026-06-04 16:43,4,新增偷菜轮次之间的随机间隔,2026-06-20
 极简收藏,https://getquicker.net/Sharedaction?code=987c9caa-648f-495c-bcaf-08de5d774a2d,常用语收藏，输入,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,111.6 KB,2026-01-27 15:40,2,1.新增c#模式,2026-06-20
@@ -43,7 +32,7 @@ AI启动器（多标签）,https://getquicker.net/Sharedaction?code=3cecd5d7-dce
 颜色选项获取,https://getquicker.net/Sharedaction?code=554e06b1-5a25-4abf-27b4-08de9afcb260,获取天猫商品sku的选项,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,13.7 KB,2026-04-16 13:24,4,1,2026-06-20
 软链搬家,https://getquicker.net/Sharedaction?code=d94ab33a-5087-44cf-70db-08dea38b872e,将大文件夹无感迁移至其他磁盘并在原位建立符号链接，解决C盘爆满等。支持历史记录一键还原。,通用,M-cc,https://getquicker.net/User/521120/M-cc,26.9 KB,2026-04-27 17:05,2,"+增加创建后检测，确认创建成功。如果不成功说明权限不足，会弹出提示需要以管理员身份运行Quicker后再重试。
 +增加动作稳定性",2026-06-20
-纯文本粘贴MD格式,https://getquicker.net/Sharedaction?code=a6a6d3ca-d243-40a5-3b27-08dd6749f5a1,从DeepSeek等Ai工具中复制到Wrod或WPS后，用VBA删除文本中自带的*、#、-符号和多余的空格、空段，只保留数字、文字等内容。如果需要保留相关符号，请慎用。,Microsoft Word,xxdbw,https://getquicker.net/User/355986/xxdbw,4.5 KB,2025-03-20 11:20,7,优化替换逻辑，保留有序列表编号,2026-06-20
+自动列宽,https://getquicker.net/Sharedaction?code=88aa4b63-7009-4230-544e-08decc703cb3,EXCEL/WPS表格选中区域设置自动列宽。,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,2.8 KB,2026-06-18 17:24,1,修复错误提示,2026-06-20
 Quicker托盘,https://getquicker.net/Sharedaction?code=2eb8dfac-51cc-4299-2317-08d7ce35877d,使用AHK脚本点击托盘图标，快速打开Quicker托盘右键菜单,通用,Ever,https://getquicker.net/User/2774/Ever,15.7 KB,2020-03-23 19:05,9,更新蓝奏下载,2026-06-20
 便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,集中存放网址、文本、文件等常用内容，支持快速搜索、拖拽整理与语音输入，让信息触手可得。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,310 KB,2025-02-21 03:22,295,1,2026-06-20
 文件夹监控,https://getquicker.net/Sharedaction?code=d16738be-2ebc-40bc-8d40-08dea00bad67,监控多个文件夹，并采用窗口通知,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,72.9 KB,2026-04-22 17:15,8,1,2026-06-20
@@ -57,21 +46,3 @@ Quicker托盘,https://getquicker.net/Sharedaction?code=2eb8dfac-51cc-4299-2317-0
 捷径面板 n10,https://getquicker.net/Sharedaction?code=7aa833ad-3715-4342-8374-08debcceae79,n10 重构版,通用,Cea,https://getquicker.net/User/113342/Cea,24.3 KB,2026-05-28 23:35,18,"## v0.29.13 (2026-6-18)
 
 - 修复超级面板打开设置后切换分类时 titlebar 错乱、无法恢复的问题；超级面板设置独立为 `/panel/settings`，不再影响剪贴板 `/settings` 页面",2026-06-20
-网页魔术师,https://getquicker.net/Sharedaction?code=789f963f-ee55-426c-4f8c-08de2d75a2ca,网页全能编辑/解除限制/提取表格/获取图片......一个动作顶二十个动作！,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.1 MB,2025-11-28 14:37,16,1,2026-06-20
-智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,447.3 KB,2023-01-07 19:44,110,~适配三方文件管理器 OneCommander,2026-06-20
-同步缩放,https://getquicker.net/Sharedaction?code=007486de-4a6e-4a47-8df1-08de623a42b1,支持实时预览的批量同步缩放工具。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,52.4 KB,2026-02-03 11:17,6,"2026-06-18
-~. 调整滑块，支持复数。",2026-06-20
-软著助手,https://getquicker.net/Sharedaction?code=78b546e5-8c59-45e8-eecb-08de82f80c58,批量管理软著账号，监控账号案件状态。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,345.2 KB,2026-03-16 23:31,15,更新图标,2026-06-20
-网页监控,https://getquicker.net/Sharedaction?code=7e662a0e-e26f-41a7-e9ea-08dec5dab067,监控网页特定元素是否更新，有更新则通知并高亮差异内容,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,214.8 KB,2026-06-10 10:02,8,更新面板中的图标,2026-06-20
-SM.MS图床,https://getquicker.net/Sharedaction?code=ae6c202e-0d81-465d-b66e-08dcde001292,"原SM.MS图床, 上传大小不超过5M",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,11.5 KB,2024-09-26 21:09,6,1,2026-06-20
-stan文档大师,https://getquicker.net/Sharedaction?code=1e54d225-7980-45f9-13df-08deca9ae469,为PDF添加手写字、骑缝章与扫描件效果,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,203.5 KB,2026-06-16 12:01,7,手写字页面增加自定义常用语功能,2026-06-20
-智能缩放,https://getquicker.net/Sharedaction?code=60a426f4-13bb-439b-70ae-08de7e8baab3,智能缩放和对齐所选图层到「选区 / 画板/ 剪贴蒙版 / 画布边界」,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,216.7 KB,2026-03-10 18:03,12,"2026-06-18
-~. 优化预设功能。",2026-06-20
-输入法指示器,https://getquicker.net/Sharedaction?code=483c9e7c-64c4-4402-360d-08de964148e1,跟随鼠标显示当前输入法（中文 / 英文）、大小写、数字键状态,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,59.5 KB,2026-04-10 22:09,6,"1.修复运行后桌面闪现问题
-2.托盘图标重塑，更好看。",2026-06-20
-图层样式,https://getquicker.net/Sharedaction?code=4467e33d-43c2-45d1-4474-08dce7722144,复制、清除、管理样式和智能滤镜。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,129.1 KB,2024-10-09 18:17,13,"2026-06-18
-~. 右键菜单的清理样式不清理蒙版。",2026-06-20
-灵犀悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本、文件悬浮，一键快速复制粘贴。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,166.5 KB,2024-11-27 16:20,90,调整细节,2026-06-20
-任务清单Pro,https://getquicker.net/Sharedaction?code=f51234e7-9201-4935-98f3-08ddac6ed895,✅多功能✅多提醒任务清单~待办、待办清单、待办事项、待办任务、任务清单、任务提醒，超好用,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,516 KB,2025-06-16 08:54,43,"增加完成效果；
-美化细节；
-周一至周日顺序修改；",2026-06-20
