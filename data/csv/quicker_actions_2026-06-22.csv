@@ -1,6 +1,7 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+临时邮箱,https://getquicker.net/Sharedaction?code=07a39261-0d3a-4d11-f324-08ded00c13e1,"自建邮局后端, 可用于注册时收取验证码, 随机邮箱",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,37.1 KB,2026-06-23 12:51,2,fix,2026-06-23
+AI 工作台,https://getquicker.net/Sharedaction?code=339fabef-133d-42eb-f31a-08ded00c13e1,集中管理常用 AI 服务的网站入口、本地应用、安装命令、检查工具和 Key 槽位的一站式启动中心。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,120.5 KB,2026-06-22 23:43,5,拷打,2026-06-23
 翻译小窗,https://getquicker.net/Sharedaction?code=9189d8b0-88bc-476c-f31c-08ded00c13e1,打开独立翻译小窗，支持手动输入、截图 OCR 翻译与剪贴板翻译；默认行为可在小窗设置中切换,通用,Cea,https://getquicker.net/User/113342/Cea,17.8 KB,2026-06-23 02:51,0,,2026-06-23
-AI 工作台,https://getquicker.net/Sharedaction?code=339fabef-133d-42eb-f31a-08ded00c13e1,集中管理常用 AI 服务的网站入口、本地应用、安装命令、检查工具和 Key 槽位的一站式启动中心。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,119.5 KB,2026-06-22 23:43,3,打开网址后关闭窗口,2026-06-23
 文言文翻译,https://getquicker.net/Sharedaction?code=3c6d8cf7-2d19-409e-f315-08ded00c13e1,默认执行精简翻译：支持文言文、外语和普通中文文本。输出更短，优先给出简洁准确的翻译；文言文会额外说明难字。支持保存多套配置，并可导出导入配置文件。,通用,喵喵鱼3,https://getquicker.net/User/67703/%E5%96%B5%E5%96%B5%E9%B1%BC3,59.2 KB,2026-06-22 18:39,0,,2026-06-23
 Code代码定位,https://getquicker.net/Sharedaction?code=634be3a4-fc6c-4ac8-f313-08ded00c13e1,在其他软件中选中代码片段，并在VS code中进行定位,Google Chrome,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,2.1 KB,2026-06-22 17:16,0,,2026-06-23
 动作积分统计,https://getquicker.net/Sharedaction?code=5ba9915f-a56f-4e8f-f30f-08ded00c13e1,抓取 Quicker 已分享动作每日积分数据，本地存档并用 WebView 展示汇总与趋势。左键抓取昨天，右键可选日期范围。需浏览器扩展且已登录。,Quicker,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,68 KB,2026-06-22 15:55,2,增加提示,2026-06-23
@@ -17,7 +18,28 @@ Code代码定位,https://getquicker.net/Sharedaction?code=634be3a4-fc6c-4ac8-f31
 - 失败时通过 Quicker 提示显示中文说明（如：前台非资源管理器、未找到文件对话框、路径无效等）
 - 修复路径留空时被误判为字面量 path 的问题
 - 依赖包升级至 cea.locate-file v1.0.4",2026-06-23
-CDR-VBS,https://getquicker.net/Sharedaction?code=53815628-a4c5-4591-28f6-08decf48e46f,Coreldraw-VBS自动化管理工具,CorelDRAW,Mrshuang,https://getquicker.net/User/238117/Mrshuang,24.5 KB,2026-06-21 15:01,0,,2026-06-23
+多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,412.4 KB,2025-12-11 12:18,60,"- 优化「发送文本」自动填写参数
+- 修复「发送文本」多行内容只发送一行的问题",2026-06-23
+固定到所有桌面,https://getquicker.net/Sharedaction?code=29c74057-ff10-4552-6547-08dec7c43570,切换将窗口固定到所有虚拟桌面。纯 C#，无需 VirtualDesktop11.exe；两行提示显示状态与窗口标题。,通用,Cea,https://getquicker.net/User/113342/Cea,24.3 KB,2026-06-12 23:48,2,"## 2026-06-23
+
+- 通知解析改用 sys:assign（替代 sys:evalexpression），更稳定
+- 扩展虚拟桌面操作：右键可移动窗口、切换相邻桌面、新建桌面
+- 通知支持 Success/Warning 类型与多行显示（状态 + 窗口标题）",2026-06-23
+依赖管理,https://getquicker.net/Sharedaction?code=1abfcdc2-b98c-460c-7b7e-08deb0ad6916,快速清理历史版本依赖包,通用,Cea,https://getquicker.net/User/113342/Cea,14.4 KB,2026-05-14 13:31,6,"## v1.0.6 (2026-6-23)
+
+- 修复磁盘占用显示偏大一级的问题（如 MB 误显示为 GB）
+- 增加「一键全选清理」，对列表中全部依赖包保留各自最高版本
+- 将原清理按钮改为「清理所选旧版本」，便于只处理手动选中的包",2026-06-23
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,429.1 KB,2026-04-16 18:41,43,"优化ui，关于常规设置，去掉添加、说明补充和位置变更、关于文件编辑、自定义类型的编辑，关于步骤可以查看列表和json文本；
+
+编辑项的逻辑优化；
+
+剪贴项右键取消置顶。",2026-06-23
+超高效窗口切换,https://getquicker.net/Sharedaction?code=774070bc-9d5b-4e40-2be4-08de8cce2f81, 最省力的窗口切换动作，即刻穿梭窗口,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,142.4 KB,2026-03-29 15:12,15,动作适配多屏，感谢用户LienSen提供的支持,2026-06-23
+智能复制,https://getquicker.net/Sharedaction?code=f88b6021-4ffd-4919-09b0-08dab667ae52,智能判断情景，复制纯文本、文件路径或窗口路径。,通用,Anlv,https://getquicker.net/User/392637/Anlv,168.9 KB,2022-10-26 11:43,43,"2026-06-23
+~. Photoshop: 拷贝图层目前优先使用uxp架构
+1、更快写入剪贴板；
+2、支持多选图层。",2026-06-23
 官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,197.4 KB,2024-12-17 10:16,46,调整细节,2026-06-23
 OCR工作台,https://getquicker.net/Sharedaction?code=2d523add-5d30-4778-7740-08decd685f7e,截图 OCR 识别工作台：框选/全屏截图，多引擎文字识别，结果编辑与复制。,通用,Cea,https://getquicker.net/User/113342/Cea,17.7 KB,2026-06-20 01:26,7,"## v1.0.12 (2026-6-21)
 
@@ -79,14 +101,3 @@ AI启动器,https://getquicker.net/Sharedaction?code=02f2f985-2f12-4fab-5445-08d
 ~修复手动添加规则可能导致数据不可用的问题
 ~为规则导入增加字段验证",2026-06-23
 数据中转站,https://getquicker.net/Sharedaction?code=a15ec21f-5e13-4267-ef59-08dc7894979b,文本/文件拖放中转站,通用,FaniX,https://getquicker.net/User/52603/FaniX,126.4 KB,2024-05-21 14:59,20,~允许文件路径中包含不间断空格,2026-06-23
-多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,411.6 KB,2025-12-11 12:18,59,- 优化快捷键操作时面板闪动问题,2026-06-23
-录屏,https://getquicker.net/Sharedaction?code=ed50e1a3-81d2-4f82-2862-08deb3e75025,"录屏, alt结束录屏",通用,ORYS,https://getquicker.net/User/298536/ORYS,23.7 KB,2026-05-18 14:56,9,"添加等待结束,防止录制到应该结束后的画面",2026-06-23
-剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,436.9 KB,2026-04-16 18:41,42,"优化下捕获顺序，自定义解析隔离；
-
-优化筛选器匹配、图片去重；
-
-设置增加粘贴前延迟、进程黑名单；",2026-06-23
-颜色选项获取,https://getquicker.net/Sharedaction?code=554e06b1-5a25-4abf-27b4-08de9afcb260,获取天猫商品SKU的颜色规格 选项,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,20 KB,2026-04-16 13:24,5,支持店铺等获取,2026-06-23
-窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,309.2 KB,2024-12-09 20:46,60,新增：关闭该软件的其它窗口（保留此窗口），关闭该软件的所有窗口，依次激活该软件的所有窗口,2026-06-23
-文件(夹)收藏,https://getquicker.net/Sharedaction?code=07488f9d-fb02-4000-545f-08decc703cb3,收藏文件(夹)，便于快速打开和定位,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,140.2 KB,2026-06-19 00:23,9,复制时可以选择复制文件或路径,2026-06-23
-简单截图,https://getquicker.net/Sharedaction?code=26305e1e-182f-428e-c4db-08decb89ea35,截取屏幕区域，自动复制到剪贴板并保存到文件夹,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,8.7 KB,2026-06-17 18:50,4,换个图标,2026-06-23
