@@ -1,0 +1,84 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+路径光效 Path Light Stroke,https://getquicker.net/Sharedaction?code=5d6064cf-bae7-4bb0-9faa-08ded1f79acf,先在路径面板选中路径，然后点“预览“绘制。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,82.2 KB,2026-06-25 10:22,1,"2026-06-26
+~. 修复光晕问题和大文档时预览重复创建的问题。",2026-06-26
+批量修改文件,https://getquicker.net/Sharedaction?code=610914d2-a4bd-4aa2-9fb6-08ded1f79acf,批量获取文件信息并修改文件名及时间属性,Windows 资源管理器,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,39.3 KB,2026-06-25 15:32,0,,2026-06-26
+右键关闭标签页,https://getquicker.net/Sharedaction?code=c24e3935-8420-436a-9fab-08ded1f79acf,使用鼠标右键单击，关闭浏览器标签页,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,39.3 KB,2026-06-25 10:31,3,增加重置识别区域功能,2026-06-26
+智能粘贴,https://getquicker.net/Sharedaction?code=7cf36b96-f3a1-47eb-fef8-08ded0fb125a,从剪贴板读取PDF中复制的文本，自动识别中英文，智能合并被PDF换行打断的段落,通用,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,30.2 KB,2026-06-24 18:49,0,,2026-06-26
+中英文切换,https://getquicker.net/Sharedaction?code=79ce75e4-f0a7-4550-feea-08ded0fb125a,主要用于输入法时的中英文切换,通用,sskoo,https://getquicker.net/User/355911/sskoo,1.4 KB,2026-06-24 12:11,0,,2026-06-26
+疯狂点击,https://getquicker.net/Sharedaction?code=ef8295b2-4edd-4277-fee4-08ded0fb125a,设置鼠标高频点击，助力抢购、抢课等场景,通用,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,57.4 KB,2026-06-24 10:15,0,,2026-06-26
+股票盯盘助手,https://getquicker.net/Sharedaction?code=bdbfb418-5858-4162-2850-08deb3e75025,上班摸鱼股票盯盘助手,通用,湘喑,https://getquicker.net/User/373972/%E6%B9%98%E5%96%91,149.2 KB,2026-05-18 09:26,9,增加导出、导入备份数据功能,2026-06-26
+网址绑定,https://getquicker.net/Sharedaction?code=20d02969-89c3-4a04-7ce4-08d92358c308,"重复利用已经打开的网址, 如果没有, 才会打开新的网址",Google Chrome,Cea,https://getquicker.net/User/113342/Cea,17.9 KB,2021-05-31 20:36,15,"## v1.0.2 (2026-6-26)
+
+- 修复「设置绑定」右键菜单报错无法打开的问题
+- 修复非阻塞设置窗保存后绑定列表不生效的问题
+- 设置列表每条右侧增加删除按钮，操作更直观
+- 优化 DLL 加载注册方式，提升稳定性",2026-06-26
+双屏,https://getquicker.net/Sharedaction?code=2e9282b3-45a6-4008-9088-08d95764a4e5,多屏联动。仅主屏、复制、扩展、仅副屏,通用,Poto,https://getquicker.net/User/137838/Poto,50 KB,2021-08-05 00:26,6,重构，请看动作详情页,2026-06-26
+s3 上传,https://getquicker.net/Sharedaction?code=ce505380-93e0-4ade-2be0-08de8cce2f81,允许快速将文件上传到s3服务器中,Windows 资源管理器,WWWMWWWWMWWWWMW,https://getquicker.net/User/571520/WWWMWWWWMWWWWMW,330.1 KB,2026-03-29 13:51,14,修复新用户使用时无法创建配置的 bug，可以通过右键动作，选择信息 -> 动作数据 -> 删除动作数据进行重置，随后正常配置即可,2026-06-26
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起见了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E8%A7%81%E4%BA%86zizizi,1.1 MB,2026-05-25 11:32,49,修复悬赏真人任务异常问题,2026-06-26
+截图,https://getquicker.net/Sharedaction?code=e15cfcc8-503f-42c1-4c5a-08de79cfe7d4,截图，标注，Ocr(公式、表格、普通文本)，录制，贴图，Gif,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,100.5 KB,2026-03-04 20:01,23,"录制输出目录不存在就使用桌面
+输出结束提示点击在资源管理器定位",2026-06-26
+登录版权系统,https://getquicker.net/Sharedaction?code=9bbe291d-74de-4a10-b9bb-08de37f0ba43,一键登录版权保护中心系统,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,101 KB,2025-12-11 15:33,9,调整细节,2026-06-26
+起卦,https://getquicker.net/Sharedaction?code=54443d17-52de-4a6b-5d73-08dd8d160acc,数字起卦、小六壬起卦、每日一卦,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,239.9 KB,2025-05-08 15:15,21,调整细节,2026-06-26
+常用文件(夹),https://getquicker.net/Sharedaction?code=5294432a-06ff-486a-2eb5-08dda990399d,收藏常用文件(夹)，方便快速打开,Windows 资源管理器,Simonl,https://getquicker.net/User/134191/Simonl,196.2 KB,2025-06-13 04:56,24,- 「移动到」、「复制到」增加进度条显示处理进度,2026-06-26
+灵犀悬浮,https://getquicker.net/Sharedaction?code=9f346787-7e19-466f-c185-08dd0ebad0d8,将选中的文本、文件悬浮，一键快速复制粘贴。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,182.5 KB,2024-11-27 16:20,93,修复bug,2026-06-26
+显示器亮度,https://getquicker.net/Sharedaction?code=44cd5d49-4abf-4039-441e-08dd969274c4,便捷调整显示器亮度，可绑定参数,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,45.7 KB,2025-05-19 20:41,7,"优先：dxva2 高级亮度接口
+失败：DDC/CI VCP 0x10 亮度接口
+再失败：WMI，且只在能匹配当前屏幕时使用",2026-06-26
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,24.1 KB,2026-05-09 07:12,62,"## v0.29.21 (2026-6-24)
+
+- 增加收藏项多类型编辑（文本、链接、路径列表等），可在剪贴板窗口内直接修改
+- 将「设置」「帮助」并入剪贴板窗口标题栏导航，窄屏时自动隐藏「帮助」
+- 优化超级面板无顶层收藏夹时的空状态展示，保留侧栏与占位提示
+- 修复标题栏宽度计算导致「帮助」按钮永不显示的问题
+- 修复剪贴板窗口「更多」菜单跳转设置/帮助时误打开独立宿主的问题",2026-06-26
+TOtp,https://getquicker.net/Sharedaction?code=ecb76fdf-bfe6-4798-86ad-08dc51d79bc5,二次验证,通用,Cea,https://getquicker.net/User/113342/Cea,18.8 KB,2024-04-01 15:24,1,"## v1.0.1 (2026-6-24)
+
+- 首次发布独立 TOTP 依赖包，替代原 CeaTools + QuickerUtil.AuthenticateTOtp 调用方式
+- 支持 Base32 密钥生成 6 位二次验证码（RFC 6238，默认 SHA1 / 30 秒周期）
+- 支持 otpauth:// URI，可识别 algorithm、digits、period 参数
+- 动作调用方式不变：传入密钥或 otpauth 链接，验证码自动粘贴到剪贴板",2026-06-26
+动作面板v3,https://getquicker.net/Sharedaction?code=3b65840d-7670-4165-9c58-08dd91d533ab,放置常用的Quicker动作，点击运行。支持动作自己的右键菜单，支持深色模式,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,383.1 KB,2025-05-14 13:28,33,增加一些操作提示，优化图标,2026-06-26
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,300.4 KB,2024-12-09 20:46,61,"新增：新增：关闭该软件的其它窗口（保留此窗口），关闭该软件的所有窗口，依次激活该软件的所有窗口
+
+新增：自动清理无效的“临时自定义窗口名称”。",2026-06-26
+密码本,https://getquicker.net/Sharedaction?code=47863d53-bd65-4ff2-39df-08dd776c5a34,🔐 记录并管理账号密码、智能匹配填充 🎲 生成随机密码 🔄 支持云端及本地同步,通用,seekう,https://getquicker.net/User/548126/seek%E3%81%86,220.8 KB,2025-04-10 18:35,13,"【新增】分类排序
+【新增】分类更名
+",2026-06-26
+悬浮按钮跟随窗口,https://getquicker.net/Sharedaction?code=609da75e-d3d6-42a5-09b1-08dec9bcf20a,使悬浮按钮跟随窗口移动,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,84.1 KB,2026-06-14 23:27,3,"右键菜单增加对于绑定顺序的说明：先选中按钮，再选中窗口。在按钮没有绑定进程的时候，可以按照任意顺序。
+新增：解除所有绑定。
+新增设置（可选）：运行动作时，直接进行一次绑定（按下esc键，可取消绑定)",2026-06-26
+悬浮小小球,https://getquicker.net/Sharedaction?code=1d7328c3-081e-4384-1fe7-08de7ac590ca,「常驻高频操作。」,通用,Cherofre,https://getquicker.net/User/229808/Cherofre,701.8 KB,2026-03-07 02:20,21,"+ 新增全局组
+在 管理面板-编辑分组 中设置为全局组，并在分组设置中开启全局",2026-06-26
+任务领取/提醒,https://getquicker.net/Sharedaction?code=ee99a7f5-5ce3-443f-54a2-08deadd3df5d, ,雷电模拟器,起见了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E8%A7%81%E4%BA%86zizizi,404.2 KB,2026-05-09 22:21,26,修复和新增两个备用图片路径,2026-06-26
+浏览器验证码,https://getquicker.net/Sharedaction?code=8ad2aeb8-3028-42af-6fe4-08db22290442,通过选择验证码图片识别验证码，可记录验证码CSS值，下次无需选择自动识别。如识别失败则根据记录的鼠标位置自动复制并识别。仍然失败（非浏览器验证码）则进入截图识别,Google Chrome,blanka,https://getquicker.net/User/667540/blanka,526.4 KB,2023-03-12 22:56,32,"~修复旧数据无法适用刷新直到正确规则的问题
+~修复匹配网址黑名单不生效的问题
+~修复非包含网址规则不生效的问题
+~调试模式显示信息更详细",2026-06-26
+云笔记,https://getquicker.net/Sharedaction?code=dabfc37c-be9b-4b5c-fee1-08ded0fb125a,Markdown 云笔记：本地编辑、标签与搜索，Quicker 云状态多设备同步。,通用,Cea,https://getquicker.net/User/113342/Cea,17.3 KB,2026-06-24 08:28,6,"## v1.0.7 (2026-6-24)
+
+- 修复云同步在内容相同但更新时间不同时 rev 反复递增的问题
+- 优化同步比较逻辑，仅依据标题、正文、标签等实质内容判断是否变更
+- 修复新建笔记不能立即排到列表最前的问题
+- 优化保存、恢复历史版本后笔记列表排序即时更新
+- 优化笔记列表排序稳定性，相同时间下顺序不再随机跳动",2026-06-26
+增量备份,https://getquicker.net/Sharedaction?code=7f8c7056-763c-4d0c-3000-08dce95259a9,创建文件备份,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,27.5 KB,2024-10-11 15:15,7,"2026-06-24
+~. 增强泛原则支持；
+~. 支持{0}，归零小版本。",2026-06-26
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,20.9 KB,2022-04-18 22:22,194,"## v0.8.266
+
+- 剪贴板隐藏方式统一为三种：普通隐藏、悬浮球、贴边隐藏（`HideMode` + `WindowHideService` 注册与策略测试）
+- 修复有焦点/无焦点模式下粘贴时内容误贴到剪贴板搜索框：粘贴前激活目标窗口并修正 `ActiveLastWindowStep` 对 HWND Sender 的解析
+- 使用说明改为独立窗口 + 轻量 Markdown 浏览器（Page 阅读模式，避免双滚动条）
+- 子程序依赖包路径修复：发布时同步复制 `IntelliTools.Quicker.*.dll` 与 `Web/**`
+- 若干 scoped 主题控件（Popover、设置表单、收藏编辑等）挂载 `ThemeScope`",2026-06-26
+截图AI答题2.0,https://getquicker.net/Sharedaction?code=d14156bc-1e44-4ca3-c586-08debd4cc816,截图，将图片发送给AI（支持豆包、DeepSeek、通义千问）。DeepSeek解析时间较长，会在输入指令后等待6秒再发送。先截图，再处理AI窗口，避免遮挡。右键可切换AI源。,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,14.1 KB,2026-05-30 09:58,1,增加KIMI和智谱清言AI源，增加右键自定义提示词选项。,2026-06-26
+MD转Word,https://getquicker.net/Sharedaction?code=28370aa5-6b7f-4ee9-f742-08de84e27492,MD文本转为word文本，可将AI回答转成word格式！自带公文格式模板，可自定义模板!,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,100.7 KB,2026-03-18 21:59,3,"2.0 并非小修小补，而是一次排版体系的重构：可视化格式设置、多模板持久化、内置国标公文与中文论文规范，让 Markdown 到 Word 的转换真正进入「所见即所得」时代。
+I.	Word/WPS 级可视化设置 — 字体下拉、中文字号、颜色选择器、对齐方式、行距（含固定值磅）、段前段后间距，告别手写 CSS
+II.	模板系统 — 内置「公文格式」「中文论文（通用）」等模板，支持新建、另存为、设为默认，配置持久化至本地
+III.	实时全要素预览 — H1–H6、正文、列表、表格、引用、代码块、行内样式统一预览，改一项即见效果
+IV.	右键格式设置 — 独立 WebView 设置窗口，左键一键转换，工作流清晰分离",2026-06-26
+选择工具,https://getquicker.net/Sharedaction?code=3a397b5c-c4e6-40ac-d68a-08dcc81fd814,一个多功能的选择动作。,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,135.2 KB,2024-08-30 16:27,7,"2026-06-24
+~. 移除进度条；
+~. 增加选择""剪贴蒙版母版"";",2026-06-26
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,1.1 MB,2025-08-18 21:14,67,修复没有区分X1键和X2键的问题,2026-06-26
