@@ -1,14 +1,23 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+引用块,https://getquicker.net/Sharedaction?code=e6b743c5-1b8e-4bda-d819-08dedb2f4570,Markdown一种基于引用块的警报语法，用于在文档中突出显示重要信息。适用于Typora和Obsidian等Markdown编辑器。,通用,HSXY,https://getquicker.net/User/587027/HSXY,6.4 KB,2026-07-07 15:19,0,,2026-07-07
 动作定义查看,https://getquicker.net/Sharedaction?code=56b439e8-3577-40c1-d7fb-08dedb2f4570,"复制动作后运行动作,即可查看动作的json文本",通用,enough!,https://getquicker.net/User/897144/enough!,2.8 KB,2026-07-06 23:12,0,,2026-07-07
 执行动作by鼠标横坐标,https://getquicker.net/Sharedaction?code=1d4b99b6-b0c2-4709-d7ec-08dedb2f4570,横向分割屏幕，根据鼠标位置调用不同动作,通用,用户l4XG5wFHBQA,https://getquicker.net/User/1141848/%E7%94%A8%E6%88%B7l4XG5wFHBQA,22.5 KB,2026-07-06 15:36,0,,2026-07-07
 排列元素,https://getquicker.net/Sharedaction?code=6d3fa419-7349-42bf-2970-08deda5349e0,排列元素,Adobe Photoshop,Anlv,https://getquicker.net/User/392637/Anlv,33.3 KB,2026-07-06 14:20,1,更改许可,2026-07-07
 禁用/启用网络,https://getquicker.net/Sharedaction?code=7531c668-51b2-4535-296f-08deda5349e0,手动修改“网络连接名称”变量里的默认值。,通用,cnerrv,https://getquicker.net/User/1399614/cnerrv,1.6 KB,2026-07-06 14:09,0,,2026-07-07
 cad定位文件,https://getquicker.net/Sharedaction?code=cf18e153-7dc2-4207-296e-08deda5349e0,cad里定位打开当前文件的所在位置,AutoCAD Application,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,12.9 KB,2026-07-06 13:15,1,优化,2026-07-07
 PS定位文件,https://getquicker.net/Sharedaction?code=c667e14f-e2d3-41f0-296d-08deda5349e0,PS里定位打开当前文件的所在位置,Adobe Photoshop,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,5.3 KB,2026-07-06 13:12,1,优化定位代码,2026-07-07
-随机 Rime scheme,https://getquicker.net/Sharedaction?code=9dd6afd7-06fd-489a-2960-08deda5349e0,随机生成并应用 RIME 输入法 color scheme（颜色方案）,通用,太微笔记  twbiji.cn,https://getquicker.net/User/18485/%E5%A4%AA%E5%BE%AE%E7%AC%94%E8%AE%B0%20%20twbiji.cn,17.2 KB,2026-07-05 18:10,3,版本更新,2026-07-07
-文件分类,https://getquicker.net/Sharedaction?code=4a6b33c6-7171-4c45-2961-08deda5349e0,按关键词字段分类,Windows 资源管理器,用户eNLamMpQBgA,https://getquicker.net/User/1307369/%E7%94%A8%E6%88%B7eNLamMpQBgA,8.2 KB,2026-07-05 18:46,1,,2026-07-07
-QR解码助手,https://getquicker.net/Sharedaction?code=0b66a343-d389-4a66-295e-08deda5349e0,解析二维码/条形码底层逻辑，需配合其它动作截图,通用,邱宗满,https://getquicker.net/User/1265222/%E9%82%B1%E5%AE%97%E6%BB%A1,1.7 KB,2026-07-05 16:49,0,,2026-07-07
-自动列宽,https://getquicker.net/Sharedaction?code=2c53ce81-f73c-4239-294a-08deda5349e0,一键把选中列设置为自动列宽。,WPS Spreadsheets,xxdbw,https://getquicker.net/User/355986/xxdbw,1.2 KB,2026-07-05 13:07,0,,2026-07-07
+多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,324.5 KB,2025-12-11 12:18,62,- 修复「划词搜索」网址带特殊字符导致和quicker代码冲突，比如“&”,2026-07-07
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,929.7 KB,2026-05-25 11:32,65, ,2026-07-07
+全能窗口调整器,https://getquicker.net/Sharedaction?code=c3715e2a-aa83-42b8-eb81-08daa107cacc,调整窗口的大小、位置、透明度、置顶状态。,通用,ImmortalSty,https://getquicker.net/User/514368/ImmortalSty,251.2 KB,2022-09-28 13:25,52,[~] 更新依赖,2026-07-07
+网址绑定,https://getquicker.net/Sharedaction?code=20d02969-89c3-4a04-7ce4-08d92358c308,"重复利用已经打开的网址, 如果没有, 才会打开新的网址",Google Chrome,Cea,https://getquicker.net/User/113342/Cea,20.3 KB,2021-05-31 20:36,16,"## v1.0.4
+
+- 修复关闭浏览器后运行动作报错「变量不存在：_UrlBinding_tabsRaw」的问题；无浏览器连接时改为正常打开绑定列表首项 URL",2026-07-07
+网站收藏4.0,https://getquicker.net/Sharedaction?code=e2fcfb5c-1f75-4c68-d252-08ddfe78f441,一款强大的多栏本地书签管理器，支持无限层级。支持拖拽整理、拼音首字母搜索、浏览器书签集成与HTML导入导出。界面、颜色、图标等均可高度自定义。,通用,zdf153,https://getquicker.net/User/20184/zdf153,571.7 KB,2025-09-28 20:53,21,"兼容2.0
+",2026-07-07
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,集中存放网址、文本、文件等常用内容，支持快速搜索、拖拽整理与语音输入，让信息触手可得。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,268.3 KB,2025-02-21 03:22,309,不再同步映射动作页，去掉1.0相关。映射文件夹组名点击打开。,2026-07-07
+无痕书签,https://getquicker.net/Sharedaction?code=d2b8ccda-d310-48b9-07c8-08dea1a14b22,在无痕窗口中快速打开你收藏的常用网址,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,18.9 KB,2026-04-24 17:20,3,增加自定义浏览器运行路径,2026-07-07
+软件面板V4,https://getquicker.net/Sharedaction?code=4f2050ef-4c0c-4a37-eb21-08ddcb62c590,组平铺显示，软件面板，文件收藏，支持拖动排序(窗口要置顶)，可以直接从外面拖动文件进来，可以右键添加，可以拖动文件到其他软件,通用,zdf153,https://getquicker.net/User/20184/zdf153,345.7 KB,2025-07-26 16:46,26,兼容qk2.0,2026-07-07
+Ai面板,https://getquicker.net/Sharedaction?code=6b062852-430d-4aa2-1602-08de29ad9246,选中文本自动弹出动作操作面板,通用,chengmen,https://getquicker.net/User/1305284/chengmen,370.6 KB,2025-11-23 18:16,22,优化,2026-07-07
 灯具布置,https://getquicker.net/Sharedaction?code=9937e1c7-c52a-43a1-6311-08de4f2d7477,cad快速灯具布置,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,113.7 KB,2026-01-09 16:32,2,1.优化quicker2.0的支持,2026-07-07
 文字增减/循环,https://getquicker.net/Sharedaction?code=8431e3df-359c-41bd-f10a-08dda89c234a,可对数字进行增减，左键+右键-/也可对自定义的单个或多个文字进行循环更换,AutoCAD Application,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,54.3 KB,2025-06-12 16:54,1,1.更新quicker2.0支持,2026-07-07
 浏览器增强 ,https://getquicker.net/Sharedaction?code=c24e3935-8420-436a-9fab-08ded1f79acf,右键关闭、滚轮切换标签页（✅旦用难回）,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,54.9 KB,2026-06-25 10:31,12,调整细节,2026-07-07
@@ -22,12 +31,11 @@ QR解码助手,https://getquicker.net/Sharedaction?code=0b66a343-d389-4a66-295e-
 - 修复粘贴后焦点与键盘操作异常（含置顶窗口场景）
 - 修复 QQ 富文本捕获稳定性；恢复 `-c` 粘贴顺序与窗口状态同步
 - 收窄 ClipHost 主窗口默认宽度；无边框窗口热键显示时重新定位",2026-07-07
-为网页生成TOC,https://getquicker.net/Sharedaction?code=dd048098-ffb5-405f-b6a1-08dd683b6942,"为网页生成大纲,目录导航",Google Chrome,li1qqq,https://getquicker.net/User/945817/li1qqq,9.8 KB,2025-03-21 20:04,2,"~.窗口默认在右侧展现
+网页TOC,https://getquicker.net/Sharedaction?code=dd048098-ffb5-405f-b6a1-08dd683b6942,"为网页生成大纲,目录导航",Google Chrome,li1qqq,https://getquicker.net/User/945817/li1qqq,9.8 KB,2025-03-21 20:04,2,"~.窗口默认在右侧展现
 ~.运行会关掉之前的目录导航窗口",2026-07-07
 文件成夹,https://getquicker.net/Sharedaction?code=91bae49d-5317-4f18-4949-08de502090a8,文件名或扩展名新建文件夹，或移进去,通用,Poto,https://getquicker.net/User/137838/Poto,18.3 KB,2026-01-10 20:59,2,新增 自动记忆,2026-07-07
 查看网页图片,https://getquicker.net/Sharedaction?code=5ff735df-e2da-4315-4151-08dcbd8a9e0a,一键查看当前网页的所有图片，并可以下载,Google Chrome,li1qqq,https://getquicker.net/User/945817/li1qqq,18.5 KB,2024-08-16 20:38,9,~.修改为在新标签页打开,2026-07-07
 一键发微信,https://getquicker.net/Sharedaction?code=de839b2d-5f81-42b6-d917-08db5218490a,微信窗口最小化时或在后台时，不想切换到微信窗口，可以使用本动作快速输入联系人和消息后自动发送，支持历史记录下拉选择。发送前微信不显示前台，支持发送给多人。,Weixin,xxdbw,https://getquicker.net/User/355986/xxdbw,30.9 KB,2023-05-12 13:31,5,动作说明里增加更新说明。,2026-07-07
-软件面板V4,https://getquicker.net/Sharedaction?code=4f2050ef-4c0c-4a37-eb21-08ddcb62c590,组平铺显示，软件面板，文件收藏，支持拖动排序(窗口要置顶)，可以直接从外面拖动文件进来，可以右键添加，可以拖动文件到其他软件,通用,zdf153,https://getquicker.net/User/20184/zdf153,348.3 KB,2025-07-26 16:46,25,兼容qk2.0,2026-07-07
 智慧菜单,https://getquicker.net/Sharedaction?code=3570304f-80f0-42ee-321c-08daf053a987,最好用的快捷菜单💗根据不同场景弹出不同的菜单，高度自定义！现已支持指定程序、网址、选中文本、选中文件场景，右键有完善的配置菜单流程。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,382.5 KB,2023-01-07 19:44,117,~适配2.0新语法引擎。,2026-07-07
 剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,150.9 KB,2026-04-16 18:41,64,修正问题。,2026-07-07
 动作面板V2(自动切换到分组),https://getquicker.net/Sharedaction?code=b59cb7b7-d512-4416-f23f-08ddd4e0681e,仿Quicker设计，上部分为“全局组”，下半部分为为根据进程自动切换的组（同时支持和quicker一样的通用组）。支持拖拽quicker面板动作添加。贴边隐藏!,通用,zdf153,https://getquicker.net/User/20184/zdf153,144.9 KB,2025-08-07 09:28,38,"更新依赖包名字
@@ -46,27 +54,8 @@ steam账号切换,https://getquicker.net/Sharedaction?code=f51b41a9-0c87-496d-db
 2.新版ui
 3.适配高dpi",2026-07-07
 剪贴收藏大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板和收藏板互动统一增强工具，文本文件文件夹的管理。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,358.5 KB,2026-06-27 14:51,10,不小心被我删除了。,2026-07-07
+随机 Rime scheme,https://getquicker.net/Sharedaction?code=9dd6afd7-06fd-489a-2960-08deda5349e0,随机生成并应用 RIME 输入法 color scheme（颜色方案）,通用,太微笔记  twbiji.cn,https://getquicker.net/User/18485/%E5%A4%AA%E5%BE%AE%E7%AC%94%E8%AE%B0%20%20twbiji.cn,17.2 KB,2026-07-05 18:10,3,版本更新,2026-07-07
 声音设置,https://getquicker.net/Sharedaction?code=c9e07b6e-24a1-486c-7bf6-08deb6cd25ab,设置系统或程序静音、恢复；修改默认输出设备,通用,Simonl,https://getquicker.net/User/134191/Simonl,30.1 KB,2026-05-21 13:21,4,- 大幅度优化启动速度,2026-07-07
 快速访问,https://getquicker.net/Sharedaction?code=b9adfd12-fe48-4e15-76dd-08dc5df52912,复制文本，用于自动访问网址、打开文件路径或者访问前往相关网站。,通用,薛宋官,https://getquicker.net/User/1034982/%E8%96%9B%E5%AE%8B%E5%AE%98,47.1 KB,2024-04-16 18:45,17,修复「编辑文本」时选择「取消」，程序不再继续运行的Bug。,2026-07-07
 时钟,https://getquicker.net/Sharedaction?code=f078ad7f-731c-41c7-acb2-08de65127db3,时钟,通用,Simonl,https://getquicker.net/User/134191/Simonl,25.1 KB,2026-02-06 17:47,2,"- 去掉任务栏图标显示
 - 倒计时界面界面数字紧贴窗口边缘，最大化利用窗口空间",2026-07-07
-便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,集中存放网址、文本、文件等常用内容，支持快速搜索、拖拽整理与语音输入，让信息触手可得。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,307.8 KB,2025-02-21 03:22,308,重新引入动作拖拽，可以直接从面板拖拽动作到便利窗,2026-07-07
-暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,926.2 KB,2026-05-25 11:32,63,修复电脑性能不能卡的问题,2026-07-07
-文本清洗,https://getquicker.net/Sharedaction?code=5a2dd471-a1fc-44db-9722-08dcc5fac3c3,超全面超丝滑的字符窜处理，两种显示模式，可自定义规则批处理。,通用,Joker_D,https://getquicker.net/User/891699/Joker_D,833 KB,2024-08-27 22:11,9,修正文本替换特殊字符无法替换的bug,2026-07-07
-关闭进程,https://getquicker.net/Sharedaction?code=b27d3206-4642-4e12-8760-08dde5f827a6,关闭当前进程名下所有进程,通用,Simonl,https://getquicker.net/User/134191/Simonl,4.2 KB,2025-08-28 22:30,6,- quicker2.0的版本C#代码经常报错，更换为cmd命令结束进程比较稳定,2026-07-07
-Edge智读 ,https://getquicker.net/Sharedaction?code=50ad76e6-3757-4791-2bd1-08de8cce2f81,无需打开Edge，选中文字，触发即读，中文自动由晓晓、英文ava朗读,通用,用户6903775097...,https://getquicker.net/User/530229/%E7%94%A8%E6%88%B7690377509746788,222.4 KB,2026-03-28 22:44,44,"主要修复：
-1. .venv 依赖验证成功后直接接受，不再强制修复损坏的 py_embed。
-2.运行时按依赖是否可用选择，不再只看 python.exe 是否存在。
-3.禁止不同 Python 主次版本之间执行 --target 安装。
-4.Pip 引导改为先尝试 ensurepip，再尝试两个 PyPA 官方地址；移除返回 403 的阿里云脚本地址，单次超时缩短至 45 秒。
-5.服务配置根据实际启动路径记录 portable 或 venv。",2026-07-07
-前台窗口截图,https://getquicker.net/Sharedaction?code=eb0c222f-945c-4b78-478d-08ded57ccb80,窗口自定义截图,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,15.3 KB,2026-06-30 09:11,3, 右键新增打开文件夹,2026-07-07
-百度翻译,https://getquicker.net/Sharedaction?code=97043661-cfa2-4c75-6fe2-08de4d5ff10f,大模型翻译；选中文本翻译，否则截图翻译，按住ctrl读取剪贴板内容翻译,通用,Simonl,https://getquicker.net/User/134191/Simonl,47.4 KB,2026-01-07 04:12,4,"- 增加手动输入
-- 右键菜单增加操作说明",2026-07-07
-所有文件统一重命名,https://getquicker.net/Sharedaction?code=72bd9b2b-592d-4b74-fc1c-08d978b0ec35,将一个文件夹下的所有文件统一重命名为文件夹的名称，请将需要重命名的文件夹窗口设为活动窗口（即先选中该窗口），Windows 10测试正常。,Windows 资源管理器,xxdbw,https://getquicker.net/User/355986/xxdbw,6.7 KB,2021-09-16 13:19,5,修改延时。,2026-07-07
-ps打开图,https://getquicker.net/Sharedaction?code=8bcee1fa-c48e-45fb-1629-08ded85597d5,选中多个文件用ps打开，或有截图时也可以打开ps,Adobe Photoshop,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,10.2 KB,2026-07-03 14:00,3,用户选择时增加默认值,2026-07-07
-时间,https://getquicker.net/Sharedaction?code=cca1c807-19bb-49b5-623a-08d9a4c9f420,时间,通用,Cea,https://getquicker.net/User/113342/Cea,45.4 KB,2021-11-11 18:00,21,V2/net10 适配：交互_时间窗口2 改用 CeaViewRunner 1.2.1.0 加载 cea.cea-view-runner，修复依赖下载 404。,2026-07-07
-任务清单Pro,https://getquicker.net/Sharedaction?code=f51234e7-9201-4935-98f3-08ddac6ed895,✅多功能✅多提醒任务清单~待办、待办清单、待办事项、待办任务、任务清单、任务提醒，超好用,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,536.3 KB,2025-06-16 08:54,45,"增加是否开启完成的特效开关
-加强自动变化的细节
-底部时间增加周几",2026-07-07
-关键字提示,https://getquicker.net/Sharedaction?code=aa52768b-c019-4b0c-6ce8-08dec20f58a7,自动提取选中文本并高亮显示其中预设的关键字（支持多个，用逗号分隔）。右键可修改关键字列表。首次运行自动弹出设置。,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,13.4 KB,2026-06-04 16:57,4,更换高亮符号,2026-07-07
