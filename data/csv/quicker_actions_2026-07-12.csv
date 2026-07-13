@@ -1,0 +1,63 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+计时,https://getquicker.net/Sharedaction?code=fef54901-df37-446b-a3bd-08dedf182b4b,倒计时、正计时、番茄时钟，倒计时结束执行动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,131.4 KB,2026-07-11 15:15,3,完成面板：[再计时 1 分钟]  [重设]  [结束],2026-07-13
+城市天气预报，下雨概率,https://getquicker.net/Sharedaction?code=17b33e0b-a7d0-4f2c-a3da-08dedf182b4b,获取实时天气，温度，湿度，风速，根据天气网预报今日内是否会下雨,通用,xh785196712,https://getquicker.net/User/850638/xh785196712,10.9 KB,2026-07-12 16:02,0,,2026-07-13
+滚轮音量,https://getquicker.net/Sharedaction?code=3eb9db8a-1447-41b8-a3d8-08dedf182b4b,ahk脚本按住鼠标右键   然后滚轮调节音量,Qoder CN,89268690,https://getquicker.net/User/359076/89268690,17.3 KB,2026-07-12 13:59,1,自动下载ahk程序,2026-07-13
+微博热点,https://getquicker.net/Sharedaction?code=2e88864d-1685-467e-a3d9-08dedf182b4b,WebView2窗口打开,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,5.3 KB,2026-07-12 14:28,0,,2026-07-13
+markdown渲染,https://getquicker.net/Sharedaction?code=7d95de4e-4577-4bbc-a3cd-08dedf182b4b,选中文字进行markdown渲染,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,95.8 KB,2026-07-11 23:27,0,,2026-07-13
+图标生成器,https://getquicker.net/Sharedaction?code=4db62e36-0f8e-4614-a3cc-08dedf182b4b,图标生成器,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,20.2 KB,2026-07-11 21:42,0,,2026-07-13
+ROI计算器,https://getquicker.net/Sharedaction?code=8849e643-e00d-489b-a3cb-08dedf182b4b,ROI计算器,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,25.6 KB,2026-07-11 21:32,0,,2026-07-13
+分屏,https://getquicker.net/Sharedaction?code=fc2e959e-418b-46b0-a3c8-08dedf182b4b,窗口分频;,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,19 KB,2026-07-11 21:11,1,+ 右键快速获取本动作ID,2026-07-13
+复制为SVG,https://getquicker.net/Sharedaction?code=7cc60879-169e-4e53-a3c6-08dedf182b4b,将 PPT 中选中的图形复制为 SVG 图片,Microsoft PowerPoint,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,41.5 KB,2026-07-11 18:58,0,,2026-07-13
+kando,https://getquicker.net/Sharedaction?code=5b29b2d6-96eb-4a98-c0ed-08dede0ec6f6,kando-Quicker支持版,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,16.9 KB,2026-07-11 09:42,0,,2026-07-13
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,203.7 KB,2024-12-17 10:16,47,增加发明专利申请公布通知书,2026-07-13
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,27.6 KB,2026-05-09 07:12,77,"## v0.30.7 (2026-7-13)
+
+- 便捷粘贴（Alt+`）重写提交逻辑：松开 Alt 执行粘贴，修复快速连按、先松 ` 再松 Alt 等场景
+- 新增 Alt+E 快捷键：粘贴当前条目并自动发送回车
+- 记忆选中项设置简化为开关；再次打开时在记忆有效期内自动跳到上次条目的下一项
+- 新增剪贴板条目时自动清除选中记忆，避免索引错位
+- 修复 Alt 菜单栏残留导致粘贴失败的问题；优化按键吞没与物理按键去重
+- 同步发布剪贴板插件（net472 / net10）与 ClipHost 依赖包，版本统一为 0.30.7",2026-07-13
+枝记,https://getquicker.net/Sharedaction?code=b5091d78-12cc-4fb9-bd01-08debb8a5d21,轻量级 Markdown 笔记工具 · 电脑 / 手机 / 平板多端通用 · WebDAV 加密同步,通用,dalou,https://getquicker.net/User/76824/dalou,54.6 KB,2026-05-27 21:36,11,新增：日历组件，行首输入/选择模板，或右键菜单菜单插入；可记录待办事项。,2026-07-13
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,311.2 KB,2024-12-09 20:46,68,"新增：支持以表格形式进行批量修改
+修复：启动速度变慢的问题
+新增：选择右键菜单的“关闭窗口”后，自动关闭操作窗。默认不启用",2026-07-13
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,150.5 KB,2026-04-16 18:41,67,"数据目录固定，不再允许更改；
+
+减少dll依赖，通知类的变化；
+
+确保窗口单进程；增加孤儿图片回收；剪贴板历史中的未置顶图片保留 30 天；
+
+异步捕获，减少获取ui阻塞；
+
+图片右键增加贴图，文本右键增加转二维码贴图；贴图自定义的，可能少了和quicker动作的联动；
+
+防御捕获空值进行通知的报错，空值不会进行通知；修复窗口记亿宽高逻辑；
+
+其它等等；",2026-07-13
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,942.1 KB,2026-05-25 11:32,71,"修复无内力时吸气会卡住问题
+优化技能截图代码",2026-07-13
+任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,462.2 KB,2025-05-19 09:05,49,"农历提示直接显示在格子里，更美观
+增加农历提示开启的开关",2026-07-13
+动作面板V2,https://getquicker.net/Sharedaction?code=b59cb7b7-d512-4416-f23f-08ddd4e0681e,仿Quicker设计，上部分为“全局组”，下半部分为为根据进程自动切换的组（同时支持和quicker一样的通用组）。支持拖拽quicker面板动作添加。贴边隐藏!,通用,zdf153,https://getquicker.net/User/20184/zdf153,166.7 KB,2025-08-07 09:28,39,修复bug,2026-07-13
+窗口大师,https://getquicker.net/Sharedaction?code=a5571ddb-92c9-44bf-a24e-08deba8a86a2,对窗口进行置顶，分屏，贴边隐藏，吸附，透明度，穿透等操作。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,160.4 KB,2026-05-26 19:46,9,"1.引导标显示位置新增跟随鼠标，并改为以标题里顶部为基准
+2.引导标触发弹窗区域左右扩大
+3.修改一些默认值",2026-07-13
+文件(夹)批量操作,https://getquicker.net/Sharedaction?code=3e54cb84-fc00-4d53-24dd-08da6210a43f,"文件操作：1.快速创建文件夹并将选中的文件（文件夹）移动（复制）到该文件夹。（可撤销）2.手动选择移动（复制）到其他路径。（可撤销）文件夹操作：1.快速创建文件夹。（不支持撤销）2.解散文件夹。（可撤销）3.文件夹图标内嵌功能。（没错！我将动作""文件夹图标内嵌""整合到了这个动作里。注意:图标名或路径中尽量不要包含特殊字符，已知包含韩文字符会执行错误！）",Windows 资源管理器,AzureHearted,https://getquicker.net/User/577696/AzureHearted,360.3 KB,2022-07-10 22:58,9,update,2026-07-13
+前台窗口截图,https://getquicker.net/Sharedaction?code=eb0c222f-945c-4b78-478d-08ded57ccb80,窗口自定义截图,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,18.1 KB,2026-06-30 09:11,6, ,2026-07-13
+工作台,https://getquicker.net/Sharedaction?code=d8248857-2035-48f6-8f31-08dbf92db44f,一键启动常用程序，可根据不同的场景，配置不同的计划！,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,112.1 KB,2023-12-10 22:20,12,~更新一系列功能，自行探索！,2026-07-13
+布局启动大师,https://getquicker.net/Sharedaction?code=13f08db8-4469-404f-9f7f-08dec4f70a25, 预设文件的窗口位置和大小，一键打开布局中设置文件。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,162.1 KB,2026-06-08 09:11,7,适配2.0的dpi,2026-07-13
+邮箱验证码,https://getquicker.net/Sharedaction?code=f3effa4e-e4a7-497e-dc96-08dbd4c004af,通过IMAP协议查询邮件内容，正则识别验证码并输出。需要python环境,通用,blanka,https://getquicker.net/User/667540/blanka,344.8 KB,2023-10-25 02:35,20,"~修复不保存连通性【测试结果】的问题
+~修复部分情况下不返回符合时间的邮件到手动处理流程的问题",2026-07-13
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,240.5 KB,2023-06-12 00:47,32,设置界面美化,2026-07-13
+截图,https://getquicker.net/Sharedaction?code=e15cfcc8-503f-42c1-4c5a-08de79cfe7d4,截图，长截图，标注，Ocr(公式、表格、普通文本)，录制，贴图，Gif,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,117.4 KB,2026-03-04 20:01,31,"提供椭圆，优化马赛克，优化长截图；
+
+非2.0用户不要升级，请关闭该动作的自动升级并回退上个版本。",2026-07-13
+py测试,https://getquicker.net/Sharedaction?code=04be9a0e-b809-457e-1675-08ded85597d5,用于python代码测试，选中进行,通用,阿苏00131,https://getquicker.net/User/15824/%E9%98%BF%E8%8B%8F00131,1.8 KB,2026-07-03 22:42,4,使用子程序实现,2026-07-13
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,集中存放网址、文本、文件等常用内容，支持快速搜索、拖拽整理与语音输入，让信息触手可得。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,272.4 KB,2025-02-21 03:22,310,执行子程序不用传递匿名对象。修复quicker升级带来的错误。,2026-07-13
+音频轮回,https://getquicker.net/Sharedaction?code=ff079cff-fcdf-4940-83dd-08de063444e6,自由切换多个音频设备；在两个外放音频设备（音箱 ＆ 耳机）间轮回,通用,Poto,https://getquicker.net/User/137838/Poto,29.5 KB,2025-10-08 14:31,6,"支持 多个音频设备手动选择切换
+支持 自动记忆。指定两个设备之间轮回切换",2026-07-13
+速存助手,https://getquicker.net/Sharedaction?code=e0effe6a-b278-412e-d816-08dedb2f4570,在另存为窗口上方快速选择预设的保存路径,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,61.3 KB,2026-07-07 14:25,2,"1.新增自定义窗体设置
+",2026-07-13
+屏幕录制大师,https://getquicker.net/Sharedaction?code=51fc96c9-a7e6-4212-3788-08de9ddab9c2,"有声录屏,显示键鼠，录后可调视频大小。MP4/GIF",通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,203.5 KB,2026-04-20 16:06,15,"修复系统声音开启后，音画不同步问题，无声区域无法保存问题等。
+",2026-07-13
