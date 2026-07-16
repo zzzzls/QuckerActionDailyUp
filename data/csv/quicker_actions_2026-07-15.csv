@@ -1,0 +1,65 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+文本指令速览,https://getquicker.net/Sharedaction?code=d8e19d09-05f9-4b7a-8871-08dee20a7f9a,快速预览文本指令配置,Quicker,zoulu,https://getquicker.net/User/849526/zoulu,25.9 KB,2026-07-15 23:23,0,,2026-07-16
+侧边栏,https://getquicker.net/Sharedaction?code=9d0a9d94-45b2-44c1-8867-08dee20a7f9a,给任意窗口添加动作侧边栏，丝滑使用，智能匹配规则，面板直接拖拽动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,92.2 KB,2026-07-15 17:05,2,还是加上版本限制吧，实力不够兼容不了这么多，所以只能2.0用户使用,2026-07-16
+仿步骤记录器,https://getquicker.net/Sharedaction?code=5684bfd0-455e-4c1c-886a-08dee20a7f9a,仿步骤记录器，用于学习,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,22.3 KB,2026-07-15 18:16,0,,2026-07-16
+显示图片,https://getquicker.net/Sharedaction?code=dbbe7737-4c9b-4fe8-8865-08dee20a7f9a,快速显示图片到屏幕顶置，可选多张，不选择图片时在按一次动作可全部关闭图片,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,8.7 KB,2026-07-15 16:28,0,,2026-07-16
+Tuna,https://getquicker.net/Sharedaction?code=5f4a41e3-3f59-4618-885b-08dee20a7f9a,Tuna （重开）,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,18.1 KB,2026-07-15 12:00,2,增加卸载功能,2026-07-16
+粘贴板,https://getquicker.net/Sharedaction?code=70fa6cdb-f92d-4c44-8860-08dee20a7f9a,按数字键1-9快速粘贴常用文本和图片,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,61.4 KB,2026-07-15 14:32,0,,2026-07-16
+excel到word表格,https://getquicker.net/Sharedaction?code=fc04df12-7407-4a7c-885a-08dee20a7f9a,复制excel中单元格内容到word已有表格中进行粘贴，只有文本没有格式。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,3.1 KB,2026-07-15 11:49,0,,2026-07-16
+清屏,https://getquicker.net/Sharedaction?code=e2e68f79-4e10-4391-27b3-08dee1384686,统统最小化，还你干净清爽桌面。最小化后再次使用即恢复原来的显示,通用,Poto,https://getquicker.net/User/137838/Poto,667 B,2026-07-15 02:59,0,,2026-07-16
+LaTex预览,https://getquicker.net/Sharedaction?code=a7d05a14-df50-4c2b-27b2-08dee1384686,渲染AI输出的内容，包括markdown和LaTex公式,通用,blanka,https://getquicker.net/User/667540/blanka,20 KB,2026-07-14 23:18,1,+quicker内置的webview2加载有点卡顿，增加了使用外部浏览器打开的选项,2026-07-16
+文件备注,https://getquicker.net/Sharedaction?code=e0124389-99eb-4a69-27b1-08dee1384686,选中文件然后启动脚本即可，刷新文件即可显示备注，记得打开显示备注栏,Windows 资源管理器,用户OMfGjZfkBgA,https://getquicker.net/User/1377527/%E7%94%A8%E6%88%B7OMfGjZfkBgA,6.7 KB,2026-07-14 23:04,0,,2026-07-16
+去除空格,https://getquicker.net/Sharedaction?code=e1e2f618-d875-4ced-27aa-08dee1384686,一键去除选中文字中的空格，无需弹出菜单,Microsoft Word,差生工具多,https://getquicker.net/User/1225342/%E5%B7%AE%E7%94%9F%E5%B7%A5%E5%85%B7%E5%A4%9A,37.9 KB,2026-07-14 18:28,0,,2026-07-16
+动作外观修改,https://getquicker.net/Sharedaction?code=f3e1f415-ae35-45d0-27a5-08dee1384686,"兼容Quicker 1.0和2.0 版本,修改动作图标/标题/说明",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,15.3 KB,2026-07-14 17:04,0,,2026-07-16
+照片坐标提取,https://getquicker.net/Sharedaction?code=7a2b7ba9-f553-49c5-27a3-08dee1384686,提取照片的坐标及高程信息，导出为excel。需要exiftool。,通用,夏日劲凉啤酒,https://getquicker.net/User/1425093/%E5%A4%8F%E6%97%A5%E5%8A%B2%E5%87%89%E5%95%A4%E9%85%92,6.1 KB,2026-07-14 16:42,0,,2026-07-16
+调节窗口C#版,https://getquicker.net/Sharedaction?code=a08dd322-76fe-4675-279c-08dee1384686,让鼠标在任意位置都可以直接移动窗口位置，调节窗口大小，无需常驻，但需配合左键辅助使用。,通用,Anlv,https://getquicker.net/User/392637/Anlv,19.7 KB,2026-07-14 11:31,0,,2026-07-16
+网页魔术师,https://getquicker.net/Sharedaction?code=789f963f-ee55-426c-4f8c-08de2d75a2ca,网页全能编辑/解除限制/提取表格/获取图片......一个动作顶二十个动作！,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.1 MB,2025-11-28 14:37,19,增加豆包生图免水印下载,2026-07-16
+浏览器验证码,https://getquicker.net/Sharedaction?code=8ad2aeb8-3028-42af-6fe4-08db22290442,通过选择验证码图片识别验证码，可记录验证码CSS值，下次无需选择自动识别。如识别失败则根据记录的鼠标位置自动复制并识别。仍然失败（非浏览器验证码）则进入截图识别,Google Chrome,blanka,https://getquicker.net/User/667540/blanka,545.5 KB,2023-03-12 22:56,33,"~规则管理面板显示是否启用重试直到正确规则
+~整理右键菜单
+~非ddddocr识别方式跳过python和插件配置检测
+~云同步设置覆盖修改规则时
++可验证在线OCR和AI配置
+-若无旧版数据则不再显示【导入旧版数据】菜单",2026-07-16
+gif录制,https://getquicker.net/Sharedaction?code=a6f28887-10ce-4ce5-b478-08da9b67d0a1,录制gif动画,通用,pinbo,https://getquicker.net/User/549488/pinbo,14.6 KB,2022-09-21 11:16,10,修复下载错误,2026-07-16
+超高效剪贴系统,https://getquicker.net/Sharedaction?code=00a8e3fe-69ba-41af-8dba-08dddd68dcad,左右键直接触发十几种不同的操作，左键辅助最有性价比的动作！,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,1.1 MB,2025-08-18 21:14,69,"复制内容提示可在设置中关闭，并限制提示内容不超过两行
+新增操作纯复制，将复制也看为一次性操作
+双击松开默认为纯复制，双击滑动默认为粘贴（可以初始化就开启，亲测好用）",2026-07-16
+打开网页,https://getquicker.net/Sharedaction?code=8c9a2d61-2243-4583-cab9-08ded678f211,获取选中文本或剪贴板中的网址，并用选择的浏览器打开。支持右键切换浏览器、收藏网址、历史记录。,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,43.9 KB,2026-07-01 09:53,4,"精简右键菜单，如有需要可自行添加浏览器。
+当输入网址和收藏夹均为空时，则使用选择的浏览器打开bing。",2026-07-16
+枝记,https://getquicker.net/Sharedaction?code=b5091d78-12cc-4fb9-bd01-08debb8a5d21,轻量级 Markdown 笔记工具 · 电脑 / 手机 / 平板多端通用 · WebDAV 加密同步,通用,dalou,https://getquicker.net/User/76824/dalou,58.9 KB,2026-05-27 21:36,14,新增：日历事件类型、持续时间、汇总面板与日程面板等,2026-07-16
+调试文件操作,https://getquicker.net/Sharedaction?code=d949a6bc-dc25-488c-310d-08dc1e816747,"含有多种对调试文件的功能,详情见介绍",乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,46.9 KB,2024-01-27 16:30,9,新增..,2026-07-16
+剪贴收藏大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板和收藏板互动统一增强工具，文本文件文件夹的管理。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,378.5 KB,2026-06-27 14:51,14,"1.修复excel复制显示问题，tab用空格代替
+2.excel复制的文本增加对word表格粘贴的匹配。
+3.右键弹窗后，鼠标离开弹窗，弹窗自动消失
+4.右键弹窗后，任务栏不在显示图标。",2026-07-16
+按键点击器,https://getquicker.net/Sharedaction?code=183ad51b-ea0b-47fd-d80c-08dedb2f4570,"通过键盘按键触发鼠标点击指定窗口位置，支持26个按键自定义配置，坐标格式为X%,Y%",通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,23.6 KB,2026-07-07 11:04,4,修复1.0版本用不了的问题,2026-07-16
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,210.1 KB,2024-12-17 10:16,48,新增发明专利申请初步审查合格通知书,2026-07-16
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,302.7 KB,2024-12-09 20:46,71,"新增：支持以表格形式进行批量修改
+修复：启动速度变慢的问题
+新增：选择右键菜单的“关闭窗口”后，自动关闭操作窗。默认不启用
+优化：启动软件时，先进行关闭操作窗的操作
+正式弃用参数“窗口类名”。",2026-07-16
+安装路径,https://getquicker.net/Sharedaction?code=6e419650-a705-43c4-d0bc-08de360397ed,快速打开当前程序/快捷方式的根目录（来源动作库：浏览程序安装目录）,通用,ooleox,https://getquicker.net/User/602557/ooleox,7.8 KB,2025-12-09 14:01,1,一些运行细节和图标,2026-07-16
+屏幕录制大师,https://getquicker.net/Sharedaction?code=51fc96c9-a7e6-4212-3788-08de9ddab9c2,"有声录屏,显示键鼠，录后可调视频大小。MP4/GIF",通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,207.8 KB,2026-04-20 16:06,17,"1.支持扩展屏录制（需测试）
+2.支持两个屏幕跨屏录制（需测试）
+3.生成视频即刻显示,自刷新。
+4.修改配置文件路径，加文件夹。动作右键可直达。",2026-07-16
+保留前台窗口,https://getquicker.net/Sharedaction?code=fbe819aa-6bf4-4b62-2275-08dc1310ce90,保留前台窗口回到桌面,Windows 资源管理器,祥睿御免,https://getquicker.net/User/762594/%E7%A5%A5%E7%9D%BF%E5%BE%A1%E5%85%8D,33.6 KB,2024-01-12 17:40,4,增加短期撤回功能,2026-07-16
+便携更新,https://getquicker.net/Sharedaction?code=81ecee3b-ff96-42f3-0747-08dd9a5f05c7,便携软件自动化无感更新,通用,Poto,https://getquicker.net/User/137838/Poto,111.8 KB,2025-05-25 04:34,11,+ 单根目录类型的便携软件压缩包,2026-07-16
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,150.6 KB,2026-04-16 18:41,68,"若剪贴版启动来自自动运行，则在剪贴版窗口禁用鼠标手势并增加右键拖拽功能，可将选中单项右键拖拽以卡片形式拖拽出剪贴版，此为独立窗口，可置于屏幕任意位置重复使用；其右侧附带针对功能按钮，左键短按发送，长按拖拽；
+
+切换剪贴板筛选器后，会立即选择新筛选结果的第一项；
+
+多格式文本项才显示复制纯文本；
+
+收敛对颜色的判断；",2026-07-16
+py测试,https://getquicker.net/Sharedaction?code=04be9a0e-b809-457e-1675-08ded85597d5,用于python代码测试，选中进行,通用,阿苏00131,https://getquicker.net/User/15824/%E9%98%BF%E8%8B%8F00131,1.9 KB,2026-07-03 22:42,5,更新子程序示例,2026-07-16
+动作面板V2,https://getquicker.net/Sharedaction?code=b59cb7b7-d512-4416-f23f-08ddd4e0681e,仿Quicker设计，上部分为“全局组”，下半部分为为根据进程自动切换的组（同时支持和quicker一样的通用组）。支持拖拽quicker面板动作添加。贴边隐藏!,通用,zdf153,https://getquicker.net/User/20184/zdf153,167.2 KB,2025-08-07 09:28,40,1,2026-07-16
+鼠标输入助手,https://getquicker.net/Sharedaction?code=960ba34f-4316-459d-6cb1-08db600b665f,用于模拟鼠标点击时，快速确定鼠标相对于窗体的位置,通用,CPU风扇,https://getquicker.net/User/839797/CPU%E9%A3%8E%E6%89%87,25.5 KB,2023-05-30 17:00,2,增加输出显示器的分辨率、名称,2026-07-16
+停车码HTTP,https://getquicker.net/Sharedaction?code=57cce993-9c22-450e-c4cc-08decb89ea35,纯HTTP后台领取捷停车优惠，无需占用浏览器,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,133.9 KB,2026-06-17 11:55,2,设置界面改为webview窗口，优化多项交互；支持查看减免记录,2026-07-16
+表格样式大师,https://getquicker.net/Sharedaction?code=b9721100-d611-4bca-cac0-08ded678f211,一键美化Word表格：标题行/内容行格式、边框线型、填充颜色，支持全部表格或当前表格，8套内置样式+自定义。,WPS Office,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,212.5 KB,2026-07-01 11:59,3,格式设置界面支持中文字号选择,2026-07-16
+本地随机壁纸,https://getquicker.net/Sharedaction?code=ad814269-ba4a-42f7-ccbf-08de82342679,使用指定文件夹中的图片随机更换桌面背景。完全本地运行，可靠高效耐用,通用,wenbocn,https://getquicker.net/User/732234/wenbocn,6 KB,2026-03-15 18:13,3,用户修改文件夹路径界面默认填入当前使用的文件夹路径，避免用户在此过程中取消设置时，导致的原有文件夹路径丢失的问题。,2026-07-16
+文本规范处理,https://getquicker.net/Sharedaction?code=280032ae-08ea-4566-d9b9-08de9917e55e,"文献中文本复制粘贴经常出现乱码：空格、换行、中英文符号乱用。现在利用正则表达式删除空格、tab、换行回车,并且实现英文符号变为中文符号",通用,cqk26,https://getquicker.net/User/1171811/cqk26,4 KB,2026-04-14 10:01,4,简化代码,2026-07-16
+学术PPT工作台·自用笔记版,https://getquicker.net/Sharedaction?code=e0462e33-7734-40c8-d43b-08dee01c2af7,PowerPoint 科研笔记与知识整理工具箱，提供页面、模板、文字、排版、公式、图表和形状等97项操作。标题18磅、正文14磅、图注11磅，适合日常科研笔记、文献整理和内部记录。,Microsoft PowerPoint,SHENAO2,https://getquicker.net/User/1057715/SHENAO2,375.8 KB,2026-07-13 16:39,1,v0.2.0-m1-rc2：升级为101个按钮，新增“文本→MathType / AxMath”，可复制当前文本框全文、打开公式编辑器并自动粘贴；加入模板自动部署、模板状态、路径重置、quicker_temp残留恢复及Office/WPS环境提示；修复三线表内部框线残留和表格文字居中。当前为公开候选版，部分异常场景与WPS兼容性仍在继续补测。,2026-07-16
+学术PPT工作台·学术汇报版,https://getquicker.net/Sharedaction?code=47524b01-943b-4e20-d43a-08dee01c2af7,PowerPoint 学术汇报常驻工具箱，提供页面、模板、文字、排版、公式、图表和形状等97项操作。标题28磅、正文18磅、图注14磅，适合论文答辩、科研组会和项目汇报。,Microsoft PowerPoint,SHENAO2,https://getquicker.net/User/1057715/SHENAO2,375.8 KB,2026-07-13 16:33,1,v0.2.0-m1-rc2：升级为101个按钮，新增“文本→MathType / AxMath”，可复制当前文本框全文、打开公式编辑器并自动粘贴；加入模板自动部署、模板状态、路径重置、quicker_temp残留恢复及Office/WPS环境提示；修复三线表内部框线残留和表格文字居中。当前为公开候选版，部分异常场景与WPS兼容性仍在继续补测。,2026-07-16
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,946.6 KB,2026-05-25 11:32,73,打包买卖装备子程序,2026-07-16
