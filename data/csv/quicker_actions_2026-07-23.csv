@@ -1,0 +1,64 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+一键引用网页,https://getquicker.net/Sharedaction?code=f789147d-0652-43df-25a2-08dee88c2d23,一键获取网页标题、网址和选中文本,Microsoft Edge,IsaacZ,https://getquicker.net/User/325388/IsaacZ,14.2 KB,2026-07-24 00:25,0,,2026-07-24
+Quicker图标选择,https://getquicker.net/Sharedaction?code=dc4a84a4-5e87-48f0-259d-08dee88c2d23,Quicker矢量图标中文搜索,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,226.3 KB,2026-07-23 21:08,0,,2026-07-24
+随身宠物,https://getquicker.net/Sharedaction?code=67020654-6785-4836-032e-08dee79af979,从2.0新面板拖拽动作给宠物吃，点击宠物可以可以执行动作；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,21.7 KB,2026-07-22 11:37,2,随便写功能，从2.0新面板拖拽动作给宠物吃，点击宠物可以可以执行动作；,2026-07-24
+指定窗口中文输入法-循环版,https://getquicker.net/Sharedaction?code=a8877b70-9202-4eec-259b-08dee88c2d23,"启动后轮询当前进程(进程名+标题)是否变动,变动进入判断",通用,若尘丶,https://getquicker.net/User/1214411/%E8%8B%A5%E5%B0%98%E4%B8%B6,10.7 KB,2026-07-23 18:16,0,,2026-07-24
+电子发票二维码识别下载,https://getquicker.net/Sharedaction?code=5620a71b-61db-4c5e-0364-08dee79af979,选择发票图片 → 自动识别二维码提取链接 → 下载电子发票原件。支持直接下载与浏览器跳转两种模式。,通用,二手坷垃,https://getquicker.net/User/575952/%E4%BA%8C%E6%89%8B%E5%9D%B7%E5%9E%83,43.8 KB,2026-07-23 14:13,0,,2026-07-24
+FC上传到云剪切板,https://getquicker.net/Sharedaction?code=ef33cce6-67e1-4b5d-035e-08dee79af979,使用Jeric-X/SyncClipboard协议的webdav云剪切板方案,通用,fc790fc,https://getquicker.net/User/216003/fc790fc,42.7 KB,2026-07-23 12:42,0,,2026-07-24
+FC云剪切板下载,https://getquicker.net/Sharedaction?code=04155964-43ec-431a-035d-08dee79af979,使用Jeric-X/SyncClipboard协议的webdav云剪切板方案,通用,fc790fc,https://getquicker.net/User/216003/fc790fc,31 KB,2026-07-23 12:26,0,,2026-07-24
+示例-Quick剪贴板推送quicker通知,https://getquicker.net/Sharedaction?code=6bfa7117-64d6-460b-034f-08dee79af979,示例-Quick剪贴板推送quicker通知,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,2.6 KB,2026-07-22 23:01,0,,2026-07-24
+微信语音转文字,https://getquicker.net/Sharedaction?code=3a340259-8bee-4d3a-034b-08dee79af979,不用额外下载软件，可以利用微信的语音转文字功能实现在微信以外的软件中进行录音转化成文字。使用时请确保微信是登录状态，然后在Word文档或者其他文本处理器中选中需要语音转文字的位置，启动动作，即可开始录音，录音结束后按Esc键录音结束，可以实时看到录音是否成功运行。,通用,橘小妹,https://getquicker.net/User/430704/%E6%A9%98%E5%B0%8F%E5%A6%B9,2 KB,2026-07-22 18:23,0,,2026-07-24
+信息传输,https://getquicker.net/Sharedaction?code=4b3ec407-dbc8-4ddd-033e-08dee79af979,1、使用Bark发送文本/图片到iphone；2、支持长按复制到手机剪贴板；3、支持其他动作调用传递参数发送到手机。,通用,cqk26,https://getquicker.net/User/1171811/cqk26,13.6 KB,2026-07-22 12:38,2,优化代码,2026-07-24
+数字编号,https://getquicker.net/Sharedaction?code=4897b805-2d48-41d0-0337-08dee79af979,曲线工具,Microsoft PowerPoint,龙一哥哥,https://getquicker.net/User/571051/%E9%BE%99%E4%B8%80%E5%93%A5%E5%93%A5,7.6 KB,2026-07-22 11:52,0,,2026-07-24
+指定窗口中文输入法,https://getquicker.net/Sharedaction?code=cbc8c6b2-71d9-480c-032d-08dee79af979,"配合窗口获得焦点事件使用: 设置好的进程在标题名匹配时自动设置为中文,其他为英文",通用,若尘丶,https://getquicker.net/User/1214411/%E8%8B%A5%E5%B0%98%E4%B8%B6,5.3 KB,2026-07-22 11:26,0,,2026-07-24
+极速文本搜索,https://getquicker.net/Sharedaction?code=ad1b842c-71e8-47e9-810d-08de937230ba,无需打开文件，极速批量找出含搜索内容的文件,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,100.3 KB,2026-04-06 14:28,8,修复启动窗口大小不合理问题,2026-07-24
+窗口大师,https://getquicker.net/Sharedaction?code=a5571ddb-92c9-44bf-a24e-08deba8a86a2,对窗口进行置顶，分屏，贴边隐藏，吸附，透明度，穿透等操作。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,248.8 KB,2026-05-26 19:46,13,"1.增加滚动设置适配DPI
+2.修改贴边隐藏触发位置和距离
+3.修复动作异常退出后，贴边隐藏窗口无法正常关闭的bug",2026-07-24
+剪贴板面板,https://getquicker.net/Sharedaction?code=d3fb93d5-6e63-479b-ddc2-08dee6ba3591,更新新模式。默认模式：扇形剪贴板面板，4预设(名称+文字)+2取词，右键可修改；新模式：全取词,通用,Dylan123,https://getquicker.net/User/401833/Dylan123,59.9 KB,2026-07-21 10:48,1,更新新模式。默认模式：扇形剪贴板面板，4预设(名称+文字)+2取词，右键可修改；新模式：全取词,2026-07-24
+用PS打开/导入,https://getquicker.net/Sharedaction?code=7b2dace1-2d7d-40a1-3587-08dc102fde90,功能增强版“用PS打开”,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,107 KB,2024-01-09 10:55,18,2026年7月23日20:58:55,2026-07-24
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,101.4 KB,2026-04-16 18:41,74,剪贴版改变简单向宠物发送一条信息；,2026-07-24
+剪贴收藏大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板和收藏板互动统一增强工具，文本文件文件夹的管理。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,387.6 KB,2026-06-27 14:51,18,"1.修复窗口尺寸修改后无法保存的bug
+2.右键复制定位打开新增针对单个文件或文件夹的二级菜单选项
+3.新增双击窗口底部标题栏，滚动条自动复位功能",2026-07-24
+卸载工具,https://getquicker.net/Sharedaction?code=43f3cb1d-2a4e-43f8-b905-08dc83042634,好用的软件卸载程序,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,48.6 KB,2024-06-03 09:34,3,更新直链,2026-07-24
+PDF 对照翻译,https://getquicker.net/Sharedaction?code=7eebe6ba-53a8-44ec-389f-08dd82057ea1,免费的 PDF 全文对照翻译！,Windows 资源管理器,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,229.5 KB,2025-04-23 20:56,10,修复文字覆盖问题,2026-07-24
+手机通知（SF优化）,https://getquicker.net/Sharedaction?code=ac8c7960-9229-4126-389a-08dd82057ea1,显示安卓手机上的通知，查询手机信息、通话、联系人等【搭配SmsForwarder】,通用,ziyue,https://getquicker.net/User/245395/ziyue,326.6 KB,2025-04-23 18:43,19,单条消息的打开链接失败处理,2026-07-24
+前台窗口截图,https://getquicker.net/Sharedaction?code=eb0c222f-945c-4b78-478d-08ded57ccb80,窗口自定义截图,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,18.1 KB,2026-06-30 09:11,7,修复异常,2026-07-24
+粘贴板,https://getquicker.net/Sharedaction?code=70fa6cdb-f92d-4c44-8860-08dee20a7f9a,按数字键1-9快速粘贴常用文本和图片,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,63.8 KB,2026-07-15 14:32,2,修复异常,2026-07-24
+极简收藏,https://getquicker.net/Sharedaction?code=987c9caa-648f-495c-bcaf-08de5d774a2d,常用语收藏，输入,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,111.6 KB,2026-01-27 15:40,3,修复c#模式下，标题栏里面文字显示不全bug,2026-07-24
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,289.5 KB,2024-12-17 10:16,63,增加 视为放弃取得专利权通知书,2026-07-24
+颜色选项获取,https://getquicker.net/Sharedaction?code=554e06b1-5a25-4abf-27b4-08de9afcb260,获取天猫商品SKU的颜色规格 选项,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,40 KB,2026-04-16 13:24,6,1,2026-07-24
+商品下载,https://getquicker.net/Sharedaction?code=95dcdf44-2d44-4486-269f-08de69060766,淘宝详情页下载,Google Chrome,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,133.3 KB,2026-02-11 08:39,2,~,2026-07-24
+商品导入助手,https://getquicker.net/Sharedaction?code=585536e6-a9bc-43b4-d795-08de11f67f66,一键生成商标商品批量导入Excel文件,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,77.7 KB,2025-10-24 09:59,25,调整细节,2026-07-24
+打开网页,https://getquicker.net/Sharedaction?code=8c9a2d61-2243-4583-cab9-08ded678f211,获取选中文本或剪贴板中的网址，并用选择的浏览器打开。支持右键切换浏览器、收藏网址、历史记录。,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,43.9 KB,2026-07-01 09:53,5,修复无法选择/输入网址问题。,2026-07-24
+浮岛V2,https://getquicker.net/Sharedaction?code=b68b746e-3d05-46db-41dc-08dee2db153d,已开源，新人也能借助ai生成好用好看的组件，自由添加Html组件,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,6.1 KB,2026-07-16 15:49,11,"快捷键新增是否显示主画布；
+针对坚果云同步情况进行修复；",2026-07-24
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,27.6 KB,2026-05-09 07:12,96,"## v0.30.22 (2026-7-23)
+
+- 修复步骤剪贴条目图标：列表与 Toast 能正确显示步骤模块图标
+- 完善步骤预览展示：剪贴列表中的步骤内容更易辨认
+- 补充离线步骤图标资源，减少图标缺失或空白的情况",2026-07-24
+剪贴面板,https://getquicker.net/Sharedaction?code=b353e7f5-d1e9-474a-d43f-08dee01c2af7,告别传统剪贴板，自动记录历史、可分类收藏、富文本保留、一键粘贴；支持展示动作。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,342.1 KB,2026-07-13 21:58,3,"~ 任务栏图标显示
++ 贴边隐藏（设置面板中打开）",2026-07-24
+Quick剪贴板,https://getquicker.net/Sharedaction?code=4c2081e6-c5c1-4a0a-41d2-08dee2db153d,Quick剪贴板-功能增强，自带桌宠，可交互,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,46.4 KB,2026-07-16 11:07,12,"1.优化设置便捷粘贴触发方式，支持quicker扩展热键+任意键触发或者是长按单个键触发
+2.优化设置切换的时候右侧继承位置的问题
+3.优化设置中无法更换储存位置的问题
+4.优化设置-quicker设置，焦点模式的表述问题
+5.优化便捷粘贴背景透明度的问题以及宽度问题
+6.引入宠物 文本气泡的拖拽功能
+7.引入宠物 quicker通知的功能
+8.优化宠物 文本 图片气泡的拖拽功能",2026-07-24
+好友快速定位(此标题更改为好友名),https://getquicker.net/Sharedaction?code=9f8db76e-1f6d-4552-3bdc-08d7a91b2444,"简单好用:更改参数和标题为想要的好友名,即可快速定位到指定聊天窗口",WeChat,shere,https://getquicker.net/User/58152/shere,2.8 KB,2020-02-04 23:46,1,适配新版本微信,2026-07-24
+极简待办,https://getquicker.net/Sharedaction?code=edd7a3b4-3a7f-40b3-8d18-08dd606400e5,简约、清爽,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,71.1 KB,2025-03-11 15:44,8,增加一键清理已完成,2026-07-24
+资源管理器\n多标签大师,https://getquicker.net/Sharedaction?code=4bef67a2-da15-4cf6-fb08-08dec119adfa,对资源管理器和文件夹进行单窗口多标签显示,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,77.9 KB,2026-06-04 11:15,6,"1.取消托盘显示，纯后台运行
+2.运行或退出增加右下角弹窗提示
+3.设置和退出都集中放到动作右键中进行。
+4.再次运行动作也是退出的逻辑。
+5.修复gdi泄露问题。",2026-07-24
+markdown记事,https://getquicker.net/Sharedaction?code=5682cf9e-76a7-4652-dde2-08dee6ba3591,markdown记事,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,16.8 KB,2026-07-21 21:12,2,修复写作模式下纯文本粘贴产生额外空行的问题,2026-07-24
+侧边栏,https://getquicker.net/Sharedaction?code=9d0a9d94-45b2-44c1-8867-08dee20a7f9a,给任意窗口添加动作侧边栏，丝滑使用，智能匹配规则，面板直接拖拽动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,84.6 KB,2026-07-15 17:05,13,"让同进程与跨进程挂载表现一致，解决同进程侧边栏窗口获取焦点问题；
+优化代码，清理多余换行和冗余；",2026-07-24
+计算器,https://getquicker.net/Sharedaction?code=29245c7c-2260-434d-ddc0-08dee6ba3591,简单实用,通用,masterCAM2023,https://getquicker.net/User/1072367/masterCAM2023,41.6 KB,2026-07-21 10:19,2,html代码已添加,2026-07-24
+网页魔术师,https://getquicker.net/Sharedaction?code=789f963f-ee55-426c-4f8c-08de2d75a2ca,网页全能编辑/解除限制/提取表格/获取图片......一个动作顶二十个动作！,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.1 MB,2025-11-28 14:37,22,增加多文本高亮功能,2026-07-24
+配置FFmpeg环境,https://getquicker.net/Sharedaction?code=143a68e0-36a2-4847-c709-08dc1baf171d,检测并管理 FFmpeg Gyan Windows x64 release full build；支持自定义安装位置、稳定/指定版本通道、官方在线与备用链接、本地 ZIP/7Z、更新、修复、PATH 配置和安全卸载。,通用,Hliyh,https://getquicker.net/User/54138/Hliyh,370.7 KB,2024-01-24 01:35,6,检测并管理 FFmpeg Gyan Windows x64 release full build；支持自定义安装位置、稳定/指定版本通道、官方在线与备用链接、本地 ZIP/7Z、更新、修复、PATH 配置和安全卸载。,2026-07-24
