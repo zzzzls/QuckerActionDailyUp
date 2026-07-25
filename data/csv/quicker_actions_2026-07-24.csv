@@ -1,15 +1,146 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
-在指定软件中，禁用Quicker面板,https://getquicker.net/Sharedaction?code=3f6ffc56-ebd8-41cd-8b2a-08dee98842c1,在指定的软件中自动关闭Quicker弹出的面板，从而无需手动暂停Quicker,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,84.4 KB,2026-07-24 22:57,3,优化云同步,2026-07-25
+禁用Quicker面板，在指定的软件中,https://getquicker.net/Sharedaction?code=3f6ffc56-ebd8-41cd-8b2a-08dee98842c1,在指定的软件中自动关闭Quicker弹出的面板，从而无需手动暂停Quicker,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,84.4 KB,2026-07-24 22:57,4,优化云同步,2026-07-25
 巴德机油猴,https://getquicker.net/Sharedaction?code=67b3d873-ee26-4198-25b3-08dee88c2d23,致敬油猴/暴力猴,通用,Bader,https://getquicker.net/User/135289/Bader,14.9 KB,2026-07-24 12:00,0,,2026-07-25
 巴德Quicker积分趋势图,https://getquicker.net/Sharedaction?code=b502178e-93bd-4a48-25b1-08dee88c2d23,给Quicker的积分增加个趋势图,通用,Bader,https://getquicker.net/User/135289/Bader,10.9 KB,2026-07-24 10:16,0,,2026-07-25
 巴德Quicker积分提现提示,https://getquicker.net/Sharedaction?code=57af2203-d1b7-4a2f-25af-08dee88c2d23,在Quicker的积分下方增加提现提示,通用,Bader,https://getquicker.net/User/135289/Bader,7.5 KB,2026-07-24 10:08,0,,2026-07-25
-一键引用网页,https://getquicker.net/Sharedaction?code=f789147d-0652-43df-25a2-08dee88c2d23,一键获取网页标题、网址和选中文本,Microsoft Edge,IsaacZ,https://getquicker.net/User/325388/IsaacZ,14.2 KB,2026-07-24 00:25,0,,2026-07-25
-Quicker图标选择,https://getquicker.net/Sharedaction?code=dc4a84a4-5e87-48f0-259d-08dee88c2d23,Quicker矢量图标中文搜索,Quicker,zdf153,https://getquicker.net/User/20184/zdf153,226.3 KB,2026-07-23 21:08,0,,2026-07-25
-指定窗口中文输入法-循环版,https://getquicker.net/Sharedaction?code=a8877b70-9202-4eec-259b-08dee88c2d23,"启动后轮询当前进程(进程名+标题)是否变动,变动进入判断",通用,若尘丶,https://getquicker.net/User/1214411/%E8%8B%A5%E5%B0%98%E4%B8%B6,10.7 KB,2026-07-23 18:16,0,,2026-07-25
-电子发票二维码识别下载,https://getquicker.net/Sharedaction?code=5620a71b-61db-4c5e-0364-08dee79af979,选择发票图片 → 自动识别二维码提取链接 → 下载电子发票原件。支持直接下载与浏览器跳转两种模式。,通用,二手坷垃,https://getquicker.net/User/575952/%E4%BA%8C%E6%89%8B%E5%9D%B7%E5%9E%83,43.8 KB,2026-07-23 14:13,0,,2026-07-25
-动作面板v3,https://getquicker.net/Sharedaction?code=3b65840d-7670-4165-9c58-08dd91d533ab,放置常用的Quicker动作，点击运行。支持动作自己的右键菜单，支持深色模式,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,359 KB,2025-05-14 13:28,36,优化云同步,2026-07-25
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,952.5 KB,2026-05-25 11:32,76,刚刚没改对,2026-07-25
+动作面板v3,https://getquicker.net/Sharedaction?code=3b65840d-7670-4165-9c58-08dd91d533ab,放置常用的Quicker动作，点击运行。支持动作自己的右键菜单，支持深色模式,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,383.8 KB,2025-05-14 13:28,39,支持手动云同步，每个电脑独立,2026-07-25
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,331.5 KB,2024-12-09 20:46,74,支持手动云同步，每个电脑独立,2026-07-25
+比例测量,https://getquicker.net/Sharedaction?code=8b61d8c5-125d-467d-c9ef-08deb19da5ec,通过已知长度自定义比例，按照比例测量显示尺寸,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,38.1 KB,2026-05-14 22:03,3,修改配置路径文件夹与动作名一致,2026-07-25
+剪贴面板,https://getquicker.net/Sharedaction?code=b353e7f5-d1e9-474a-d43f-08dee01c2af7,告别传统剪贴板，自动记录历史、可分类收藏、富文本保留、一键粘贴；支持展示动作。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,344.2 KB,2026-07-13 21:58,4,"~ 修重开资源任务栏图标
+~ 修断电数据丢失
+~ 修拖过边缘贴边失效
+~ 修4K屏隐藏位置偏移",2026-07-25
+计算器,https://getquicker.net/Sharedaction?code=29245c7c-2260-434d-ddc0-08dee6ba3591,简单实用,通用,masterCAM2023,https://getquicker.net/User/1072367/masterCAM2023,58.1 KB,2026-07-21 10:19,3,"============================
+  计算器 使用说明 v3.0
+============================
+
+【一、基础计算】
+
+1. 输入框直接输入算式，按 = 或回车计算
+   支持: + - * / 括号 百分号 阶乘 指数
+   例: 3+5*2=13   (2+3)*4=20   2**10=1024   5!=120
+
+2. 支持 .5 格式输入（自动识别为0.5）
+   例: .5+1=1.5   3*.5=1.5
+
+3. ANS 变量：引用上次计算结果
+   例: 先算 3+5=8，再输入 ANS*2=16
+
+4. 右上角 🔬 切换科学计算器（三角函数、对数、根号等）
+
+
+【二、系数系统（核心功能）】
+
+■ 什么是系数？
+  系数是对当前结果进行快捷换算的预设公式。
+  比如结果为 3，点系数 *25.4 → 3×25.4=76.20
+
+■ 两种模式（自动判断，无需手动切换）：
+
+  ● 值先：表达式以 + - * / 开头
+    计算方式 = 结果 + 表达式
+    例: *25.4    → 结果×25.4
+    例: /25.4+3  → 结果÷25.4+3
+    例: *0.03937 → 结果×0.03937
+
+  ● 式先：表达式不以运算符开头
+    计算方式 = 表达式 + 结果（值追加到末尾）
+    例: (1/2+0.5)/2/  → (1/2+0.5)/2/结果
+    例: 25.4          → 25.4×结果
+
+  判断规则：看表达式第一个字符
+  是 + − × ÷ → 值先
+  不是运算符 → 式先
+
+■ 添加/编辑系数：
+  1. 点""系数""按钮打开管理界面
+  2. 表达式框输入公式（如 *25.4 或 (1/2+0.5)/2/）
+  3. 标签框输入自定义名称（如 in-mm，可留空）
+  4. 点""添加""保存
+  5. 编辑已有系数点 ✏️，修改后点""保存""
+
+■ 标签显示规则：
+  有标签 → 按钮只显示标签名（如 in-mm）
+  无标签 → 按钮只显示公式（如 *25.4）
+
+■ 快捷键：
+  在系数管理中点 ⚡ 可为每个系数设置快捷键（如 Q）
+  设置后，在主输入框按对应键即可直接执行系数换算
+  ★ 中文输入法状态下也能直接触发，无需切换输入法
+  ★ 输入 none 可取消快捷键
+
+■ 系数公式提示：
+  执行系数换算后，输入框下方会显示完整公式
+  例: 3*25.4 = 76.20
+  显示时间可在系数管理中调整（0~30秒，0=不自动消失）
+
+
+【三、中英文输入切换】
+
+  输入框右侧有""中/英""按钮：
+  英文模式（显示""中""）：可使用快捷键，输入算式
+  中文模式（显示""英""）：可输入中文搜索历史记录
+
+
+【四、大写金额】
+
+  点""大写""按钮，输入框下方显示中文大写金额
+  例: 12345.67 → 壹万贰仟叁佰肆拾伍元陆角柒分
+  点""复制""按钮复制金额并自动关闭面板
+
+
+【五、单位换算面板】
+
+  右侧边缘有""单位换算""标签，点击展开/折叠
+
+  使用方法：
+  ① 选择运算符（× ÷ + −）
+  ② 输入系数（如 25.4）
+  ③ 在""尺寸1""""尺寸2""输入原始值
+  ④ 自动计算换算结果和中值±公差
+  ⑤ 点""中值→计算器""可将中值代入主计算器
+
+  快捷操作：
+  - 尺寸1按回车 → 跳转到尺寸2
+  - 尺寸2按回车 → 跳回尺寸1
+  - 连续快速按两次回车 → 清空尺寸1和尺寸2
+  - ±公差框输入数值自动计算上下偏差
+
+
+【六、历史记录与收藏】
+
+  ■ 历史：自动保存计算记录，可搜索、展开/折叠、清空
+  ■ 收藏：点 ⭐ 打开收藏夹，可保存常用算式
+  ■ 历史保留时间可设置：全部/3个月/6个月/1年
+  ■ 每条历史可添加备注、收藏、删除
+
+
+【七、其他设置】
+
+  - 小数位：可选 0/1/2/3/4/6/不限
+  - 重置：右上角""重置""按钮恢复默认设置
+  - 所有数据保存在浏览器本地，刷新不丢失
+
+
+【八、常见问题】
+
+  Q: 系数不执行/结果不对？
+  A: 检查表达式是否有误，特别是括号是否配对。
+     系数管理中会显示""值先/式先""标签，确认模式是否符合预期。
+
+  Q: 快捷键不生效？
+  A: 确认输入框处于英文模式（按钮显示""中""）。
+     中文模式下快捷键被禁用，以便输入中文搜索。
+
+  Q: 式先和值先怎么区分？
+  A: 看表达式第一个字符：
+     是 +−×÷ → 值先（结果在前）
+     不是   → 式先（结果在后）",2026-07-25
 PixPin,https://getquicker.net/Sharedaction?code=89bfa2e7-7c62-4b97-1736-08dda10577be,"截图,OCR,GIF,贴图",通用,Simonl,https://getquicker.net/User/134191/Simonl,112.4 KB,2025-06-01 20:16,19,- 修复BUG,2026-07-25
+Pixhost图床,https://getquicker.net/Sharedaction?code=179b9118-2724-4b78-d27a-08ddfe78f441,免费图床;支持GIF/PNG/JPG;最大10MB,通用,Simonl,https://getquicker.net/User/134191/Simonl,8.6 KB,2025-09-29 18:22,4,- 网站更新了域名，同步更新一下,2026-07-25
 备忘快贴,https://getquicker.net/Sharedaction?code=674b7b80-59c5-4755-e39b-08de5e765ac6,备忘录、快速复制内容,通用,Simonl,https://getquicker.net/User/134191/Simonl,168.2 KB,2026-01-29 16:40,13,- 支持打开文件或文件夹，当识别为文件或文件夹，路径使用黄色高亮显示,2026-07-25
+AI助理,https://getquicker.net/Sharedaction?code=63f1204b-5579-4bfe-1735-08dda10577be,懂你的AI助理，支持多网页AI、api调用和本地AI客户端。,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,88.7 KB,2025-06-01 20:11,4,~适配quicker2.0,2026-07-25
 商品导入助手,https://getquicker.net/Sharedaction?code=585536e6-a9bc-43b4-d795-08de11f67f66,一键生成商标商品批量导入Excel文件,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,77.7 KB,2025-10-24 09:59,26,修复bug,2026-07-25
 浮岛V2,https://getquicker.net/Sharedaction?code=b68b746e-3d05-46db-41dc-08dee2db153d,已开源，新人也能借助ai生成好用好看的组件，自由添加Html组件,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,5.9 KB,2026-07-16 15:49,12,"将动作参数作为浮岛参数，如需开机自启动某一个组件，请传递参数--widget ""组件标题""",2026-07-25
 窗口大师,https://getquicker.net/Sharedaction?code=a5571ddb-92c9-44bf-a24e-08deba8a86a2,对窗口进行置顶，分屏，贴边隐藏，吸附，透明度，穿透等操作。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,252 KB,2026-05-26 19:46,14,"1.贴边隐藏改为缓进缓出
@@ -21,22 +152,7 @@ PixPin,https://getquicker.net/Sharedaction?code=89bfa2e7-7c62-4b97-1736-08dda105
 最新剪贴项与新快照内容完全相同时，整次捕获直接忽略；主要是资源管理器关闭时会完成剪贴板延迟渲染或释放所有权的原因，暂且修改忽略吧。",2026-07-25
 随身宠物,https://getquicker.net/Sharedaction?code=67020654-6785-4836-032e-08dee79af979,从2.0新面板拖拽动作给宠物吃，点击宠物可以可以执行动作；,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,21.7 KB,2026-07-22 11:37,3,"瘦身其事件、通知，优化其气泡点击；
 增强与剪贴版的互动；",2026-07-25
+公众号关注粉号码采集,https://getquicker.net/Sharedaction?code=81229c26-82a6-46a1-dac1-08de9ce3f118,分享,通用,用户aiPcx5LzBAA,https://getquicker.net/User/1082046/%E7%94%A8%E6%88%B7aiPcx5LzBAA,111 KB,2026-04-18 22:41,12,cmd脚本错误，引号影响,2026-07-25
 任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,482.2 KB,2025-05-19 09:05,50,"增加格子小标，多条显示+N，快速添加功能
 细节优化",2026-07-25
 QQ宠物,https://getquicker.net/Sharedaction?code=205b9e6e-23e4-4069-ddeb-08dee6ba3591,"桌面宠物，还原QQ宠物，包含了60多种动作,每隔15秒播放不同动作表情",通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,19.4 KB,2026-07-22 08:37,1, ,2026-07-25
-极速文本搜索,https://getquicker.net/Sharedaction?code=ad1b842c-71e8-47e9-810d-08de937230ba,无需打开文件，极速批量找出含搜索内容的文件,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,100.3 KB,2026-04-06 14:28,8,修复启动窗口大小不合理问题,2026-07-25
-剪贴板面板,https://getquicker.net/Sharedaction?code=d3fb93d5-6e63-479b-ddc2-08dee6ba3591,更新新模式。默认模式：扇形剪贴板面板，4预设(名称+文字)+2取词，右键可修改；新模式：全取词,通用,Dylan123,https://getquicker.net/User/401833/Dylan123,59.9 KB,2026-07-21 10:48,1,更新新模式。默认模式：扇形剪贴板面板，4预设(名称+文字)+2取词，右键可修改；新模式：全取词,2026-07-25
-用PS打开/导入,https://getquicker.net/Sharedaction?code=7b2dace1-2d7d-40a1-3587-08dc102fde90,功能增强版“用PS打开”,Adobe Photoshop,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,107 KB,2024-01-09 10:55,18,2026年7月23日20:58:55,2026-07-25
-剪贴收藏大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板和收藏板互动统一增强工具，文本文件文件夹的管理。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,387.6 KB,2026-06-27 14:51,18,"1.修复窗口尺寸修改后无法保存的bug
-2.右键复制定位打开新增针对单个文件或文件夹的二级菜单选项
-3.新增双击窗口底部标题栏，滚动条自动复位功能",2026-07-25
-卸载工具,https://getquicker.net/Sharedaction?code=43f3cb1d-2a4e-43f8-b905-08dc83042634,好用的软件卸载程序,通用,北京林或西,https://getquicker.net/User/207095/%E5%8C%97%E4%BA%AC%E6%9E%97%E6%88%96%E8%A5%BF,48.6 KB,2024-06-03 09:34,3,更新直链,2026-07-25
-PDF 对照翻译,https://getquicker.net/Sharedaction?code=7eebe6ba-53a8-44ec-389f-08dd82057ea1,免费的 PDF 全文对照翻译！,Windows 资源管理器,Snow-In-Twil...,https://getquicker.net/User/935928/Snow-In-Twilight,229.5 KB,2025-04-23 20:56,10,修复文字覆盖问题,2026-07-25
-手机通知（SF优化）,https://getquicker.net/Sharedaction?code=ac8c7960-9229-4126-389a-08dd82057ea1,显示安卓手机上的通知，查询手机信息、通话、联系人等【搭配SmsForwarder】,通用,ziyue,https://getquicker.net/User/245395/ziyue,326.6 KB,2025-04-23 18:43,19,单条消息的打开链接失败处理,2026-07-25
-前台窗口截图,https://getquicker.net/Sharedaction?code=eb0c222f-945c-4b78-478d-08ded57ccb80,窗口自定义截图,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,18.1 KB,2026-06-30 09:11,7,修复异常,2026-07-25
-粘贴板,https://getquicker.net/Sharedaction?code=70fa6cdb-f92d-4c44-8860-08dee20a7f9a,按数字键1-9快速粘贴常用文本和图片,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,63.8 KB,2026-07-15 14:32,2,修复异常,2026-07-25
-极简收藏,https://getquicker.net/Sharedaction?code=987c9caa-648f-495c-bcaf-08de5d774a2d,常用语收藏，输入,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,111.6 KB,2026-01-27 15:40,3,修复c#模式下，标题栏里面文字显示不全bug,2026-07-25
-官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,289.5 KB,2024-12-17 10:16,63,增加 视为放弃取得专利权通知书,2026-07-25
-颜色选项获取,https://getquicker.net/Sharedaction?code=554e06b1-5a25-4abf-27b4-08de9afcb260,获取天猫商品SKU的颜色规格 选项,Google Chrome,运营:秋风,https://getquicker.net/User/475107/%E8%BF%90%E8%90%A5%3A%E7%A7%8B%E9%A3%8E,40 KB,2026-04-16 13:24,6,1,2026-07-25
-商品下载,https://getquicker.net/Sharedaction?code=95dcdf44-2d44-4486-269f-08de69060766,淘宝详情页下载,Google Chrome,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,133.3 KB,2026-02-11 08:39,2,~,2026-07-25
-打开网页,https://getquicker.net/Sharedaction?code=8c9a2d61-2243-4583-cab9-08ded678f211,获取选中文本或剪贴板中的网址，并用选择的浏览器打开。支持右键切换浏览器、收藏网址、历史记录。,通用,xxdbw,https://getquicker.net/User/355986/xxdbw,43.9 KB,2026-07-01 09:53,5,修复无法选择/输入网址问题。,2026-07-25
