@@ -1,21 +1,21 @@
 动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+Codex 完成后,https://getquicker.net/Sharedaction?code=e33c6c7e-49a2-44fa-4820-08df00e8b1be,实时显示Codex对话监控进度；全部结束后按选择发送通知、安排关机或运行指定 Quicker 动作。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,27.5 KB,2026-08-23 20:36,1,更新说明,2026-08-23
+免费翻译,https://getquicker.net/Sharedaction?code=bc2dd443-3544-4b37-481d-08df00e8b1be,获取当前选中的文本，并在 AI 内容处理窗口中进行中英自动翻译；支持复制结果或应用回内容区。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,19.9 KB,2026-08-23 15:42,1,增加版本限制,2026-08-23
 连点器,https://getquicker.net/Sharedaction?code=b9af0829-360c-4323-793e-08defffa530d,连点器，引入随机数，模拟人手点击的时间波动,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,78.2 KB,2026-08-22 11:41,4,"当鼠标右键按下时，自动增加鼠标点击间隔，模拟人手点击右键时会推迟点击左键。
 可修改 时间补偿。
 可修改 增加的鼠标点击间隔。
 修复：每秒点击次数较大时，无法暂停/停止动作的bug。",2026-08-23
 更新动作,https://getquicker.net/Sharedaction?code=170e7456-628e-4580-794c-08defffa530d,打开更新动作窗口，可以批量更新动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,2.7 KB,2026-08-22 22:25,0,,2026-08-23
 一键压缩/解压,https://getquicker.net/Sharedaction?code=6143315f-3e93-43b5-793d-08defffa530d,一键压缩/解压，支持zip,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,53.2 KB,2026-08-22 11:38,0,,2026-08-23
-私人日历小助手,https://getquicker.net/Sharedaction?code=2d4724a2-48a9-421b-0fd8-08deff1f69a2,私人日历小助手,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,76.9 KB,2026-08-21 17:34,0,,2026-08-23
-ASCII艺术字符生成器,https://getquicker.net/Sharedaction?code=03813fef-31ae-4eb0-0fd7-08deff1f69a2,ASCII艺术字符生成器,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,30.1 KB,2026-08-21 17:29,1,修复已知问题,2026-08-23
-印章生成工具,https://getquicker.net/Sharedaction?code=b40b97bf-fca4-41fc-0fd6-08deff1f69a2,印章生成工具,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,33.6 KB,2026-08-21 17:26,0,,2026-08-23
-流放洗词条,https://getquicker.net/Sharedaction?code=8bb017bf-52c6-4573-0fd1-08deff1f69a2,流放之路自动洗词条,通用,Bogey,https://getquicker.net/User/812303/Bogey,15.9 KB,2026-08-21 15:07,0,,2026-08-23
-Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fbe-08deff1f69a2,将Edge收藏夹以垂直菜单呈现，支持快速访问、同步和管理。,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,69.9 KB,2026-08-21 09:26,2,调整细节,2026-08-23
-图片宽度,https://getquicker.net/Sharedaction?code=a1047ac7-ba3f-43d1-0fca-08deff1f69a2,设置excel中选中图片宽度为15cm,Microsoft Excel,bingyi,https://getquicker.net/User/21425/bingyi,1.8 KB,2026-08-21 13:17,0,,2026-08-23
-批量裁剪图片,https://getquicker.net/Sharedaction?code=a72213ff-aecd-42ad-0fc9-08deff1f69a2,批量选择裁剪比例、对齐模式、同目录输出或指定文件夹输出,Windows 资源管理器,用户7MIPHwXLBQA,https://getquicker.net/User/1226254/%E7%94%A8%E6%88%B77MIPHwXLBQA,17.9 KB,2026-08-21 12:55,1,更新选择文件夹输出时只能选择文件的问题,2026-08-23
+DeepSeek Harness,https://getquicker.net/Sharedaction?code=8350d922-8215-4386-28f8-08defc2a0dae,DeepSeek Harness 在线轻量桌面客户端。首次运行自动准备环境，后续直接启动；支持自动更新，右键可卸载并清理。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,17.4 KB,2026-08-18 17:27,4,"升级桌面客户端至 v1.3.0。
+新增最小崩溃恢复闭环：连续启动失败后停止自动重启，可使用隔离安全模式或恢复上次可用配置。
+新增持久启动日志与稳定配置快照；恢复过程不修改会话、API 凭据和工作目录。",2026-08-23
 一步,https://getquicker.net/Sharedaction?code=0be834de-a469-4bf2-9b37-08d852fc39cc,便捷仅需一步,通用,Poto,https://getquicker.net/User/137838/Poto,39.2 KB,2020-09-08 04:33,18,~ 网址识别,2026-08-23
 视频裁剪工具,https://getquicker.net/Sharedaction?code=9d9e1b8c-1b2e-45e4-3d24-08de5ba98da7,本动作功能需要配置 FFmpeg 环境,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,99.9 KB,2026-01-25 13:01,3,~ 修复选择保存目录,2026-08-23
 视频转压工具,https://getquicker.net/Sharedaction?code=e9015cfd-f6ad-4a53-7940-08de55ddfabd,一款集智能压制、无损封装与多显卡加速于的视频转码压缩工具,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,99.8 KB,2026-01-17 23:35,4,~ 修复记忆位置,2026-08-23
 剪贴面板,https://getquicker.net/Sharedaction?code=b353e7f5-d1e9-474a-d43f-08dee01c2af7,告别传统剪贴板，自动记录历史、可分类收藏、富文本保留、一键粘贴；支持展示动作。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,473.3 KB,2026-07-13 21:58,8,~ 优化图片清理时间和缓存上限,2026-08-23
+文档转图片,https://getquicker.net/Sharedaction?code=08af5d1b-0df5-4335-dd44-08de5f5d8364,将所选的word，excel，ppt文件转换成png图片，保存在同名文件夹下,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,23.9 KB,2026-01-30 11:00,3,"1.适配wps文件
+2.修复ppt转换后打开原文件变成只读提示的bug",2026-08-23
 剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,30.4 KB,2026-05-09 07:12,113,"## v0.30.36 (2026-8-22)
 
 - 修复 0.30.35 发布包缺少 IntelliTools.Quicker，导致子程序无法加载
@@ -26,25 +26,6 @@ Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fb
 - 修复「粘贴后置顶」勾选后重启丢失的问题",2026-08-23
 窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,339 KB,2024-12-09 20:46,80,"修复“批量修改”不生效的bug。
 修复“恢复本地备份”不生效的bug。",2026-08-23
-DeepSeek Harness,https://getquicker.net/Sharedaction?code=8350d922-8215-4386-28f8-08defc2a0dae,DeepSeek Harness 在线轻量桌面客户端。首次运行自动准备环境，后续直接启动；支持自动更新，右键可卸载并清理。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,17.4 KB,2026-08-18 17:27,3,"体验优化
-DeepSeek 适配器支持优先通过 Files API 上传图像，并可复用已上传文件
-优化图像预处理流程：根据模型要求自动缩放并转换为合适格式
-新增功能
-DeepSeek 适配器新增多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp
-问题修复
-修复在输入框的 @ 引用前增删改文本时，潜在的布局问题
-修复 Bubblewrap 沙箱内的受限进程可经 /proc/<pid>/root 绕过限制的问题
-体验优化
-优化会话 Markdown 表格自适应表现、缓存命中率在 99.x% 时的精度显示、子代理会话标题切换交互
-ask_user_question 回答内容支持多行输入、自动换行、Shift+Enter 换行",2026-08-23
 剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,118.6 KB,2026-04-16 18:41,89,增加参数调用Paste:X 粘贴第X项,2026-08-23
 键鼠录制库,https://getquicker.net/Sharedaction?code=1a943886-fadc-4c72-005c-08defbf6c549,在一个窗口中创建、搜索、播放和管理多个键鼠录制。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,87.1 KB,2026-08-17 14:09,4,优化操作明细：缩小行高以展示更多操作；点击鼠标操作可在实际屏幕位置显示不抢焦点、可穿透的半透明蓝色标记，点击别处、窗口失焦、切换录制或开始录制/播放时自动清除。,2026-08-23
 动作数据同步,https://getquicker.net/Sharedaction?code=20f5f328-945c-4640-70c7-08dea38b872e,Quicker2.0前瞻预览：动作数据全自动同步，仅限专业版用户,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,167.7 KB,2026-04-27 01:17,8,1,2026-08-23
-链接工具,https://getquicker.net/Sharedaction?code=0e39470f-00fc-4e63-ca38-08dc5d069310,illustrator 链接增强工具,Adobe Illustrator,Illustrator_...,https://getquicker.net/User/456480/Illustrator_QK%E6%8F%92%E4%BB%B6,933.7 KB,2024-04-15 15:17,3,修复PY版本不行的问题,2026-08-23
-窗口小助手,https://getquicker.net/Sharedaction?code=fc670d4d-a209-4f60-dc05-08dd71ba8805,鼠标右键/中键在任意窗口弹出快捷菜单,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,110.7 KB,2025-04-02 23:39,10,1,2026-08-23
-枝记,https://getquicker.net/Sharedaction?code=b5091d78-12cc-4fb9-bd01-08debb8a5d21,轻量级 Markdown 笔记工具 · 电脑 / 手机 / 平板多端通用 · WebDAV 加密同步,通用,dalou,https://getquicker.net/User/76824/dalou,97.8 KB,2026-05-27 21:36,27,"·折叠待办：修复折叠列表里的待办任务显示问题（折叠标题不支持放任务框）。
-·闲机回收：很久没开的设备对完云后，独有的旧笔记进回收站，避免把旧稿传到云上。",2026-08-23
-Geek,https://getquicker.net/Sharedaction?code=67461597-57e3-4f6f-0e8a-08dcfcb28eec,一个既简单又好用的卸载软件—Geek,通用,『扪』,https://getquicker.net/User/432041/%E3%80%8E%E6%89%AA%E3%80%8F,233 KB,2024-11-05 16:57,12,  【优化】更新软件版本,2026-08-23
-人名拼音简繁,https://getquicker.net/Sharedaction?code=e6b82456-a687-4cd0-6588-08dc85dec23e,姓名简繁互转及生成拼音,通用,iDenny,https://getquicker.net/User/459511/iDenny,49.6 KB,2024-06-06 21:56,15,+,2026-08-23
-剪贴板大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板历史记录与智能分类收藏管理工具，支持文本、图片、文件、步骤的监控、收藏与快捷粘贴。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,430 KB,2026-06-27 14:51,28,"1.启动位置新增根据鼠标相对窗口进行自定义
-2.配置文件改为中文。原配置文件的文件夹默认自动删除。",2026-08-23
