@@ -1,0 +1,34 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+一键压缩/解压,https://getquicker.net/Sharedaction?code=6143315f-3e93-43b5-793d-08defffa530d,一键压缩/解压zip，支持加密/解密，设置默认密码,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,63.2 KB,2026-08-22 11:38,1,新增：加密/解密，在设置中设置默认密码,2026-08-24
+桌面助手,https://getquicker.net/Sharedaction?code=ba273a81-86df-4064-4823-08df00e8b1be,将半透明常用面板嵌入桌面，集中管理并快速打开动作、文件、文件夹、网址和文本；支持分组、搜索、拖动缩放与布局保存。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,31.4 KB,2026-08-23 23:40,0,,2026-08-24
+快捷面板,https://getquicker.net/Sharedaction?code=75af261e-4cfb-4e37-4822-08df00e8b1be,集中管理并快速启动文件、文件夹、网址、文本和 Quicker 动作；支持分组、搜索、拖拽排序、图标/列表视图，面板状态会自动保存。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,7.6 KB,2026-08-23 22:02,0,,2026-08-24
+免费翻译,https://getquicker.net/Sharedaction?code=bc2dd443-3544-4b37-481d-08df00e8b1be,获取当前选中的文本，并在 AI 内容处理窗口中进行中英自动翻译；支持复制结果或应用回内容区。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,19.9 KB,2026-08-23 15:42,2,"复用客户端；
+增加重试；",2026-08-24
+Codex 完成后,https://getquicker.net/Sharedaction?code=e33c6c7e-49a2-44fa-4820-08df00e8b1be,实时显示Codex对话监控进度；全部结束后按选择发送通知、安排关机或运行指定 Quicker 动作。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,27.5 KB,2026-08-23 20:36,1,更新说明,2026-08-24
+连点器,https://getquicker.net/Sharedaction?code=b9af0829-360c-4323-793e-08defffa530d,连点器，引入随机数，模拟人手点击的时间波动,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,78.2 KB,2026-08-22 11:41,4,"当鼠标右键按下时，自动增加鼠标点击间隔，模拟人手点击右键时会推迟点击左键。
+可修改 时间补偿。
+可修改 增加的鼠标点击间隔。
+修复：每秒点击次数较大时，无法暂停/停止动作的bug。",2026-08-24
+更新动作,https://getquicker.net/Sharedaction?code=170e7456-628e-4580-794c-08defffa530d,打开更新动作窗口，可以批量更新动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,2.7 KB,2026-08-22 22:25,0,,2026-08-24
+输入还原为中文,https://getquicker.net/Sharedaction?code=488f1a18-337c-4925-b42f-08dd94ae243d,想输入中文，输入法却是英文，可立即将输入的字母转为中文输入,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,21.2 KB,2025-05-17 21:27,9,检测是否成功将输入法切换为中文，只在切换失败时进行提醒，减少干扰,2026-08-24
+创建文件[夹]快捷方式,https://getquicker.net/Sharedaction?code=6b80a94a-a051-47a6-8122-08de937230ba,创建快捷方式的不二之选,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,8.6 KB,2026-04-07 11:23,1,已适配quicker2.0,2026-08-24
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,1.1 MB,2026-05-25 11:32,122,新增打赏,2026-08-24
+DeepSeek Harness,https://getquicker.net/Sharedaction?code=8350d922-8215-4386-28f8-08defc2a0dae,DeepSeek Harness 在线轻量桌面客户端。首次运行自动准备环境，后续直接启动；支持自动更新，右键可卸载并清理。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,17.4 KB,2026-08-18 17:27,4,"升级桌面客户端至 v1.3.0。
+新增最小崩溃恢复闭环：连续启动失败后停止自动重启，可使用隔离安全模式或恢复上次可用配置。
+新增持久启动日志与稳定配置快照；恢复过程不修改会话、API 凭据和工作目录。",2026-08-24
+一步,https://getquicker.net/Sharedaction?code=0be834de-a469-4bf2-9b37-08d852fc39cc,便捷仅需一步,通用,Poto,https://getquicker.net/User/137838/Poto,39.2 KB,2020-09-08 04:33,18,~ 网址识别,2026-08-24
+视频裁剪工具,https://getquicker.net/Sharedaction?code=9d9e1b8c-1b2e-45e4-3d24-08de5ba98da7,本动作功能需要配置 FFmpeg 环境,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,99.9 KB,2026-01-25 13:01,3,~ 修复选择保存目录,2026-08-24
+视频转压工具,https://getquicker.net/Sharedaction?code=e9015cfd-f6ad-4a53-7940-08de55ddfabd,一款视频转码压缩工具，支持显卡加速,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,99.8 KB,2026-01-17 23:35,4,~ 修复记忆位置,2026-08-24
+剪贴面板,https://getquicker.net/Sharedaction?code=b353e7f5-d1e9-474a-d43f-08dee01c2af7,告别传统剪贴板，自动记录历史、可分类收藏、富文本保留、一键粘贴；支持展示动作。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,473.3 KB,2026-07-13 21:58,8,~ 优化图片清理时间和缓存上限,2026-08-24
+文档转图片,https://getquicker.net/Sharedaction?code=08af5d1b-0df5-4335-dd44-08de5f5d8364,将所选的word，excel，ppt文件转换成png图片，保存在同名文件夹下,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,23.9 KB,2026-01-30 11:00,3,"1.适配wps文件
+2.修复ppt转换后打开原文件变成只读提示的bug",2026-08-24
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,30.4 KB,2026-05-09 07:12,113,"## v0.30.36 (2026-8-22)
+
+- 修复 0.30.35 发布包缺少 IntelliTools.Quicker，导致子程序无法加载
+- 修复「粘贴后置顶」勾选后重启丢失的问题",2026-08-24
+捷径面板 n10,https://getquicker.net/Sharedaction?code=7aa833ad-3715-4342-8374-08debcceae79,n10 重构版,通用,Cea,https://getquicker.net/User/113342/Cea,27.6 KB,2026-05-28 23:35,23,"## v0.30.36 (2026-8-22)
+
+- 修复 0.30.35 发布包缺少 IntelliTools.Quicker，导致子程序无法加载
+- 修复「粘贴后置顶」勾选后重启丢失的问题",2026-08-24
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,339 KB,2024-12-09 20:46,80,"修复“批量修改”不生效的bug。
+修复“恢复本地备份”不生效的bug。",2026-08-24
