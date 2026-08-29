@@ -1,0 +1,54 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+网页元素助手,https://getquicker.net/Sharedaction?code=74195971-9d6f-48b2-1da8-08df04b65c4d,在当前浏览器页面点选元素，获取 CSS 选择器，并按图片、链接或普通元素提供保存、复制、打开和点击等处理。需要安装并启用 Quicker 浏览器扩展。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,16.1 KB,2026-08-29 12:34,1,1,2026-08-29
+提取网页图片,https://getquicker.net/Sharedaction?code=edc4ef15-979e-49f3-7ad2-08df03cfdbec,"提取网页图片，按照大小顺序提供下载,如果[已阻止弹出窗口]，允许弹窗即可",通用,菜又爱玩,https://getquicker.net/User/68419/%E8%8F%9C%E5%8F%88%E7%88%B1%E7%8E%A9,11 KB,2026-08-27 15:44,0,,2026-08-29
+矩阵对齐,https://getquicker.net/Sharedaction?code=0ce3b5de-f05a-41a7-86f7-08dee3cb8e3b,可以添加外框后矩阵对齐,Adobe Illustrator,Shenqb,https://getquicker.net/User/526985/Shenqb,118.6 KB,2026-07-17 16:09,4,优化功能代码,2026-08-29
+一键压缩/解压,https://getquicker.net/Sharedaction?code=6143315f-3e93-43b5-793d-08defffa530d,一键压缩/解压zip，支持智能解压，支持加密/解密、设置默认密码，密码使用 AES256 加密保存在本地,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,70.9 KB,2026-08-22 11:38,8,"重大改进：提高密码安全性：密码使用 AES256 加密保存在本地的。仅在压缩/解压、修改设置时临时解密，使用完成后重新加密保存。
+提高安全性，动作改为只读。",2026-08-29
+监控剪贴板,https://getquicker.net/Sharedaction?code=46c6a44f-6ea9-4e05-8538-08dd87995c6c,当剪贴板变化时，显示具体内容。判断是否复制成功，是否有软件扰乱剪贴板,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,60.3 KB,2025-04-30 23:49,5,"优化：适配一些特殊格式的文本。
+优化：自动截断过长的内容，避免在复制较长的文本时提示遮挡视野。
+优化：复制不同的内容使用不同的颜色，便于区分。",2026-08-29
+连点器,https://getquicker.net/Sharedaction?code=b9af0829-360c-4323-793e-08defffa530d,连点器，引入随机数，模拟人手点击的时间波动,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,83.6 KB,2026-08-22 11:41,5,优化：当左键或者右键按下时，连点器自动跳过一次点击。,2026-08-29
+自动操作,https://getquicker.net/Sharedaction?code=9c91b7ab-3cd6-44d9-913a-08ddfd84d7bc,录制常用键鼠操作，一键回放解放双手。,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,486 KB,2025-09-27 22:08,6,"1、新增：“设置-主题-页面位置”。
+2、新增：“设置-运行-删除提醒”。
+3、新增：“设置-运行-记住添加操作”。",2026-08-29
+Codex 完成后,https://getquicker.net/Sharedaction?code=e33c6c7e-49a2-44fa-4820-08df00e8b1be,实时显示Codex对话监控进度；全部结束后按选择发送通知、安排关机或运行指定 Quicker 动作。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,29.2 KB,2026-08-23 20:36,2,增加紧凑监控窗口。,2026-08-29
+窗口管理,https://getquicker.net/Sharedaction?code=08fe63e1-5d5e-462f-450f-08dd183b8d4e,多窗口管理神器，替代任务栏：启动软件，切换窗口，置顶窗口，关闭窗口。高亮显示前台窗口；临时自定义窗口名称；支持深色模式，可以自定义颜色,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,363.5 KB,2024-12-09 20:46,85,"新增：在置顶的窗口前，显示【置顶】，便于区分。默认启用。
+新增：成功切换置顶状态后，自动关闭操作窗。
+增加关于 调整窗口大小 的提示。
+在启动软件时，如果路径不存在，会进行提示，便于发现问题。（比如在软件更新导致路径发生改变）
+
+重要调整：用此动作激活其它窗口后_保持操作窗打开 变更为 点击按钮激活其它窗口后_自动关闭操作窗。
+请手动反转选项。",2026-08-29
+动作面板v2,https://getquicker.net/Sharedaction?code=3b65840d-7670-4165-9c58-08dd91d533ab,放置常用的Quicker动作，点击运行。支持动作自己的右键菜单，支持深色模式,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,416.7 KB,2025-05-14 13:28,59,优化：“点击其它窗口后，自动关闭操作窗” 的使用体验。,2026-08-29
+禁用Quicker面板\n在指定的软件中,https://getquicker.net/Sharedaction?code=3f6ffc56-ebd8-41cd-8b2a-08dee98842c1,在指定的软件中自动关闭Quicker弹出的面板，从而无需手动暂停Quicker,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,71.6 KB,2026-07-24 22:57,6,支持设置检测间隔,2026-08-29
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,120.1 KB,2026-04-16 18:41,94,"清空立即执行，并通过 AppHelper 通知数量。
+底栏只显示“恢复”按钮，只保留最近一次有效清空，直到下次清空或窗口关闭。
+Ctrl+Z 仅在列表获得焦点时生效
+恢复原顺序、置顶状态和常用分组位置；图片在恢复机会失效前不会被提前删除。",2026-08-29
+官文重命名,https://getquicker.net/Sharedaction?code=465447f9-ab0f-4469-0305-08dd1df9631b,知产常用官文一键重命名,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,339.2 KB,2024-12-17 10:16,78,修复文件名带／时命名失败的bug,2026-08-29
+ONE,https://getquicker.net/Sharedaction?code=2e00e7dc-1045-4bfc-e912-08db5a5f8722,用一个快捷键，解决一堆事,通用,Mola,https://getquicker.net/User/322777/Mola,110.8 KB,2023-05-22 16:35,1,动作执行逻辑修改，若启用窗口标题识别/浏览器网址识别后。动作会依次执行窗口标题/网址/默认设置 ，但，若有一个执行成功，后续设置就不会执行（只执行一个）,2026-08-29
+网页监控,https://getquicker.net/Sharedaction?code=7e662a0e-e26f-41a7-e9ea-08dec5dab067,监控网页特定元素是否更新，有更新则通知并高亮差异内容,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,216.3 KB,2026-06-10 10:02,10,修复一个无法已读的bug,2026-08-29
+git url,https://getquicker.net/Sharedaction?code=1fd8f472-12ba-4aba-9c67-08deeabe4d90,可以快速 git 网页链接,Windows 资源管理器,WWWMWWWWMWWWWMW,https://getquicker.net/User/571520/WWWMWWWWMWWWWMW,97.3 KB,2026-07-26 22:08,1,仓库没有 url 时，提示无法获取,2026-08-29
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,1.3 MB,2026-05-25 11:32,125,修复bug,2026-08-29
+Quicker Link,https://getquicker.net/Sharedaction?code=b02b2732-f087-4e45-416d-08deee3e76ba,quicker2.0：连接 Android 手机与电脑上的 Quicker。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,173.4 KB,2026-07-31 08:58,27,修复 v10 客户端终止动作时的响应版本兼容问题。,2026-08-29
+输入法状态提示,https://getquicker.net/Sharedaction?code=4da3f4d3-fe2e-42a6-8537-08dd87995c6c,当输入状态切换时，提示 中文、英文、大写输入状态,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,68 KB,2025-04-30 23:41,7,优化设置界面,2026-08-29
+文件(夹)收藏,https://getquicker.net/Sharedaction?code=07488f9d-fb02-4000-545f-08decc703cb3,收藏文件(夹)，便于快速打开和定位,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,136 KB,2026-06-19 00:23,15,"默认关闭 “失去焦点后，关闭窗口”。
+优化：界面的按钮设计，避免右键菜单过于拥挤。
+新增：可以更新""另存为""或""打开""对话框的路径
+新增：可设置窗口位置。屏幕中间，跟随鼠标（指针周围），跟随鼠标（指针右下）",2026-08-29
+网页收藏-分组,https://getquicker.net/Sharedaction?code=6a5d75e8-9a10-4834-9c6b-08dd91d533ab,收藏网页，分组存放，一键打开。类似edge的工作区,Google Chrome,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,125.1 KB,2025-05-14 16:22,10,优化界面，优化提示内容。,2026-08-29
+超级菜单,https://getquicker.net/Sharedaction?code=a9c8d61e-dbab-4d5a-991f-08da410f3c1c,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,22.5 KB,2022-05-29 21:42,97,"## v0.8.291 (2026-8-27)
+
+- 修复无焦点模式下全局鼠标钩子挂在 Quicker UI 线程、导致企业微信滑动卡顿的问题
+- 鼠标钩子改为独立消息循环线程，不再拖慢其它窗口的滚轮和触控板滑动",2026-08-29
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,24.3 KB,2022-04-18 22:22,216,"## v0.8.291 (2026-8-27)
+
+- 修复无焦点模式下全局鼠标钩子挂在 Quicker UI 线程、导致企业微信滑动卡顿的问题
+- 鼠标钩子改为独立消息循环线程，不再拖慢其它窗口的滚轮和触控板滑动",2026-08-29
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,22.4 KB,2021-02-03 14:35,264,"## v0.8.291 (2026-8-27)
+
+- 修复无焦点模式下全局鼠标钩子挂在 Quicker UI 线程、导致企业微信滑动卡顿的问题
+- 鼠标钩子改为独立消息循环线程，不再拖慢其它窗口的滚轮和触控板滑动",2026-08-29
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,集中管理网址、文本、文件夹、动作和命令，支持快速搜索、拖拽整理、语音输入。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,292.6 KB,2025-02-21 03:22,320,重构实时语音输入窗口，新增时间显示，支持快捷键esc退出、enter发送；,2026-08-29
+桌面助手,https://getquicker.net/Sharedaction?code=ba273a81-86df-4064-4823-08df00e8b1be,桌面子窗口，亦可做快捷面板，集中管理并快速打开动作、文件、文件夹、网址和文本；支持分组、粘贴、搜索、拖动缩放与布局保存。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,9.1 KB,2026-08-23 23:40,6,"桌面窗口与快捷面板的设置分离，即包括位置、大小、显示形式、透明度等。
+两者设置更适配，桌面窗口不显示搜索框，不进行贴边；",2026-08-29
