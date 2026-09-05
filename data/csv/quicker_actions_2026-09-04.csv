@@ -1,0 +1,44 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+彩云天气,https://getquicker.net/Sharedaction?code=ece9d8ba-4566-4579-a66a-9694f7d45155,无密钥城市天气：当前状况与未来 5 天预报（Open-Meteo）,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,37 KB,2026-09-04 13:50,1,,2026-09-05
+游戏活动看板,https://getquicker.net/Sharedaction?code=c864a6ab-b43e-425b-a6c8-7bd0838a95be,ai总结活动,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,24.3 KB,2026-09-03 20:09,6,更改样式,2026-09-05
+创建快捷方式到桌面,https://getquicker.net/Sharedaction?code=a5428fae-a0da-41ea-9281-41da49d693bc,将选择的文件、文件夹创建快捷方式到桌面,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,4.6 KB,2026-09-03 16:02,1,,2026-09-05
+动作链,https://getquicker.net/Sharedaction?code=ca95211e-3494-406a-97c8-4f6f79bfd37d,按组管理并顺序执行多个 Quicker 动作；传入组名可直接运行对应动作链。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,31.1 KB,2026-09-03 11:58,2,新加入动作的“等待完成”现在默认不勾选。,2026-09-05
+Codex 完成后,https://getquicker.net/Sharedaction?code=f5edc3b9-3ab0-48aa-bd52-3c70fe6d75f0,实时显示Codex对话监控进度；全部结束后按选择发送通知、安排关机或运行指定 Quicker 动作。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,36.1 KB,2026-09-03 11:24,1,,2026-09-05
+输入法状态提示,https://getquicker.net/Sharedaction?code=4da3f4d3-fe2e-42a6-8537-08dd87995c6c,当输入状态切换时，提示 中文、英文、大写输入状态,通用,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,98.9 KB,2025-04-30 23:41,8,新增：当鼠标在副屏幕且前台窗口为Quicker时，不显示提示。避免干扰前台窗口的焦点。,2026-09-05
+暴走打龙活动,https://getquicker.net/Sharedaction?code=1813e7a2-d520-470e-8fbe-2c88a1e5fee2,暴走英雄坛 的打龙活动，需要搭配https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e，此动作使用,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,501.5 KB,2026-09-02 22:02,3,修复bug,2026-09-05
+真元计算器,https://getquicker.net/Sharedaction?code=7fa2c51a-0675-486f-1daa-08df04b65c4d,暴走英雄坛游戏真元计算器,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,35.4 KB,2026-08-29 14:24,8,增加难度调整使用说明，,2026-09-05
+自动操作,https://getquicker.net/Sharedaction?code=9c91b7ab-3cd6-44d9-913a-08ddfd84d7bc,录制常用键鼠操作，一键回放解放双手。,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,676 KB,2025-09-27 22:08,11,"1、新增：【列表右键-其他-下载动作源文件】。
+2、新增：【脚本右键-恢复鼠标】。可为每个脚本单独设置恢复位置，优先级高于“设置-运行-恢复鼠标位置”。
+3、修复bug。",2026-09-05
+文件标记/检索,https://getquicker.net/Sharedaction?code=0f21c64f-84eb-41a4-6ec4-08de2b8fcec0,DO中对文件和文件夹进行标记/检索,Directory Opus,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,312.8 KB,2025-11-25 09:28,16,尝试优化高分辨率显示效果,2026-09-05
+悬浮动作控制,https://getquicker.net/Sharedaction?code=ba830c1a-fb25-4f0c-0bd9-08dd8eff6b2a,对悬浮动作进行对齐/置顶等,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,60.5 KB,2025-05-10 19:14,7,2.0,2026-09-05
+短信接收,https://getquicker.net/Sharedaction?code=3e56bbb3-2206-443f-697f-08dcdd0ca208,快捷填写验证码或接收其他短信,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,84 KB,2024-09-26 10:09,19,默认显示前20个字,2026-09-05
+宝塔网站操作,https://getquicker.net/Sharedaction?code=95704a5c-8e43-48d1-19bc-08df07def119,宝塔的网站项目 重启/停止/启动 操作,乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,36.4 KB,2026-09-01 16:30,4,1,2026-09-05
+知产网页助手,https://getquicker.net/Sharedaction?code=7dcc0319-b1ce-443d-4a8a-08de202a0f2a,知识产权人常用网站的快捷脚本,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,109.2 KB,2025-11-11 15:30,11,调整细节,2026-09-05
+窗口监视,https://getquicker.net/Sharedaction?code=5a4f7a61-f48b-4f4c-7db7-08df02d57b62,监视前台窗口，会自动过滤掉弹出的日志窗口关闭窗口自动结束动作,通用,h0zr,https://getquicker.net/User/945817/h0zr,33.9 KB,2026-08-26 07:02,4,~.更新格式，增添换行功能,2026-09-05
+文件预览,https://getquicker.net/Sharedaction?code=25038b70-7e1d-4afc-0551-08deec585c60,quicker2.0：文件预览、路径复制、文本复制，支持很多多类型,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,18.5 KB,2026-07-28 23:41,17,文本预览进行换行，横向太长不适合观看；,2026-09-05
+DeepSeek Harness,https://getquicker.net/Sharedaction?code=8350d922-8215-4386-28f8-08defc2a0dae,DeepSeek Harness 在线轻量桌面客户端。首次运行自动准备环境，后续直接启动；支持自动更新，右键可卸载并清理。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,21.1 KB,2026-08-18 17:27,7,升级到最新版核心，新版 Harness 改善启动和长会话性能，加入连接状态与自动重连，增强插件登录、模型筛选、子 Agent 模型选择、会话导航、Token/耗时统计，并修复 Windows 中文路径等问题。,2026-09-05
+捷径面板 n10,https://getquicker.net/Sharedaction?code=7aa833ad-3715-4342-8374-08debcceae79,n10 重构版,通用,Cea,https://getquicker.net/User/113342/Cea,32.8 KB,2026-05-28 23:35,24,"## v0.30.37 (2026-9-3)
+
+- 修复 Windows 10 上 Windows Defender 误报木马（Trojan:Win32/Bearfoos.A!ml）并隔离 ClipHost，导致剪贴板无法打开的问题：发布包不再启用代码混淆
+- 若此前已被隔离，请在「Windows 安全中心 → 保护历史记录」中恢复 IntelliTools.ClipHost.dll，或更新到本版本后重新运行剪贴板动作",2026-09-05
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,33 KB,2026-05-09 07:12,114,"## v0.30.37 (2026-9-3)
+
+- 修复 Windows 10 上 Windows Defender 误报木马（Trojan:Win32/Bearfoos.A!ml）并隔离 ClipHost，导致剪贴板无法打开的问题：发布包不再启用代码混淆
+- 若此前已被隔离，请在「Windows 安全中心 → 保护历史记录」中恢复 IntelliTools.ClipHost.dll，或更新到本版本后重新运行剪贴板动作",2026-09-05
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,134.1 KB,2026-04-16 18:41,99,关于quicker动作的复制，来源采用quicker路径，而非前台,2026-09-05
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,1.5 MB,2026-05-25 11:32,134,更新活动公告模板,2026-09-05
+下载图片,https://getquicker.net/Sharedaction?code=cabf0ece-1ba7-460c-11a7-08db8c4f03af,目前最好的网页图片下载工具！支持任意图片，只需鼠标点击图片即可下载至本地，支持单选、多选两种模式！,Google Chrome,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,236.6 KB,2023-07-24 22:47,41,+完成提示消息中增加，打开所在目录按钮。,2026-09-05
+钉图,https://getquicker.net/Sharedaction?code=13cba79b-2503-414b-d345-08d9c02e0a44,——钉住文本和图片，图片待办助手。钉住TXT、MD、SVG、文本、图片、文件、剪贴板、截图、文档中的图片、网页图片、WEBP、JFIF。工作待办、微信任务，钉在顶层提醒自己。提高工作效率，对比文字、图片。双击点击动作截图，Alt点击动作仅收藏不钉图，Ctrl点击动作查看我的收藏。文字转图片，截图待办，获取动作图标、获取网页图标、收藏图片。,通用,level1,https://getquicker.net/User/102977/level1,336 KB,2021-12-17 02:20,21,"BUG：
+1、修复历史记录列表，“清空历史记录”弹窗选择“取消”，结果还是执行清空的问题。
+2、修复第一次运行动作，报错“给定关键字不在字典中”的问题。",2026-09-05
+临时文件架,https://getquicker.net/Sharedaction?code=cdf81cc2-ef46-48dc-c08d-08def120d634,临时收集文件和文件夹路径，可双向拖放、打开、复制路径、移除和清空；关闭后自动保存清单，不复制或删除源文件。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,37.4 KB,2026-08-03 19:34,2,"工具栏新增“压缩所选”
+右键菜单新增“压缩所选为 ZIP…”
+右键菜单新增“全部压缩为 ZIP…”
+支持跨目录的多个文件和文件夹
+保留文件夹层级，同名项目自动编号
+后台压缩，界面不会卡死
+自动排除正在生成的 ZIP，避免递归压缩自身
+不依赖 7-Zip、WinRAR 等第三方软件",2026-09-05
+桌面助手,https://getquicker.net/Sharedaction?code=ba273a81-86df-4064-4823-08df00e8b1be,桌面子窗口，亦可做快捷面板，集中管理并快速打开动作、文件、文件夹、网址和文本；支持分组、粘贴、搜索、拖动缩放与布局保存。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,18.1 KB,2026-08-23 23:40,9,映射文件夹开放，可接受拖拽、复制、剪贴，仅限文件、文件夹类型项，此对应真实文件夹，完全按照资源管理器习惯处理；,2026-09-05
+快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,h0zr,https://getquicker.net/User/945817/h0zr,195.1 KB,2025-12-01 07:22,37,~.修复注册代码报错一直弹出提示的问题,2026-09-05
