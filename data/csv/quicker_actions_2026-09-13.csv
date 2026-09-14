@@ -1,0 +1,77 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+合并代码到一个md,https://getquicker.net/Sharedaction?code=6999bce2-65d3-4b2e-4f9d-08df11a01d3a,文件夹中选择多个代码文件，执行此动作，合并到一个md文件，方便发给ai。也可以是非代码文件，将提取文本源码合并。合并后的md文件为：一级标题是各个原文件的文件名，代码以各文件的扩展名为高亮。,Windows 资源管理器,tkk,https://getquicker.net/User/83396/tkk,8.5 KB,2026-09-14 09:20,1,,2026-09-14
+文件按创建时间分类,https://getquicker.net/Sharedaction?code=7ef933cd-5de5-4a68-4f9c-08df11a01d3a,文件按创建时间分类,Windows 资源管理器,唐家二少,https://getquicker.net/User/104162/%E5%94%90%E5%AE%B6%E4%BA%8C%E5%B0%91,11.5 KB,2026-09-14 09:00,1,,2026-09-14
+查找动作V2,https://getquicker.net/Sharedaction?code=e85e5862-206d-4cfd-063f-08df10a7eb8a,查找已经存在的动作，并快速启动,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,23.3 KB,2026-09-13 10:53,4,"V3版本增加了右键菜单：
+1，设置历史记录数量
+2，查看历史记录
+3，历史记录编辑
+4，清空历史记录
+5，自定义历史记录",2026-09-14
+切换深色/浅色模式,https://getquicker.net/Sharedaction?code=1e91f5c2-8076-40e8-88c8-c85320d9f153,手动运行：在深色/浅色之间切换。自动运行（定时触发）：按所在地的日出日落自动切换。首次运行会自动通过 IP 定位，也可以右键「重新获取位置」手动指定经纬度。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,8.8 KB,2026-09-13 19:16,1,,2026-09-14
+窗口最小化/最大化,https://getquicker.net/Sharedaction?code=df2ca4b4-83f2-4153-af63-b533c59c12b7,一键快速隐藏/恢复当前窗口。支持“遗忘时间”设置，超时自动重置，告别繁琐的窗口切换！,通用,gakaks,https://getquicker.net/User/13924/gakaks,5.7 KB,2026-09-13 16:55,1,,2026-09-14
+优化表格行高,https://getquicker.net/Sharedaction?code=a273a2e7-b154-4a77-063d-08df10a7eb8a,自动识别表头并保持原样；数据行逐行 AutoFit 后 +8 磅（26~120 磅）；打印区域自动裁除右侧空列（不露出 V~AA 白色空表），并设置顶端标题行、一页宽、窄边距、水平居中。兼容 Excel 与 WPS 表格。,WPS Office,效率小管家,https://getquicker.net/User/1443107/%E6%95%88%E7%8E%87%E5%B0%8F%E7%AE%A1%E5%AE%B6,27.3 KB,2026-09-13 00:14,1,,2026-09-14
+颜色工具,https://getquicker.net/Sharedaction?code=b140da53-af64-48de-bbf4-84acbeb5fc06,取色、配色、收藏，一个窗口全搞定,通用,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,87 KB,2026-09-12 10:20,6,修复吸管卡死,2026-09-14
+开机自启动管理,https://getquicker.net/Sharedaction?code=3bae2ba8-ec63-4e93-c952-08df0faa73c6,展示并管理当前用户的开机自启动项，支持添加文件、添加命令、启用禁用和删除。,通用,笔战人生,https://getquicker.net/User/1090721/%E7%AC%94%E6%88%98%E4%BA%BA%E7%94%9F,31.4 KB,2026-09-12 11:42,1,,2026-09-14
+EXCEL切窗口2.0,https://getquicker.net/Sharedaction?code=e0026e6f-dd2d-478c-c951-08df0faa73c6,"当打开多个EXCEL表时,高效切换任意EXCEL表",通用,MI/CAM,https://getquicker.net/User/1040924/MI_CAM,23.4 KB,2026-09-12 11:27,1,,2026-09-14
+截图仙人,https://getquicker.net/Sharedaction?code=9b6f4e6e-e7a9-4618-67ea-08dd7b381966,全能截图神器！截图、OCR、图片标注、验证码识别、二维码生成、微信扫码、微信打开链接等等,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,387.6 KB,2025-04-15 09:59,35,快速截图支持ocr,2026-09-14
+来点颜色,https://getquicker.net/Sharedaction?code=28ee6da1-c7bc-4bb3-089c-08dbcb4e6e88,具备拾色器屏幕取色、色轮/色板自选色值、颜色收藏、颜色编辑、色值转换等功能,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,150.6 KB,2023-10-13 15:35,5,~ 尝试兼容Quicker V2.0,2026-09-14
+网址小窗,https://getquicker.net/Sharedaction?code=edf6a2a6-f497-4bc3-a583-08dcc5002795,常用的网址就那么几个，随手小窗切换预设AI网址书签,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,141.7 KB,2024-08-26 09:27,15,~ 尝试兼容Quicker V2.0,2026-09-14
+便捷面板,https://getquicker.net/Sharedaction?code=5969fb78-88ac-4cbe-9975-08dd2e1384ce,常用语;快捷回复;文本收藏;Ai提示词;路径收藏;网址搜索;PS脚本;vba;VBS;浏览器脚本,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,151.9 KB,2025-01-07 11:40,5,~ 尝试兼容Quicker V2.0,2026-09-14
+桌面助手,https://getquicker.net/Sharedaction?code=ba273a81-86df-4064-4823-08df00e8b1be,桌面子窗口，亦可做快捷面板，集中管理并快速打开动作、文件、文件夹、网址和文本；支持分组、粘贴、搜索、拖动缩放与布局保存。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,18.2 KB,2026-08-23 23:40,15,映射文件夹亦记亿项位置，支持项之间拖拽移动位置，自由排列。,2026-09-14
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,136.7 KB,2026-04-16 18:41,104,"剪贴版宠物，最近剪贴支持设置条数，从~20；
+剪贴版宠物形象支持切换，形象需满足codex宠物，放在.codex/pets文件夹",2026-09-14
+Quicker Link,https://getquicker.net/Sharedaction?code=b02b2732-f087-4e45-416d-08deee3e76ba,quicker2.0：连接 Android 手机与电脑上的 Quicker。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,179.1 KB,2026-07-31 08:58,30,兼容 Quicker 2.2.11.0：修复 AppHelper 重启接口移除导致的 C# 编译失败。`n动作目录同步继续使用 v10，配对和目录读取恢复正常。,2026-09-14
+超级菜单,https://getquicker.net/Sharedaction?code=a9c8d61e-dbab-4d5a-991f-08da410f3c1c,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,26.7 KB,2022-05-29 21:42,102,"## v0.8.296 (2026-9-13)
+
+- 修复复制单个 jpg/png 后，无法从剪贴板拖到资源管理器文件夹的问题
+- 拖出文件和图片时始终带上文件路径，文件夹可以正常接收
+- 粘贴图片到普通窗口的行为不变，不会再多出一条临时 png",2026-09-14
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,29 KB,2022-04-18 22:22,221,"## v0.8.296 (2026-9-13)
+
+- 修复复制单个 jpg/png 后，无法从剪贴板拖到资源管理器文件夹的问题
+- 拖出文件和图片时始终带上文件路径，文件夹可以正常接收
+- 粘贴图片到普通窗口的行为不变，不会再多出一条临时 png",2026-09-14
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,26.9 KB,2021-02-03 14:35,269,"## v0.8.296 (2026-9-13)
+
+- 修复复制单个 jpg/png 后，无法从剪贴板拖到资源管理器文件夹的问题
+- 拖出文件和图片时始终带上文件路径，文件夹可以正常接收
+- 粘贴图片到普通窗口的行为不变，不会再多出一条临时 png",2026-09-14
+鼠标点击,https://getquicker.net/Sharedaction?code=5d19a181-5b40-43c0-8765-08dde5f827a6,循环点击,通用,Simonl,https://getquicker.net/User/134191/Simonl,75.3 KB,2025-08-29 00:18,7,右键菜单增加不弹参数面板直接执行上次参数的功能,2026-09-14
+真元计算器,https://getquicker.net/Sharedaction?code=7fa2c51a-0675-486f-1daa-08df04b65c4d,暴走英雄坛游戏真元计算器,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,51.1 KB,2026-08-29 14:24,12,更新使用说明,2026-09-14
+暴走英雄坛,https://getquicker.net/Sharedaction?code=072ae42a-7160-4e50-d169-08deb995c62e,暴走英雄坛游戏脚本,雷电模拟器,起风了zizizi,https://getquicker.net/User/1246107/%E8%B5%B7%E9%A3%8E%E4%BA%86zizizi,1.5 MB,2026-05-25 11:32,138,修复跨服潜能偶尔异常问题,2026-09-14
+结束指定程序,https://getquicker.net/Sharedaction?code=f75c0723-868d-447e-4da7-08ddad659678,可关闭同一软件下全部窗口等,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,18.4 KB,2025-06-18 08:54,3,支持右键自定义程序名称,2026-09-14
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,33 KB,2026-05-09 07:12,130,"## v0.30.48 (2026-9-13)
+
+- 修复剪贴板偶尔卡顿时，Quicker 窗口跟着泛白、卡住约一两秒的问题
+- 剪贴板在后台处理内容或回收内存时，不再阻塞系统热键和其它软件的输入",2026-09-14
+一键快存,https://getquicker.net/Sharedaction?code=e37169b4-539e-439e-30b4-08db280dd146,PNG/JPG/TIF/PSD/画板/多图层/圆角/描边/切片//Wps/Office/微信极速导出,Adobe Photoshop,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,316.2 KB,2023-03-19 16:39,85,支持新版微信导出,2026-09-14
+剪贴板大师,https://getquicker.net/Sharedaction?code=9ba24dd1-d19d-4068-4e0e-08ded3ae5cfa,剪贴板历史记录与智能分类收藏管理工具，支持文本、图片、文件、步骤的监控、收藏与快捷粘贴。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,752.7 KB,2026-06-27 14:51,33,"1.修改为在主窗口上直接拉伸进行大小调整
+2.主窗口图标更换为自画
+3.修改导出提示。",2026-09-14
+群英荟萃,https://getquicker.net/Sharedaction?code=f05a9d19-02fc-40f4-b2f0-08dd3b5bce04,输入问题，一键群发给各路AI，坐览八方智慧。现有阵容：Kimi、DeepSeek、智谱GLM、小米MiMo、腾讯混元、字节豆包、阿里千问、讯飞星火、百度文心。,通用,Balrog,https://getquicker.net/User/235565/Balrog,38.2 KB,2025-01-23 21:40,2,右键菜单增加“置顶所有窗口”、“关闭所有窗口”的功能。,2026-09-14
+剪贴面板,https://getquicker.net/Sharedaction?code=b353e7f5-d1e9-474a-d43f-08dee01c2af7,告别传统剪贴板，自动记录历史、可分类收藏、富文本保留、一键粘贴；支持展示动作。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,505 KB,2026-07-13 21:58,10,~ 尝试兼容Quicker V2.0,2026-09-14
+悬浮球,https://getquicker.net/Sharedaction?code=529c286f-4c26-4303-5cea-08de7934c17b,常驻高频操作，极简控制面板，支持拖拽加入动作、文件（夹）、软件等到面板,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,364.8 KB,2026-03-04 00:21,14,~ 尝试兼容Quicker V2.0,2026-09-14
+交互OCR,https://getquicker.net/Sharedaction?code=bd65c819-6658-4186-5347-08dcb4696e8b,截图文字识别，接口有：QuickerOCR，有道OCR，微信OCR，PixPinOCR,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,51.4 KB,2024-08-05 09:25,16,+ 新增图标右键「清除微信依赖」文件,2026-09-14
+音频剪切,https://getquicker.net/Sharedaction?code=7c7957fe-b587-42c1-8053-1c5bca52bafe,音频剪切,通用,toubet,https://getquicker.net/User/15732/toubet,204.1 KB,2026-09-08 14:16,3,音频截取,2026-09-14
+神奇海螺,https://getquicker.net/Sharedaction?code=4ec0e832-3ba7-4e2d-e747-08def7138ebc,"1、鼠标选中直接搜索DeepSeek
+2、没有选中会弹出输入框，输入内容并搜索
+3、选中后，Ctrl点击动作，可编辑选中内容后搜索",通用,剑染1995,https://getquicker.net/User/1418973/%E5%89%91%E6%9F%931995,42.2 KB,2026-08-11 11:19,1,选中内容后总想加些文字补充描述问题，增加了Ctrl键来直接打开输入框编辑选中的内容，这样搜索就更丝滑了。,2026-09-14
+图片加密,https://getquicker.net/Sharedaction?code=f45a2a35-d27a-4b6c-256e-08da81790731,图片加密,通用,toubet,https://getquicker.net/User/15732/toubet,66.2 KB,2022-08-19 12:27,6,优化算法，不兼容旧的算法,2026-09-14
+自动操作,https://getquicker.net/Sharedaction?code=9c91b7ab-3cd6-44d9-913a-08ddfd84d7bc,添加常用键鼠操作，一键回放解放双手。,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,784.6 KB,2025-09-27 22:08,17,新增：【编辑窗口-操作-重命名图片】。框选图片名称后点击“重命名图片”，可修改脚本图片名称。,2026-09-14
+Ai_键盘增量,https://getquicker.net/Sharedaction?code=fbfd00fd-4cc5-404d-acbb-08de65127db3,设置键盘增量,Adobe Illustrator,Q-Qker,https://getquicker.net/User/684200/Q-Qker,141.1 KB,2026-02-06 19:56,3,"选一个对象时获取宽值设置键盘增量，按住Alt执行则获取高度为键盘增量
+当选择的两个对象不平齐时，获取左右距离为键盘增量，按住Alt键执行则获取上下距离为键盘增量",2026-09-14
+DeepSeek Harness,https://getquicker.net/Sharedaction?code=8350d922-8215-4386-28f8-08defc2a0dae,DeepSeek Harness 在线轻量桌面客户端。首次运行自动准备环境，后续直接启动；支持自动更新，右键可卸载并清理。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,21.1 KB,2026-08-18 17:27,9,"内置 DeepSeek Harness 升级至 0.1.5-rc.2。
+- 新增任意文件上传，支持进度显示、取消上传和跨会话保留。
+- 新增 Workspace“在应用中打开”，支持编辑器、IDE、终端和文件管理器。
+- Sidebar 支持多标签、分栏、全屏，以及 Markdown、代码、HTML、PDF、图片和交付文件预览。
+- 子代理支持消息排队、编辑、删除、Steer 和停止。
+- 新增 DeepSeek-V41-Flash 模型支持，改进自定义模型探测和 Anthropic 模型列表识别。
+- 改善长会话性能、断线自动恢复、Windows 进程清理和本地子进程体验。
+- 修复流式工具调用、Windows Workspace 路径、搜索进入会话、聊天自动滚动等问题。
+- 客户端工具栏新增官方项目入口，可直接打开：
+  https://github.com/deepseek-ai/deepseek-harness",2026-09-14
+图标替换,https://getquicker.net/Sharedaction?code=e7ffc2e7-3718-46ee-6b50-08de954b8cf6,资源管理器文件夹图标替换面板,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,282.9 KB,2026-04-09 11:54,1,+ 定位图标位置,2026-09-14
+计算本,https://getquicker.net/Sharedaction?code=f2ec41c3-011c-498a-c940-08df0faa73c6,记事本式多行计算器,通用,云淡风轻11,https://getquicker.net/User/427521/%E4%BA%91%E6%B7%A1%E9%A3%8E%E8%BD%BB11,127.4 KB,2026-09-11 16:47,2,"1.重新设计图标
+2.修复BUG若干
+3.主页面优化显示效果",2026-09-14
+笔战密码本,https://getquicker.net/Sharedaction?code=18b30ce3-fd97-4550-eeb6-08de82f80c58,随时随地云同步，改版与密码本在有数据时不能随时随地同步的缺陷,通用,笔战人生,https://getquicker.net/User/1090721/%E7%AC%94%E6%88%98%E4%BA%BA%E7%94%9F,97.3 KB,2026-03-16 15:36,3,添加选择网址的时候自动在浏览器上打开这个网页,2026-09-14
