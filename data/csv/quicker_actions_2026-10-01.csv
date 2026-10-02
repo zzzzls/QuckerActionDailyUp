@@ -1,0 +1,67 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+AI常用语,https://getquicker.net/Sharedaction?code=f1525925-77bf-43b7-8f16-a07279736c5f,把「和AI沟通的经验」存成随时可调用的资产而不是每次从零开始,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,579.3 KB,2026-09-30 12:14,12,多屏时支持/会自动跟随屏幕启动动作位置/自动将窗口跟随对应屏幕,2026-10-02
+图片水印,https://getquicker.net/Sharedaction?code=72059cd7-b551-484e-8769-bd479ea8cee5,自定义png图片水印批量叠加（覆盖）到jpg原图，方便电商主图快速修改区域内容,通用,welcome2025,https://getquicker.net/User/130630/welcome2025,10.7 KB,2026-09-30 14:32,2,1,2026-10-02
+网址文件,https://getquicker.net/Sharedaction?code=2890e455-ff79-42e3-4763-08df1e349520,当前网站生成网址文件,通用,Poto,https://getquicker.net/User/137838/Poto,71.4 KB,2026-09-30 14:10,1,,2026-10-02
+自动操作,https://getquicker.net/Sharedaction?code=9c91b7ab-3cd6-44d9-913a-08ddfd84d7bc,添加常用键鼠操作，一键回放解放双手。,通用,糕等杠鲸,https://getquicker.net/User/994534/%E7%B3%95%E7%AD%89%E6%9D%A0%E9%B2%B8,1.2 MB,2025-09-27 22:08,30,"1、新增：【找图-终止图片】。编辑窗口在图片名称中输入[\]，左边为找图图片，右边为终止图片。只有检测到终止图片才是完成运行。
+2、修复：【编辑窗口-脚本-编辑】。框选运行脚本代码行中的“分组名称|脚本名称”，无法打开对应脚本编辑窗口的问题。",2026-10-02
+快捷菜单,https://getquicker.net/Sharedaction?code=a422b946-e637-4555-6738-08df1dc64d72,仿制超级菜单的部分功能，可拖拽获取,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,153.9 KB,2026-09-29 16:21,10,补充Operation,2026-10-02
+粉笔错题制Anki卡,https://getquicker.net/Sharedaction?code=de20f7eb-516d-4d4f-60bb-08db8d6f0068,通过api一键将粉笔错题添加到Anki,乐昂岚,乐昂岚,https://getquicker.net/User/81137/%E4%B9%90%E6%98%82%E5%B2%9A,121.7 KB,2023-07-26 23:28,64,增加抓取进度提示,2026-10-02
+发送到,https://getquicker.net/Sharedaction?code=acaffd04-51df-49a8-630b-08de4f2d7477,快捷将剪贴板内容发送至钉钉、微信等对应联系人或群组,通用,Neurogram,https://getquicker.net/User/838/Neurogram,124.3 KB,2026-01-09 14:58,19,- 微信搜索改为快捷键触发,2026-10-02
+抖音下载,https://getquicker.net/Sharedaction?code=f2746484-4250-4eb7-fbf2-08ddee84b295,下载抖音视频,Google Chrome,Simonl,https://getquicker.net/User/134191/Simonl,106.2 KB,2025-09-09 05:07,9,API全都失效了，现改用本地下载，刚开始视频还没加载完会出现下载失败的情况，但是有兜底操作，会单独打开视频链接，基本都能下载，有部分视频分卷的，需要用到FFmpeg合并，所以没有这个环境可能会报错（用到很少，测试几十个视频遇不到一个）,2026-10-02
+免费公式识别,https://getquicker.net/Sharedaction?code=2605ff05-b84f-4da6-107c-08db6a78bc4a,公式免费识别,通用,pinbo,https://getquicker.net/User/549488/pinbo,336.4 KB,2023-06-12 00:47,35,优化公式渲染、识别为MathML格式、复制图片相关功能,2026-10-02
+文件夹监控,https://getquicker.net/Sharedaction?code=d16738be-2ebc-40bc-8d40-08dea00bad67,监控多个文件夹，并采用窗口通知,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,72.3 KB,2026-04-22 17:15,11,适配版本：2.2.26。版本变动带来的一个方法修改。,2026-10-02
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,136.1 KB,2026-04-16 18:41,111,重构下筛选语法，在搜索框新增筛选按钮，可以按类型、属性筛选项。比如筛选网址、筛选文本<520的短文本等等。,2026-10-02
+动作网址增强,https://getquicker.net/Sharedaction?code=e2d20465-c0e0-4329-9c51-08deeabe4d90,quicker2.0：丰富动作网页功能，是否安装动作、推荐动作、运行动作,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,26.6 KB,2026-07-26 10:56,6,适配 Quicker 2.2.25：,2026-10-02
+Quicker Link,https://getquicker.net/Sharedaction?code=b02b2732-f087-4e45-416d-08deee3e76ba,quicker2.0：连接 Android 手机与电脑上的 Quicker。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,192.3 KB,2026-07-31 08:58,32,再次适配 Quicker 2.2.25：按最新版通信动作对齐动作查询签名与 Headless 目录读取，修复刷新面板返回无效目录；重启仍由原生 sys:quickeroperations 执行。,2026-10-02
+变量赋值助手,https://getquicker.net/Sharedaction?code=2bfdd137-9fb0-4927-2b01-08dd82d4c510,自动生成Quicker的Set/Get语句，高效开发,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,69.1 KB,2025-04-24 17:49,8,v2,2026-10-02
+PS 文档切换,https://getquicker.net/Sharedaction?code=4993e179-aa24-42b6-581e-08dea0d612ed,在 Photoshop 开启的文档间快速切换。支持参数控制方向，适合绑定到轮盘或快捷键。,Adobe Photoshop,失落叶子云养猫,https://getquicker.net/User/132910/%E5%A4%B1%E8%90%BD%E5%8F%B6%E5%AD%90%E4%BA%91%E5%85%BB%E7%8C%AB,67.4 KB,2026-04-23 18:11,6,"9月30日更新：
+优化图片类型标签，随缩放自适应尺寸和圆角
+新增文档名称/路径搜索和未保存文档筛选
+优化 PSD/PSB 文档缩略图读取
+优化同名文档切换及批量关闭，取消后立即停止",2026-10-02
+文件夹目录树,https://getquicker.net/Sharedaction?code=9b1b9054-26e8-4b24-6810-08ddd6dfeea6,提取文件夹的结构，输出目录树,Windows 资源管理器,gdvjg,https://getquicker.net/User/311786/gdvjg,35 KB,2025-08-09 18:40,1,"1.文件名规则与路径规则彻底分开：文件名只按文件名匹配，路径只按完整路径匹配，不再互相干扰。
+2.表单分区显示「文件」「路径」两组设置，和增加设置选项
+3.支持正则",2026-10-02
+复制或调试变量,https://getquicker.net/Sharedaction?code=bde1b2fc-6f21-4abc-df61-08dcdef79362,编辑器里面选择变量，然后点击按钮就能写入剪贴板\n按Ctrl可调试变量,鲨鱼,sharklaka,https://getquicker.net/User/826879/sharklaka,100.4 KB,2024-09-28 13:07,7,v2,2026-10-02
+超级菜单,https://getquicker.net/Sharedaction?code=a9c8d61e-dbab-4d5a-991f-08da410f3c1c,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,26.7 KB,2022-05-29 21:42,109,"## v0.8.305
+
+- 修复浏览器和 QQ 复制不进历史：这两边放进剪贴板的是稍后才写好的文字，以前读出来是空的
+- 网页复制进历史后按正文显示，不再是空白行
+- 在文字里拖选时指针不再发顿
+- 剪贴板窗口藏起来之后，不再持续叫醒 Quicker 的界面
+- 优化与 ClipHost 共用数据时的采集协调；完成共享数据库切换后由 ClipHost 优先采集，减少重复记录
+- 修复相同文字的不同 HTML、QQ 富文本被误判为重复的问题，保留各自的格式内容
+- 改进已启用共享写入保护时的保存反馈，历史或收藏条目被另一端修改后会提示冲突
+- 修复收藏项启动后自动保存可能失效的问题
+- 对齐历史清理、分类筛选和搜索规则；置顶条目不计入历史上限
+- 修复在 Quicker AI 输入框中调用剪贴板时，图片等内容可能误粘贴到下层窗口的问题
+- 改进前台窗口跟踪，正确识别 Quicker 内的输入窗口，并补上剪贴板启动时的当前窗口记录
+- 粘贴前再次确认目标窗口；目标激活失败或期间切换到其他窗口时，取消本次自动粘贴
+- 修复后台窗口恢复可能干扰前台窗口记录的问题",2026-10-02
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,29 KB,2022-04-18 22:22,229,"## v0.8.305
+
+- 优化与 ClipHost 共用数据时的采集协调；完成共享数据库切换后由 ClipHost 优先采集，减少重复记录
+- 修复相同文字的不同 HTML、QQ 富文本被误判为重复的问题，保留各自的格式内容
+- 改进已启用共享写入保护时的保存反馈，历史或收藏条目被另一端修改后会提示冲突
+- 修复收藏项启动后自动保存可能失效的问题
+- 对齐历史清理、分类筛选和搜索规则；置顶条目不计入历史上限
+- 修复在 Quicker AI 输入框中调用剪贴板时，图片等内容可能误粘贴到下层窗口的问题
+- 改进前台窗口跟踪，正确识别 Quicker 内的输入窗口，并补上剪贴板启动时的当前窗口记录
+- 粘贴前再次确认目标窗口；目标激活失败或期间切换到其他窗口时，取消本次自动粘贴
+- 修复后台窗口恢复可能干扰前台窗口记录的问题",2026-10-02
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,26.9 KB,2021-02-03 14:35,277,"## v0.8.305
+
+- 优化与 ClipHost 共用数据时的采集协调；完成共享数据库切换后由 ClipHost 优先采集，减少重复记录
+- 修复相同文字的不同 HTML、QQ 富文本被误判为重复的问题，保留各自的格式内容
+- 改进已启用共享写入保护时的保存反馈，历史或收藏条目被另一端修改后会提示冲突
+- 修复收藏项启动后自动保存可能失效的问题
+- 对齐历史清理、分类筛选和搜索规则；置顶条目不计入历史上限
+- 修复在 Quicker AI 输入框中调用剪贴板时，图片等内容可能误粘贴到下层窗口的问题
+- 改进前台窗口跟踪，正确识别 Quicker 内的输入窗口，并补上剪贴板启动时的当前窗口记录
+- 粘贴前再次确认目标窗口；目标激活失败或期间切换到其他窗口时，取消本次自动粘贴
+- 修复后台窗口恢复可能干扰前台窗口记录的问题",2026-10-02
+复制提示,https://getquicker.net/Sharedaction?code=887bc64e-82e8-4ecf-f238-08ddaf4c49d6,它会在复制成功时提示你（✅高使用量）,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,111 KB,2025-06-20 11:42,70,增加贴图尺寸设置,2026-10-02
+PS表格助手,https://getquicker.net/Sharedaction?code=c7bdbd73-5613-40bd-a474-5829ef6dd32b,Excel/WPS 剪贴板 TSV → Photoshop 选区内生成可编辑表格；支持样式预设、自适应字号、居中对齐和每格独立背景模式。,Adobe Photoshop,失落叶子云养猫,https://getquicker.net/User/132910/%E5%A4%B1%E8%90%BD%E5%8F%B6%E5%AD%90%E4%BA%91%E5%85%BB%E7%8C%AB,18.3 KB,2026-09-28 18:23,2,"1.1
+- 精简界面，优化对齐和表格排版细节。
+- 新增生成耗时显示，以及一次性撤回，支持恢复被替换的旧表格。
+- 减少重复操作，保持快速生成：同样本测试从 **3.82 秒降至 3.67 秒**，节约约 **0.15 秒（4%）**。",2026-10-02
