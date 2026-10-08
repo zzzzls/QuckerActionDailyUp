@@ -1,0 +1,32 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+目录随行ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=7f0700f8-73d7-49d0-a9c9-08df243a98df,收藏、最近、当前打开、剪贴板目录随存选窗口出现，快速跳转目录,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,699 KB,2026-10-08 08:52,4,小优化,2026-10-08
+论文寻源ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=4116ddd6-79f5-4819-a9ca-08df243a98df,通过 DOI、PMID、PMCID、arXiv 或标题查找论文全文；支持检索历史、批量 DOI、补充寻源、PDF 下载、GB/T 引用和 RIS/BibTeX 导出。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,347.8 KB,2026-10-08 09:44,1,,2026-10-08
+批量Ping网段,https://getquicker.net/Sharedaction?code=b0c4da83-16ef-4f62-8eba-ccebe4ed2c2a,自定义窗口批量Ping网段工具：输入网段前缀与IP范围，并发探测存活主机，实时显示状态/耗时/TTL，支持复制存活IP与导出CSV。,通用,KBC,https://getquicker.net/User/5221/KBC,29.7 KB,2026-10-07 19:57,2,无,2026-10-08
+批量重命名,https://getquicker.net/Sharedaction?code=40f16c30-f2b8-44c0-a11d-87defdb41a92,在资源管理器选中文件后运行。弹出一站式窗口：拖拽排序、直接编辑文件名、 加前缀/后缀/编号，实时预览后一键重命名。,通用,ttChen,https://getquicker.net/User/395924/ttChen,26.1 KB,2026-10-07 17:02,1,,2026-10-08
+Quicker 状态备份,https://getquicker.net/Sharedaction?code=a7453aa7-60b8-4999-a0ec-e5a63e652461,备份 Quicker 状态（states 文件夹）打包加密后上传到Websdv或S3。,通用,z888,https://getquicker.net/User/20184/z888,289.4 KB,2026-10-07 12:07,1,,2026-10-08
+图片压缩,https://getquicker.net/Sharedaction?code=1eee4e8e-0eec-4ed7-ae58-3dcccd757a29,压缩资源管理器中选中的图片：自定义界面中选择普通压缩、高品质压缩或指定目标体积， 可设置输出分辨率并按需按比例缩小，压缩结果导出到选定文件夹（生成新文件，不覆盖原图）。,通用,welcome2025,https://getquicker.net/User/130630/welcome2025,28.3 KB,2026-10-07 11:41,1,,2026-10-08
+管理员运行,https://getquicker.net/Sharedaction?code=ed82814a-98b8-45a6-ae0a-b9641371a694,使用管理员身份运行选择的文件,通用,sharklaka,https://getquicker.net/User/826879/sharklaka,2.2 KB,2026-10-07 10:39,1,,2026-10-08
+Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fbe-08deff1f69a2,Edge收藏夹垂直显示，快捷同步管理。,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,133.6 KB,2026-08-21 09:26,4,"1、重构书签菜单代码；
+2、修复显示菜单时偶发位置不准的bug；
+3、优化ctrl+点击的运行逻辑；",2026-10-08
+轮盘归档ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=8d9ade47-8793-4cd4-48c3-08df17ac3ed0,用多层展开的轮盘选择目录，将文件移动或复制进去。,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,1.5 MB,2026-09-22 11:14,13,优化当前文件夹获取方式,2026-10-08
+盯住这块,https://getquicker.net/Sharedaction?code=b17a373f-c574-4c97-050c-08df1ca0525e,框选任意软件的区域，悬浮实时展示,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,106.1 KB,2026-09-28 15:40,3,右键菜单增加恢复原窗口,2026-10-08
+表格光速检索,https://getquicker.net/Sharedaction?code=e289f21f-ae63-4adb-8389-08de32351942,光速、智能后台检索表格，提取你查询的信息~,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,331.3 KB,2025-12-04 08:58,12,"支持七种格式：.xlsx、.xls、.csv、.xlsm、.xlsb、.ods、.tsv  
+支持从剪贴板批量添加表格",2026-10-08
+截图,https://getquicker.net/Sharedaction?code=9bfc34fb-b7f7-40bd-6d0c-08d6c304e16e,截图后自动将图片贴在屏幕上，可拖动位置，双击图片关闭，滚轮放大缩小。右键菜单支持更多功能。,通用,Marcusx,https://getquicker.net/User/583/Marcusx,34.6 KB,2019-04-17 17:14,9,更新模块为截图Pro,2026-10-08
+多功能面板,https://getquicker.net/Sharedaction?code=58d4cba4-28b7-4c0b-b9b5-08de37f0ba43,可添加网址、程序、动作、命令等到面板,通用,Simonl,https://getquicker.net/User/134191/Simonl,443.9 KB,2025-12-11 12:18,66,"- 修复2.0添加「发送文本」报错问题
+- 「发送文本」文本内容右下角增加“剪贴板文本”按钮",2026-10-08
+AI提示词,https://getquicker.net/Sharedaction?code=f1525925-77bf-43b7-8f16-a07279736c5f,把「和AI沟通的经验」存成随时可调用的资产而不是每次从零开始/AI提示词/AI常用语,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,601 KB,2026-09-30 12:14,19,。,2026-10-08
+AI聊天助手,https://getquicker.net/Sharedaction?code=857139f5-90c6-4ddf-a7f5-08dd8c3aed7e,AI智能助手，辅助聊天，再也不用担心嘴笨了,通用,饺子吖,https://getquicker.net/User/1261670/%E9%A5%BA%E5%AD%90%E5%90%96,379 KB,2025-05-07 05:51,21,~更新内置模型,2026-10-08
+倾斜矫正,https://getquicker.net/Sharedaction?code=a8652ba0-f632-4ec3-8101-69560b382ebc,梯形透视/360°图片旋转/单击点角四点梯形透视/长按左键拖拽旋转/图片处理,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,96.4 KB,2026-10-06 03:03,13,⭐,2026-10-08
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,136.1 KB,2026-04-16 18:41,114,"将筛选按钮移到搜索框最右侧，避免空文本时右侧空荡。
+关于剪贴板同步，有具体需求讨论区反馈，定档方案中。",2026-10-08
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片；批量编辑，连续发送；一张Excel表格管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏、动作面板）,通用,lanyu_er,https://getquicker.net/User/20158/lanyu_er,572.2 KB,2025-03-26 08:46,62,"2026-10-07
++：支持使用快捷键发送指定常用语
+
+（缩写词作为参数，可用quicker的大部分触发方式发送指定常用语，如：
+快捷键、轮盘、手势、按键双击、左键辅助、高级鼠标触发、扩展热键、热键联动、按键双击）",2026-10-08
+任务栏助手,https://getquicker.net/Sharedaction?code=f1843551-fd3e-4ef9-d066-08def20feda8,quicker2.0：暂代TrafficMonitor，在任务栏显示网速与资源占用,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,80.8 KB,2026-08-05 15:25,5,支持修改字号。,2026-10-08
+随手传,https://getquicker.net/Sharedaction?code=2d11f5fa-968f-4811-8982-f9d494118264,兼容 LocalSend（v2.x）的局域网收发工具：电脑不用再装 LocalSend，在手机 LocalSend 里选中本机即可互传，文件不经过云端。接收有确认卡片、可逐设备收藏免确认，支持接收历史与自定义保存目录（默认取系统真实下载文件夹）。发送支持文件、文件夹、文本、剪贴板混合成一批。界面为无边框自定义窗口，可跟随 Quicker 主题，关闭后退到托盘常驻。,通用,韩道友,https://getquicker.net/User/684393/%E9%9F%A9%E9%81%93%E5%8F%8B,176.1 KB,2026-10-03 18:41,3,+支持拖放操作添加文件/文件夹。,2026-10-08
+裁剪,https://getquicker.net/Sharedaction?code=e780c700-6f5e-4316-9027-87b9a0fcdb92,可能是目前动作库最好用的图片裁剪工具,通用,李考凡,https://getquicker.net/User/478204/%E6%9D%8E%E8%80%83%E5%87%A1,87 KB,2026-10-06 01:42,4,优化超高清图片的启动速度,2026-10-08
+文件大小,https://getquicker.net/Sharedaction?code=ff7a364a-01c4-4c88-6823-08dd7b381966,以表格形式显示 文件的大小、个数，可排序查看,Windows 资源管理器,格物致理,https://getquicker.net/User/1054799/%E6%A0%BC%E7%89%A9%E8%87%B4%E7%90%86,46.1 KB,2025-04-15 13:03,12,读取失败时会自动跳过，继续完成其它文件的读取。,2026-10-08
