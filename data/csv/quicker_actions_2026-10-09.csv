@@ -1,0 +1,37 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+锁定微信,https://getquicker.net/Sharedaction?code=7b19414f-7dea-4f62-922d-08df2537b78f,Ctrl+Alt+W(显示/隐藏窗口)；Ctrl+L（锁定）。需要在微信→设置→快捷键→默认快捷键设置（Ctrl+Alt+W(显示/隐藏窗口)；Ctrl+L（锁定））,Weixin,老向啊,https://getquicker.net/User/168910/%E8%80%81%E5%90%91%E5%95%8A,2.2 KB,2026-10-09 14:42,1,,2026-10-10
+组合定价计算器,https://getquicker.net/Sharedaction?code=6a14e541-01f3-495b-a5ee-c306fdad3b90,SKU组合商品定价计算器,通用,孚尹E,https://getquicker.net/User/603176/%E5%AD%9A%E5%B0%B9E,21.4 KB,2026-10-08 13:54,2,优化内容,2026-10-10
+键盘数字签名,https://getquicker.net/Sharedaction?code=054c9d40-1f71-4f14-be81-efc1b2aa9c03,把任意字母和数字映射到键盘物理坐标，用平滑曲线连成专属的数字指纹签名。 支持 QWERTY / QWERTZ / AZERTY / Dvorak 四种布局，可调线宽、张力、渐变， 结果可复制为图片、复制 SVG 源码，或保存为高清 PNG。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,29.2 KB,2026-10-09 08:04,1,,2026-10-10
+魔术角,https://getquicker.net/Sharedaction?code=d4dcc064-90cb-41c1-921d-08df2537b78f,区域或角度内可使用悬浮/单双击/按键等多方式触发对应的动作,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,104.7 KB,2026-10-08 22:14,1,,2026-10-10
+简易PS,https://getquicker.net/Sharedaction?code=73769dcb-afed-4ae3-9789-e1d1eb5cda1e,打开一个简易版 Photoshop 编辑器窗口（纯 C# + WinForms + System.Drawing）：支持从选中文件/剪贴板/拖拽打开图片，缩放平移画布，图层（新建、复制、删除、重命名、显隐、不透明度、混合模式、合并、拼合），矩形/椭圆/套索/魔棒选区与羽化，画笔、橡皮擦、油漆桶、取色器、文字，亮度对比度、色相饱和度、灰度、反相、阈值、自动对比度，模糊、锐化、浮雕、边缘检测、马赛克，旋转翻转、裁剪、投影与描边，10 步以上撤销重做、历史记录面板，导出 PNG/JPG/BMP/GIF/TIFF 或保存 .simp 项目。,通用,welcome2025,https://getquicker.net/User/130630/welcome2025,205.8 KB,2026-10-08 11:19,2,"优化：文字图层双击修改
+增加：复制图片，粘贴到图层、多图层对齐、多选图片运行动作默认为多张图层；",2026-10-10
+尺寸标注房,https://getquicker.net/Sharedaction?code=b7801a0d-5721-4086-a9d0-08df243a98df,ai尺寸标注,通用,jialan75home,https://getquicker.net/User/631091/jialan75home,163.2 KB,2026-10-08 13:40,1,,2026-10-10
+高级记事本,https://getquicker.net/Sharedaction?code=bb83b7dd-a9f0-4720-9560-999de06a54dd,我的笔记 记事本程序,通用,qk97,https://getquicker.net/User/1304734/qk97,71 KB,2026-10-08 12:14,1,,2026-10-10
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,42.4 KB,2026-05-09 07:12,146,"## v0.31.5 (2026-10-09)
+
+- 菜单在隐藏状态直接完成尺寸测量，避免等待动画帧而迟迟无法显示。
+- 剪贴板页面就绪后预加载菜单浮层，减少首次右键时创建 WebView 的等待。
+- 显示超时后恢复窗口内菜单，避免初始化失败后一直没有响应。",2026-10-10
+快速跳转,https://getquicker.net/Sharedaction?code=de6d1f15-7485-48f6-083b-08de30674cc6,文件夹快速跳转,通用,h0zr,https://getquicker.net/User/945817/h0zr,265.8 KB,2025-12-01 07:22,53,~.设置新增跳过owner窗口判定，可以让无owner的窗口跳过判定，可以通过文本工具获取进程名,2026-10-10
+Quick剪贴板,https://getquicker.net/Sharedaction?code=4c2081e6-c5c1-4a0a-41d2-08dee2db153d,Quick剪贴板-功能增强，自带桌宠，可交互,通用,冰雷木子,https://getquicker.net/User/749380/%E5%86%B0%E9%9B%B7%E6%9C%A8%E5%AD%90,60 KB,2026-07-16 11:07,22,修复同步bug，下次更新要等找到新工作了,2026-10-10
+WinRAR解压缩,https://getquicker.net/Sharedaction?code=fec4bc5b-a95b-4255-c16b-08dc3cd0cba5,WinRAR 解压或压缩.,Windows 资源管理器,Anlv,https://getquicker.net/User/392637/Anlv,46.7 KB,2024-03-06 09:44,9,"2026-10-09
+~. 多选文件进行压缩时，支持将父级作为文件夹（可选），避免解压时散开。",2026-10-10
+截图OCR,https://getquicker.net/Sharedaction?code=ba82e11a-f845-4ca3-44ee-08d690b5076c,是截图OCR也是 AI 对话工具，高精度文字识别+“扫描全能王”+一键调用全球最先进的AI大模型。右键菜单支持更多功能设置。Quicker推荐码：583-5760,通用,Marcusx,https://getquicker.net/User/583/Marcusx,464.5 KB,2019-02-12 18:55,128,尝试修复百度OCR报错问题。,2026-10-10
+放大镜,https://getquicker.net/Sharedaction?code=2daaa3ab-5242-46e2-10ad-08de6fb09c44,放大鼠标所在位置，更清晰直观，最好用的放大镜。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,54.4 KB,2026-02-19 21:14,3,"1.去掉初始设置，改为运行动作后右键设置
+2.保留设置后的配置文件，下次直接生效。
+3.可随意拉伸窗口大小并保留配置。
+4.新增多个右键菜单。",2026-10-10
+图片转压,https://getquicker.net/Sharedaction?code=b02b6993-578d-4cc5-c37e-08dbdbb6e0f3,支持图片转格式，图片压缩，缩放大小,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,113.8 KB,2023-11-03 14:21,12,~ 修复@Frigid 反馈的图片宽度约束问题,2026-10-10
+目录随行ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=7f0700f8-73d7-49d0-a9c9-08df243a98df,收藏、最近、当前打开、剪贴板目录随存选窗口出现，快速跳转目录,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,872.8 KB,2026-10-08 08:52,9,"网页默认目录：可为不同网页分别设置默认文件夹。例如，在指定网页保存图片时，自动定位到专属目录。
+来源窗口默认目录：可根据发起文件选择操作的具体窗口设置默认目录，同一软件的不同窗口也能使用不同规则。
+智能优先匹配：按照「网页 → 来源窗口 → 应用」自动匹配，打开与保存场景分别生效。
+使用方法：在目录随行面板中右键目标文件夹，即可设置对应的网页、来源窗口或应用默认目录，还可再设置-默认目录中编辑、管理
+",2026-10-10
+inBox笔记推送,https://getquicker.net/Sharedaction?code=b2e788ca-975c-495a-5171-08db587923f0,inBox笔记（手机端APP）配套动作，发送电脑端文本到手机APP，APP官网：https://app.gudong.site/,通用,用户1626159636...,https://getquicker.net/User/200365/%E7%94%A8%E6%88%B7162615963614399,100 KB,2023-05-20 15:59,5,"界面使用 V2 新的 ReactUI 模块，启动速度明显提升，窗口更稳定
+注意：V1版本的Quicker，只能使用1.3版本",2026-10-10
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步、多设备同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,165.8 KB,2026-04-16 18:41,116,右键配置多设备同步。,2026-10-10
+任务清单-日历版,https://getquicker.net/Sharedaction?code=d50315c7-ef6e-40d6-993a-08dd95a58a82,✅超级好用的日历+✅任务清单+✅可替换系统万年历,通用,✅好用✅实用✅易用,https://getquicker.net/User/412766/%E2%9C%85%E5%A5%BD%E7%94%A8%E2%9C%85%E5%AE%9E%E7%94%A8%E2%9C%85%E6%98%93%E7%94%A8,661.3 KB,2025-05-19 09:05,56,【实用】在日历界面上都能切换月份，在设置里开启,2026-10-10
+快捷短语,https://getquicker.net/Sharedaction?code=7f88a557-a546-472c-8e2c-0f17dfd4db79,【极致便捷的常用语】告别重复打字，一键搜索直达发送。全新界面管理：支持多标签，备注，大段文本、一键增加常用语等，高效操作,通用,astroStar,https://getquicker.net/User/178545/astroStar,233.1 KB,2026-10-08 00:36,3,界面调整,2026-10-10
+去空改格式,https://getquicker.net/Sharedaction?code=c59184af-55a9-419b-441b-08dd969274c4,不选中任何文字的情况下，直接将光标所在段落中的空格去除，选中多段文字，直接去除空行。这两种情况下，不需要任何弹出式对话框，直接去除空格即可，首行缩进除外。清除空格、设置字体为楷体、字号为小四号、文字颜色为纯黑色，以及设置段前段后间距为0。Kimi写的宏代码,Microsoft Word,royxia,https://getquicker.net/User/501580/royxia,69.7 KB,2025-05-19 18:59,23,优化,2026-10-10
+Edge垂直书签,https://getquicker.net/Sharedaction?code=6e0a8717-91f4-47bc-0fbe-08deff1f69a2,Edge收藏夹垂直显示，快捷同步管理。,Microsoft Edge,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,128.6 KB,2026-08-21 09:26,5,增加右键菜单功能，支持复制标题和网址,2026-10-10
+定价计算器,https://getquicker.net/Sharedaction?code=b1ef3b07-01a8-4f97-9e36-d3fe35e28651,确保利润·防止凑单亏损·给出建议售价,通用,孚尹E,https://getquicker.net/User/603176/%E5%AD%9A%E5%B0%B9E,27.8 KB,2026-10-07 13:14,7,功能增强，优化,2026-10-10
