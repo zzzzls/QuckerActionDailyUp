@@ -1,0 +1,59 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+鼠标点击特效,https://getquicker.net/Sharedaction?code=d5f22a76-1b4e-4b22-bd43-08df2980f74b,鼠标点击特效,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,22.4 KB,2026-10-14 22:05,1,,2026-10-15
+图片传递信息,https://getquicker.net/Sharedaction?code=53714b42-2f87-478f-bd42-08df2980f74b,图片往来信息，防窥,通用,ding咕咕嘎嘎,https://getquicker.net/User/1401116/ding%E5%92%95%E5%92%95%E5%98%8E%E5%98%8E,24 KB,2026-10-14 22:02,1,,2026-10-15
+Bandizip一键解压,https://getquicker.net/Sharedaction?code=5acab0e0-e907-406f-bd3e-08df2980f74b,Bandizip一键解压到当前路径，选中一个或多个压缩包，一键调用Bandizip智能解压至此。,Windows 资源管理器,DMDMD,https://getquicker.net/User/272364/DMDMD,5.2 KB,2026-10-14 19:55,1,,2026-10-15
+资源管理器窗口尺寸,https://getquicker.net/Sharedaction?code=afcb739d-7aaf-4e24-bdaf-94f8248f7778,记住资源管理器窗口的大小和位置，需要时一键还原。 运行动作＝弹出列表选一条恢复；右键动作卡片 → 记录当前窗口尺寸 / 清空全部记录。 记录保存在本动作的状态里（最多 30 条，重复的尺寸只更新时间，最新的在最上面）。,Windows 资源管理器,玄策心,https://getquicker.net/User/1098015/%E7%8E%84%E7%AD%96%E5%BF%83,7.4 KB,2026-10-14 19:14,1,,2026-10-15
+捷径小窗口,https://getquicker.net/Sharedaction?code=46b8cb94-6e5b-47b1-bd2f-08df2980f74b,集成cea佬的贴边隐藏和吸附开发出的空白小窗口，供二次开发,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,77.1 KB,2026-10-14 10:54,5,缩减代码,2026-10-15
+定时任务,https://getquicker.net/Sharedaction?code=74213bf3-3aaf-4df2-bd37-08df2980f74b,定时执行动作、运行程序、打开文件、打开网址、弹窗提醒等,通用,流浪止步,https://getquicker.net/User/1054328/%E6%B5%81%E6%B5%AA%E6%AD%A2%E6%AD%A5,357.6 KB,2026-10-14 14:37,1,,2026-10-15
+实时字数ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=ec0ebdf6-c8d0-4f64-bd30-08df2980f74b,在鼠标旁实时展示选中文本字数,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,155.3 KB,2026-10-14 11:26,1,,2026-10-15
+云栈,https://getquicker.net/Sharedaction?code=972a4a80-b90b-4fee-ae6e-b111779c74f9,基于Quicker的多网盘聚合管理工具、WebDav传输、跨账号复制移动、现代化界面、图片/文本/Markdown预览编辑、收藏排序、缓存后打开、回收站与还原。,通用,我的梦想捐钱修路建学校,https://getquicker.net/User/175959/%E6%88%91%E7%9A%84%E6%A2%A6%E6%83%B3%E6%8D%90%E9%92%B1%E4%BF%AE%E8%B7%AF%E5%BB%BA%E5%AD%A6%E6%A0%A1,355.8 KB,2026-10-12 21:34,2,"增加：图片预览：单击空白处关闭；双击图片调用 Quicker“贴图”，使用原图、自动定位。
+增加：Ctrl+V／右键粘贴上传，支持文件夹。
+增加：所有右键菜单支持拖拽排序，并保存顺序。
+优化：创建窗口时提前读取上次主题。
+修复：加载图标问题。",2026-10-15
+屏幕边缘操作,https://getquicker.net/Sharedaction?code=9b870f32-b1f1-49ea-4234-08de8f97c69d,手势拓展，屏幕边缘碰撞或点击触发自定义动作,通用,星染浅夏,https://getquicker.net/User/1295122/%E6%98%9F%E6%9F%93%E6%B5%85%E5%A4%8F,501 KB,2026-04-02 00:05,40,-,2026-10-15
+超级菜单,https://getquicker.net/Sharedaction?code=a9c8d61e-dbab-4d5a-991f-08da410f3c1c,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,28.8 KB,2022-05-29 21:42,117,"## v0.8.313 (2026-10-14)
+
+- 修复从收藏页切回剪贴板时的严重卡顿，历史列表按可见区域加载，来源图标在后台读取。
+- 加强收藏目录移动、删除与保存的一致性保护，避免保存竞争或异常中断造成层级只更新一部分；无法安全判断归属时保留原内容并反馈原因。
+- 修复部分 WPS / HTML 富文本采集后丢失样式和上下文的问题，完整保留原始 HTML，不再因样式内容较长而丢弃数据。
+- 未编辑的 HTML 在查看、切换、失焦及关闭编辑器时保持原样；实际修改后保留文档上下文并更新格式偏移。
+- 修复仅含 HTML 的条目预览显示格式头、长样式段导致正文缺失，以及部分旧格式选区在修改来源后扩大的问题。",2026-10-15
+剪贴板 pre,https://getquicker.net/Sharedaction?code=b046f02b-e1d4-4537-47e2-08da210a63ca,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,31.3 KB,2022-04-18 22:22,237,"## v0.8.313 (2026-10-14)
+
+- 修复从收藏页切回剪贴板时的严重卡顿，历史列表按可见区域加载，来源图标在后台读取。
+- 加强收藏目录移动、删除与保存的一致性保护，避免保存竞争或异常中断造成层级只更新一部分；无法安全判断归属时保留原内容并反馈原因。
+- 修复部分 WPS / HTML 富文本采集后丢失样式和上下文的问题，完整保留原始 HTML，不再因样式内容较长而丢弃数据。
+- 未编辑的 HTML 在查看、切换、失焦及关闭编辑器时保持原样；实际修改后保留文档上下文并更新格式偏移。
+- 修复仅含 HTML 的条目预览显示格式头、长样式段导致正文缺失，以及部分旧格式选区在修改来源后扩大的问题。",2026-10-15
+剪贴板,https://getquicker.net/Sharedaction?code=9ec53d43-5539-4571-6886-08d8c752bfcb,"记录文件, 文本, 图片，支持收藏，极致UI，丝滑体验",通用,Cea,https://getquicker.net/User/113342/Cea,29.1 KB,2021-02-03 14:35,285,"## v0.8.313 (2026-10-14)
+
+- 修复从收藏页切回剪贴板时的严重卡顿，历史列表按可见区域加载，来源图标在后台读取。
+- 加强收藏目录移动、删除与保存的一致性保护，避免保存竞争或异常中断造成层级只更新一部分；无法安全判断归属时保留原内容并反馈原因。
+- 修复部分 WPS / HTML 富文本采集后丢失样式和上下文的问题，完整保留原始 HTML，不再因样式内容较长而丢弃数据。
+- 未编辑的 HTML 在查看、切换、失焦及关闭编辑器时保持原样；实际修改后保留文档上下文并更新格式偏移。
+- 修复仅含 HTML 的条目预览显示格式头、长样式段导致正文缺失，以及部分旧格式选区在修改来源后扩大的问题。",2026-10-15
+计算器,https://getquicker.net/Sharedaction?code=7d34f51c-ca97-4768-1bb0-08de17a53e69,仿照window系统自带计算器,通用,welcome2025,https://getquicker.net/User/130630/welcome2025,31.2 KB,2025-10-31 12:40,4,2,2026-10-15
+Office 自动保存,https://getquicker.net/Sharedaction?code=26e6fb3b-16bb-4028-922b-08df2537b78f,v1.7.0 试用版｜历史版本时间线；相同数据块复用；统一版本库；可直接还原原文件。,通用,嘻嘻嘻qwer,https://getquicker.net/User/710499/%E5%98%BB%E5%98%BB%E5%98%BBqwer,104.5 KB,2026-10-09 12:09,3,v1.7.0 试用版｜历史版本时间线；相同数据块复用；统一版本库；可直接还原原文件。,2026-10-15
+窗口贴边速切,https://getquicker.net/Sharedaction?code=4cb41eae-275d-4ce9-9a4e-80471b03c0c7,把已打开的软件放到当前窗口边缘。单击切换、滚轮轮换、一键返回；支持四边贴靠、自定义顺序与最大化自动收起。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,199 KB,2026-10-10 11:42,10,"窗口贴边速切更新说明｜v1.15.0
+本次修复“固定屏幕”模式拖动后变成跟随窗口的问题，统一两种模式的贴边规则。
+- 固定屏幕模式：拖动时吸附显示器边缘，不再自动切回跟随窗口。
+- 自动调整方向：顶部、底部横向排列，左侧、右侧竖向排列。
+- 保存贴边位置：松开后保存位置、对齐方式和排列方向，下次运行继续生效。
+- 固定位置更稳定：切换、移动或最大化软件窗口时，浮条保持在所选屏幕的位置。
+- 跟随窗口模式保留：仍以当前软件窗口边缘为吸附目标。
+想固定在屏幕右侧居中，可先选择“固定屏幕”，再拖到屏幕右侧中间松开。",2026-10-15
+论文规范,https://getquicker.net/Sharedaction?code=dba6b4c6-b69b-4617-a2fd-08df1f568ede,v1.8.15｜Word 专用：修复全文选区及样式继承上下标读取，新增可选删除空白段落，保留手动换行、分页符、四种模式与恢复功能。,Microsoft Word,嘻嘻嘻qwer,https://getquicker.net/User/710499/%E5%98%BB%E5%98%BB%E5%98%BBqwer,434.3 KB,2026-10-01 21:38,9,v1.8.15：修复全文选区及样式继承上下标读取，新增可选删除空白段落，保留手动换行、分页符、四种模式与恢复功能。,2026-10-15
+组合定价计算器,https://getquicker.net/Sharedaction?code=6a14e541-01f3-495b-a5ee-c306fdad3b90,SKU组合商品定价计算器,通用,孚尹E,https://getquicker.net/User/603176/%E5%AD%9A%E5%B0%B9E,30.1 KB,2026-10-08 13:54,4,优化内容,2026-10-15
+查询IP,https://getquicker.net/Sharedaction?code=4a89b40c-686e-46f9-6515-08dd2d2189e8,查询公网IP和局域网IP,通用,星期伍晚上,https://getquicker.net/User/574548/%E6%98%9F%E6%9C%9F%E4%BC%8D%E6%99%9A%E4%B8%8A,9.4 KB,2025-01-05 15:27,3,优化查询速度,2026-10-15
+快捷菜单,https://getquicker.net/Sharedaction?code=2de231db-8725-4634-a9c8-08df243a98df,拖拽获取动作/文件，选中获取网址/文本,通用,cat poo,https://getquicker.net/User/292169/cat%20poo,268.1 KB,2026-10-07 23:26,11,对使用CommonOperationItem接口的data先进行URL编码后使用，防止路径里有特殊字符（&、空格、#、+ 等）导致解析失败,2026-10-15
+AI动作工坊,https://getquicker.net/Sharedaction?code=3321ae8b-b169-4722-480c-08df26a572f9,AI编写动作,通用,__NULL__,https://getquicker.net/User/1290221/__NULL__,621.6 KB,2026-10-11 13:36,8,修复生成动作 表达式问题,2026-10-15
+抖音下载,https://getquicker.net/Sharedaction?code=f2746484-4250-4eb7-fbf2-08ddee84b295,下载抖音视频,Google Chrome,Simonl,https://getquicker.net/User/134191/Simonl,136.7 KB,2025-09-09 05:07,11,"- 修复详情页下载到带水印的视频
+- 优化“推荐流”视频命中率",2026-10-15
+便签V2,https://getquicker.net/Sharedaction?code=4d91dca4-235b-4941-1750-08ddf8f242b3,便签V2,通用,若雨啦,https://getquicker.net/User/995582/%E8%8B%A5%E9%9B%A8%E5%95%A6,76.4 KB,2025-09-22 01:38,4,更新下载地址,2026-10-15
+放大镜,https://getquicker.net/Sharedaction?code=2daaa3ab-5242-46e2-10ad-08de6fb09c44,放大鼠标所在位置，更清晰直观，最好用的放大镜。,通用,老当益壮,https://getquicker.net/User/1291368/%E8%80%81%E5%BD%93%E7%9B%8A%E5%A3%AE,57.6 KB,2026-02-19 21:14,4,"【新增】鼠标移进显示窗后，窗口改为显示「它自己盖住的那块位置」的放大画面 ,相当于把一块放大镜片直接盖在屏幕上，能看清被窗口挡住的地方。
+【新增】在显示窗里按住鼠标拖动时，窗口实时显示经过位置的放大内容。
+【不变】鼠标在显示窗以外时，仍是原来的「放大鼠标周围」。
+【提示】鼠标停在显示窗内时，这个窗口会从截图 / 录屏中消失（这是「看穿窗口」的实现方式），鼠标一移开就自动恢复.",2026-10-15
+Obsidian一键摘录,https://getquicker.net/Sharedaction?code=38b58c1c-e1e5-4748-b799-08de9ec7ed09,无感将文字/图片转存到 Obsidian --新增AI分析,Obsidian,努力的金子,https://getquicker.net/User/718736/%E5%8A%AA%E5%8A%9B%E7%9A%84%E9%87%91%E5%AD%90,30.4 KB,2026-04-21 19:35,7,【新增】AI 智能总结与标签 · 截图摘录：自动识别图片内容，生成 1-3 句摘要和 2-5 个标签。 · 文字摘录：同样自动生成摘要和标签。 · 摘要写在摘录正文下方，标签以行内 #标签 形式追加在末尾，自动补 # 并去重。 【新增】AI 开关 · 设置表单新增「启用 AI 分析（自动总结并加标签）」，默认开启，随图片保存文件夹 / ApiKey 一起记住。 · 关闭后行为与旧版完全一致：只写入原文或图片，不调用 AI。 【变更】结构优化 · AI 结果解析抽成内嵌子程序「AI摘要标签格式化」，图片与文字两条路径共用。 · 解析容错：模型未按「摘要：」格式回答时，自动把整段回答当作摘要使用。 【修复/改进】不再静默失败 · AI 调用失败时会提示具体错误（如未配置模型），且不影响摘录正常写入 Obsidian。 · 动作日志新增「图片AI / 文字AI」记录，含成功状态、错误信息和原始返回。 · 修复文字总结把 {output} 当占位符发送的问题（提示词未启用变量插值）。 【使用前提】 · AI 功能使用 Quicker 的全局 AI 配置：文字总结用「日常文本处理」场景， 图片理解需为「图片理解」场景指定一个支持图片输入的模型。,2026-10-15
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步、多设备同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,161.5 KB,2026-04-16 18:41,121,免费ocr,2026-10-15
