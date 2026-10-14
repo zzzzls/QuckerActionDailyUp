@@ -45,3 +45,12 @@ stan文档大师,https://getquicker.net/Sharedaction?code=1e54d225-7980-45f9-13d
 常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片；批量编辑，连续发送；一张Excel表格管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏、动作面板）,通用,lanyu_er,https://getquicker.net/User/20158/lanyu_er,688.8 KB,2025-03-26 08:46,64,"2026-10-13
 解决老用户“63版本打开界面空白” 的问题；
 感谢@sw54321 的反馈",2026-10-14
+重命名,https://getquicker.net/Sharedaction?code=19b8e030-af08-4a28-bd2e-08df2980f74b,批量文件重命名工具，支持多规则组合、实时预览、撤销回滚、常用工作流与云端同步。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,443.7 KB,2026-10-14 10:15,1,,2026-10-14
+wsl run,https://getquicker.net/Sharedaction?code=72e90cf1-bd47-4b89-bd2d-08df2980f74b,把选中的命令发给 WSL 执行,通用,用户_i7cRHo3BQA,https://getquicker.net/User/1130432/%E7%94%A8%E6%88%B7_i7cRHo3BQA,5.9 KB,2026-10-14 10:15,1,,2026-10-14
+窗口设置 V2,https://getquicker.net/Sharedaction?code=2dc2eb72-06a3-48c2-42a3-08df164c6876,将当前窗口调整为特定的位置和大小,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,79.7 KB,2026-09-19 20:49,3,增加提示,2026-10-14
+查找动作V2,https://getquicker.net/Sharedaction?code=e85e5862-206d-4cfd-063f-08df10a7eb8a,查找已经存在的动作，并快速启动,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,26.1 KB,2026-09-13 10:53,5,修复bug,2026-10-14
+临时编辑框 ,https://getquicker.net/Sharedaction?code=bdfb7dec-fdc7-4e9c-48c5-08df17ac3ed0,临时文本编辑框，选中文本可以直接进去文本框编辑，也可以保存历史记录,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,38 KB,2026-09-22 12:15,4,修复bug,2026-10-14
+盯住这块,https://getquicker.net/Sharedaction?code=b17a373f-c574-4c97-050c-08df1ca0525e,框选任意软件的区域，悬浮实时展示,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,113.2 KB,2026-09-28 15:40,4,"支持滚轮直接缩放窗口：
+滚轮每格增减 5 个百分点，最低 缩小到10%，最大无上限。
+鼠标中键恢复原始比例和 100% 尺寸。",2026-10-14
+格式刷+,https://getquicker.net/Sharedaction?code=50dbfc92-2bdd-4db2-8543-08dd87995c6c,格式刷加强版，单击进行一次格式化，（悬浮动作的情况下）双击可以连续格式化，就像自己点格式刷按钮那样,WPS Office,h0zr,https://getquicker.net/User/945817/h0zr,24.8 KB,2025-05-01 03:05,11,~.修复对wps的ppt和表格的兼容性,2026-10-14
