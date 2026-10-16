@@ -1,0 +1,61 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+微信联系人搜索,https://getquicker.net/Sharedaction?code=af9fd883-2b32-452a-21cf-08df2b65e9a5,输入联系人备注或群名，或点击最近搜索记录，自动唤起微信并尝试打开默认搜索首项。右键设置记录数量（默认30，0不保存）、清空记录、调整搜索等待时间、指定微信路径。名称有重复时请在微信确认。需要Windows桌面版微信已登录。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,32.3 KB,2026-10-16 19:31,1,,2026-10-17
+AddNote,https://getquicker.net/Sharedaction?code=6131acee-e071-4adb-21cc-08df2b65e9a5,追加复制或选定的文字内容到本地文本文件。,通用,太微笔记  twbiji.cn,https://getquicker.net/User/18485/%E5%A4%AA%E5%BE%AE%E7%AC%94%E8%AE%B0%20%20twbiji.cn,31.4 KB,2026-10-16 17:50,5,小修改，排除小问题,2026-10-17
+解散文件夹（W11/360）,https://getquicker.net/Sharedaction?code=4b2222cd-edc3-4c37-21cd-08df2b65e9a5,选中一个或多个文件夹后运行动作：文件夹内的所有内容被移动到上一级目录，清空的文件夹被删除。适配 Win11 资源管理器与360文件夹（360FileBrowser64），也支持其它第三方文件管理器。改编自沨沄极客《解散文件夹（3rd）》。,通用,童大白,https://getquicker.net/User/24624/%E7%AB%A5%E5%A4%A7%E7%99%BD,36.7 KB,2026-10-16 18:30,1,,2026-10-17
+AI 聚聊,https://getquicker.net/Sharedaction?code=db2043e6-0009-4167-b310-ccf886fa31d3,一个窗口，畅聊多个 AI。,通用,知产二大爷,https://getquicker.net/User/565334/%E7%9F%A5%E4%BA%A7%E4%BA%8C%E5%A4%A7%E7%88%B7,148.8 KB,2026-10-16 15:41,7,增加运行失败时引用dll库,2026-10-17
+复制选中文件名,https://getquicker.net/Sharedaction?code=2ec69eb7-4c2e-4d9c-d4e6-08df2a725ba0,一键复制选中的文件或文件夹名称，支持多选；首次设置是否保留后缀，自动记住偏好，右键「设置」随时修改。,Windows 资源管理器,今天干啥,https://getquicker.net/User/1292021/%E4%BB%8A%E5%A4%A9%E5%B9%B2%E5%95%A5,7.4 KB,2026-10-16 16:42,1,,2026-10-17
+常用短语V1,https://getquicker.net/Sharedaction?code=bf782c25-8490-44d0-d4dc-08df2a725ba0,经常输入相同的回复、账号、网址或固定文本？把它们保存为短语，需要时打开面板，点击即可立即输入。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,92.6 KB,2026-10-16 13:33,2,更改图标,2026-10-17
+查找动作V3,https://getquicker.net/Sharedaction?code=cfff2e0a-d764-43d4-d4da-08df2a725ba0,统一搜索与历史选择；完整名称回车运行；右键可设置仅显示历史记录。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,53.2 KB,2026-10-16 10:50,1,,2026-10-17
+快速访问,https://getquicker.net/Sharedaction?code=b9adfd12-fe48-4e15-76dd-08dc5df52912,复制文本，用于自动访问网址、打开文件路径或者访问前往相关网站。,通用,薛宋官,https://getquicker.net/User/1034982/%E8%96%9B%E5%AE%8B%E5%AE%98,72.9 KB,2024-04-16 18:45,19,删除不必要的提示信息,2026-10-17
+QuickerAgent,https://getquicker.net/Sharedaction?code=6d4cf055-3b5b-40f3-b1eb-08df2620da11,"一个通用Agent,赋予AI操作任意软件的能力,可扩展",通用,__NULL__,https://getquicker.net/User/1290221/__NULL__,295.3 KB,2026-10-10 12:22,3,修复pwsh_tool,2026-10-17
+计算器,https://getquicker.net/Sharedaction?code=1ae2f763-3fa6-447f-91d7-08dc79843f34,【最强大便捷的智能计算器】功能强大，易用，高效，集多种计算器为一体」,通用,astroStar,https://getquicker.net/User/178545/astroStar,364.4 KB,2024-05-22 14:21,358,-修复异常，优化加载,2026-10-17
+重命名,https://getquicker.net/Sharedaction?code=19b8e030-af08-4a28-bd2e-08df2980f74b,批量文件重命名工具，支持多规则组合、实时预览、撤销回滚、常用工作流与云端同步。,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,862.3 KB,2026-10-14 10:15,2,~ 关闭面板情况文件夹,2026-10-17
+应用抽屉,https://getquicker.net/Sharedaction?code=7c39547b-f995-4df5-b084-2e196ecf289b,把常用程序、文件夹、网址、Quicker 动作与常用文本整理成可点击磁贴,通用,killy2956,https://getquicker.net/User/108017/killy2956,650.9 KB,2026-10-10 15:44,7,- 修复Quicker V1.x 版本下的MD文件预览报错,2026-10-17
+AI动作工坊,https://getquicker.net/Sharedaction?code=3321ae8b-b169-4722-480c-08df26a572f9,AI编写动作,通用,__NULL__,https://getquicker.net/User/1290221/__NULL__,650.6 KB,2026-10-11 13:36,9,"1.增加了历史对话切换功能
+优化了模型请求失败时的错误显示",2026-10-17
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,48.2 KB,2026-05-09 07:12,154,"## v0.31.14 (2026-10-16)
+
+修正公共子程序重复内置，恢复正常动作体积；宿主版本不变。
+
+- 修复按住 Alt 时便捷粘贴浮窗不出现或提前关闭、超级菜单窗口分类卡住，以及显示器恢复时隐藏窗口误显示的问题；长期息屏现场复验仍在继续。
+- 编辑器吸附主窗右侧并跟随所选条目，重新整理“内容／属性”页，切页保留草稿和图片缩放。
+- 搜索移入标题栏，暂停与设置移到底栏；点击框外退出搜索聚焦，切换剪贴板和收藏保留各自查询。
+- 增加“网址”分类，统一常见裸域名和 Markdown 链接识别；文字提示中的网址可点击，长文字滚动显示位置条。
+- 改进收藏拖放的层级提示及刷新速度，删除时清理关联引用，已有失效行可悬停移除。
+- 改进 Chrome 等另存为窗口的目录跳转和原文件名保留，避免超时后的重复导航。
+- 减少复制提示出现、堆叠和消失时的闪烁与尺寸跳变，改善跨 DPI 的定位。
+- Rust 安装入口改用官方入口 DLL，再按 Windows 原生架构安装 x64／ARM64 宿主；继续使用 0.31.14.1 启动器，保留原参数、菜单及 C# 路径。",2026-10-17
+剪贴板,https://getquicker.net/Sharedaction?code=06563728-27be-49ae-27c7-08de9afcb260,剪贴板和常用语，记录文本、图片、文件、quicker步骤、quicker动作，并执行预设进程规则，支持收藏、云同步、多设备同步,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,161.5 KB,2026-04-16 18:41,122,普通打开主面板，窗口出现在鼠标附近,2026-10-17
+桌面助手,https://getquicker.net/Sharedaction?code=ba273a81-86df-4064-4823-08df00e8b1be,桌面子窗口，亦可做快捷面板，集中管理并快速打开动作、文件、文件夹、网址和文本；支持分组、粘贴、搜索、拖动缩放与布局保存。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,18.1 KB,2026-08-23 23:40,16,"新增独立的“布局与外观”按钮：点击标题栏齿轮即可调整分组排列、项目视图、显示密度和背景透明度。移除原来的两个切换按钮，标题栏更简洁，设置即时生效并自动保存。
+
+支持分组独立设置视图：右键分组名称，可单独选择中图标、大图标或列表，也可跟随窗口设置。工具组用图标、文件组用列表，可以同时展示。
+
+新增三档显示密度：支持紧凑、标准和宽松，方便根据项目数量和使用习惯调整。
+
+新增布局锁定：窗口位置与大小、项目顺序可以分别锁定，减少误拖；锁定顺序后仍可向其他程序拖出文本、文件等内容。
+
+支持临时搜索：按 Ctrl+F 展开搜索，按 Esc 清空搜索内容，再按一次收起搜索框。
+
+完善映射文件夹的拖拽排序与保存：调整后的顺序在刷新和重新打开后保持；新项目追加到末尾，已不存在的项目同步移除。文件夹暂时离线或读取失败时，保留已有内容和顺序。
+
+优化右键菜单文字：普通项目显示“移除快捷项”，映射项目显示“删除文件”，更清楚地区分移除入口和删除实际文件。",2026-10-17
+动作快捷方式,https://getquicker.net/Sharedaction?code=5c888b16-6445-45e5-e68a-08ddeca83610,一键创建动作快捷方式到桌面，支持原版图标、传参,Quicker,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,82.5 KB,2025-09-06 02:45,2,支持设置动作参数,2026-10-17
+计算器,https://getquicker.net/Sharedaction?code=7d34f51c-ca97-4768-1bb0-08de17a53e69,仿照window系统自带的计算器,通用,welcome2025,https://getquicker.net/User/130630/welcome2025,43 KB,2025-10-31 12:40,6,增加：Ctrl+V粘贴算式计算,2026-10-17
+常用语Pro,https://getquicker.net/Sharedaction?code=ab66a810-4866-4ac4-8abd-08dd6b2bd175,分组、搜索、云备份；文本、文件、图片；批量编辑，连续发送；一张Excel表格管理全部快捷短语（客服回复话术、AI提示词、文本模板、quicker步骤收藏、动作面板）,通用,lanyu_er,https://getquicker.net/User/20158/lanyu_er,695.2 KB,2025-03-26 08:46,67,"2026-10-16 
+修复新功能产生的连带错误",2026-10-17
+窗口贴边速切,https://getquicker.net/Sharedaction?code=4cb41eae-275d-4ce9-9a4e-80471b03c0c7,把已打开的软件放到当前窗口边缘。单击切换、滚轮轮换、一键返回；支持四边贴靠、自定义顺序与最大化自动收起。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,224.7 KB,2026-10-10 11:42,12,"窗口贴边速切 v1.19.3 更新说明
+本次更新主要完善了多屏切换、设置窗口避让和多窗口面板显示。
+多屏切换
+- 新增“切换时将窗口移到鼠标所在屏幕”选项，方便在当前屏幕继续操作，默认关闭。
+- 改善 Quicker 动作窗口的识别，支持更多动作窗口显示浮条及参与窗口切换。
+设置窗口避让
+- 新增设置窗口隐藏规则，打开可识别的设置、选项、首选项等独立窗口时，自动隐藏浮条。
+- 支持按软件添加例外，保留需要显示浮条的应用。
+自动隐藏
+- 优化非最大化窗口下的唤出标记，使其贴合窗口边缘，减少悬空感。
+- 调整标记的尺寸、圆角和透明度，显示更轻巧。
+多窗口面板
+- 收紧面板宽度和列表间距，减少屏幕占用。
+- 普通窗口改为单行显示，完整标题可通过鼠标悬停查看；文件夹窗口保留路径。
+- 优化序号、当前窗口、最小化状态及圆角高亮。
+- 精简底部提示，保留窗口关闭入口。",2026-10-17
