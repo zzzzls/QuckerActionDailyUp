@@ -76,3 +76,13 @@ UsageHub,https://getquicker.net/Sharedaction?code=4c4c8f4f-3d03-467f-90fe-7d9ddb
 快捷对齐,https://getquicker.net/Sharedaction?code=96fa098a-b8f3-4840-86f4-08dee3cb8e3b,快捷对齐横向竖向互转,Adobe Illustrator,Shenqb,https://getquicker.net/User/526985/Shenqb,26.6 KB,2026-07-17 15:54,5,更新有的蒙版对象会出问题,2026-10-16
 链接下载视频,https://getquicker.net/Sharedaction?code=5102d4dd-2de8-45f2-f589-08df189dd4ad,粘贴视频分享链接，支持批量解析下载、支持小红书、哔哩哔哩、抖音、快手,通用,今天干啥,https://getquicker.net/User/1292021/%E4%BB%8A%E5%A4%A9%E5%B9%B2%E5%95%A5,144 KB,2026-09-23 17:20,3,"1. 新增抖音图集下载，图片按顺序编号并保存到独立文件夹。
 2. 新增抖音网页解析和小红书网页备用解析，改善部分链接解析失败的问题。",2026-10-16
+批量重命名,https://getquicker.net/Sharedaction?code=c6ba8357-a91c-47a1-a502-901890380af1,一批文件，统一改名。查找替换、清理、插入、编号和手动编辑，先看新名称与冲突，再执行；支持最近一次改名撤销。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,251.4 KB,2026-09-02 08:22,4,"批量重命名 2.1.4 更新说明
+本次主要改善旧版 Quicker 兼容性和跨电脑使用体验。
+- 修复旧版运行环境下，搜索框属性不兼容导致动作编译失败、窗口无法打开的问题。
+- 增加图标字体回退，改善未安装新版系统字体时的显示效果。
+- 最低 Quicker 版本要求调整为 1.45.5。
+- 执行代码和窗口 Logo 均内嵌于动作包，面板继续使用原 Logo 的 Quicker 云端引用，无需复制作者本地文件或安装开发工具。
+- 完善错误日志，增加系统、运行环境和版本信息，方便排查问题。
+**兼容说明：**已通过旧框架 32/64 位窗口与重命名测试，以及当前 Quicker 回归验证；完整 Quicker 1.x 宿主仍待实机验证。
+**可选依赖：**未安装 Directory Opus 或相关选区桥接脚本时，将跳过其选区读取，不影响拖入、选择文件、粘贴和 Quicker 文件传参。
+执行前请核对名称预览与操作范围，并备份重要文件。",2026-10-16
