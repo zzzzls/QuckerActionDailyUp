@@ -1,0 +1,23 @@
+动作名,动作URL,动作简介,适用于,作者,作者URL,动作大小,创建时间,修订版本,更新内容,inputtime
+动作库搜索窗口,https://getquicker.net/Sharedaction?code=0619bfad-3b61-4eed-eb5d-08df2c57ecc1,动作库搜索动作窗口,通用,咩咩咩呀,https://getquicker.net/User/1427241/%E5%92%A9%E5%92%A9%E5%92%A9%E5%91%80,2.2 KB,2026-10-17 23:32,1,,2026-10-18
+快捷文本,https://getquicker.net/Sharedaction?code=28d2de32-9dc9-4b2c-a311-e83dc0c0e8d5,一个极简的快捷文本输入动作，极低占用。,通用,wenbocn,https://getquicker.net/User/732234/wenbocn,7.6 KB,2026-10-17 22:17,3,"增加第一次启动动作时的默认显示文本：
+
+这是一个测试
+回车符会显示为【\n】",2026-10-18
+获取所有变量的值,https://getquicker.net/Sharedaction?code=3182a67b-85e6-4f76-eb5c-08df2c57ecc1,获取动作中所有变量的值,通用,咩咩咩呀,https://getquicker.net/User/1427241/%E5%92%A9%E5%92%A9%E5%92%A9%E5%91%80,4.1 KB,2026-10-17 23:07,1,,2026-10-18
+常用短语V3,https://getquicker.net/Sharedaction?code=bf782c25-8490-44d0-d4dc-08df2a725ba0,常用短语分组、搜索、点击输入与拖动排序；支持可选置顶删除确认、取消删除、备份和表格导入导出。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,190.3 KB,2026-10-16 13:33,4,"1，增加了右键快速启动设置
+2，优化了窗口简化
+3，增加是否在输入以后增加回车",2026-10-18
+实时字数ˢᵗᵃᶰ,https://getquicker.net/Sharedaction?code=ec0ebdf6-c8d0-4f64-bd30-08df2980f74b,在鼠标旁实时展示选中文本字数,通用,艾米屎蛋,https://getquicker.net/User/430864/%E8%89%BE%E7%B1%B3%E5%B1%8E%E8%9B%8B,157.9 KB,2026-10-14 11:26,2,"单次模式支持从剪贴板读取文本统计字数；
+右键菜单支持直接触发单次或实时",2026-10-18
+守藏使,https://getquicker.net/Sharedaction?code=c380afc9-153d-4de3-2de8-08d9a28424de,复制信息到到笔记软件，默认思源,SiYuan,米露缇欧,https://getquicker.net/User/279122/%E7%B1%B3%E9%9C%B2%E7%BC%87%E6%AC%A7,232.1 KB,2021-11-08 19:57,33,修复bug,2026-10-18
+应用抽屉,https://getquicker.net/Sharedaction?code=7c39547b-f995-4df5-b084-2e196ecf289b,把常用程序、文件夹、网址、Quicker 动作与常用文本整理成可点击磁贴,通用,killy2956,https://getquicker.net/User/108017/killy2956,686.9 KB,2026-10-10 15:44,8,"- 新增：磁贴界面支持滚轮缩放
+- 新增：自定义主题增加小白条颜色调节
+- 优化：小白条优化白天黑夜主题下使用的颜色",2026-10-18
+超级菜单 n10,https://getquicker.net/Sharedaction?code=2e6361fc-2d6c-442e-e199-08def9e1fa34,集合各种功能的菜单,通用,Cea,https://getquicker.net/User/113342/Cea,47.8 KB,2026-08-15 00:39,1,"修复超级菜单 n10 与 Rust 版入口不同步的问题，统一使用 Rust / GPUI ClipHost 0.31.15。
+保留原有收藏菜单入口与右键设置，更新安装和启动依赖。",2026-10-18
+灵搜,https://getquicker.net/Sharedaction?code=202359d5-6a4f-4a1f-81a9-f3d79097d290,大一统的搜索窗口，文件、网址、剪贴、文本、书签、历史、计算、换算,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,9.7 KB,2026-09-23 12:35,4,"重构下设置界面，并着重提升了加载速度和搜索准确性；
+明确显示各搜索项数量；",2026-10-18
+QuickerAgent,https://getquicker.net/Sharedaction?code=6d4cf055-3b5b-40f3-b1eb-08df2620da11,"一个通用Agent,赋予AI操作任意软件的能力,可扩展",通用,__NULL__,https://getquicker.net/User/1290221/__NULL__,408.6 KB,2026-10-10 12:22,4,"basic-control自动内置,无需手动安装",2026-10-18
+便利窗,https://getquicker.net/Sharedaction?code=f8ead30c-b758-4614-a7ff-08dd5143284a,集中管理网址、文本、文件夹、动作和命令，支持快速搜索、拖拽整理、语音输入。,通用,困困君,https://getquicker.net/User/743590/%E5%9B%B0%E5%9B%B0%E5%90%9B,307.6 KB,2025-02-21 03:22,328,路径正规化，不带个人色彩,2026-10-18
+动作面板V2,https://getquicker.net/Sharedaction?code=b59cb7b7-d512-4416-f23f-08ddd4e0681e,仿Quicker设计，上部分为“全局组”，下半部分为为根据进程自动切换的组（同时支持和quicker一样的通用组）。支持拖拽quicker面板动作添加。贴边隐藏!,通用,z888,https://getquicker.net/User/20184/z888,136.8 KB,2025-08-07 09:28,42,去除硬编码,2026-10-18
