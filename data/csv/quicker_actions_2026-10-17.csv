@@ -59,3 +59,24 @@ AI动作工坊,https://getquicker.net/Sharedaction?code=3321ae8b-b169-4722-480c-
 - 普通窗口改为单行显示，完整标题可通过鼠标悬停查看；文件夹窗口保留路径。
 - 优化序号、当前窗口、最小化状态及圆角高亮。
 - 精简底部提示，保留窗口关闭入口。",2026-10-17
+获取路径,https://getquicker.net/Sharedaction?code=7f9c7590-7f77-4bbe-21d6-08df2b65e9a5,获取打开的资源管理器的所有路径,通用,咩咩咩呀,https://getquicker.net/User/1427241/%E5%92%A9%E5%92%A9%E5%92%A9%E5%91%80,3.8 KB,2026-10-17 04:27,1,,2026-10-17
+剪贴板助手,https://getquicker.net/Sharedaction?code=3c044992-bbfc-4250-21d4-08df2b65e9a5,图片记录显示尺寸与真实缩略图，图片分类可切换小、中、大缩略图及详情列表；文字分类可展开内容，最多显示前5行。支持分类、搜索、收藏、多种表格/文本导入、合并与连续粘贴、备份及数据位置设置。文件记录保存原路径。,通用,lanse5912,https://getquicker.net/User/704243/lanse5912,196.3 KB,2026-10-17 01:14,2,修改标题显示问题,2026-10-17
+悬浮球,https://getquicker.net/Sharedaction?code=529c286f-4c26-4303-5cea-08de7934c17b,常驻高频操作，极简控制面板，支持拖拽加入动作、文件（夹）、软件等到面板,通用,ZTOA10,https://getquicker.net/User/234516/ZTOA10,388.4 KB,2026-03-04 00:21,16,~ 单例运行,2026-10-17
+守藏使,https://getquicker.net/Sharedaction?code=c380afc9-153d-4de3-2de8-08d9a28424de,复制信息到到笔记软件，默认思源,SiYuan,米露缇欧,https://getquicker.net/User/279122/%E7%B1%B3%E9%9C%B2%E7%BC%87%E6%AC%A7,244.1 KB,2021-11-08 19:57,31,逻辑重写,2026-10-17
+批量重命名,https://getquicker.net/Sharedaction?code=c6ba8357-a91c-47a1-a502-901890380af1,一批文件，统一改名。查找替换、清理、插入、编号和手动编辑，先看新名称与冲突，再执行；支持最近一次改名撤销。,通用,知乐zhile,https://getquicker.net/User/170384/%E7%9F%A5%E4%B9%90zhile,252.2 KB,2026-09-02 08:22,5,"批量重命名 2.1.5 更新说明
+本次重点修复其他电脑运行时的 DOpus 选区读取问题。
+- 修复未安装桥接脚本时，弹出“Windows 找不到文件 SmartActionDockExport”的问题。
+- 改用 Directory Opus 自带的选区查询接口，无需额外安装 SmartActionDock 桥接脚本。
+- DOpus 未运行、辅助程序不可用或查询失败时，自动跳过；仍可通过拖入、文件选择、粘贴或 Quicker 传参添加文件。
+- 加强选区结果校验，过滤无效路径并去重，防止误用整目录查询结果。
+- 保留 2.1.4 的旧版兼容修复和原 Logo，动作运行不依赖作者本地文件。",2026-10-17
+剪贴板 n10,https://getquicker.net/Sharedaction?code=df6cc8fc-1a67-4576-fcb0-08deace01986,测试版,通用,Cea,https://getquicker.net/User/113342/Cea,48.2 KB,2026-05-09 07:12,155,"## v0.31.15 (2026-10-16)
+
+- 文件对话框目录跳转改用外部控件导航，移除向第三方进程加载辅助 DLL 的方式，保留原文件名及实际目录确认。
+- 加强本地 API 的浏览器访问来源校验，阻止外部网页读取剪贴板接口或发送操作请求。
+- 补齐程序的 Windows 产品名称和文件版本信息，并增加正式发布包的身份检查及 Defender 扫描。
+- 动作升级到 Rust / GPUI 0.31.15，提供 x64、ARM64 宿主，继续使用 0.31.14.1 启动器及原有数据目录。
+
+四个原始分发包已通过 Defender 扫描；尚未取得卡巴斯基复测，不能保证所有安全软件的告警已消除。
+
+独立下载：[ClipHost 0.31.15](https://github.com/ceastld/eaclip/releases/tag/rust-v0.31.15)。",2026-10-17
